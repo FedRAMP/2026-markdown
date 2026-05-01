@@ -120,6 +120,8 @@ jobs:
           rsync -a --delete \
             --exclude ".git/" \
             --exclude ".github/" \
+            --exclude "README.md" \
+            --exclude "AGENTS.md" \
             --exclude "_sources.json" \
             "site/$GENERATED_MARKDOWN_DIR/" \
             "output/$OUTPUT_DIR/"
