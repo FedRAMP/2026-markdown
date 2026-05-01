@@ -1,0 +1,153 @@
+name: Rebuild markdown
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Rebuild even if source SHAs did not change"
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+
+concurrency:
+  group: rebuild-markdown
+  cancel-in-progress: true
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+  SITE_REPO: https://github.com/fedramp/2026.git
+  RULES_REPO: https://github.com/fedramp/rules.git
+  RULES_BRANCH: pwx
+
+  BUILD_COMMAND: bun run build
+  GENERATED_MARKDOWN_DIR: src
+
+  OUTPUT_DIR: .
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout markdown output repo
+        uses: actions/checkout@v6
+        with:
+          path: output
+
+      - name: Check latest source SHAs
+        id: sources
+        shell: bash
+        run: |
+          site_sha="$(git ls-remote "$SITE_REPO" refs/heads/main | awk '{print $1}')"
+          rules_sha="$(git ls-remote "$RULES_REPO" "refs/heads/$RULES_BRANCH" | awk '{print $1}')"
+
+          echo "site_sha=$site_sha" >> "$GITHUB_OUTPUT"
+          echo "rules_sha=$rules_sha" >> "$GITHUB_OUTPUT"
+
+          old_site_sha=""
+          old_rules_sha=""
+
+          if [ -f output/_sources.json ]; then
+            old_site_sha="$(jq -r '.site.sha // ""' output/_sources.json)"
+            old_rules_sha="$(jq -r '.rules.sha // ""' output/_sources.json)"
+          fi
+
+          if [ "${{ inputs.force || false }}" != "true" ] &&
+             [ "$site_sha" = "$old_site_sha" ] &&
+             [ "$rules_sha" = "$old_rules_sha" ]; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Stop if nothing changed
+        if: steps.sources.outputs.changed == 'false'
+        run: echo "No source changes detected."
+
+      - name: Checkout 2026 source
+        if: steps.sources.outputs.changed == 'true'
+        shell: bash
+        run: |
+          git clone --recurse-submodules "$SITE_REPO" site
+          cd site
+          git checkout "${{ steps.sources.outputs.site_sha }}"
+          git submodule update --init --recursive
+
+      - name: Set up Python
+        if: steps.sources.outputs.changed == 'true'
+        uses: actions/setup-python@v6
+        with:
+          python-version: 3.x
+
+      - name: Set up Bun
+        if: steps.sources.outputs.changed == 'true'
+        uses: oven-sh/setup-bun@v2
+
+      - name: Install Python dependencies
+        if: steps.sources.outputs.changed == 'true'
+        run: pip install zensical mkdocs-ultralytics-plugin
+
+      - name: Install tool dependencies
+        if: steps.sources.outputs.changed == 'true'
+        working-directory: site/tools
+        run: bun install --frozen-lockfile
+
+      - name: Sync rules submodule
+        if: steps.sources.outputs.changed == 'true'
+        working-directory: site/tools
+        run: |
+          bun sync
+          git -C rules checkout "${{ steps.sources.outputs.rules_sha }}"
+
+      - name: Build markdown
+        if: steps.sources.outputs.changed == 'true'
+        working-directory: site/tools
+        shell: bash
+        run: bash -lc "$BUILD_COMMAND"
+
+      - name: Replace markdown output
+        if: steps.sources.outputs.changed == 'true'
+        shell: bash
+        run: |
+          mkdir -p "output/$OUTPUT_DIR"
+
+          rsync -a --delete \
+            --exclude ".git/" \
+            --exclude ".github/" \
+            --exclude "_sources.json" \
+            "site/$GENERATED_MARKDOWN_DIR/" \
+            "output/$OUTPUT_DIR/"
+
+          jq -n \
+            --arg site_sha "${{ steps.sources.outputs.site_sha }}" \
+            --arg rules_sha "${{ steps.sources.outputs.rules_sha }}" \
+            --arg generated_at "$(date -u +%Y-%m-%dT%H:%M:%SZ)" \
+            '{
+              site: { repo: "fedramp/2026", ref: "main", sha: $site_sha },
+              rules: { repo: "fedramp/rules", ref: env.RULES_BRANCH, sha: $rules_sha },
+              generated_at: $generated_at
+            }' > output/_sources.json
+
+      - name: Commit generated markdown
+        if: steps.sources.outputs.changed == 'true'
+        working-directory: output
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add -A
+
+          if git diff --cached --quiet; then
+            echo "No generated markdown changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Rebuild markdown from fedramp/2026 and fedramp/rules"
+          git push
