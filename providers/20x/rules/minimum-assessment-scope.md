@@ -3,6 +3,8 @@ tags:
   - 20x
 ---
 
+<span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
+
 # Minimum Assessment Scope
 
 
@@ -19,7 +21,7 @@ These rules apply to providers for any type of FedRAMP Certification.
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -42,7 +44,7 @@ These rules apply to providers for any type of FedRAMP Certification.
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -62,7 +64,7 @@ These rules apply to providers for any type of FedRAMP Certification.
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -83,7 +85,7 @@ These rules apply to providers for any type of FedRAMP Certification.
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -99,7 +101,7 @@ These rules apply to providers for any type of FedRAMP Certification.
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 

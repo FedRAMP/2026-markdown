@@ -4,7 +4,9 @@ tags:
   - Rev5
 ---
 
-# Agency Use of FedRAMP Certified Cloud Services THESE HAVE NOT BEEN REVIEWED AFTER IMPORTANT FROM GOOGLE DOCS
+<span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-pencil:{ .placeholder title="This content is a placeholder and is not complete." }</span>
+
+# Agency Use of FedRAMP Certified Cloud Services (Needs Review)
 
 
 ---
@@ -20,7 +22,7 @@ These rules apply to agencies based on the FedRAMP Authorization Act, OMB M-24-1
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -36,7 +38,7 @@ These rules apply to agencies based on the FedRAMP Authorization Act, OMB M-24-1
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -54,7 +56,7 @@ These rules apply to agencies based on the FedRAMP Authorization Act, OMB M-24-1
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -73,7 +75,7 @@ These rules apply to agencies based on the FedRAMP Authorization Act, OMB M-24-1
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -89,7 +91,7 @@ These rules apply to agencies based on the FedRAMP Authorization Act, OMB M-24-1
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -109,7 +111,7 @@ These rules apply to agencies based on the FedRAMP Authorization Act, OMB M-24-1
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -131,7 +133,7 @@ These rules apply to agencies based on the FedRAMP Authorization Act, OMB M-24-1
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -147,7 +149,7 @@ These rules apply to agencies based on the FedRAMP Authorization Act, OMB M-24-1
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -163,7 +165,7 @@ These rules apply to agencies based on the FedRAMP Authorization Act, OMB M-24-1
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -179,7 +181,7 @@ These rules apply to agencies based on the FedRAMP Authorization Act, OMB M-24-1
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -203,7 +205,7 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -219,7 +221,7 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -235,7 +237,7 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -251,7 +253,7 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -267,7 +269,7 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -283,7 +285,7 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -299,7 +301,7 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -319,7 +321,7 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -341,7 +343,7 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -357,7 +359,7 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -373,7 +375,7 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -391,7 +393,7 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -411,7 +413,7 @@ These rules apply when an agency sponsors a FedRAMP Rev5 Certification after com
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -427,7 +429,7 @@ These rules apply when an agency sponsors a FedRAMP Rev5 Certification after com
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 

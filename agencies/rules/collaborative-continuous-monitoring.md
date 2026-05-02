@@ -4,6 +4,8 @@ tags:
   - Rev5
 ---
 
+<span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-pencil:{ .placeholder title="This content is a placeholder and is not complete." }</span>
+
 # Collaborative Continuous Monitoring
 
 
@@ -20,7 +22,7 @@ These rules for agencies apply to all agencies using a FedRAMP Certification.
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -40,7 +42,7 @@ These rules for agencies apply to all agencies using a FedRAMP Certification.
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -62,7 +64,7 @@ These rules for agencies apply to all agencies using a FedRAMP Certification.
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -84,7 +86,7 @@ These rules for agencies apply to all agencies using a FedRAMP Certification.
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -104,7 +106,7 @@ These rules for agencies apply to all agencies using a FedRAMP Certification.
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -120,11 +122,11 @@ These rules for agencies apply to all agencies using a FedRAMP Certification.
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 !!! warning "This FRR includes a notification requirement!"
-    - Notify provider by email using security-email.
+    - Notify Provider by email using security-email.
 
 !!! quote ""
     Agencies SHOULD formally notify the provider if the information presented in an Ongoing Certification Report, Quarterly Review, or other ongoing FedRAMP Certification Data causes significant concerns that may lead the agency to remove the cloud service offering from operation.

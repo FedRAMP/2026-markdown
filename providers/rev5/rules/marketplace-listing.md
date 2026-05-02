@@ -3,6 +3,8 @@ tags:
   - Rev5
 ---
 
+<span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-pencil:{ .placeholder title="This content is a placeholder and is not complete." }</span>
+
 # Marketplace Listing
 
 
@@ -19,7 +21,7 @@ These rules apply to providers seeking a listing in the FedRAMP Marketplace.
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -35,7 +37,7 @@ These rules apply to providers seeking a listing in the FedRAMP Marketplace.
     _**Notes:**_
 
     - _FedRAMP will not list products or services that are outside the explicit statutory scope of FedRAMP; See MKT-FRP-SOF Scope of FedRAMP._
-    - _Services used by private companies to meet other compliance requirements (such as CMMC) that do not also meet one of the above use cases are outside the scope of FedRAMP. _
+    - _Services used by private companies to meet other compliance requirements (such as CMMC) that do not also meet one of the above use cases are outside the scope of FedRAMP._
     ---
     **Terms:** [Agency](../../../definitions/#agency){ data-preview }, [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Information Resource](../../../definitions/#information-resource){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Third-Party Information Resource](../../../definitions/#third-party-information-resource){ data-preview }
 ### Listing Requests for Providers
@@ -44,7 +46,7 @@ These rules apply to providers seeking a listing in the FedRAMP Marketplace.
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -67,7 +69,7 @@ These rules apply to providers seeking a Preparation Phase listing in the FedRAM
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -86,7 +88,7 @@ These rules apply to providers seeking a Preparation Phase listing in the FedRAM
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -106,7 +108,7 @@ These rules apply to providers seeking a Preparation Phase listing in the FedRAM
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 

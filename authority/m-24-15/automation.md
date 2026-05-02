@@ -1,3 +1,14 @@
+---
+description: ""
+purpose: ""
+google_doc: ""
+picto:
+  source: person
+  status: stable
+---
+
+<span class="picto">:lucide-person-standing:{ .person title="This content was written by a human just for this page." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
+
 # M-24-15 Section V. Automation and Efficiency
 
 As part of a technology-forward program optimized for efficiency and
@@ -42,7 +53,7 @@ analyze these assets to create guidance that supports CSPs and agencies in
 streamlining the authorization process for cloud products and services that use
 FedRAMP-authorized infrastructure or platforms.
 
-## Reusing Existing Certifications 
+## Reusing Existing Certifications
 
 Many existing CSOs have implemented or received certifications based on external
 security frameworks. Performing an additional assessment of each offering every
@@ -74,16 +85,6 @@ FedRAMP authorizations and processes. Risk acceptance determinations must align
 with the guidance and requirements established by the FedRAMP Board. FedRAMP
 authorizations that leverage external frameworks shall also be presumed
 adequate.
-
-[^22]:
-    NIST SP 800-37, _Risk Management Framework for Information Systems and
-    Organization_, includes discussion of issuing authorizations for a short
-    period of time.
-
-[^23]:
-    FedRAMP will provide additional procedures related to this trial process,
-    and agencies are encouraged to coordinate with FedRAMP to ensure that there
-    is no potential gap in service when the trial period concludes.
 
 [^24]: 44 U.S.C. § 3609(c).
 [^25]: _Id._ § 3609(c)(2).

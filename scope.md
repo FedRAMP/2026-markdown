@@ -1,3 +1,20 @@
+---
+description: "Guidelines and examples for understanding the scope of FedRAMP."
+purpose: "Helps folks understand when a cloud service is within the scope of FedRAMP."
+google_doc: ""
+picto:
+  source: person
+  status: stable
+---
+
+<span class="picto">:lucide-person-standing:{ .person title="This content was written by a human just for this page." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
+
+??? info inline end "Page Info"
+
+    **Description:** Guidelines and examples for understanding the scope of FedRAMP.
+    
+    **Purpose:** Helps folks understand when a cloud service is within the scope of FedRAMP.
+
 # Scope of FedRAMP
 
 FedRAMP was established in the law to provide a standardized approach to the
@@ -8,8 +25,9 @@ use is within the scope of FedRAMP.
 
 Many agency use cases are exempted from the scope of FedRAMP, however,
 especially agency-specific applications that won't be reusable by other
-agencies. This page includes the original guidance from [OMB Memorandum
-M-24-15](authority/m-24-15/scope.md){data-preview} on the Scope of FedRAMP along with guidelines and examples.
+agencies. This page includes the original guidance from
+[OMB Memorandum M-24-15](authority/m-24-15/scope.md){data-preview} on
+the Scope of FedRAMP along with guidelines and examples.
 
 !!! info "This guidance is intended for agency use."
 
@@ -26,7 +44,7 @@ _This section quotes directly from [OMB Memorandum M-24-15](authority/m-24-15/sc
 The scope of FedRAMP is **cloud computing products and services** (such as IaaS,
 Platform-as-a-Service (PaaS), and SaaS) that create, collect, process, store, or
 maintain Federal information on behalf of a Federal agency, and that are **not
-otherwise specified as out of scope** below.[^6]
+otherwise specified as out of scope** below.
 
 ### Outside the Scope of FedRAMP
 

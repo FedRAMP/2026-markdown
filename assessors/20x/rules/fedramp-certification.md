@@ -3,6 +3,8 @@ tags:
   - 20x
 ---
 
+<span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-pencil:{ .placeholder title="This content is a placeholder and is not complete." }</span>
+
 # FedRAMP Certification
 
 
@@ -19,7 +21,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -35,7 +37,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -51,7 +53,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -71,7 +73,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -87,7 +89,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -103,7 +105,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -123,7 +125,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -139,7 +141,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -159,7 +161,7 @@ These rules apply to independent assessment services supporting FedRAMP 20x Cert
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -175,7 +177,7 @@ These rules apply to independent assessment services supporting FedRAMP 20x Cert
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 

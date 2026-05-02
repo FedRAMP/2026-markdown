@@ -3,6 +3,8 @@ tags:
   - Rev5
 ---
 
+<span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
+
 # Rev5 Deadlines
 
 

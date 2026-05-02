@@ -1,7 +1,15 @@
 ---
 tags:
   - Rev5
+description: ""
+purpose: ""
+google_doc: ""
+picto:
+  source: person
+  status: placeholder
 ---
+
+<span class="picto">:lucide-person-standing:{ .person title="This content was written by a human just for this page." } :lucide-pencil:{ .placeholder title="This content is a placeholder and is not complete." }</span>
 
 # FedRAMP Rev5 Certification Rules
 

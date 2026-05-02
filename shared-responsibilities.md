@@ -1,3 +1,20 @@
+---
+description: "Explanation of the expected responsibilities of all stakeholders and how those are shared throughout the FedRAMP game."
+purpose: "Helps folks understand what each party is expected to do."
+google_doc: ""
+picto:
+  source: person
+  status: stable
+---
+
+<span class="picto">:lucide-person-standing:{ .person title="This content was written by a human just for this page." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
+
+??? info inline end "Page Info"
+
+    **Description:** Explanation of the expected responsibilities of all stakeholders and how those are shared throughout the FedRAMP game.
+    
+    **Purpose:** Helps folks understand what each party is expected to do.
+
 # The Shared Responsibility Model
 
 The FedRAMP process relies on shared responsibility throughout various stages of the initial and ongoing FedRAMP Certification process, however each stakeholder also has sole responsibility for specific parts of the process itself.

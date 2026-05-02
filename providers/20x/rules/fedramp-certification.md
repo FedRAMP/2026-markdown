@@ -3,6 +3,8 @@ tags:
   - 20x
 ---
 
+<span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
+
 # FedRAMP Certification
 
 
@@ -19,7 +21,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -41,7 +43,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -60,7 +62,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -79,7 +81,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -98,7 +100,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -120,7 +122,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -139,7 +141,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -161,7 +163,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -180,7 +182,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -202,7 +204,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -222,7 +224,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -238,7 +240,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -254,7 +256,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -270,7 +272,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -312,7 +314,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -328,7 +330,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -344,7 +346,12 @@ These rules apply to providers seeking FedRAMP Class A Certifications.
 
 ### Approved Alternative Security Frameworks
 
-!!! abstract "FRC-CLA-ASF"
+??? abstract "FRC-CLA-ASF"
+    **Changelog:**
+
+
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 !!! quote ""
@@ -359,7 +366,12 @@ These rules apply to providers seeking FedRAMP Class A Certifications.
     **Terms:** [Provider](../../../definitions/#provider){ data-preview }
 ### External Assessment Materials
 
-!!! abstract "FRC-CLA-EAM"
+??? abstract "FRC-CLA-EAM"
+    **Changelog:**
+
+
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 !!! quote ""
@@ -370,7 +382,12 @@ These rules apply to providers seeking FedRAMP Class A Certifications.
     **Terms:** [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Certification Package](../../../definitions/#certification-package){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }
 ### Address FedRAMP Rules
 
-!!! abstract "FRC-CLA-AFR"
+??? abstract "FRC-CLA-AFR"
+    **Changelog:**
+
+
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 !!! quote ""
@@ -405,7 +422,7 @@ These rules apply to providers seeking FedRAMP Class A Certifications.
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -417,7 +434,12 @@ These rules apply to providers seeking FedRAMP Class A Certifications.
     **Terms:** [Assessor](../../../definitions/#assessor){ data-preview }, [Certification Package](../../../definitions/#certification-package){ data-preview }, [FedRAMP Recognized Assessor](../../../definitions/#fedramp-recognized-assessor){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
 ### Key Security Indicator Mapping
 
-!!! abstract "FRC-CLA-KSM"
+??? abstract "FRC-CLA-KSM"
+    **Changelog:**
+
+
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 !!! quote ""
@@ -449,7 +471,7 @@ These rules apply to cloud service providers who have met all other relevant rul
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -469,7 +491,7 @@ These rules apply to cloud service providers who have met all other relevant rul
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -488,7 +510,7 @@ These rules apply to cloud service providers who have met all other relevant rul
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -504,7 +526,7 @@ These rules apply to cloud service providers who have met all other relevant rul
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -524,7 +546,7 @@ These rules apply to cloud service providers with an Agency Sponsor who have met
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -544,7 +566,7 @@ These rules apply to providers for FedRAMP 20x Certifications.
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -567,7 +589,7 @@ These rules apply to providers for FedRAMP 20x Certifications.
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -583,7 +605,7 @@ These rules apply to providers for FedRAMP 20x Certifications.
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 

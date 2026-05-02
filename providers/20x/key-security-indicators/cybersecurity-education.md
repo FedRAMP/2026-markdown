@@ -3,6 +3,8 @@ tags:
   - 20x
 ---
 
+<span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
+
 # Cybersecurity Education
 
 
@@ -15,7 +17,7 @@ tags:
     **Changelog:**
 
 
-    - **2026-06-01:** Revisited and baselined against the Consolidated Rules for 2026.
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -24,7 +26,7 @@ tags:
 
 
 
-    **Related SP 800-53 Controls:** [CP-3](https://controlfreak.risk-redux.io/controls/CP-03), [IR-2](https://controlfreak.risk-redux.io/controls/IR-02), [PS-6](https://controlfreak.risk-redux.io/controls/PS-06), [AT-2](https://controlfreak.risk-redux.io/controls/AT-02), [AT-2.2](https://controlfreak.risk-redux.io/controls/AT-02(02)), [AT-2.3](https://controlfreak.risk-redux.io/controls/AT-02(03)), [AT-3.5](https://controlfreak.risk-redux.io/controls/AT-03(05)), [AT-4](https://controlfreak.risk-redux.io/controls/AT-04), [IR-2.3](https://controlfreak.risk-redux.io/controls/IR-02(03)), [AT-2](https://controlfreak.risk-redux.io/controls/AT-02), [AT-2.3](https://controlfreak.risk-redux.io/controls/AT-02(03)), [AT-3](https://controlfreak.risk-redux.io/controls/AT-03), [SR-11.1](https://controlfreak.risk-redux.io/controls/SR-11(01))
+    **Related SP 800-53 Controls:** [CP-3](https://controlfreak.risk-redux.io/controls/CP-03), [IR-2](https://controlfreak.risk-redux.io/controls/IR-02), [PS-6](https://controlfreak.risk-redux.io/controls/PS-06), [AT-2](https://controlfreak.risk-redux.io/controls/AT-02), [AT-2.2](https://controlfreak.risk-redux.io/controls/AT-02(02)), [AT-2.3](https://controlfreak.risk-redux.io/controls/AT-02(03)), [AT-3.5](https://controlfreak.risk-redux.io/controls/AT-03(05)), [AT-4](https://controlfreak.risk-redux.io/controls/AT-04), [IR-2.3](https://controlfreak.risk-redux.io/controls/IR-02(03)), [AT-3](https://controlfreak.risk-redux.io/controls/AT-03), [SR-11.1](https://controlfreak.risk-redux.io/controls/SR-11(01))
 
     ---
     **Terms:** [Incident](../../../definitions/#incident){ data-preview }, [Persistently](../../../definitions/#persistently){ data-preview }, [Vulnerability Response](../../../definitions/#vulnerability-response){ data-preview }

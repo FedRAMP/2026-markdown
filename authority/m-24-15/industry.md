@@ -1,3 +1,14 @@
+---
+description: ""
+purpose: ""
+google_doc: ""
+picto:
+  source: person
+  status: stable
+---
+
+<span class="picto">:lucide-person-standing:{ .person title="This content was written by a human just for this page." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
+
 # M-24-15 Section VIII. Industry Engagement
 
 FedRAMP is a bridge between the Federal community and the commercial cloud marketplace. The FedRAMP program enables agencies to obtain what they need from the commercial ecosystem and accelerate mission operations. At the same time, FedRAMP helps commercial providers satisfy similar needs across the Federal Government in a consistent and streamlined way.
