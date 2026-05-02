@@ -23,7 +23,7 @@ env:
 
   SITE_REPO: https://github.com/fedramp/2026.git
   RULES_REPO: https://github.com/fedramp/rules.git
-  RULES_BRANCH: pwx
+  RULES_BRANCH: main
 
   BUILD_COMMAND: bun run build
   GENERATED_MARKDOWN_DIR: src
