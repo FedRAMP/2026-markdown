@@ -36,7 +36,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
     **Reference:** [FedRAMP Certification Data Sharing](../../../certification-data-sharing/)
 
     ---
-    **Terms:** [Certification Data](../../../definitions/#certification-data){ data-preview }, [Persistently](../../../definitions/#persistently){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }
+    **Terms:** [Certification Data](../../../definitions/#certification-data){ data-preview }, [Persistently](../../../definitions/#persistently){ data-preview }
 ### Collaborative Continuous Monitoring
 
 ??? abstract "FRC-CSO-CCM"
@@ -55,7 +55,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
     **Reference:** [Collaborative Continuous Monitoring](../../../collaborative-continuous-monitoring/)
 
     ---
-    **Terms:** [Persistently](../../../definitions/#persistently){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }
+    **Terms:** [Persistently](../../../definitions/#persistently){ data-preview }
 ### FedRAMP Security Inbox
 
 ??? abstract "FRC-CSO-FSI"
@@ -74,7 +74,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
     **Reference:** [FedRAMP Security Inbox](../../../fedramp-security-inbox/)
 
     ---
-    **Terms:** [FedRAMP Security Inbox](../../../definitions/#fedramp-security-inbox){ data-preview }, [Persistently](../../../definitions/#persistently){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }
+    **Terms:** [FedRAMP Security Inbox](../../../definitions/#fedramp-security-inbox){ data-preview }, [Persistently](../../../definitions/#persistently){ data-preview }
 ### Incident Communications Procedures
 
 ??? abstract "FRC-CSO-ICP"
@@ -93,7 +93,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
     **Reference:** [Incident Communications Procedures](../../../incident-communications-procedures/)
 
     ---
-    **Terms:** [Incident](../../../definitions/#incident){ data-preview }, [Persistently](../../../definitions/#persistently){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }
+    **Terms:** [Incident](../../../definitions/#incident){ data-preview }, [Persistently](../../../definitions/#persistently){ data-preview }
 ### Minimum Assessment Scope
 
 ??? abstract "FRC-CSO-MAS"
@@ -115,7 +115,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
     **Reference:** [Minimum Assessment Scope](../../../minimum-assessment-scope/)
 
     ---
-    **Terms:** [Persistently](../../../definitions/#persistently){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }
+    **Terms:** [Persistently](../../../definitions/#persistently){ data-preview }
 ### Secure Configuration Guide
 
 ??? abstract "FRC-CSO-SCG"
@@ -134,7 +134,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
     **Reference:** [Secure Configuration Guide](../../../secure-configuration-guide/)
 
     ---
-    **Terms:** [Persistently](../../../definitions/#persistently){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }
+    **Terms:** [Persistently](../../../definitions/#persistently){ data-preview }
 ### Significant Change Notifications
 
 ??? abstract "FRC-CSO-SCN"
@@ -156,7 +156,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
     **Reference:** [Significant Change Notifications](../../../significant-change-notifications/)
 
     ---
-    **Terms:** [Persistently](../../../definitions/#persistently){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Significant Change](../../../definitions/#significant-change){ data-preview }
+    **Terms:** [Persistently](../../../definitions/#persistently){ data-preview }, [Significant Change](../../../definitions/#significant-change){ data-preview }
 ### Using Cryptographic Modules
 
 ??? abstract "FRC-CSO-UCM"
@@ -175,7 +175,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
     **Reference:** [Using Cryptographic Modules](../../../using-cryptographic-modules/)
 
     ---
-    **Terms:** [Persistently](../../../definitions/#persistently){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }
+    **Terms:** [Persistently](../../../definitions/#persistently){ data-preview }
 ### Vulnerability Detection and Response
 
 ??? abstract "FRC-CSO-VDR"
@@ -197,7 +197,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
     **Reference:** [Vulnerability Detection and Response](../../../vulnerability-detection-and-response/)
 
     ---
-    **Terms:** [Persistently](../../../definitions/#persistently){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Vulnerability](../../../definitions/#vulnerability){ data-preview }, [Vulnerability Detection](../../../definitions/#vulnerability-detection){ data-preview }, [Vulnerability Response](../../../definitions/#vulnerability-response){ data-preview }
+    **Terms:** [Persistently](../../../definitions/#persistently){ data-preview }, [Vulnerability](../../../definitions/#vulnerability){ data-preview }, [Vulnerability Detection](../../../definitions/#vulnerability-detection){ data-preview }, [Vulnerability Response](../../../definitions/#vulnerability-response){ data-preview }
 ### Pick One Program Certification Type
 
 ??? abstract "FRC-CSO-POP"
@@ -217,7 +217,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
     _**Note:** This rule does not prevent a provider from seeking and maintaining a FedRAMP Rev5 Agency Certification and a FedRAMP 20x Program Certification for the same cloud service offering, however, doing so is strongly discouraged due to the increased complexity and risk of confusion for all parties._
 
     ---
-    **Terms:** [Agency](../../../definitions/#agency){ data-preview }, [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }
+    **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }
 ### Persistent Verification and Validation
 
 ??? abstract "FRC-CSO-PVV"
@@ -233,7 +233,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 
 
     ---
-    **Terms:** [Information Resource](../../../definitions/#information-resource){ data-preview }, [Persistently](../../../definitions/#persistently){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }, [Vulnerability](../../../definitions/#vulnerability){ data-preview }, [Vulnerability Detection](../../../definitions/#vulnerability-detection){ data-preview }
+    **Terms:** [Information Resource](../../../definitions/#information-resource){ data-preview }, [Persistently](../../../definitions/#persistently){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }, [Vulnerability](../../../definitions/#vulnerability){ data-preview }, [Vulnerability Detection](../../../definitions/#vulnerability-detection){ data-preview }
 ### Failures Are Vulnerabilities
 
 ??? abstract "FRC-CSO-FAV"
@@ -249,7 +249,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 
 
     ---
-    **Terms:** [Persistently](../../../definitions/#persistently){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }, [Vulnerability](../../../definitions/#vulnerability){ data-preview }, [Vulnerability Detection](../../../definitions/#vulnerability-detection){ data-preview }, [Vulnerability Response](../../../definitions/#vulnerability-response){ data-preview }
+    **Terms:** [Persistently](../../../definitions/#persistently){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }, [Vulnerability](../../../definitions/#vulnerability){ data-preview }, [Vulnerability Detection](../../../definitions/#vulnerability-detection){ data-preview }, [Vulnerability Response](../../../definitions/#vulnerability-response){ data-preview }
 ### Non-Machine Verification and Validation
 
 ??? abstract "FRC-CSO-NMV"
@@ -265,7 +265,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 
 
     ---
-    **Terms:** [Information Resource](../../../definitions/#information-resource){ data-preview }, [Machine-Based (Information Resources)](../../../definitions/#machine-based-information-resources){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
+    **Terms:** [Information Resource](../../../definitions/#information-resource){ data-preview }, [Machine-Based (Information Resources)](../../../definitions/#machine-based-information-resources){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
 ### Independent Verification and Validation
 
 ??? abstract "FRC-CSO-IVV"
@@ -307,7 +307,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
     - _The option for assessment by FedRAMP directly is limited to cloud services that are explicitly prioritized by FedRAMP, in consultation with the FedRAMP Board and the federal Chief Information Officers Council._
     - _FedRAMP Recognized independent assessors are listed on the FedRAMP Marketplace._
     ---
-    **Terms:** [Assessor](../../../definitions/#assessor){ data-preview }, [Certification Data](../../../definitions/#certification-data){ data-preview }, [Persistently](../../../definitions/#persistently){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
+    **Terms:** [Certification Data](../../../definitions/#certification-data){ data-preview }, [Persistently](../../../definitions/#persistently){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
 ### Supply Technical Evidence
 
 ??? abstract "FRC-CSO-STE"
@@ -323,7 +323,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 
 
     ---
-    **Terms:** [Assessor](../../../definitions/#assessor){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
+    **Terms:** [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
 ### Receiving Assessor Advice
 
 ??? abstract "FRC-CSO-RAA"
@@ -339,7 +339,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 
 
     ---
-    **Terms:** [Assessor](../../../definitions/#assessor){ data-preview }, [Likely](../../../definitions/#likely){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
+    **Terms:** [Likely](../../../definitions/#likely){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
 ## FedRAMP Class A Certification Rules
 
 These rules apply to providers seeking FedRAMP Class A Certifications.
@@ -362,8 +362,6 @@ These rules apply to providers seeking FedRAMP Class A Certifications.
     1. GovRAMP
 
 
-    ---
-    **Terms:** [Provider](../../../definitions/#provider){ data-preview }
 ### External Assessment Materials
 
 ??? abstract "FRC-CLA-EAM"
@@ -379,7 +377,7 @@ These rules apply to providers seeking FedRAMP Class A Certifications.
 
 
     ---
-    **Terms:** [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Certification Package](../../../definitions/#certification-package){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }
+    **Terms:** [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Certification Package](../../../definitions/#certification-package){ data-preview }
 ### Address FedRAMP Rules
 
 ??? abstract "FRC-CLA-AFR"
@@ -415,7 +413,7 @@ These rules apply to providers seeking FedRAMP Class A Certifications.
     _**Note:** If the alternative security framework has existing rules that align with these FedRAMP rules then a mapping to the alternative security framework content may be supplied instead of generating new artifacts._
 
     ---
-    **Terms:** [Artifacts](../../../definitions/#artifacts){ data-preview }, [Certification Package](../../../definitions/#certification-package){ data-preview }, [FedRAMP Security Inbox](../../../definitions/#fedramp-security-inbox){ data-preview }, [Initial Incident Report (IIR)](../../../definitions/#initial-incident-report-iir){ data-preview }, [Ongoing Certification Report (OCR)](../../../definitions/#ongoing-certification-report-ocr){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }
+    **Terms:** [Artifacts](../../../definitions/#artifacts){ data-preview }, [Certification Package](../../../definitions/#certification-package){ data-preview }, [FedRAMP Security Inbox](../../../definitions/#fedramp-security-inbox){ data-preview }, [Initial Incident Report (IIR)](../../../definitions/#initial-incident-report-iir){ data-preview }, [Ongoing Certification Report (OCR)](../../../definitions/#ongoing-certification-report-ocr){ data-preview }
 ### Optional Independent Verification and Validation
 
 ??? abstract "FRC-CLA-IVV"
@@ -431,7 +429,7 @@ These rules apply to providers seeking FedRAMP Class A Certifications.
 
 
     ---
-    **Terms:** [Assessor](../../../definitions/#assessor){ data-preview }, [Certification Package](../../../definitions/#certification-package){ data-preview }, [FedRAMP Recognized Assessor](../../../definitions/#fedramp-recognized-assessor){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
+    **Terms:** [Certification Package](../../../definitions/#certification-package){ data-preview }, [FedRAMP Recognized Assessor](../../../definitions/#fedramp-recognized-assessor){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
 ### Key Security Indicator Mapping
 
 ??? abstract "FRC-CLA-KSM"
@@ -460,7 +458,7 @@ These rules apply to providers seeking FedRAMP Class A Certifications.
     - _The mapping must be available in both machine-readable and human-readable formats._
     - _If a mapping is not clear, the provider should supply new information indicating that the Key Security Indicator has not been independently audited._
     ---
-    **Terms:** [Machine-Readable](../../../definitions/#machine-readable){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }
+    **Terms:** [Machine-Readable](../../../definitions/#machine-readable){ data-preview }
 ## Applying for FedRAMP Certification
 
 These rules apply to cloud service providers who have met all other relevant rules and are ready to apply for any FedRAMP Certification.
@@ -483,8 +481,6 @@ These rules apply to cloud service providers who have met all other relevant rul
 
     _**Note:** See FedRAMP's Marketplace Listing rules for information about being listed in the Marketplace in the Preparation Phase prior to receiving a formal FedRAMP Certification._
 
-    ---
-    **Terms:** [Provider](../../../definitions/#provider){ data-preview }
 ### Applying for FedRAMP Certification
 
 ??? abstract "FRC-APP-AFC"
@@ -502,8 +498,6 @@ These rules apply to cloud service providers who have met all other relevant rul
 
     **Reference:** [FedRAMP Certification Application Form](https://fedramp.gov/forms)
 
-    ---
-    **Terms:** [Provider](../../../definitions/#provider){ data-preview }
 ### Fresh FedRAMP Certification Package
 
 ??? abstract "FRC-APP-FCP"
@@ -519,7 +513,7 @@ These rules apply to cloud service providers who have met all other relevant rul
 
 
     ---
-    **Terms:** [Certification Package](../../../definitions/#certification-package){ data-preview }, [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
+    **Terms:** [Certification Package](../../../definitions/#certification-package){ data-preview }, [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
 ### Fresh Independent Assessment
 
 ??? abstract "FRC-APP-FIA"
@@ -535,7 +529,7 @@ These rules apply to cloud service providers who have met all other relevant rul
 
 
     ---
-    **Terms:** [Provider](../../../definitions/#provider){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
+    **Terms:** [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
 ## Applying for FedRAMP Certification with an Agency Sponsor
 
 These rules apply to cloud service providers with an Agency Sponsor who have met all other relevant rules and are ready to apply for any FedRAMP Certification.
@@ -555,7 +549,7 @@ These rules apply to cloud service providers with an Agency Sponsor who have met
 
 
     ---
-    **Terms:** [Agency](../../../definitions/#agency){ data-preview }, [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }
+    **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }
 ## 20x-Specific Provider Responsibilities
 
 These rules apply to providers for FedRAMP 20x Certifications.
@@ -582,7 +576,7 @@ These rules apply to providers for FedRAMP 20x Certifications.
 
 
     ---
-    **Terms:** [Machine-Based (Information Resources)](../../../definitions/#machine-based-information-resources){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }
+    **Terms:** [Machine-Based (Information Resources)](../../../definitions/#machine-based-information-resources){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }
 ### Application within MAS
 
 ??? abstract "FRC-CSX-MAS"
@@ -598,7 +592,7 @@ These rules apply to providers for FedRAMP 20x Certifications.
 
 
     ---
-    **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }
+    **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }
 ### Persistent Machine Verification and Validation
 
 ??? abstract "FRC-CSX-PMV"
@@ -627,4 +621,4 @@ These rules apply to providers for FedRAMP 20x Certifications.
 
 
     ---
-    **Terms:** [Information Resource](../../../definitions/#information-resource){ data-preview }, [Machine-Based (Information Resources)](../../../definitions/#machine-based-information-resources){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
+    **Terms:** [Information Resource](../../../definitions/#information-resource){ data-preview }, [Machine-Based (Information Resources)](../../../definitions/#machine-based-information-resources){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }

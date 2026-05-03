@@ -16,50 +16,6 @@ tags:
 ---
 
 
-### Artifacts
-
-??? abstract "**ID:** FRD-ART"
-    **Changelog:**
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
-
-!!! quote ""
-    Security-related materials that supply information regarding or evidence of functions, policies, decisions, procedures, operations, or other such activities, for the purposes of obtaining and maintaining a FedRAMP Certification. All such artifacts are considered FedRAMP Certification Data and are included in the FedRAMP Certification Package.
-
-
-    **Also:** artifact, artifacts
-
-### Certification Data
-
-??? abstract "**ID:** FRD-CRD"
-    **Changelog:**
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
-
-!!! quote ""
-    The collective information required by FedRAMP for initial and ongoing FedRAMP Certification of a cloud service offering, including the FedRAMP Certification Package.
-
-    ---
-
-    _**Note:** In FedRAMP documentation, certification data always refers to FedRAMP Certification Data unless otherwise specified._
-
-    **Also:** certification data
-
-### Certification Package
-
-??? abstract "**ID:** FRD-CRP"
-    **Changelog:**
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
-
-!!! quote ""
-    Has meaning from 44 USC § 3607 (b)(8) given to "authorization package", which is "the essential information that can be used by an agency to determine whether to authorize the operation of an information system or the use of a designated set of common controls for all cloud computing products and services [certified] by FedRAMP."
-
-    ---
-
-    _**Note:** In FedRAMP documentation, certification package always refers to a FedRAMP Certification Package unless otherwise specified._
-
-    **Reference:** [44 USC § 3607 (b)(8)](https://fedramp.gov/docs/authority/law/#b-additional-definitions)
-
-    **Also:** certification package, certification packages
-
 ### Cloud Service Offering
 
 ??? abstract "**ID:** FRD-CSO"
@@ -117,23 +73,6 @@ tags:
 
     **Also:** federal customer data
 
-### FedRAMP Certified
-
-??? abstract "**ID:** FRD-FCT"
-    **Changelog:**
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
-
-!!! quote ""
-    The status of a cloud service offering that has received FedRAMP Certification and meets the legal requirement to be FedRAMP authorized.
-
-    ---
-
-    _**Note:** FedRAMP uses "FedRAMP Certified" as the current program term for cloud service offerings that satisfy the statutory concept of FedRAMP authorization._
-
-    **Reference:** [FedRAMP Certification Act (44 USC § 3608)](https://www.fedramp.gov/docs/authority/law/#sec-3608-federal-risk-and-authorization-management-program)
-
-    **Also:** FedRAMP Certified, FedRAMP certified, certified, FedRAMP authorized, FedRAMP Authorized, authorized
-
 ### FedRAMP Recognized Assessor
 
 ??? abstract "**ID:** FRD-FRA"
@@ -169,18 +108,6 @@ tags:
 
 
     **Also:** handle, handles, handled, handling
-
-### Initial Certification
-
-??? abstract "**ID:** FRD-INC"
-    **Changelog:**
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
-
-!!! quote ""
-    The first FedRAMP Certification of a cloud service offering based on the applicable initial assessment, validation, certification package, and certification data.
-
-
-    **Also:** initial certification, initial certifications
 
 ### Likely
 
@@ -286,18 +213,6 @@ tags:
 
     **Also:** promptly, prompt
 
-### Quarterly Review
-
-??? abstract "**ID:** FRD-QTR"
-    **Changelog:**
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
-
-!!! quote ""
-    A regular synchronous meeting hosted by a FedRAMP Certified cloud service provider for agency customers, following FedRAMP Collaborative Continuous Monitoring rules.
-
-
-    **Also:** quarterly review, quarterly reviews
-
 ### Regularly
 
 ??? abstract "**ID:** FRD-RGL"
@@ -332,12 +247,12 @@ tags:
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 !!! quote ""
-    Has the meaning from NIST FIPS 199, which is "The characterization of information or an information system based on an assessment of the potential impact that a loss of confidentiality, integrity, or availability of such information or information system would have on organizational operations, organizational assets, or individuals."
+    Has the meaning from NIST FIPS 199, which is "The characterization of information or an information system based on an assessment of the potential impact that a loss of confidentiality, integrity, or availability of such information or information system would have on organizational operations, organizational assets, or individuals." Security categories are often referred to as "impact levels" and include Low, Moderate, and High.
 
 
     **Reference:** [NIST FIPS 199 Standards for Security Categorization of Federal Information and Information Systems](https://csrc.nist.gov/pubs/fips/199/final)
 
-    **Also:** security category, security categories
+    **Also:** security category, security categories, impact level, impact levels
 
 ### Trust Center
 
@@ -388,7 +303,7 @@ tags:
 
     **Also:** verification, verify, verified
 
-## Specific Terms: Accounts
+## Related Terms: Accounts
 
 ---
 
@@ -423,7 +338,7 @@ tags:
 
     **Also:** top-level administrative account, top-level administrative accounts
 
-## Specific Terms: Adverse Effects
+## Related Terms: Adverse Effect
 
 ---
 
@@ -476,7 +391,7 @@ tags:
 
     **Also:** serious adverse effect, serious adverse effects
 
-## Specific Terms: Assessments
+## Related Terms: Assessment
 
 ---
 
@@ -505,10 +420,112 @@ tags:
 
     **Also:** persistent FedRAMP assessment, PFRA
 
-## Specific Terms: Incident Reports
+## Related Terms: Certification
 
 ---
 
+
+### Artifacts
+
+??? abstract "**ID:** FRD-ART"
+    **Changelog:**
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
+!!! quote ""
+    Security-related materials that supply information regarding or evidence of functions, policies, decisions, procedures, operations, or other such activities, for the purposes of obtaining and maintaining a FedRAMP Certification. All such artifacts are considered FedRAMP Certification Data and are included in the FedRAMP Certification Package.
+
+
+    **Also:** artifact, artifacts
+
+### Certification Data
+
+??? abstract "**ID:** FRD-CRD"
+    **Changelog:**
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
+!!! quote ""
+    The collective information required by FedRAMP for initial and ongoing FedRAMP Certification of a cloud service offering, including the FedRAMP Certification Package.
+
+    ---
+
+    _**Note:** In FedRAMP documentation, certification data always refers to FedRAMP Certification Data unless otherwise specified._
+
+    **Also:** certification data
+
+### Certification Package
+
+??? abstract "**ID:** FRD-CRP"
+    **Changelog:**
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
+!!! quote ""
+    Has meaning from 44 USC § 3607 (b)(8) given to "authorization package", which is "the essential information that can be used by an agency to determine whether to authorize the operation of an information system or the use of a designated set of common controls for all cloud computing products and services [certified] by FedRAMP."
+
+    ---
+
+    _**Note:** In FedRAMP documentation, certification package always refers to a FedRAMP Certification Package unless otherwise specified._
+
+    **Reference:** [44 USC § 3607 (b)(8)](https://fedramp.gov/docs/authority/law/#b-additional-definitions)
+
+    **Also:** certification package, certification packages
+
+### FedRAMP Certified
+
+??? abstract "**ID:** FRD-FCT"
+    **Changelog:**
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
+!!! quote ""
+    The status of a cloud service offering that has received FedRAMP Certification and meets the legal requirement to be FedRAMP authorized.
+
+    ---
+
+    _**Note:** FedRAMP uses "FedRAMP Certified" as the current program term for cloud service offerings that satisfy the statutory concept of FedRAMP authorization._
+
+    **Reference:** [FedRAMP Certification Act (44 USC § 3608)](https://www.fedramp.gov/docs/authority/law/#sec-3608-federal-risk-and-authorization-management-program)
+
+    **Also:** FedRAMP Certified, FedRAMP certified, certified, FedRAMP authorized, FedRAMP Authorized, authorized
+
+### Initial Certification
+
+??? abstract "**ID:** FRD-INC"
+    **Changelog:**
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
+!!! quote ""
+    The first FedRAMP Certification of a cloud service offering based on the applicable initial assessment, validation, certification package, and certification data.
+
+
+    **Also:** initial certification, initial certifications
+
+### Quarterly Review
+
+??? abstract "**ID:** FRD-QTR"
+    **Changelog:**
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
+!!! quote ""
+    A regular synchronous meeting hosted by a FedRAMP Certified cloud service provider for agency customers, following FedRAMP Collaborative Continuous Monitoring rules.
+
+
+    **Also:** quarterly review, quarterly reviews
+
+## Related Terms: Incident
+
+---
+
+
+### Federal Reportable Incident
+
+??? abstract "**ID:** FRD-FRI"
+    **Changelog:**
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
+!!! quote ""
+    An incident that affects the confidentiality or integrity of federal customer data or is likely to affect the confidentiality or integrity of federal customer data.
+
+
+    **Also:** federal reportable incident, federal reportable incidents
 
 ### Final Incident Report (FIR)
 
@@ -521,6 +538,20 @@ tags:
 
 
     **Also:** final incident report, final incident reports, FIR, FIRs
+
+### Incident
+
+??? abstract "**ID:** FRD-INT"
+    **Changelog:**
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
+!!! quote ""
+    Has the meaning given in 44 USC § 3552 (b)(2) applied to federal customer data, which is "an occurrence that (A) actually or imminently jeopardizes, without lawful authority, the integrity, confidentiality, or availability of [federal customer data]; or (B) constitutes a violation or imminent threat of violation of law, security policies, security procedures, or acceptable use policies [related to federal customer data]."
+
+
+    **Reference:** [44 USC § 3552 (b)(2)](https://www.govinfo.gov/app/details/USCODE-2023-title44/USCODE-2023-title44-chap35-subchapII-sec3552)
+
+    **Also:** incident, incidents
 
 ### Initial Incident Report (IIR)
 
@@ -546,38 +577,7 @@ tags:
 
     **Also:** ongoing incident report, ongoing incident reports, OIR, OIRs
 
-## Specific Terms: Incidents
-
----
-
-
-### Federal Reportable Incident
-
-??? abstract "**ID:** FRD-FRI"
-    **Changelog:**
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
-
-!!! quote ""
-    An incident that affects the confidentiality or integrity of federal customer data or is likely to affect the confidentiality or integrity of federal customer data.
-
-
-    **Also:** federal reportable incident, federal reportable incidents
-
-### Incident
-
-??? abstract "**ID:** FRD-INT"
-    **Changelog:**
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
-
-!!! quote ""
-    Has the meaning given in 44 USC § 3552 (b)(2) applied to federal customer data, which is "an occurrence that (A) actually or imminently jeopardizes, without lawful authority, the integrity, confidentiality, or availability of [federal customer data]; or (B) constitutes a violation or imminent threat of violation of law, security policies, security procedures, or acceptable use policies [related to federal customer data]."
-
-
-    **Reference:** [44 USC § 3552 (b)(2)](https://www.govinfo.gov/app/details/USCODE-2023-title44/USCODE-2023-title44-chap35-subchapII-sec3552)
-
-    **Also:** incident, incidents
-
-## Specific Terms: Information Resources
+## Related Terms: Information Resource
 
 ---
 
@@ -626,7 +626,7 @@ tags:
 
     **Also:** third-party information resource, third-party information resources
 
-## Specific Terms: Significant Changes
+## Related Terms: Significant Changes
 
 ---
 
@@ -699,7 +699,7 @@ tags:
 
     **Also:** transformative, transformative change, transformative changes
 
-## Specific Terms: Stakeholders
+## Related Terms: Stakeholder
 
 ---
 
@@ -796,7 +796,7 @@ tags:
 
     **Also:** provider, providers, cloud service provider, cloud service providers
 
-## Specific Terms: Vulnerabilities
+## Related Terms: Vulnerability
 
 ---
 

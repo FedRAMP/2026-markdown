@@ -36,7 +36,7 @@ These rules apply to consulting and advisory services seeking a listing in the F
 
 
     ---
-    **Terms:** [Advisor](../../definitions/#advisor){ data-preview }, [Machine-Readable](../../definitions/#machine-readable){ data-preview }
+    **Terms:** [Machine-Readable](../../definitions/#machine-readable){ data-preview }
 ### Listing Requests for Advisors
 
 ??? abstract "MKT-CAS-LRQ"
@@ -51,8 +51,6 @@ These rules apply to consulting and advisory services seeking a listing in the F
     Advisors MUST complete the Advisor Listing Request Form at https://fedramp.gov/forms/advisor-listing-request/ to request listing in the FedRAMP Marketplace.
 
 
-    ---
-    **Terms:** [Advisor](../../definitions/#advisor){ data-preview }
 ### Advisor Responses to FedRAMP
 
 ??? abstract "MKT-CAS-RFR"
@@ -70,7 +68,3 @@ These rules apply to consulting and advisory services seeking a listing in the F
         - If an advisor fails to respond to a request within 5 business days, FedRAMP will send a follow-up email.
         - If an advisor fails to respond to the follow-up email within 5 business days, FedRAMP will remove their listing from the Marketplace.
         - Advisors removed from the Marketplace for failure to respond to FedRAMP will not be eligible for listing for at least 6 months unless there are extenuating circumstances.
-
-
-    ---
-    **Terms:** [Advisor](../../definitions/#advisor){ data-preview }

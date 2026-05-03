@@ -35,4 +35,4 @@ These rules apply to FedRAMP.
     _**Note:** The circumstances and conditions of such a Corrective Action Plan will vary and be documented in the Correcive Action Plan._
 
     ---
-    **Terms:** [Provider](../definitions/#provider){ data-preview }, [Significant Change](../definitions/#significant-change){ data-preview }
+    **Terms:** [Significant Change](../definitions/#significant-change){ data-preview }

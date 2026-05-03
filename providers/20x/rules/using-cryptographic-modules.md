@@ -30,7 +30,7 @@ These rules apply to providers for FedRAMP Certifications.
 
 
     ---
-    **Terms:** [Federal Customer Data](../../../definitions/#federal-customer-data){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }
+    **Terms:** [Federal Customer Data](../../../definitions/#federal-customer-data){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }
 ### Using Validated Cryptographic Modules
 
 ??? abstract "UCM-CSO-UVM"
@@ -56,7 +56,7 @@ These rules apply to providers for FedRAMP Certifications.
 
 
     ---
-    **Terms:** [Federal Customer Data](../../../definitions/#federal-customer-data){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }
+    **Terms:** [Federal Customer Data](../../../definitions/#federal-customer-data){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }
 ### Configuration of Agency Tenants
 
 ??? abstract "UCM-CSO-CAT"
@@ -72,4 +72,4 @@ These rules apply to providers for FedRAMP Certifications.
 
 
     ---
-    **Terms:** [Agency](../../../definitions/#agency){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }
+    **Terms:** [Validation](../../../definitions/#validation){ data-preview }

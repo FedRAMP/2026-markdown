@@ -35,4 +35,4 @@ These rules apply to FedRAMP.
 
 
     ---
-    **Terms:** [Incident](../definitions/#incident){ data-preview }, [Provider](../definitions/#provider){ data-preview }
+    **Terms:** [Incident](../definitions/#incident){ data-preview }

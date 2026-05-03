@@ -1,9 +1,9 @@
 ---
 tags:
   - Rev5
-description: ""
-purpose: ""
-google_doc: ""
+description: "A broad overview of the Rev5 path, the reasons to / to not go this path, the sponsorship situation in general, etc."
+purpose: "Folks know what's expected in general and how to work through the rest of this section."
+google_doc: "https://docs.google.com/document/d/16nRI1Sr3oAxriPB-y-6aOSG5BttCcxV4go3_NEQD7Mc/edit?tab=t.7tck04b1dww4"
 picto:
   source: person
   status: placeholder
@@ -11,9 +11,13 @@ picto:
 
 <span class="picto">:lucide-person-standing:{ .person title="This content was written by a human just for this page." } :lucide-pencil:{ .placeholder title="This content is a placeholder and is not complete." }</span>
 
-# FedRAMP Rev5 Certification Rules
+??? info inline end "Page Info"
 
-!!! failure "This page is incomplete."
+    **Description:** A broad overview of the Rev5 path, the reasons to / to not go this path, the sponsorship situation in general, etc.
+    
+    **Purpose:** Folks know what's expected in general and how to work through the rest of this section.
+
+# FedRAMP Rev5 Certification Rules
 
 FedRAMP Rev5 is the legacy FedRAMP authorization model based on NIST SP 800-53 Revision 5. It organizes cloud service security around large documentation packages, control baselines, independent assessment, agency review, continuous monitoring, and a long-running authorization lifecycle.
 

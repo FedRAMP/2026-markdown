@@ -67,4 +67,4 @@ These rules apply to FedRAMP activities related to the FedRAMP Marketplace.
     **Reference:** [FedRAMP JSON Schemas on GitHub](https://github.com/FedRAMP/schemas)
 
     ---
-    **Terms:** [Advisor](../definitions/#advisor){ data-preview }, [Assessor](../definitions/#assessor){ data-preview }, [Machine-Readable](../definitions/#machine-readable){ data-preview }
+    **Terms:** [Machine-Readable](../definitions/#machine-readable){ data-preview }

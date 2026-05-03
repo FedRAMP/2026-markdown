@@ -37,7 +37,7 @@ These rules apply to providers for any type of FedRAMP Certification.
     - _Software produced by cloud service providers that is delivered separately for installation on agency systems and not operated in a shared responsibility model (typically including agents, application clients, mobile applications, etc. that are not fully managed by the cloud service provider) is not a cloud computing product or service and is entirely outside the scope of FedRAMP under the FedRAMP Certification Act. All such software is therefore not included in the cloud service offering for FedRAMP. For more, see fedramp.gov/scope._
     - _All aspects of the cloud service offering are determined and maintained by the cloud service provider in accordance with related FedRAMP Certification rules and documented by the cloud service provider in their FedRAMP Certification Package._
     ---
-    **Terms:** [Agency](../../../definitions/#agency){ data-preview }, [Certification Package](../../../definitions/#certification-package){ data-preview }, [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Federal Customer Data](../../../definitions/#federal-customer-data){ data-preview }, [Handle](../../../definitions/#handle){ data-preview }, [Information Resource](../../../definitions/#information-resource){ data-preview }, [Likely](../../../definitions/#likely){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }
+    **Terms:** [Certification Package](../../../definitions/#certification-package){ data-preview }, [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Federal Customer Data](../../../definitions/#federal-customer-data){ data-preview }, [Handle](../../../definitions/#handle){ data-preview }, [Information Resource](../../../definitions/#information-resource){ data-preview }, [Likely](../../../definitions/#likely){ data-preview }
 ### Information Flows and Security Categories
 
 ??? abstract "MAS-CSO-FLO"
@@ -57,7 +57,7 @@ These rules apply to providers for any type of FedRAMP Certification.
     _**Note:** Information resources (including third-party information resources) MAY vary by security category as appropriate to the type of information handled by or impacted by the information resource._
 
     ---
-    **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Handle](../../../definitions/#handle){ data-preview }, [Information Resource](../../../definitions/#information-resource){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Security Category](../../../definitions/#security-category){ data-preview }, [Third-Party Information Resource](../../../definitions/#third-party-information-resource){ data-preview }
+    **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Handle](../../../definitions/#handle){ data-preview }, [Information Resource](../../../definitions/#information-resource){ data-preview }, [Security Category](../../../definitions/#security-category){ data-preview }, [Third-Party Information Resource](../../../definitions/#third-party-information-resource){ data-preview }
 ### Third-Party Information Resources
 
 ??? abstract "MAS-CSO-TPR"
@@ -78,7 +78,7 @@ These rules apply to providers for any type of FedRAMP Certification.
 
 
     ---
-    **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Federal Customer Data](../../../definitions/#federal-customer-data){ data-preview }, [Information Resource](../../../definitions/#information-resource){ data-preview }, [Initial Incident Report (IIR)](../../../definitions/#initial-incident-report-iir){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Third-Party Information Resource](../../../definitions/#third-party-information-resource){ data-preview }
+    **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Federal Customer Data](../../../definitions/#federal-customer-data){ data-preview }, [Information Resource](../../../definitions/#information-resource){ data-preview }, [Initial Incident Report (IIR)](../../../definitions/#initial-incident-report-iir){ data-preview }, [Third-Party Information Resource](../../../definitions/#third-party-information-resource){ data-preview }
 ### Metadata Inclusion
 
 ??? abstract "MAS-CSO-MDI"
@@ -94,7 +94,7 @@ These rules apply to providers for any type of FedRAMP Certification.
 
 
     ---
-    **Terms:** [Federal Customer Data](../../../definitions/#federal-customer-data){ data-preview }, [Initial Incident Report (IIR)](../../../definitions/#initial-incident-report-iir){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }
+    **Terms:** [Federal Customer Data](../../../definitions/#federal-customer-data){ data-preview }, [Initial Incident Report (IIR)](../../../definitions/#initial-incident-report-iir){ data-preview }
 ### Supplemental Information
 
 ??? abstract "MAS-CSO-SUP"
@@ -114,4 +114,4 @@ These rules apply to providers for any type of FedRAMP Certification.
     _**Note:** This is intended to allow inclusion of things like security materials for apps, supplemental marketing collateral, and other information that is not part of the cloud service offering but may be useful to agencies._
 
     ---
-    **Terms:** [Agency](../../../definitions/#agency){ data-preview }, [Certification Package](../../../definitions/#certification-package){ data-preview }, [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [FedRAMP Certified](../../../definitions/#fedramp-certified){ data-preview }, [Information Resource](../../../definitions/#information-resource){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }
+    **Terms:** [Certification Package](../../../definitions/#certification-package){ data-preview }, [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [FedRAMP Certified](../../../definitions/#fedramp-certified){ data-preview }, [Information Resource](../../../definitions/#information-resource){ data-preview }

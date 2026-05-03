@@ -69,7 +69,7 @@ tags:
     **Related SP 800-53 Controls:** [AC-17.3](https://controlfreak.risk-redux.io/controls/AC-17(03)), [CM-2](https://controlfreak.risk-redux.io/controls/CM-02), [PL-10](https://controlfreak.risk-redux.io/controls/PL-10)
 
     ---
-    **Terms:** [Information Resource](../../../definitions/#information-resource){ data-preview }, [Machine-Based (Information Resources)](../../../definitions/#machine-based-information-resources){ data-preview }, [Persistently](../../../definitions/#persistently){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }
+    **Terms:** [Information Resource](../../../definitions/#information-resource){ data-preview }, [Machine-Based (Information Resources)](../../../definitions/#machine-based-information-resources){ data-preview }, [Persistently](../../../definitions/#persistently){ data-preview }
 ### Minimizing Attack Surface
 
 ??? abstract "KSI-CNA-MAT"

@@ -30,7 +30,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 
     ---
-    **Terms:** [Assessor](../../../definitions/#assessor){ data-preview }, [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
+    **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
 ### Outcome Consistency
 
 ??? abstract "FRC-IAS-OUC"
@@ -46,7 +46,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 
     ---
-    **Terms:** [Assessor](../../../definitions/#assessor){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
+    **Terms:** [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
 ### Procedure Adherence
 
 ??? abstract "FRC-IAS-PAD"
@@ -65,8 +65,6 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
     _**Note:** This includes evaluating tests or plans for activities that may occur in the future but have not yet occurred._
 
-    ---
-    **Terms:** [Assessor](../../../definitions/#assessor){ data-preview }
 ### Mixed Methods Evaluation
 
 ??? abstract "FRC-IAS-MME"
@@ -82,7 +80,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 
     ---
-    **Terms:** [Assessor](../../../definitions/#assessor){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
+    **Terms:** [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
 ### Assessment Summary
 
 ??? abstract "FRC-IAS-SUM"
@@ -98,7 +96,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 
     ---
-    **Terms:** [Assessor](../../../definitions/#assessor){ data-preview }, [Certification Data](../../../definitions/#certification-data){ data-preview }, [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }
+    **Terms:** [Certification Data](../../../definitions/#certification-data){ data-preview }, [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }
 ### Overall Summary of Assessment
 
 ??? abstract "FRC-IAS-OSA"
@@ -118,7 +116,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
     _**Note:** FedRAMP will make the final FedRAMP Certification decision based on the assessor's findings and other relevant information._
 
     ---
-    **Terms:** [All Necessary Assessors](../../../definitions/#all-necessary-assessors){ data-preview }, [Assessor](../../../definitions/#assessor){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
+    **Terms:** [All Necessary Assessors](../../../definitions/#all-necessary-assessors){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
 ### Engage Provider Experts
 
 ??? abstract "FRC-IAS-EPX"
@@ -133,8 +131,6 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
     Assessors SHOULD engage provider experts in discussion to understand the decisions made by the provider and inform expert qualitative assessment, and SHOULD perform independent research to test such information as part of the expert qualitative assessment process.
 
 
-    ---
-    **Terms:** [Assessor](../../../definitions/#assessor){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }
 ### Sharing Advice
 
 ??? abstract "FRC-IAS-SHA"
@@ -150,4 +146,4 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 
     ---
-    **Terms:** [Assessor](../../../definitions/#assessor){ data-preview }, [Likely](../../../definitions/#likely){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
+    **Terms:** [Likely](../../../definitions/#likely){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }

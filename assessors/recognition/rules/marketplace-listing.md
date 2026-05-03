@@ -30,8 +30,6 @@ These rules apply to independent assessment services seeking a listing in the Fe
     Assessors MUST obtain and maintain FedRAMP Recognition to be listed in the FedRAMP Marketplace.
 
 
-    ---
-    **Terms:** [Assessor](../../../definitions/#assessor){ data-preview }
 ### Website Requirements for Assessors
 
 ??? abstract "MKT-IAS-WEB"
@@ -52,7 +50,7 @@ These rules apply to independent assessment services seeking a listing in the Fe
 
 
     ---
-    **Terms:** [Assessor](../../../definitions/#assessor){ data-preview }, [Machine-Readable](../../../definitions/#machine-readable){ data-preview }
+    **Terms:** [Machine-Readable](../../../definitions/#machine-readable){ data-preview }
 ### Listing Requests for Assessors
 
 ??? abstract "MKT-IAS-LRQ"
@@ -65,7 +63,3 @@ These rules apply to independent assessment services seeking a listing in the Fe
 
 !!! quote ""
     Assessors MUST complete the Assessor Listing Request Form at https://fedramp.gov/forms/assessor-listing-request/ to request listing in the FedRAMP Marketplace.
-
-
-    ---
-    **Terms:** [Assessor](../../../definitions/#assessor){ data-preview }

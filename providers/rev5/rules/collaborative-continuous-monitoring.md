@@ -37,7 +37,7 @@ These rules for Ongoing Certification Reports apply to providers with any type o
 
 
     ---
-    **Terms:** [Accepted Vulnerability](../../../definitions/#accepted-vulnerability){ data-preview }, [Agency](../../../definitions/#agency){ data-preview }, [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Certification Data](../../../definitions/#certification-data){ data-preview }, [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Ongoing Certification](../../../definitions/#ongoing-certification){ data-preview }, [Ongoing Certification Report (OCR)](../../../definitions/#ongoing-certification-report-ocr){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Transformative Change](../../../definitions/#transformative-change){ data-preview }, [Vulnerability](../../../definitions/#vulnerability){ data-preview }
+    **Terms:** [Accepted Vulnerability](../../../definitions/#accepted-vulnerability){ data-preview }, [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Certification Data](../../../definitions/#certification-data){ data-preview }, [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Ongoing Certification](../../../definitions/#ongoing-certification){ data-preview }, [Ongoing Certification Report (OCR)](../../../definitions/#ongoing-certification-report-ocr){ data-preview }, [Transformative Change](../../../definitions/#transformative-change){ data-preview }, [Vulnerability](../../../definitions/#vulnerability){ data-preview }
 ### Next Report Date
 
 ??? abstract "CCM-OCR-NRD"
@@ -53,7 +53,7 @@ These rules for Ongoing Certification Reports apply to providers with any type o
 
 
     ---
-    **Terms:** [Certification Data](../../../definitions/#certification-data){ data-preview }, [Ongoing Certification](../../../definitions/#ongoing-certification){ data-preview }, [Ongoing Certification Report (OCR)](../../../definitions/#ongoing-certification-report-ocr){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }
+    **Terms:** [Certification Data](../../../definitions/#certification-data){ data-preview }, [Ongoing Certification](../../../definitions/#ongoing-certification){ data-preview }, [Ongoing Certification Report (OCR)](../../../definitions/#ongoing-certification-report-ocr){ data-preview }
 ### Feedback Mechanism
 
 ??? abstract "CCM-OCR-FBM"
@@ -73,7 +73,7 @@ These rules for Ongoing Certification Reports apply to providers with any type o
     _**Note:** This could be email by default but providers are encouraged to consider something more interactive as appropriate._
 
     ---
-    **Terms:** [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Ongoing Certification](../../../definitions/#ongoing-certification){ data-preview }, [Ongoing Certification Report (OCR)](../../../definitions/#ongoing-certification-report-ocr){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }
+    **Terms:** [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Ongoing Certification](../../../definitions/#ongoing-certification){ data-preview }, [Ongoing Certification Report (OCR)](../../../definitions/#ongoing-certification-report-ocr){ data-preview }
 ### Anonymized Feedback Summary
 
 ??? abstract "CCM-OCR-AFS"
@@ -93,7 +93,7 @@ These rules for Ongoing Certification Reports apply to providers with any type o
     _**Note:** This is intended to encourage sharing of information and decrease the burden on the cloud service provider - providing this summary will reduce duplicate questions from agencies and ensure FedRAMP has access to this information. It is generally in the provider's interest to update this addendum frequently throughout the quarter._
 
     ---
-    **Terms:** [Agency](../../../definitions/#agency){ data-preview }, [Ongoing Certification](../../../definitions/#ongoing-certification){ data-preview }, [Ongoing Certification Report (OCR)](../../../definitions/#ongoing-certification-report-ocr){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }
+    **Terms:** [Ongoing Certification](../../../definitions/#ongoing-certification){ data-preview }, [Ongoing Certification Report (OCR)](../../../definitions/#ongoing-certification-report-ocr){ data-preview }
 ### Limit Sensitive Information
 
 ??? abstract "CCM-OCR-LSI"
@@ -109,7 +109,7 @@ These rules for Ongoing Certification Reports apply to providers with any type o
 
 
     ---
-    **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Likely](../../../definitions/#likely){ data-preview }, [Ongoing Certification](../../../definitions/#ongoing-certification){ data-preview }, [Ongoing Certification Report (OCR)](../../../definitions/#ongoing-certification-report-ocr){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }
+    **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Likely](../../../definitions/#likely){ data-preview }, [Ongoing Certification](../../../definitions/#ongoing-certification){ data-preview }, [Ongoing Certification Report (OCR)](../../../definitions/#ongoing-certification-report-ocr){ data-preview }
 ### Spread Out Reports
 
 ??? abstract "CCM-OCR-SOR"
@@ -129,7 +129,7 @@ These rules for Ongoing Certification Reports apply to providers with any type o
     _**Note:** This recommendation is intended to discourage hundreds of cloud service providers from releasing their Ongoing Certification Reports during the first or last week of each quarter because that is the easiest way for a single provider to track this deliverable; the result would overwhelm agencies with many cloud services. Widely used cloud service providers are encouraged to work with their customers to identify ideal timeframes for this cycle._
 
     ---
-    **Terms:** [Agency](../../../definitions/#agency){ data-preview }, [Ongoing Certification](../../../definitions/#ongoing-certification){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Regularly](../../../definitions/#regularly){ data-preview }
+    **Terms:** [Ongoing Certification](../../../definitions/#ongoing-certification){ data-preview }, [Regularly](../../../definitions/#regularly){ data-preview }
 ### Responsible Public Sharing
 
 ??? abstract "CCM-OCR-RPS"
@@ -145,7 +145,7 @@ These rules for Ongoing Certification Reports apply to providers with any type o
 
 
     ---
-    **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Likely](../../../definitions/#likely){ data-preview }, [Ongoing Certification](../../../definitions/#ongoing-certification){ data-preview }, [Ongoing Certification Report (OCR)](../../../definitions/#ongoing-certification-report-ocr){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Responsibly](../../../definitions/#responsibly){ data-preview }
+    **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Likely](../../../definitions/#likely){ data-preview }, [Ongoing Certification](../../../definitions/#ongoing-certification){ data-preview }, [Ongoing Certification Report (OCR)](../../../definitions/#ongoing-certification-report-ocr){ data-preview }, [Responsibly](../../../definitions/#responsibly){ data-preview }
 ## Quarterly Reviews
 
 These rules for Quarterly Reviews apply to providers with any type of FedRAMP Certification.
@@ -183,7 +183,7 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
 
 
     ---
-    **Terms:** [Agency](../../../definitions/#agency){ data-preview }, [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Ongoing Certification](../../../definitions/#ongoing-certification){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Quarterly Review](../../../definitions/#quarterly-review){ data-preview }
+    **Terms:** [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Ongoing Certification](../../../definitions/#ongoing-certification){ data-preview }, [Quarterly Review](../../../definitions/#quarterly-review){ data-preview }
 ### Meeting Registration Info
 
 ??? abstract "CCM-QTR-REG"
@@ -199,7 +199,7 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
 
 
     ---
-    **Terms:** [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Quarterly Review](../../../definitions/#quarterly-review){ data-preview }
+    **Terms:** [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Quarterly Review](../../../definitions/#quarterly-review){ data-preview }
 ### Next Review Date
 
 ??? abstract "CCM-QTR-NRD"
@@ -215,7 +215,7 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
 
 
     ---
-    **Terms:** [Certification Data](../../../definitions/#certification-data){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Quarterly Review](../../../definitions/#quarterly-review){ data-preview }
+    **Terms:** [Certification Data](../../../definitions/#certification-data){ data-preview }, [Quarterly Review](../../../definitions/#quarterly-review){ data-preview }
 ### No Irresponsible Disclosure
 
 ??? abstract "CCM-QTR-NID"
@@ -231,7 +231,7 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
 
 
     ---
-    **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Likely](../../../definitions/#likely){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Quarterly Review](../../../definitions/#quarterly-review){ data-preview }
+    **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Likely](../../../definitions/#likely){ data-preview }, [Quarterly Review](../../../definitions/#quarterly-review){ data-preview }
 ### Schedule Around Reports
 
 ??? abstract "CCM-QTR-SAR"
@@ -247,7 +247,7 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
 
 
     ---
-    **Terms:** [Ongoing Certification](../../../definitions/#ongoing-certification){ data-preview }, [Ongoing Certification Report (OCR)](../../../definitions/#ongoing-certification-report-ocr){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Quarterly Review](../../../definitions/#quarterly-review){ data-preview }, [Regularly](../../../definitions/#regularly){ data-preview }
+    **Terms:** [Ongoing Certification](../../../definitions/#ongoing-certification){ data-preview }, [Ongoing Certification Report (OCR)](../../../definitions/#ongoing-certification-report-ocr){ data-preview }, [Quarterly Review](../../../definitions/#quarterly-review){ data-preview }, [Regularly](../../../definitions/#regularly){ data-preview }
 ### Additional Content
 
 ??? abstract "CCM-QTR-ACT"
@@ -263,7 +263,7 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
 
 
     ---
-    **Terms:** [Agency](../../../definitions/#agency){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Quarterly Review](../../../definitions/#quarterly-review){ data-preview }
+    **Terms:** [Quarterly Review](../../../definitions/#quarterly-review){ data-preview }
 ### Record/Transcribe Reviews
 
 ??? abstract "CCM-QTR-RTR"
@@ -279,7 +279,7 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
 
 
     ---
-    **Terms:** [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Quarterly Review](../../../definitions/#quarterly-review){ data-preview }
+    **Terms:** [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Quarterly Review](../../../definitions/#quarterly-review){ data-preview }
 ### Restrict Third Parties
 
 ??? abstract "CCM-QTR-RTP"
@@ -299,7 +299,7 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
     _**Note:** This is because agencies are less likely to actively participate in meetings with third parties; the cloud service provider's independent assessor should be considered relevant by default._
 
     ---
-    **Terms:** [Agency](../../../definitions/#agency){ data-preview }, [Assessor](../../../definitions/#assessor){ data-preview }, [Likely](../../../definitions/#likely){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Quarterly Review](../../../definitions/#quarterly-review){ data-preview }
+    **Terms:** [Likely](../../../definitions/#likely){ data-preview }, [Quarterly Review](../../../definitions/#quarterly-review){ data-preview }
 ### Share Recordings Responsibly
 
 ??? abstract "CCM-QTR-SRR"
@@ -315,7 +315,7 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
 
 
     ---
-    **Terms:** [Agency](../../../definitions/#agency){ data-preview }, [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Likely](../../../definitions/#likely){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Quarterly Review](../../../definitions/#quarterly-review){ data-preview }, [Responsibly](../../../definitions/#responsibly){ data-preview }
+    **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Likely](../../../definitions/#likely){ data-preview }, [Quarterly Review](../../../definitions/#quarterly-review){ data-preview }, [Responsibly](../../../definitions/#responsibly){ data-preview }
 ### Share Content Responsibly
 
 ??? abstract "CCM-QTR-SCR"
@@ -331,4 +331,4 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
 
 
     ---
-    **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Likely](../../../definitions/#likely){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Quarterly Review](../../../definitions/#quarterly-review){ data-preview }, [Responsibly](../../../definitions/#responsibly){ data-preview }
+    **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Likely](../../../definitions/#likely){ data-preview }, [Quarterly Review](../../../definitions/#quarterly-review){ data-preview }, [Responsibly](../../../definitions/#responsibly){ data-preview }

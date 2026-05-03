@@ -39,7 +39,7 @@ These rules apply to providers with any type of FedRAMP Certification.
     - _Unless otherwise notified, FedRAMP will use the listed Security Email on the Marketplace for these notifications._
     - _If a provider establishes a new inbox in reaction to this guidance that is different from the Security Email then they must follow the FSI-CSO-NOC rules to notify FedRAMP._
     ---
-    **Terms:** [FedRAMP Security Inbox](../../../definitions/#fedramp-security-inbox){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }
+    **Terms:** [FedRAMP Security Inbox](../../../definitions/#fedramp-security-inbox){ data-preview }
 ### Notification of Changes
 
 ??? abstract "FSI-CSO-NOC"
@@ -57,7 +57,7 @@ These rules apply to providers with any type of FedRAMP Certification.
 
 
     ---
-    **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [FedRAMP Security Inbox](../../../definitions/#fedramp-security-inbox){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }
+    **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [FedRAMP Security Inbox](../../../definitions/#fedramp-security-inbox){ data-preview }
 ### Trust @fedramp.gov and @gsa.gov
 
 ??? abstract "FSI-CSO-TFG"
@@ -73,7 +73,7 @@ These rules apply to providers with any type of FedRAMP Certification.
 
 
     ---
-    **Terms:** [FedRAMP Security Inbox](../../../definitions/#fedramp-security-inbox){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }
+    **Terms:** [FedRAMP Security Inbox](../../../definitions/#fedramp-security-inbox){ data-preview }
 ### Receive Email Without Disruption
 
 ??? abstract "FSI-CSO-RCV"
@@ -92,8 +92,6 @@ These rules apply to providers with any type of FedRAMP Certification.
 
     _**Note:** This requirement is intended to prevent cloud service providers from requiring FedRAMP to complete a CAPTCHA, log into a customer portal, or otherwise take service-specific actions that might prevent the security team from receiving the message._
 
-    ---
-    **Terms:** [Provider](../../../definitions/#provider){ data-preview }
 ### Complete Required Actions
 
 ??? abstract "FSI-CSO-CRA"
@@ -112,8 +110,6 @@ These rules apply to providers with any type of FedRAMP Certification.
 
     _**Note:** Timeframes may vary by FedRAMP Certification class._
 
-    ---
-    **Terms:** [Provider](../../../definitions/#provider){ data-preview }
 ### Emergency Message Routing
 
 ??? abstract "FSI-CSO-EMR"
@@ -132,8 +128,6 @@ These rules apply to providers with any type of FedRAMP Certification.
 
     _**Note:** Senior security officials are determined by the provider._
 
-    ---
-    **Terms:** [Provider](../../../definitions/#provider){ data-preview }
 ### Important Message Actions
 
 ??? abstract "FSI-CSO-IMA"
@@ -152,8 +146,6 @@ These rules apply to providers with any type of FedRAMP Certification.
 
     _**Note:** Timeframes may vary by FedRAMP Certification class._
 
-    ---
-    **Terms:** [Provider](../../../definitions/#provider){ data-preview }
 ### Acknowledge Receipt
 
 ??? abstract "FSI-CSO-ACK"
@@ -169,4 +161,4 @@ These rules apply to providers with any type of FedRAMP Certification.
 
 
     ---
-    **Terms:** [FedRAMP Security Inbox](../../../definitions/#fedramp-security-inbox){ data-preview }, [Promptly](../../../definitions/#promptly){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }
+    **Terms:** [FedRAMP Security Inbox](../../../definitions/#fedramp-security-inbox){ data-preview }, [Promptly](../../../definitions/#promptly){ data-preview }

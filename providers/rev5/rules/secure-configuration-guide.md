@@ -40,7 +40,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
     - _These rules refer to this guidance as a Secure Configuration Guide but cloud service providers may make this guidance available in various appropriate forms that provide the best customer experience._
     - _This guidance should explain how top-level administrative accounts are named and referred to in the cloud service offering._
     ---
-    **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Privileged Account](../../../definitions/#privileged-account){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Top-Level Administrative Account](../../../definitions/#top-level-administrative-account){ data-preview }
+    **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Privileged Account](../../../definitions/#privileged-account){ data-preview }, [Top-Level Administrative Account](../../../definitions/#top-level-administrative-account){ data-preview }
 ### Use Instructions
 
 ??? abstract "SCG-CSO-AUP"
@@ -60,7 +60,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
     _**Note:** These instructions may appear in a variety of ways; it is up to the provider to do so in the most appropriate and effective ways for their specific customer needs._
 
     ---
-    **Terms:** [Certification Package](../../../definitions/#certification-package){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }
+    **Terms:** [Certification Package](../../../definitions/#certification-package){ data-preview }
 ### Public Guidance
 
 ??? abstract "SCG-CSO-PUB"
@@ -75,8 +75,6 @@ These rules apply to providers with FedRAMP Certifications of any type.
     Providers SHOULD make the Secure Configuration Guide available publicly.
 
 
-    ---
-    **Terms:** [Provider](../../../definitions/#provider){ data-preview }
 ### Secure Defaults
 
 ??? abstract "SCG-CSO-SDF"
@@ -92,7 +90,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 
     ---
-    **Terms:** [Privileged Account](../../../definitions/#privileged-account){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Top-Level Administrative Account](../../../definitions/#top-level-administrative-account){ data-preview }
+    **Terms:** [Privileged Account](../../../definitions/#privileged-account){ data-preview }, [Top-Level Administrative Account](../../../definitions/#top-level-administrative-account){ data-preview }
 ## Enhanced Capabilities
 
 These recommendations apply to providers with FedRAMP Certifications of any type.
@@ -112,7 +110,7 @@ These recommendations apply to providers with FedRAMP Certifications of any type
 
 
     ---
-    **Terms:** [Privileged Account](../../../definitions/#privileged-account){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Top-Level Administrative Account](../../../definitions/#top-level-administrative-account){ data-preview }
+    **Terms:** [Privileged Account](../../../definitions/#privileged-account){ data-preview }, [Top-Level Administrative Account](../../../definitions/#top-level-administrative-account){ data-preview }
 ### Export Capability
 
 ??? abstract "SCG-ENH-EXP"
@@ -128,7 +126,7 @@ These recommendations apply to providers with FedRAMP Certifications of any type
 
 
     ---
-    **Terms:** [Machine-Readable](../../../definitions/#machine-readable){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }
+    **Terms:** [Machine-Readable](../../../definitions/#machine-readable){ data-preview }
 ### API Capability
 
 ??? abstract "SCG-ENH-API"
@@ -143,8 +141,6 @@ These recommendations apply to providers with FedRAMP Certifications of any type
     Providers SHOULD offer the capability to view and adjust security settings via an API or similar capability.
 
 
-    ---
-    **Terms:** [Provider](../../../definitions/#provider){ data-preview }
 ### Machine-Readable Guidance
 
 ??? abstract "SCG-ENH-MRG"
@@ -160,7 +156,7 @@ These recommendations apply to providers with FedRAMP Certifications of any type
 
 
     ---
-    **Terms:** [Machine-Readable](../../../definitions/#machine-readable){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }
+    **Terms:** [Machine-Readable](../../../definitions/#machine-readable){ data-preview }
 ### Versioning and Release History
 
 ??? abstract "SCG-ENH-VRH"
@@ -176,4 +172,4 @@ These recommendations apply to providers with FedRAMP Certifications of any type
 
 
     ---
-    **Terms:** [Privileged Account](../../../definitions/#privileged-account){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Top-Level Administrative Account](../../../definitions/#top-level-administrative-account){ data-preview }
+    **Terms:** [Privileged Account](../../../definitions/#privileged-account){ data-preview }, [Top-Level Administrative Account](../../../definitions/#top-level-administrative-account){ data-preview }

@@ -34,8 +34,6 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
     _**Note:** Anyone at GSA can send email from @fedramp.gov or @gsa.gov - FedRAMP team members will typically have "FedRAMP" or "Q20B" in their name but this is not universal or enforceable. The nature of government enterprise IT services makes it difficult for FedRAMP to isolate FedRAMP-specific team members with enforceable identifiers._
 
-    ---
-    **Terms:** [Provider](../definitions/#provider){ data-preview }
 ### Criticality Designators
 
 ??? abstract "FSI-FRP-CDS"
@@ -59,7 +57,7 @@ These rules apply to FedRAMP when communicating with cloud service providers.
     _**Note:** Messages sent by FedRAMP without one of these designators are considered general communications and do not require an elevated reaction; these may be resolved in the normal course of business by the cloud service provider._
 
     ---
-    **Terms:** [FedRAMP Security Inbox](../definitions/#fedramp-security-inbox){ data-preview }, [Incident](../definitions/#incident){ data-preview }, [Provider](../definitions/#provider){ data-preview }
+    **Terms:** [FedRAMP Security Inbox](../definitions/#fedramp-security-inbox){ data-preview }, [Incident](../definitions/#incident){ data-preview }
 ### Use FedRAMP_Security Email in Emergencies
 
 ??? abstract "FSI-FRP-UFS"
@@ -138,7 +136,7 @@ These rules apply to FedRAMP when communicating with cloud service providers.
     _**Note:** FedRAMP Class D Certified cloud service providers are expected to address Emergency messages (including tests) from FedRAMP with a reaction time appropriate to operating a service where failure to react rapidly might have a severe or catastrophic adverse effect on the U.S. Government; some Emergency messages may require faster reaction and all such messages should be addressed as quickly as possible._
 
     ---
-    **Terms:** [Catastrophic Adverse Effect](../definitions/#catastrophic-adverse-effect){ data-preview }, [FedRAMP Certified](../definitions/#fedramp-certified){ data-preview }, [Provider](../definitions/#provider){ data-preview }
+    **Terms:** [Catastrophic Adverse Effect](../definitions/#catastrophic-adverse-effect){ data-preview }, [FedRAMP Certified](../definitions/#fedramp-certified){ data-preview }
 ### Explain Corrective Actions
 
 ??? abstract "FSI-FRP-COR"
@@ -165,7 +163,3 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 !!! quote ""
     FedRAMP MAY track and publicly share the time required by cloud service providers to take the actions specified in messages that require an elevated reaction.
-
-
-    ---
-    **Terms:** [Provider](../definitions/#provider){ data-preview }

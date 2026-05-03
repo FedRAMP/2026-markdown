@@ -40,7 +40,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 
     ---
-    **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Incident](../../../definitions/#incident){ data-preview }, [Machine-Readable](../../../definitions/#machine-readable){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }
+    **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Incident](../../../definitions/#incident){ data-preview }, [Machine-Readable](../../../definitions/#machine-readable){ data-preview }
 ### Evaluate Federal Reportability
 
 ??? abstract "ICP-CSO-EFR"
@@ -60,7 +60,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
     _**Note:** An incident that meets this test is a federal reportable incident._
 
     ---
-    **Terms:** [Federal Customer Data](../../../definitions/#federal-customer-data){ data-preview }, [Federal Reportable Incident](../../../definitions/#federal-reportable-incident){ data-preview }, [Incident](../../../definitions/#incident){ data-preview }, [Likely](../../../definitions/#likely){ data-preview }, [Promptly](../../../definitions/#promptly){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }
+    **Terms:** [Federal Customer Data](../../../definitions/#federal-customer-data){ data-preview }, [Federal Reportable Incident](../../../definitions/#federal-reportable-incident){ data-preview }, [Incident](../../../definitions/#incident){ data-preview }, [Likely](../../../definitions/#likely){ data-preview }, [Promptly](../../../definitions/#promptly){ data-preview }
 ### Estimate Federal Impact
 
 ??? abstract "ICP-CSO-EFI"
@@ -82,7 +82,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 
     ---
-    **Terms:** [Agency](../../../definitions/#agency){ data-preview }, [Catastrophic Adverse Effect](../../../definitions/#catastrophic-adverse-effect){ data-preview }, [Federal Reportable Incident](../../../definitions/#federal-reportable-incident){ data-preview }, [Incident](../../../definitions/#incident){ data-preview }, [Limited Adverse Effect](../../../definitions/#limited-adverse-effect){ data-preview }, [Negligible Adverse Effect](../../../definitions/#negligible-adverse-effect){ data-preview }, [Potential Adverse Impact](../../../definitions/#potential-adverse-impact){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Serious Adverse Effect](../../../definitions/#serious-adverse-effect){ data-preview }
+    **Terms:** [Catastrophic Adverse Effect](../../../definitions/#catastrophic-adverse-effect){ data-preview }, [Federal Reportable Incident](../../../definitions/#federal-reportable-incident){ data-preview }, [Incident](../../../definitions/#incident){ data-preview }, [Limited Adverse Effect](../../../definitions/#limited-adverse-effect){ data-preview }, [Negligible Adverse Effect](../../../definitions/#negligible-adverse-effect){ data-preview }, [Potential Adverse Impact](../../../definitions/#potential-adverse-impact){ data-preview }, [Serious Adverse Effect](../../../definitions/#serious-adverse-effect){ data-preview }
 ### Notify All Affected Parties
 
 ??? abstract "ICP-CSO-AAP"
@@ -102,7 +102,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 
     ---
-    **Terms:** [Agency](../../../definitions/#agency){ data-preview }, [All Affected Parties](../../../definitions/#all-affected-parties){ data-preview }, [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Federal Reportable Incident](../../../definitions/#federal-reportable-incident){ data-preview }, [Incident](../../../definitions/#incident){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Responsibly](../../../definitions/#responsibly){ data-preview }, [Trust Center](../../../definitions/#trust-center){ data-preview }
+    **Terms:** [All Affected Parties](../../../definitions/#all-affected-parties){ data-preview }, [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Federal Reportable Incident](../../../definitions/#federal-reportable-incident){ data-preview }, [Incident](../../../definitions/#incident){ data-preview }, [Responsibly](../../../definitions/#responsibly){ data-preview }, [Trust Center](../../../definitions/#trust-center){ data-preview }
 ### Notify Cybersecurity and Infrastructure Security Agency
 
 ??? abstract "ICP-CSO-CSA"
@@ -121,7 +121,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
     **Reference:** [Cybersecurity and Infrastructure Security Agency Federal Incident Notification Guidelines](https://www.cisa.gov/federal-incident-notification-guidelines)
 
     ---
-    **Terms:** [Agency](../../../definitions/#agency){ data-preview }, [Federal Customer Data](../../../definitions/#federal-customer-data){ data-preview }, [Incident](../../../definitions/#incident){ data-preview }, [Likely](../../../definitions/#likely){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Responsibly](../../../definitions/#responsibly){ data-preview }
+    **Terms:** [Federal Customer Data](../../../definitions/#federal-customer-data){ data-preview }, [Incident](../../../definitions/#incident){ data-preview }, [Likely](../../../definitions/#likely){ data-preview }, [Responsibly](../../../definitions/#responsibly){ data-preview }
 ### Initial Incident Report
 
 ??? abstract "ICP-CSO-IIR"
@@ -145,7 +145,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 
     ---
-    **Terms:** [Agency](../../../definitions/#agency){ data-preview }, [All Affected Parties](../../../definitions/#all-affected-parties){ data-preview }, [Federal Reportable Incident](../../../definitions/#federal-reportable-incident){ data-preview }, [Incident](../../../definitions/#incident){ data-preview }, [Initial Incident Report (IIR)](../../../definitions/#initial-incident-report-iir){ data-preview }, [Potential Adverse Impact](../../../definitions/#potential-adverse-impact){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Responsibly](../../../definitions/#responsibly){ data-preview }, [Vulnerability Response](../../../definitions/#vulnerability-response){ data-preview }
+    **Terms:** [All Affected Parties](../../../definitions/#all-affected-parties){ data-preview }, [Federal Reportable Incident](../../../definitions/#federal-reportable-incident){ data-preview }, [Incident](../../../definitions/#incident){ data-preview }, [Initial Incident Report (IIR)](../../../definitions/#initial-incident-report-iir){ data-preview }, [Potential Adverse Impact](../../../definitions/#potential-adverse-impact){ data-preview }, [Responsibly](../../../definitions/#responsibly){ data-preview }, [Vulnerability Response](../../../definitions/#vulnerability-response){ data-preview }
 ### Ongoing Incident Reports
 
 ??? abstract "ICP-CSO-OIR"
@@ -170,7 +170,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 
     ---
-    **Terms:** [Agency](../../../definitions/#agency){ data-preview }, [All Affected Parties](../../../definitions/#all-affected-parties){ data-preview }, [Federal Reportable Incident](../../../definitions/#federal-reportable-incident){ data-preview }, [Incident](../../../definitions/#incident){ data-preview }, [Ongoing Incident Report (OIR)](../../../definitions/#ongoing-incident-report-oir){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Responsibly](../../../definitions/#responsibly){ data-preview }, [Vulnerability](../../../definitions/#vulnerability){ data-preview }, [Vulnerability Response](../../../definitions/#vulnerability-response){ data-preview }
+    **Terms:** [All Affected Parties](../../../definitions/#all-affected-parties){ data-preview }, [Federal Reportable Incident](../../../definitions/#federal-reportable-incident){ data-preview }, [Incident](../../../definitions/#incident){ data-preview }, [Ongoing Incident Report (OIR)](../../../definitions/#ongoing-incident-report-oir){ data-preview }, [Responsibly](../../../definitions/#responsibly){ data-preview }, [Vulnerability](../../../definitions/#vulnerability){ data-preview }, [Vulnerability Response](../../../definitions/#vulnerability-response){ data-preview }
 ### Final Incident Report
 
 ??? abstract "ICP-CSO-FIR"
@@ -186,7 +186,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 
     ---
-    **Terms:** [All Affected Parties](../../../definitions/#all-affected-parties){ data-preview }, [Final Incident Report (FIR)](../../../definitions/#final-incident-report-fir){ data-preview }, [Incident](../../../definitions/#incident){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Responsibly](../../../definitions/#responsibly){ data-preview }
+    **Terms:** [All Affected Parties](../../../definitions/#all-affected-parties){ data-preview }, [Final Incident Report (FIR)](../../../definitions/#final-incident-report-fir){ data-preview }, [Incident](../../../definitions/#incident){ data-preview }, [Responsibly](../../../definitions/#responsibly){ data-preview }
 ### Incident Report Timeframes
 
 ??? abstract "ICP-CSO-IRT"
@@ -244,4 +244,4 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 
     ---
-    **Terms:** [All Affected Parties](../../../definitions/#all-affected-parties){ data-preview }, [Federal Reportable Incident](../../../definitions/#federal-reportable-incident){ data-preview }, [Incident](../../../definitions/#incident){ data-preview }, [Potential Adverse Impact](../../../definitions/#potential-adverse-impact){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }
+    **Terms:** [All Affected Parties](../../../definitions/#all-affected-parties){ data-preview }, [Federal Reportable Incident](../../../definitions/#federal-reportable-incident){ data-preview }, [Incident](../../../definitions/#incident){ data-preview }, [Potential Adverse Impact](../../../definitions/#potential-adverse-impact){ data-preview }

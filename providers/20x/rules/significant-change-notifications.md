@@ -34,7 +34,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
     _**Note:** These audit records must be available to FedRAMP on request; these records do not need to be included in the FedRAMP Certification package by default._
 
     ---
-    **Terms:** [Certification Package](../../../definitions/#certification-package){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Significant Change](../../../definitions/#significant-change){ data-preview }
+    **Terms:** [Certification Package](../../../definitions/#certification-package){ data-preview }, [Significant Change](../../../definitions/#significant-change){ data-preview }
 ### Required Information
 
 ??? abstract "SCN-CSO-INF"
@@ -65,7 +65,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
     _**Note:** Structure of the information may vary depending on how the provider tracks this internally._
 
     ---
-    **Terms:** [Assessor](../../../definitions/#assessor){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Significant Change](../../../definitions/#significant-change){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }, [Vulnerability](../../../definitions/#vulnerability){ data-preview }
+    **Terms:** [Significant Change](../../../definitions/#significant-change){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }, [Vulnerability](../../../definitions/#vulnerability){ data-preview }
 ### Historical Notifications
 
 ??? abstract "SCN-CSO-HIS"
@@ -81,7 +81,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 
     ---
-    **Terms:** [Certification Data](../../../definitions/#certification-data){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Significant Change](../../../definitions/#significant-change){ data-preview }
+    **Terms:** [Certification Data](../../../definitions/#certification-data){ data-preview }, [Significant Change](../../../definitions/#significant-change){ data-preview }
 ### Human and Machine-Readable
 
 ??? abstract "SCN-CSO-HRM"
@@ -101,7 +101,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
     _**Note:** During the SCN beta, many cloud service providers met this requirement by using carefully structured and organized csv files to meet human-readable and machine-readable requirements simultaneously._
 
     ---
-    **Terms:** [Machine-Readable](../../../definitions/#machine-readable){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Significant Change](../../../definitions/#significant-change){ data-preview }
+    **Terms:** [Machine-Readable](../../../definitions/#machine-readable){ data-preview }, [Significant Change](../../../definitions/#significant-change){ data-preview }
 ### Additional Relevant Information
 
 ??? abstract "SCN-CSO-ARI"
@@ -121,7 +121,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
     _**Note:** This allows providers to convey whatever additional information they think is relevant without worrying about negative consequences from not following an exact template._
 
     ---
-    **Terms:** [Provider](../../../definitions/#provider){ data-preview }, [Significant Change](../../../definitions/#significant-change){ data-preview }
+    **Terms:** [Significant Change](../../../definitions/#significant-change){ data-preview }
 ### Notification Mechanisms
 
 ??? abstract "SCN-CSO-NOM"
@@ -143,7 +143,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
     - _The sharing mechanism should be designed based on the needs of the provider and their customers and may vary between providers._
     - _The default sharing mechanism for most providers during the SCN beta was to send an email to agency customers and upload a copy of the notification to the provider's secure sharing location._
     ---
-    **Terms:** [Agency](../../../definitions/#agency){ data-preview }, [Certification Package](../../../definitions/#certification-package){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }
+    **Terms:** [Certification Package](../../../definitions/#certification-package){ data-preview }
 ### Emergency Changes
 
 ??? abstract "SCN-CSO-EMG"
@@ -163,7 +163,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
     _**Note:** Procedures for emergency changes should be documented in the FedRAMP Certification package._
 
     ---
-    **Terms:** [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Certification Package](../../../definitions/#certification-package){ data-preview }, [Incident](../../../definitions/#incident){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Significant Change](../../../definitions/#significant-change){ data-preview }, [Transformative Change](../../../definitions/#transformative-change){ data-preview }
+    **Terms:** [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Certification Package](../../../definitions/#certification-package){ data-preview }, [Incident](../../../definitions/#incident){ data-preview }, [Significant Change](../../../definitions/#significant-change){ data-preview }, [Transformative Change](../../../definitions/#transformative-change){ data-preview }
 ### Evaluate Changes
 
 ??? abstract "SCN-CSO-EVA"
@@ -185,7 +185,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 
     ---
-    **Terms:** [Adaptive Change](../../../definitions/#adaptive-change){ data-preview }, [Certification Class Change](../../../definitions/#certification-class-change){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Routine Recurring Change](../../../definitions/#routine-recurring-change){ data-preview }, [Significant Change](../../../definitions/#significant-change){ data-preview }, [Transformative Change](../../../definitions/#transformative-change){ data-preview }
+    **Terms:** [Adaptive Change](../../../definitions/#adaptive-change){ data-preview }, [Certification Class Change](../../../definitions/#certification-class-change){ data-preview }, [Routine Recurring Change](../../../definitions/#routine-recurring-change){ data-preview }, [Significant Change](../../../definitions/#significant-change){ data-preview }, [Transformative Change](../../../definitions/#transformative-change){ data-preview }
 ## Adaptive Changes
 
 These rules apply to all adaptive significant changes.
@@ -248,7 +248,7 @@ These rules apply to all adaptive significant changes.
 
 
     ---
-    **Terms:** [Adaptive Change](../../../definitions/#adaptive-change){ data-preview }, [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Regularly](../../../definitions/#regularly){ data-preview }, [Significant Change](../../../definitions/#significant-change){ data-preview }, [Vulnerability](../../../definitions/#vulnerability){ data-preview }
+    **Terms:** [Adaptive Change](../../../definitions/#adaptive-change){ data-preview }, [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Regularly](../../../definitions/#regularly){ data-preview }, [Significant Change](../../../definitions/#significant-change){ data-preview }, [Vulnerability](../../../definitions/#vulnerability){ data-preview }
 ## Routine Recurring Changes
 
 These rules apply to all routine recurring significant changes.
@@ -331,7 +331,7 @@ These rules apply to all routine recurring significant changes.
 
 
     ---
-    **Terms:** [Incident](../../../definitions/#incident){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Regularly](../../../definitions/#regularly){ data-preview }, [Routine Recurring Change](../../../definitions/#routine-recurring-change){ data-preview }, [Significant Change](../../../definitions/#significant-change){ data-preview }, [Vulnerability](../../../definitions/#vulnerability){ data-preview }
+    **Terms:** [Incident](../../../definitions/#incident){ data-preview }, [Regularly](../../../definitions/#regularly){ data-preview }, [Routine Recurring Change](../../../definitions/#routine-recurring-change){ data-preview }, [Significant Change](../../../definitions/#significant-change){ data-preview }, [Vulnerability](../../../definitions/#vulnerability){ data-preview }
 ## Transformative Changes
 
 These rules apply to all transformative significant changes.
@@ -355,7 +355,7 @@ These rules apply to all transformative significant changes.
 
 
     ---
-    **Terms:** [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Likely](../../../definitions/#likely){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Transformative Change](../../../definitions/#transformative-change){ data-preview }
+    **Terms:** [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Likely](../../../definitions/#likely){ data-preview }, [Transformative Change](../../../definitions/#transformative-change){ data-preview }
 ### Notification of Final Plans
 
 ??? abstract "SCN-TRF-NFP"
@@ -375,7 +375,7 @@ These rules apply to all transformative significant changes.
 
 
     ---
-    **Terms:** [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Transformative Change](../../../definitions/#transformative-change){ data-preview }
+    **Terms:** [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Transformative Change](../../../definitions/#transformative-change){ data-preview }
 ### Notification After Finishing
 
 ??? abstract "SCN-TRF-NAF"
@@ -395,7 +395,7 @@ These rules apply to all transformative significant changes.
 
 
     ---
-    **Terms:** [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Transformative Change](../../../definitions/#transformative-change){ data-preview }
+    **Terms:** [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Transformative Change](../../../definitions/#transformative-change){ data-preview }
 ### Notification After Verification
 
 ??? abstract "SCN-TRF-NAV"
@@ -419,7 +419,7 @@ These rules apply to all transformative significant changes.
 
 
     ---
-    **Terms:** [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Transformative Change](../../../definitions/#transformative-change){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }, [Vulnerability](../../../definitions/#vulnerability){ data-preview }
+    **Terms:** [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Transformative Change](../../../definitions/#transformative-change){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }, [Vulnerability](../../../definitions/#vulnerability){ data-preview }
 ### Update Documentation
 
 ??? abstract "SCN-TRF-UPD"
@@ -441,7 +441,7 @@ These rules apply to all transformative significant changes.
     _**Note:** This requirement is focused on service documentation like user guides, information listed in the marketplace, and other such materials; it does not require updating the system security plan or FedRAMP Certification package._
 
     ---
-    **Terms:** [Certification Package](../../../definitions/#certification-package){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Transformative Change](../../../definitions/#transformative-change){ data-preview }
+    **Terms:** [Certification Package](../../../definitions/#certification-package){ data-preview }, [Transformative Change](../../../definitions/#transformative-change){ data-preview }
 ### Third-Party Review
 
 ??? abstract "SCN-TRF-TPR"
@@ -492,4 +492,4 @@ These rules apply to all transformative significant changes.
 
 
     ---
-    **Terms:** [Assessor](../../../definitions/#assessor){ data-preview }, [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Significant Change](../../../definitions/#significant-change){ data-preview }, [Transformative Change](../../../definitions/#transformative-change){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }
+    **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Significant Change](../../../definitions/#significant-change){ data-preview }, [Transformative Change](../../../definitions/#transformative-change){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }

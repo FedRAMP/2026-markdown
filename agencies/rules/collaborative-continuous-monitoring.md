@@ -35,7 +35,7 @@ These rules for agencies apply to all agencies using a FedRAMP Certification.
     _**Note:** This is required by 44 USC § 35, OMB A-130, FIPS-200, and M-24-15._
 
     ---
-    **Terms:** [Agency](../../definitions/#agency){ data-preview }, [Cloud Service Offering](../../definitions/#cloud-service-offering){ data-preview }, [Ongoing Certification](../../definitions/#ongoing-certification){ data-preview }, [Ongoing Certification Report (OCR)](../../definitions/#ongoing-certification-report-ocr){ data-preview }
+    **Terms:** [Cloud Service Offering](../../definitions/#cloud-service-offering){ data-preview }, [Ongoing Certification](../../definitions/#ongoing-certification){ data-preview }, [Ongoing Certification Report (OCR)](../../definitions/#ongoing-certification-report-ocr){ data-preview }
 ### Notify FedRAMP of Concerns
 
 ??? abstract "CCM-AGM-NFR"
@@ -57,7 +57,7 @@ These rules for agencies apply to all agencies using a FedRAMP Certification.
     _**Note:** Agencies are required to notify FedRAMP by OMB Memorandum M-24-15 section IV (a)._
 
     ---
-    **Terms:** [Agency](../../definitions/#agency){ data-preview }, [Certification Data](../../definitions/#certification-data){ data-preview }, [Cloud Service Offering](../../definitions/#cloud-service-offering){ data-preview }, [Ongoing Certification](../../definitions/#ongoing-certification){ data-preview }, [Ongoing Certification Report (OCR)](../../definitions/#ongoing-certification-report-ocr){ data-preview }, [Quarterly Review](../../definitions/#quarterly-review){ data-preview }
+    **Terms:** [Certification Data](../../definitions/#certification-data){ data-preview }, [Cloud Service Offering](../../definitions/#cloud-service-offering){ data-preview }, [Ongoing Certification](../../definitions/#ongoing-certification){ data-preview }, [Ongoing Certification Report (OCR)](../../definitions/#ongoing-certification-report-ocr){ data-preview }, [Quarterly Review](../../definitions/#quarterly-review){ data-preview }
 ### Notify FedRAMP After Requests
 
 ??? abstract "CCM-AGM-NFA"
@@ -78,8 +78,6 @@ These rules for agencies apply to all agencies using a FedRAMP Certification.
 
     _**Note:** Agencies are required to notify FedRAMP by OMB Memorandum M-24-15 section IV (a)._
 
-    ---
-    **Terms:** [Agency](../../definitions/#agency){ data-preview }, [Provider](../../definitions/#provider){ data-preview }
 ### No Additional Requirements
 
 ??? abstract "CCM-AGM-NAR"
@@ -99,7 +97,7 @@ These rules for agencies apply to all agencies using a FedRAMP Certification.
     _**Note:** This is a statutory requirement in 44 USC § 3613 (e) related to the Presumption of Adequacy for a FedRAMP Certification._
 
     ---
-    **Terms:** [Agency](../../definitions/#agency){ data-preview }, [Certification Data](../../definitions/#certification-data){ data-preview }, [FedRAMP Certified](../../definitions/#fedramp-certified){ data-preview }, [Provider](../../definitions/#provider){ data-preview }
+    **Terms:** [Certification Data](../../definitions/#certification-data){ data-preview }, [FedRAMP Certified](../../definitions/#fedramp-certified){ data-preview }
 ### Consider Security Category
 
 ??? abstract "CCM-AGM-CSC"
@@ -115,7 +113,7 @@ These rules for agencies apply to all agencies using a FedRAMP Certification.
 
 
     ---
-    **Terms:** [Agency](../../definitions/#agency){ data-preview }, [Certification Data](../../definitions/#certification-data){ data-preview }, [Cloud Service Offering](../../definitions/#cloud-service-offering){ data-preview }, [Ongoing Certification](../../definitions/#ongoing-certification){ data-preview }, [Quarterly Review](../../definitions/#quarterly-review){ data-preview }, [Security Category](../../definitions/#security-category){ data-preview }
+    **Terms:** [Certification Data](../../definitions/#certification-data){ data-preview }, [Cloud Service Offering](../../definitions/#cloud-service-offering){ data-preview }, [Ongoing Certification](../../definitions/#ongoing-certification){ data-preview }, [Quarterly Review](../../definitions/#quarterly-review){ data-preview }, [Security Category](../../definitions/#security-category){ data-preview }
 ### Notify Provider of Concerns
 
 ??? abstract "CCM-AGM-NPC"
@@ -133,4 +131,4 @@ These rules for agencies apply to all agencies using a FedRAMP Certification.
 
 
     ---
-    **Terms:** [Agency](../../definitions/#agency){ data-preview }, [Certification Data](../../definitions/#certification-data){ data-preview }, [Cloud Service Offering](../../definitions/#cloud-service-offering){ data-preview }, [Ongoing Certification](../../definitions/#ongoing-certification){ data-preview }, [Ongoing Certification Report (OCR)](../../definitions/#ongoing-certification-report-ocr){ data-preview }, [Provider](../../definitions/#provider){ data-preview }, [Quarterly Review](../../definitions/#quarterly-review){ data-preview }
+    **Terms:** [Certification Data](../../definitions/#certification-data){ data-preview }, [Cloud Service Offering](../../definitions/#cloud-service-offering){ data-preview }, [Ongoing Certification](../../definitions/#ongoing-certification){ data-preview }, [Ongoing Certification Report (OCR)](../../definitions/#ongoing-certification-report-ocr){ data-preview }, [Quarterly Review](../../definitions/#quarterly-review){ data-preview }

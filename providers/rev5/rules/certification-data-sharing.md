@@ -48,7 +48,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
     _**Note:** Generally, this information should be available on a public webpage._
 
     ---
-    **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Machine-Readable](../../../definitions/#machine-readable){ data-preview }, [Ongoing Certification](../../../definitions/#ongoing-certification){ data-preview }, [Ongoing Certification Report (OCR)](../../../definitions/#ongoing-certification-report-ocr){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Security Category](../../../definitions/#security-category){ data-preview }, [Trust Center](../../../definitions/#trust-center){ data-preview }
+    **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Machine-Readable](../../../definitions/#machine-readable){ data-preview }, [Ongoing Certification](../../../definitions/#ongoing-certification){ data-preview }, [Ongoing Certification Report (OCR)](../../../definitions/#ongoing-certification-report-ocr){ data-preview }, [Security Category](../../../definitions/#security-category){ data-preview }, [Trust Center](../../../definitions/#trust-center){ data-preview }
 ### Service List
 
 ??? abstract "CDS-CSO-SVC"
@@ -64,7 +64,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 
     ---
-    **Terms:** [Certification Data](../../../definitions/#certification-data){ data-preview }, [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Security Category](../../../definitions/#security-category){ data-preview }
+    **Terms:** [Certification Data](../../../definitions/#certification-data){ data-preview }, [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Security Category](../../../definitions/#security-category){ data-preview }
 ### Use Trust Centers
 
 ??? abstract "CDS-CSO-UTC"
@@ -84,7 +84,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
     _**Note:** Rules for FedRAMP-Compatible Trust Centers are explained in the Certification Data Sharing Rules under the FedRAMP-Compatible Trust Centers section (id: CDS-TRC)._
 
     ---
-    **Terms:** [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Certification Data](../../../definitions/#certification-data){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Trust Center](../../../definitions/#trust-center){ data-preview }
+    **Terms:** [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Certification Data](../../../definitions/#certification-data){ data-preview }, [Trust Center](../../../definitions/#trust-center){ data-preview }
 ### Consistency Between Formats
 
 ??? abstract "CDS-CSO-CBF"
@@ -100,7 +100,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 
     ---
-    **Terms:** [Certification Data](../../../definitions/#certification-data){ data-preview }, [Machine-Readable](../../../definitions/#machine-readable){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }
+    **Terms:** [Certification Data](../../../definitions/#certification-data){ data-preview }, [Machine-Readable](../../../definitions/#machine-readable){ data-preview }
 ### Responsible Information Sharing
 
 ??? abstract "CDS-CSO-RIS"
@@ -154,7 +154,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 
     ---
-    **Terms:** [Agency](../../../definitions/#agency){ data-preview }, [Certification Data](../../../definitions/#certification-data){ data-preview }, [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Likely](../../../definitions/#likely){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }
+    **Terms:** [Certification Data](../../../definitions/#certification-data){ data-preview }, [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Likely](../../../definitions/#likely){ data-preview }
 ### Historical FedRAMP Certification Data
 
 ??? abstract "CDS-CSO-HAD"
@@ -179,7 +179,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
     _**Note:** Consolidating changes quarterly means that the historical status at the end of each quarter or at the time of the Ongoing Authorization Report or Quarterly Review is sufficient, instead of maintaining separate versions with every single change that took place throughout the quarter._
 
     ---
-    **Terms:** [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Certification Data](../../../definitions/#certification-data){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Quarterly Review](../../../definitions/#quarterly-review){ data-preview }
+    **Terms:** [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Certification Data](../../../definitions/#certification-data){ data-preview }, [Quarterly Review](../../../definitions/#quarterly-review){ data-preview }
 ### Per-Service Certification Materials
 
 ??? abstract "CDS-CSO-PSM"
@@ -215,8 +215,6 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
     - _Providers determine what they consider to be separate services, based on maximizing the customer experience for agencies who may only adopt some services and not others._
     - _Providers are encouraged to provide a single comprehensive set of materials for all shared aspects of the service offering and only provide separate materials for unique aspects of each service to minimize the burden on providers and agencies._
-    ---
-    **Terms:** [Agency](../../../definitions/#agency){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }
 ## FedRAMP-Compatible Trust Centers
 
 These rules apply to trust centers that are FedRAMP-compatible.
@@ -272,7 +270,7 @@ These rules apply to trust centers that are FedRAMP-compatible.
 
 
     ---
-    **Terms:** [Agency](../../../definitions/#agency){ data-preview }, [Certification Data](../../../definitions/#certification-data){ data-preview }, [Trust Center](../../../definitions/#trust-center){ data-preview }
+    **Terms:** [Certification Data](../../../definitions/#certification-data){ data-preview }, [Trust Center](../../../definitions/#trust-center){ data-preview }
 ### Access Logging
 
 ??? abstract "CDS-TRC-ACL"
@@ -340,7 +338,7 @@ These rules apply to providers that are using a FedRAMP-compatible trust center 
 
 
     ---
-    **Terms:** [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Certification Data](../../../definitions/#certification-data){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Trust Center](../../../definitions/#trust-center){ data-preview }
+    **Terms:** [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Certification Data](../../../definitions/#certification-data){ data-preview }, [Trust Center](../../../definitions/#trust-center){ data-preview }
 ### Agency Access
 
 ??? abstract "CDS-UTC-AGA"
@@ -356,7 +354,7 @@ These rules apply to providers that are using a FedRAMP-compatible trust center 
 
 
     ---
-    **Terms:** [Agency](../../../definitions/#agency){ data-preview }, [Certification Package](../../../definitions/#certification-package){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }
+    **Terms:** [Certification Package](../../../definitions/#certification-package){ data-preview }
 ### Agency Access Denial
 
 ??? abstract "CDS-UTC-AAD"
@@ -376,7 +374,7 @@ These rules apply to providers that are using a FedRAMP-compatible trust center 
 
 
     ---
-    **Terms:** [Agency](../../../definitions/#agency){ data-preview }, [Certification Data](../../../definitions/#certification-data){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }
+    **Terms:** [Certification Data](../../../definitions/#certification-data){ data-preview }
 ## Rev5-Specific Provider Responsibilities
 
 These rules apply to providers for FedRAMP Rev5 Certifications.
@@ -398,7 +396,7 @@ These rules apply to providers for FedRAMP Rev5 Certifications.
 
 
     ---
-    **Terms:** [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Certification Data](../../../definitions/#certification-data){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Trust Center](../../../definitions/#trust-center){ data-preview }
+    **Terms:** [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Certification Data](../../../definitions/#certification-data){ data-preview }, [Trust Center](../../../definitions/#trust-center){ data-preview }
 ### Structured Certification Data
 
 ??? abstract "CDS-CSL-SCD"
@@ -444,4 +442,4 @@ These rules apply to providers for FedRAMP Rev5 Certifications.
 
 
     ---
-    **Terms:** [Certification Data](../../../definitions/#certification-data){ data-preview }, [Machine-Readable](../../../definitions/#machine-readable){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }
+    **Terms:** [Certification Data](../../../definitions/#certification-data){ data-preview }, [Machine-Readable](../../../definitions/#machine-readable){ data-preview }

@@ -113,7 +113,7 @@ tags:
     **Related SP 800-53 Controls:** [SI-12.3](https://controlfreak.risk-redux.io/controls/SI-12(03)), [SI-18.4](https://controlfreak.risk-redux.io/controls/SI-18(04))
 
     ---
-    **Terms:** [Agency](../../../definitions/#agency){ data-preview }, [Federal Customer Data](../../../definitions/#federal-customer-data){ data-preview }, [Promptly](../../../definitions/#promptly){ data-preview }
+    **Terms:** [Federal Customer Data](../../../definitions/#federal-customer-data){ data-preview }, [Promptly](../../../definitions/#promptly){ data-preview }
 ### Securing Network Traffic
 
 ??? abstract "KSI-SVC-SNT"

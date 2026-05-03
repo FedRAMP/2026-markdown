@@ -67,7 +67,7 @@ tags:
     **Related SP 800-53 Controls:** [CP-2.3](https://controlfreak.risk-redux.io/controls/CP-02(03)), [CP-10](https://controlfreak.risk-redux.io/controls/CP-10)
 
     ---
-    **Terms:** [Persistently](../../../definitions/#persistently){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }
+    **Terms:** [Persistently](../../../definitions/#persistently){ data-preview }
 ### Testing Recovery Capabilities
 
 ??? abstract "KSI-RPL-TRC"

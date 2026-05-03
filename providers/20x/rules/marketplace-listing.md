@@ -39,7 +39,7 @@ These rules apply to providers seeking a listing in the FedRAMP Marketplace.
     - _FedRAMP will not list products or services that are outside the explicit statutory scope of FedRAMP; See MKT-FRP-SOF Scope of FedRAMP._
     - _Services used by private companies to meet other compliance requirements (such as CMMC) that do not also meet one of the above use cases are outside the scope of FedRAMP._
     ---
-    **Terms:** [Agency](../../../definitions/#agency){ data-preview }, [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Information Resource](../../../definitions/#information-resource){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Third-Party Information Resource](../../../definitions/#third-party-information-resource){ data-preview }
+    **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Information Resource](../../../definitions/#information-resource){ data-preview }, [Third-Party Information Resource](../../../definitions/#third-party-information-resource){ data-preview }
 ### Listing Requests for Providers
 
 ??? abstract "MKT-CSO-LRQ"
@@ -57,8 +57,6 @@ These rules apply to providers seeking a listing in the FedRAMP Marketplace.
 
     **Reference:** [FedRAMP Marketplace Provider Listing Request Form](https://fedramp.gov/forms)
 
-    ---
-    **Terms:** [Provider](../../../definitions/#provider){ data-preview }
 ## Provider Responsibilities for Preparation Phase Listings
 
 These rules apply to providers seeking a Preparation Phase listing in the FedRAMP Marketplace.
@@ -80,8 +78,6 @@ These rules apply to providers seeking a Preparation Phase listing in the FedRAM
     1. CCM: rules
 
 
-    ---
-    **Terms:** [Provider](../../../definitions/#provider){ data-preview }
 ### Demonstrating Continuous Progress
 
 ??? abstract "MKT-PRE-DCP"
@@ -101,7 +97,7 @@ These rules apply to providers seeking a Preparation Phase listing in the FedRAM
     _**Note:** This is an opportunity for a business to showcase its goals and progress, and should be seen as a marketing and customer experience challenge instead of a compliance challenge._
 
     ---
-    **Terms:** [Ongoing Certification](../../../definitions/#ongoing-certification){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }
+    **Terms:** [Ongoing Certification](../../../definitions/#ongoing-certification){ data-preview }
 ### Deadline for Assessment
 
 ??? abstract "MKT-PRE-DLA"
@@ -117,7 +113,3 @@ These rules apply to providers seeking a Preparation Phase listing in the FedRAM
 
     !!! warning "Corrective Actions"
         - If a provider fails to schedule an assessment for a FedRAMP Certification Class B, C, or D within 2 years of initial listing in the Preparation Phase, FedRAMP will remove their listing from the Marketplace until they provide evidence of a scheduled assessment.
-
-
-    ---
-    **Terms:** [Provider](../../../definitions/#provider){ data-preview }

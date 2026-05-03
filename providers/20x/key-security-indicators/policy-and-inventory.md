@@ -45,7 +45,7 @@ tags:
 
 
     ---
-    **Terms:** [Persistently](../../../definitions/#persistently){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }
+    **Terms:** [Persistently](../../../definitions/#persistently){ data-preview }
 ### Reviewing Investments in Security
 
 ??? abstract "KSI-PIY-RIS"
@@ -64,7 +64,7 @@ tags:
     **Related SP 800-53 Controls:** [AC-5](https://controlfreak.risk-redux.io/controls/AC-05), [CA-2](https://controlfreak.risk-redux.io/controls/CA-02), [CP-2.1](https://controlfreak.risk-redux.io/controls/CP-02(01)), [CP-4.1](https://controlfreak.risk-redux.io/controls/CP-04(01)), [IR-3.2](https://controlfreak.risk-redux.io/controls/IR-03(02)), [PM-3](https://controlfreak.risk-redux.io/controls/PM-03), [SA-2](https://controlfreak.risk-redux.io/controls/SA-02), [SA-3](https://controlfreak.risk-redux.io/controls/SA-03), [SR-2.1](https://controlfreak.risk-redux.io/controls/SR-02(01))
 
     ---
-    **Terms:** [Persistently](../../../definitions/#persistently){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }
+    **Terms:** [Persistently](../../../definitions/#persistently){ data-preview }
 ### Reviewing Security in the SDLC
 
 ??? abstract "KSI-PIY-RSD"
@@ -102,4 +102,4 @@ tags:
     **Related SP 800-53 Controls:** [RA-5.11](https://controlfreak.risk-redux.io/controls/RA-05(11))
 
     ---
-    **Terms:** [Persistently](../../../definitions/#persistently){ data-preview }, [Provider](../../../definitions/#provider){ data-preview }, [Vulnerability](../../../definitions/#vulnerability){ data-preview }
+    **Terms:** [Persistently](../../../definitions/#persistently){ data-preview }, [Vulnerability](../../../definitions/#vulnerability){ data-preview }
