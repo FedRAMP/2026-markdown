@@ -7,6 +7,8 @@
     "assessors/20x/rules/fedramp-certification.md",
     "assessors/recognition/rules/marketplace-listing.md",
     "assessors/rev5/rules/fedramp-certification.md",
+    "assessors/updating/deadlines/20x.md",
+    "assessors/updating/deadlines/rev5.md",
     "definitions.md",
     "providers/20x/key-security-indicators/change-management.md",
     "providers/20x/key-security-indicators/cloud-native-architecture.md",
@@ -47,6 +49,7 @@
     "responsibilities/incident-communications-procedures.md",
     "responsibilities/marketplace-listing.md",
     "responsibilities/significant-change-notifications.md",
-    "responsibilities/vulnerability-detection-and-response.md"
+    "responsibilities/vulnerability-detection-and-response.md",
+    "todo.md"
   ]
 }

@@ -1,5 +1,5 @@
 ---
-description: "A narrative overview of how to get started using FedRAMP that introduces folks to the rest of this section."
+description: "A narrative overview of how to get started using FedRAMP that introduces folks to the rest of this section. Diagrams?"
 purpose: "Help folks transition from landing into navigating the rest of the agency getting started section."
 google_doc: "https://docs.google.com/document/d/1UdOIjketHNMeQrpmDVJdX8KrdKClvVQ7stp97KEYw9I/edit?tab=t.zc2jswhzgoka"
 picto:
@@ -11,11 +11,11 @@ picto:
 
 ??? info inline end "Page Info"
 
-    **Description:** A narrative overview of how to get started using FedRAMP that introduces folks to the rest of this section.
+    **Description:** A narrative overview of how to get started using FedRAMP that introduces folks to the rest of this section. Diagrams?
     
     **Purpose:** Help folks transition from landing into navigating the rest of the agency getting started section.
 
-# Getting Started as a Federal Agency
+# Getting Started with FedRAMP as a Federal Agency
 
 ## Build Agency Policy
 
