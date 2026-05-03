@@ -7,11 +7,13 @@ tags:
 
 # Incident Communications Procedures
 
+The Incident Communications Procedures rules explain how providers must communicate incident information to FedRAMP, CISA, and government customers.
+
 
 ---
 
 
-## General Provider Responsibilities
+## General Provider Responsibilities {#general-provider-responsibilities}
 
 These rules apply to providers with FedRAMP Certifications of any type.
 

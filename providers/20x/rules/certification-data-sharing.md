@@ -7,11 +7,19 @@ tags:
 
 # Certification Data Sharing
 
+The Certification Data Sharing rules allow providers to store and share FedRAMP certification information through the platform they choose as long as it follows FedRAMP rules for access, accuracy, and transparency. This helps customers and the public review consistent, current security and compliance information while recognizing that the information usually remains the provider's intellectual property and is not federal information.
+
+**Rule Sections**
+
+- [General Provider Responsibilities](#general-provider-responsibilities)
+- [FedRAMP-Compatible Trust Centers](#fedramp-compatible-trust-centers)
+- [Using a Trust Center](#using-a-trust-center)
+
 
 ---
 
 
-## General Provider Responsibilities
+## General Provider Responsibilities {#general-provider-responsibilities}
 
 These rules apply to providers for FedRAMP Certifications of any type.
 
@@ -215,7 +223,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
     - _Providers determine what they consider to be separate services, based on maximizing the customer experience for agencies who may only adopt some services and not others._
     - _Providers are encouraged to provide a single comprehensive set of materials for all shared aspects of the service offering and only provide separate materials for unique aspects of each service to minimize the burden on providers and agencies._
-## FedRAMP-Compatible Trust Centers
+## FedRAMP-Compatible Trust Centers {#fedramp-compatible-trust-centers}
 
 These rules apply to trust centers that are FedRAMP-compatible.
 
@@ -319,7 +327,7 @@ These rules apply to trust centers that are FedRAMP-compatible.
 
     ---
     **Terms:** [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Certification Data](../../../definitions/#certification-data){ data-preview }, [Trust Center](../../../definitions/#trust-center){ data-preview }
-## Using a Trust Center
+## Using a Trust Center {#using-a-trust-center}
 
 These rules apply to providers that are using a FedRAMP-compatible trust center instead of USDA Connect; they DO NOT apply to providers using USDA Connect.
 

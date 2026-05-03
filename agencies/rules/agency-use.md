@@ -8,11 +8,19 @@ tags:
 
 # Agency Use of FedRAMP Certified Cloud Services (Needs Review)
 
+The Agency Use rules summarize the many demands made on agencies by the FedRAMP Authorization Act and OMB Memorandum M-24-15 in a simple, clear, easy-to-follow set of FedRAMP-style rules. These rules align agency policies, authorization letters, machine-readable tools, secure configuration review, continuous monitoring, and communication with FedRAMP so certifications can be reused consistently across government.
+
+**Rule Sections**
+
+- [General Agency Responsibilities](#general-agency-responsibilities)
+- [Use of FedRAMP Certifications](#use-of-fedramp-certifications)
+- [Agency Sponsored Certifications](#agency-sponsored-certifications)
+
 
 ---
 
 
-## General Agency Responsibilities
+## General Agency Responsibilities {#general-agency-responsibilities}
 
 These rules apply to agencies based on the FedRAMP Authorization Act, OMB M-24-15, and related FedRAMP policies.
 
@@ -181,7 +189,7 @@ These rules apply to agencies based on the FedRAMP Authorization Act, OMB M-24-1
 
     _**Note:** A shared FedRAMP agency inbox may follow an agency-specific format such as agency-fedramp@agency.gov._
 
-## Use of FedRAMP Certifications
+## Use of FedRAMP Certifications {#use-of-fedramp-certifications}
 
 These rules apply when agencies use FedRAMP Certifications to make agency authorization decisions.
 
@@ -381,7 +389,7 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
 
     ---
     **Terms:** [Certification Package](../../definitions/#certification-package){ data-preview }, [FedRAMP Certified](../../definitions/#fedramp-certified){ data-preview }, [Information Resource](../../definitions/#information-resource){ data-preview }
-## Agency Sponsored Certifications
+## Agency Sponsored Certifications {#agency-sponsored-certifications}
 
 These rules apply when an agency sponsors a FedRAMP Rev5 Certification after completing an agency authorization.
 

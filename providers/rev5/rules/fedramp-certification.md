@@ -7,11 +7,21 @@ tags:
 
 # FedRAMP Certification
 
+The FedRAMP Certification rules define how cloud service offerings obtain and maintain FedRAMP Certification across certification classes and paths. They give providers, assessors, agencies, and FedRAMP a common set of expectations for required rule sets, current evidence, independent verification and validation, and ongoing certification decisions.
+
+**Rule Sections**
+
+- [General Provider Responsibilities](#general-provider-responsibilities)
+- [FedRAMP Class A Certification Rules](#fedramp-class-a-certification-rules)
+- [Applying for FedRAMP Certification](#applying-for-fedramp-certification)
+- [Applying for FedRAMP Certification with an Agency Sponsor](#applying-for-fedramp-certification-with-an-agency-sponsor)
+- [Rev5-Specific Provider Responsibilities](#rev5-specific-provider-responsibilities)
+
 
 ---
 
 
-## General Provider Responsibilities
+## General Provider Responsibilities {#general-provider-responsibilities}
 
 These rules apply to cloud service providers obtaining and maintaining any FedRAMP Certification.
 
@@ -340,7 +350,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 
     ---
     **Terms:** [Likely](../../../definitions/#likely){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
-## FedRAMP Class A Certification Rules
+## FedRAMP Class A Certification Rules {#fedramp-class-a-certification-rules}
 
 These rules apply to providers seeking FedRAMP Class A Certifications.
 
@@ -450,7 +460,7 @@ These rules apply to providers seeking FedRAMP Class A Certifications.
 
     - _The only approved alternative security frameworks based on the SP 800-53 Revision 5 are FedRAMP Ready and GovRAMP._
     - _An independent assessment is not required for FedRAMP Rev5 Class A Certification._
-## Applying for FedRAMP Certification
+## Applying for FedRAMP Certification {#applying-for-fedramp-certification}
 
 These rules apply to cloud service providers who have met all other relevant rules and are ready to apply for any FedRAMP Certification.
 
@@ -521,7 +531,7 @@ These rules apply to cloud service providers who have met all other relevant rul
 
     ---
     **Terms:** [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
-## Applying for FedRAMP Certification with an Agency Sponsor
+## Applying for FedRAMP Certification with an Agency Sponsor {#applying-for-fedramp-certification-with-an-agency-sponsor}
 
 These rules apply to cloud service providers with an Agency Sponsor who have met all other relevant rules and are ready to apply for any FedRAMP Certification.
 
@@ -541,7 +551,7 @@ These rules apply to cloud service providers with an Agency Sponsor who have met
 
     ---
     **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }
-## Rev5-Specific Provider Responsibilities
+## Rev5-Specific Provider Responsibilities {#rev5-specific-provider-responsibilities}
 
 These rules apply to providers for FedRAMP Rev5 Certifications.
 

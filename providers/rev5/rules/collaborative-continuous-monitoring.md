@@ -7,11 +7,18 @@ tags:
 
 # Collaborative Continuous Monitoring
 
+The Collaborative Continuous Monitoring rules help agencies use shared, current authorization information from providers as part of each agency's own Information Security Continuous Monitoring strategy. These rules reduce unnecessary manual burden by encouraging automated monitoring and review while allowing each agency to make its own risk-based decisions about ongoing authorization.
+
+**Rule Sections**
+
+- [Ongoing Certification Reports](#ongoing-certification-reports)
+- [Quarterly Reviews](#quarterly-reviews)
+
 
 ---
 
 
-## Ongoing Certification Reports
+## Ongoing Certification Reports {#ongoing-certification-reports}
 
 These rules for Ongoing Certification Reports apply to providers with any type of FedRAMP Certification.
 
@@ -146,7 +153,7 @@ These rules for Ongoing Certification Reports apply to providers with any type o
 
     ---
     **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Likely](../../../definitions/#likely){ data-preview }, [Ongoing Certification](../../../definitions/#ongoing-certification){ data-preview }, [Ongoing Certification Report (OCR)](../../../definitions/#ongoing-certification-report-ocr){ data-preview }, [Responsibly](../../../definitions/#responsibly){ data-preview }
-## Quarterly Reviews
+## Quarterly Reviews {#quarterly-reviews}
 
 These rules for Quarterly Reviews apply to providers with any type of FedRAMP Certification.
 

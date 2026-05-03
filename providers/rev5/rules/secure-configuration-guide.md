@@ -7,11 +7,18 @@ tags:
 
 # Secure Configuration Guide
 
+The Secure Configuration Guide rules help agencies and other customers understand how to configure a cloud service offering securely. These rules require providers to clearly explain the security impact of common settings so customers can make informed configuration choices.
+
+**Rule Sections**
+
+- [General Provider Responsibilities](#general-provider-responsibilities)
+- [Enhanced Capabilities](#enhanced-capabilities)
+
 
 ---
 
 
-## General Provider Responsibilities
+## General Provider Responsibilities {#general-provider-responsibilities}
 
 These rules apply to providers with FedRAMP Certifications of any type.
 
@@ -91,7 +98,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
     ---
     **Terms:** [Privileged Account](../../../definitions/#privileged-account){ data-preview }, [Top-Level Administrative Account](../../../definitions/#top-level-administrative-account){ data-preview }
-## Enhanced Capabilities
+## Enhanced Capabilities {#enhanced-capabilities}
 
 These recommendations apply to providers with FedRAMP Certifications of any type.
 

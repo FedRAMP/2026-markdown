@@ -7,11 +7,21 @@ tags:
 
 # FedRAMP Certification
 
+The FedRAMP Certification rules define how cloud service offerings obtain and maintain FedRAMP Certification across certification classes and paths. They give providers, assessors, agencies, and FedRAMP a common set of expectations for required rule sets, current evidence, independent verification and validation, and ongoing certification decisions.
+
+**Rule Sections**
+
+- [General Provider Responsibilities](#general-provider-responsibilities)
+- [FedRAMP Class A Certification Rules](#fedramp-class-a-certification-rules)
+- [Applying for FedRAMP Certification](#applying-for-fedramp-certification)
+- [Applying for FedRAMP Certification with an Agency Sponsor](#applying-for-fedramp-certification-with-an-agency-sponsor)
+- [20x-Specific Provider Responsibilities](#20x-specific-provider-responsibilities)
+
 
 ---
 
 
-## General Provider Responsibilities
+## General Provider Responsibilities {#general-provider-responsibilities}
 
 These rules apply to cloud service providers obtaining and maintaining any FedRAMP Certification.
 
@@ -340,7 +350,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 
     ---
     **Terms:** [Likely](../../../definitions/#likely){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
-## FedRAMP Class A Certification Rules
+## FedRAMP Class A Certification Rules {#fedramp-class-a-certification-rules}
 
 These rules apply to providers seeking FedRAMP Class A Certifications.
 
@@ -459,7 +469,7 @@ These rules apply to providers seeking FedRAMP Class A Certifications.
     - _If a mapping is not clear, the provider should supply new information indicating that the Key Security Indicator has not been independently audited._
     ---
     **Terms:** [Machine-Readable](../../../definitions/#machine-readable){ data-preview }
-## Applying for FedRAMP Certification
+## Applying for FedRAMP Certification {#applying-for-fedramp-certification}
 
 These rules apply to cloud service providers who have met all other relevant rules and are ready to apply for any FedRAMP Certification.
 
@@ -530,7 +540,7 @@ These rules apply to cloud service providers who have met all other relevant rul
 
     ---
     **Terms:** [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
-## Applying for FedRAMP Certification with an Agency Sponsor
+## Applying for FedRAMP Certification with an Agency Sponsor {#applying-for-fedramp-certification-with-an-agency-sponsor}
 
 These rules apply to cloud service providers with an Agency Sponsor who have met all other relevant rules and are ready to apply for any FedRAMP Certification.
 
@@ -550,7 +560,7 @@ These rules apply to cloud service providers with an Agency Sponsor who have met
 
     ---
     **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }
-## 20x-Specific Provider Responsibilities
+## 20x-Specific Provider Responsibilities {#20x-specific-provider-responsibilities}
 
 These rules apply to providers for FedRAMP 20x Certifications.
 

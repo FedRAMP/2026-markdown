@@ -8,11 +8,13 @@ tags:
 
 # FedRAMP Security Inbox
 
+The FedRAMP Security Inbox rules ensure FedRAMP can reliably contact the security and compliance staff responsible for every FedRAMP-authorized cloud service offering. These rules also set expectations for urgent communications, response time testing, and routing important messages separately from general support or customer service channels.
+
 
 ---
 
 
-## FedRAMP Responsibilities
+## FedRAMP Responsibilities {#fedramp-responsibilities}
 
 These rules apply to FedRAMP when communicating with cloud service providers.
 

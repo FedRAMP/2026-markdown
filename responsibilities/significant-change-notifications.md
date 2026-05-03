@@ -8,11 +8,13 @@ tags:
 
 # Significant Change Notifications
 
+The Significant Change Notifications rules supply a simple framework allowing providers to make significant changes to their own products while keeping agency customers in the loop. These rules organize significant changes into clear categories so agencies can understand the expected risk and make authorization decisions accordingly.
+
 
 ---
 
 
-## FedRAMP Responsibilities
+## FedRAMP Responsibilities {#fedramp-responsibilities}
 
 These rules apply to FedRAMP.
 

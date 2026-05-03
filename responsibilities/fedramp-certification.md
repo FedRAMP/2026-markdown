@@ -8,11 +8,13 @@ tags:
 
 # FedRAMP Certification
 
+The FedRAMP Certification rules define how cloud service offerings obtain and maintain FedRAMP Certification across certification classes and paths. They give providers, assessors, agencies, and FedRAMP a common set of expectations for required rule sets, current evidence, independent verification and validation, and ongoing certification decisions.
+
 
 ---
 
 
-## FedRAMP Responsibilities
+## FedRAMP Responsibilities {#fedramp-responsibilities}
 
 These rules apply to FedRAMP.
 

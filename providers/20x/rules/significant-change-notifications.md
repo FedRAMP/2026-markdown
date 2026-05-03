@@ -7,11 +7,20 @@ tags:
 
 # Significant Change Notifications
 
+The Significant Change Notifications rules supply a simple framework allowing providers to make significant changes to their own products while keeping agency customers in the loop. These rules organize significant changes into clear categories so agencies can understand the expected risk and make authorization decisions accordingly.
+
+**Rule Sections**
+
+- [General Provider Responsibilities](#general-provider-responsibilities)
+- [Adaptive Changes](#adaptive-changes)
+- [Routine Recurring Changes](#routine-recurring-changes)
+- [Transformative Changes](#transformative-changes)
+
 
 ---
 
 
-## General Provider Responsibilities
+## General Provider Responsibilities {#general-provider-responsibilities}
 
 These rules apply to providers with FedRAMP Certifications of any type.
 
@@ -186,7 +195,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
     ---
     **Terms:** [Adaptive Change](../../../definitions/#adaptive-change){ data-preview }, [Certification Class Change](../../../definitions/#certification-class-change){ data-preview }, [Routine Recurring Change](../../../definitions/#routine-recurring-change){ data-preview }, [Significant Change](../../../definitions/#significant-change){ data-preview }, [Transformative Change](../../../definitions/#transformative-change){ data-preview }
-## Adaptive Changes
+## Adaptive Changes {#adaptive-changes}
 
 These rules apply to all adaptive significant changes.
 
@@ -249,7 +258,7 @@ These rules apply to all adaptive significant changes.
 
     ---
     **Terms:** [Adaptive Change](../../../definitions/#adaptive-change){ data-preview }, [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Regularly](../../../definitions/#regularly){ data-preview }, [Significant Change](../../../definitions/#significant-change){ data-preview }, [Vulnerability](../../../definitions/#vulnerability){ data-preview }
-## Routine Recurring Changes
+## Routine Recurring Changes {#routine-recurring-changes}
 
 These rules apply to all routine recurring significant changes.
 
@@ -332,7 +341,7 @@ These rules apply to all routine recurring significant changes.
 
     ---
     **Terms:** [Incident](../../../definitions/#incident){ data-preview }, [Regularly](../../../definitions/#regularly){ data-preview }, [Routine Recurring Change](../../../definitions/#routine-recurring-change){ data-preview }, [Significant Change](../../../definitions/#significant-change){ data-preview }, [Vulnerability](../../../definitions/#vulnerability){ data-preview }
-## Transformative Changes
+## Transformative Changes {#transformative-changes}
 
 These rules apply to all transformative significant changes.
 

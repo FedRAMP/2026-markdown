@@ -7,11 +7,13 @@ tags:
 
 # Using Cryptographic Modules
 
+The Using Cryptographic Modules rules clarify how providers should select and use cryptographic modules. These rules allow risk-based decisions for some services while still encouraging validated cryptographic modules whenever they are technically feasible and reasonable.
+
 
 ---
 
 
-## Cloud Service Provider Responsibilities
+## Cloud Service Provider Responsibilities {#cloud-service-provider-responsibilities}
 
 These rules apply to providers for FedRAMP Certifications.
 

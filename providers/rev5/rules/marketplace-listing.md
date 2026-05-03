@@ -7,11 +7,18 @@ tags:
 
 # Marketplace Listing
 
+The Marketplace Listing rules define how FedRAMP decides which cloud service offerings, assessors, and advisors may be listed in the FedRAMP Marketplace. These rules help agencies and other customers rely on the Marketplace as a consistent source of eligible services and supporting organizations, while requiring listed organizations to supply accurate, accessible, and machine-readable information.
+
+**Rule Sections**
+
+- [General Provider Responsibilities](#general-provider-responsibilities)
+- [Provider Responsibilities for Preparation Phase Listings](#provider-responsibilities-for-preparation-phase-listings)
+
 
 ---
 
 
-## General Provider Responsibilities
+## General Provider Responsibilities {#general-provider-responsibilities}
 
 These rules apply to providers seeking a listing in the FedRAMP Marketplace.
 
@@ -57,7 +64,7 @@ These rules apply to providers seeking a listing in the FedRAMP Marketplace.
 
     **Reference:** [FedRAMP Marketplace Provider Listing Request Form](https://fedramp.gov/forms)
 
-## Provider Responsibilities for Preparation Phase Listings
+## Provider Responsibilities for Preparation Phase Listings {#provider-responsibilities-for-preparation-phase-listings}
 
 These rules apply to providers seeking a Preparation Phase listing in the FedRAMP Marketplace.
 

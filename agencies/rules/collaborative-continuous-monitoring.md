@@ -8,11 +8,13 @@ tags:
 
 # Collaborative Continuous Monitoring
 
+The Collaborative Continuous Monitoring rules help agencies use shared, current authorization information from providers as part of each agency's own Information Security Continuous Monitoring strategy. These rules reduce unnecessary manual burden by encouraging automated monitoring and review while allowing each agency to make its own risk-based decisions about ongoing authorization.
+
 
 ---
 
 
-## Agency Guidance
+## Agency Guidance {#agency-guidance}
 
 These rules for agencies apply to all agencies using a FedRAMP Certification.
 
