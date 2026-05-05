@@ -14,6 +14,8 @@ picto:
     **Description:** Why providers absolutely should hire advisors and some general tips on finding them.
     
     **Purpose:** Folks will know they can't do this alone and stop trying.
+    
+    **Edit:** [:material-file-edit-outline:](https://docs.google.com/document/d/16nRI1Sr3oAxriPB-y-6aOSG5BttCcxV4go3_NEQD7Mc/edit?tab=t.cb33w19n2pd8){ title="Link to FedRAMP Internal Google Doc" }
 
 # Finding an Advisor
 

@@ -14,6 +14,8 @@ picto:
     **Description:** Agency support groups provide help for agencies trying to use FedRAMP Certified cloud services.
     
     **Purpose:** Folks know what support groups are, how to join them, and why they should join them.
+    
+    **Edit:** [:material-file-edit-outline:](https://docs.google.com/document/d/1UdOIjketHNMeQrpmDVJdX8KrdKClvVQ7stp97KEYw9I/edit?tab=t.7txzsjrakqs0){ title="Link to FedRAMP Internal Google Doc" }
 
 # FedRAMP Agency Support Groups
 

@@ -14,6 +14,8 @@ picto:
     **Description:** Overview of the FedRAMP rules that apply to agencies, how they are structured, and why they are the way they are, including links to authority etc.
     
     **Purpose:** Agencies understand there are rules and how to review them and follow them.
+    
+    **Edit:** [:material-file-edit-outline:](https://docs.google.com/document/d/1UdOIjketHNMeQrpmDVJdX8KrdKClvVQ7stp97KEYw9I/edit?tab=t.fwm1gszdlzff){ title="Link to FedRAMP Internal Google Doc" }
 
 # Agency Specific Rules
 

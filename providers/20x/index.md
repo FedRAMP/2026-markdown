@@ -16,6 +16,8 @@ picto:
     **Description:** A broad overview of the 20x Certification section that explains initial, ongoing, changing class, applicable rules, and key security indicators sections. Explains why sponsorship isn't needed.
     
     **Purpose:** Folks will know how to get started learning about 20x Certification in detail.
+    
+    **Edit:** [:material-file-edit-outline:](https://docs.google.com/document/d/16nRI1Sr3oAxriPB-y-6aOSG5BttCcxV4go3_NEQD7Mc/edit?tab=t.6tk5b2wymz8h){ title="Link to FedRAMP Internal Google Doc" }
 
 # FedRAMP 20x Certification Rules
 

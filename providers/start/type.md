@@ -14,6 +14,8 @@ picto:
     **Description:** Overview of the certification types and how to choose one, with a focus on choosing since there's a lot more information in the Overview section on types.
     
     **Purpose:** Folks will know they should go 20x unless they want Class D before early 2027 or they run their own infrastructure.
+    
+    **Edit:** [:material-file-edit-outline:](https://docs.google.com/document/d/16nRI1Sr3oAxriPB-y-6aOSG5BttCcxV4go3_NEQD7Mc/edit?tab=t.b7bcr5j0nhy0){ title="Link to FedRAMP Internal Google Doc" }
 
 # Choosing a Certification Type
 

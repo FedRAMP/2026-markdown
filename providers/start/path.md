@@ -14,6 +14,8 @@ picto:
     **Description:** Overview of the Certification paths and how to choose one, including depending on the type and class expectations.
     
     **Purpose:** Folks know they should aim for Program Certification on 20x unless they need a Class D before early 2027.
+    
+    **Edit:** [:material-file-edit-outline:](https://docs.google.com/document/d/16nRI1Sr3oAxriPB-y-6aOSG5BttCcxV4go3_NEQD7Mc/edit?tab=t.ec4zb857i0rd){ title="Link to FedRAMP Internal Google Doc" }
 
 # Choosing a Certification Path
 

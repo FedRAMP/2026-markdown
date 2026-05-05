@@ -14,6 +14,8 @@ picto:
     **Description:** An overview of these deadlines, how the obtain/maintain/grace works, and what the specific expectations are for assessors.
     
     **Purpose:** Assessors know how to enforce changes based on the deadlines and aren't surprised by them.
+    
+    **Edit:** [:material-file-edit-outline:](https://docs.google.com/document/d/1Q669DQuqmzha2ljKb6Rw-OqbxJUBPLXf0BrC1rnkL0E/edit?tab=t.6j83nfujqjhz){ title="Link to FedRAMP Internal Google Doc" }
 
 # Deadlines
 

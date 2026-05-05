@@ -14,6 +14,8 @@ picto:
     **Description:** A general description of the key changes to the assessment lifestyle in 2026.
     
     **Purpose:** Assessors know what to look for and keep in mind as they get up to speed and start adopting these rules.
+    
+    **Edit:** [:material-file-edit-outline:](https://docs.google.com/document/d/1Q669DQuqmzha2ljKb6Rw-OqbxJUBPLXf0BrC1rnkL0E/edit?tab=t.lfjy3gazu5yj){ title="Link to FedRAMP Internal Google Doc" }
 
 # What's Changing in 2026
 

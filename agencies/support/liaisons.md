@@ -14,6 +14,8 @@ picto:
     **Description:** Information about the FedRAMP Liaison Program, why it matters, and how to get involved.
     
     **Purpose:** Agencies will know that they should assign a FedRAMP Liaison and what they get out of it, and how to get started communicating with this group, what it's good for, why it's important, etc. They should also be encouraged to use this group instead of just emailing fedramp directly sometimes.
+    
+    **Edit:** [:material-file-edit-outline:](https://docs.google.com/document/d/1UdOIjketHNMeQrpmDVJdX8KrdKClvVQ7stp97KEYw9I/edit?tab=t.ofiuuv1obobd){ title="Link to FedRAMP Internal Google Doc" }
 
 # The FedRAMP Agency Liaisons Program
 

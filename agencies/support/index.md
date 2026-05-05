@@ -14,6 +14,8 @@ picto:
     **Description:** How agencies can get support directly from FedRAMP when they need it.
     
     **Purpose:** Helps folks know who to reach out to and when, where to go for more info, and why it's okay to email us.
+    
+    **Edit:** [:material-file-edit-outline:](https://docs.google.com/document/d/1UdOIjketHNMeQrpmDVJdX8KrdKClvVQ7stp97KEYw9I/edit?tab=t.a2i2imwbmbdy){ title="Link to FedRAMP Internal Google Doc" }
 
 # Getting Support from FedRAMP
 

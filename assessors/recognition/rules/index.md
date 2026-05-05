@@ -14,5 +14,7 @@ picto:
     **Description:** An explanation of the applicable rules for FedRAMP Recognition and Independent Assessors, how to read through them and make sense of them, how to address them, etc.
     
     **Purpose:** Assessors know exactly what FedRAMP expects of them to maintain FedRAMP Recognition.
+    
+    **Edit:** [:material-file-edit-outline:](https://docs.google.com/document/d/1Q669DQuqmzha2ljKb6Rw-OqbxJUBPLXf0BrC1rnkL0E/edit?tab=t.h8bgcbpbtu98){ title="Link to FedRAMP Internal Google Doc" }
 
 # Applicable Rules

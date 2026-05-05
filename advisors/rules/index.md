@@ -14,6 +14,8 @@ picto:
     **Description:** An overview of the FedRAMP Rules for Advisory services.
     
     **Purpose:** Helps folks understand what they are going to see when they dig into the rules.
+    
+    **Edit:** [:material-file-edit-outline:](https://docs.google.com/document/d/1nSRpwatLOygdL9Lz6V5nVYR8kb4kZGGy_IplBA1bU2c/edit?tab=t.l1dfh0zcfrfx){ title="Link to FedRAMP Internal Google Doc" }
 
 # Advisory Services Rules
 

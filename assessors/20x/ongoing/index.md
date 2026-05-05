@@ -16,6 +16,8 @@ picto:
     **Description:** Explanations of the ongoing assessment process, which focuses on evaluating changes to automations in general for significant changes and annual assessments.
     
     **Purpose:** Assessors know what they are expected to do to support ongoing activities with partner providers.
+    
+    **Edit:** [:material-file-edit-outline:](https://docs.google.com/document/d/1Q669DQuqmzha2ljKb6Rw-OqbxJUBPLXf0BrC1rnkL0E/edit?tab=t.c2y6efjseimy){ title="Link to FedRAMP Internal Google Doc" }
 
 # Ongoing Assessment
 

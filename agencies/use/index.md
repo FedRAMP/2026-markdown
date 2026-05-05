@@ -14,6 +14,8 @@ picto:
     **Description:** A broad overview of how agencies leverage (use) FedRAMP Certifications within their information security programs for cloud services.
     
     **Purpose:** Introduces agencies to the basic concepts and expectations of using FedRAMP Certifications, highlighting the need to treat cloud services as a third-party service that is used in an agency information system (not something that becomes an agency information system itself). Also make sure they are aware of government-wide implications.
+    
+    **Edit:** [:material-file-edit-outline:](https://docs.google.com/document/d/1UdOIjketHNMeQrpmDVJdX8KrdKClvVQ7stp97KEYw9I/edit?tab=t.w6bn6v9ysrb3){ title="Link to FedRAMP Internal Google Doc" }
 
 # Using a FedRAMP Certified Cloud Service
 

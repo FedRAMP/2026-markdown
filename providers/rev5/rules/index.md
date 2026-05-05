@@ -16,6 +16,8 @@ picto:
     **Description:** An overview of the applicable rules for Rev5 and how to work through them.
     
     **Purpose:** Folks will know how to dig into the rules and follow them."
+    
+    **Edit:** [:material-file-edit-outline:](https://docs.google.com/document/d/16nRI1Sr3oAxriPB-y-6aOSG5BttCcxV4go3_NEQD7Mc/edit?tab=t.1em7guvzdclg){ title="Link to FedRAMP Internal Google Doc" }
 
 # Applicable Rules
 

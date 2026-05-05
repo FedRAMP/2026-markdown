@@ -16,6 +16,8 @@ picto:
     **Description:** An explanation of how to work through the Applicable Rules and use them to meet the required assessment objectives and properly do assessments.
     
     **Purpose:** Folks know how to dig into the Applicable Rules and follow them.
+    
+    **Edit:** [:material-file-edit-outline:](https://docs.google.com/document/d/1Q669DQuqmzha2ljKb6Rw-OqbxJUBPLXf0BrC1rnkL0E/edit?tab=t.tuibuio8thfg){ title="Link to FedRAMP Internal Google Doc" }
 
 # Applicable Rules
 

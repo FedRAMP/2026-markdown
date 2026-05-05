@@ -14,5 +14,7 @@ picto:
     **Description:** Explains FedRAMP Rev5 packages, how they're laid out, and how they are typically distributed including expectations for high packages vs others on USDA connect, and talks about changes that are happening with the CDS.
     
     **Purpose:** Folks understand what is in a Rev5 package and how to get ahold of them plus what is changing with CDS.
+    
+    **Edit:** [:material-file-edit-outline:](https://docs.google.com/document/d/1UdOIjketHNMeQrpmDVJdX8KrdKClvVQ7stp97KEYw9I/edit?tab=t.psih1ubfmk9g){ title="Link to FedRAMP Internal Google Doc" }
 
 # Using FedRAMP Rev5 Certification Packages

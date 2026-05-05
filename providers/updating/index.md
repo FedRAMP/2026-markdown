@@ -14,5 +14,7 @@ picto:
     **Description:** A reminder that folks with current FedRAMP Certifications need to invest in modernizing their programs or they will lose FedRAMP Certification, no more coasting with generic annual assessments and otherwise ignoring all of the changes.
     
     **Purpose:** Folks will know they need to start making changes.
+    
+    **Edit:** [:material-file-edit-outline:](https://docs.google.com/document/d/16nRI1Sr3oAxriPB-y-6aOSG5BttCcxV4go3_NEQD7Mc/edit?tab=t.yiuf3godbnc8){ title="Link to FedRAMP Internal Google Doc" }
 
 # Updating to 2026 Rules

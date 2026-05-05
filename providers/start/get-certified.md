@@ -14,6 +14,8 @@ picto:
     **Description:** An overview of the whole Certification game without going into too many specifics, that mostly directs folks to the specific rules. Reminds folks when they need an assessment vs not and the broad overall differences and processes, plus timelines and contacts.
     
     **Purpose:** Folks will know how to jump into the full steps and rules for specific Certification profiles with an idea of what they're getting into.
+    
+    **Edit:** [:material-file-edit-outline:](https://docs.google.com/document/d/16nRI1Sr3oAxriPB-y-6aOSG5BttCcxV4go3_NEQD7Mc/edit?tab=t.9jyhf2u7kdky){ title="Link to FedRAMP Internal Google Doc" }
 
 # Getting Certified
 

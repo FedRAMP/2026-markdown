@@ -16,6 +16,8 @@ picto:
     **Description:** An explanation of the general ongoing certification requirements at a high level, including expectations for different classes, and how to handle program vs agency paths.
     
     **Purpose:** Folks know what they need to do at a high level and how to get more information from the rules.
+    
+    **Edit:** [:material-file-edit-outline:](https://docs.google.com/document/d/16nRI1Sr3oAxriPB-y-6aOSG5BttCcxV4go3_NEQD7Mc/edit?tab=t.lkeuk1heir4b){ title="Link to FedRAMP Internal Google Doc" }
 
 # Ongoing Certification
 

@@ -14,6 +14,8 @@ picto:
     **Description:** Explanation of the role FedRAMP plays in coordinating cloud service provider responses to CISA EDs and BODs on behalf of the federal government, and why agencies have to let us do it.
     
     **Purpose:** CISA EDs and BODs will be able to link to this page and send it out to agencies during an event so they know exactly what to do instead of having constant wonky info sessions and stuff.
+    
+    **Edit:** [:material-file-edit-outline:](https://docs.google.com/document/d/1UdOIjketHNMeQrpmDVJdX8KrdKClvVQ7stp97KEYw9I/edit?tab=t.cfcj3gycblb){ title="Link to FedRAMP Internal Google Doc" }
 
 # Responding to CISA Emergency and Binding Operational Directives
 

@@ -14,6 +14,8 @@ picto:
     **Description:** Information about how agencies can use the FedRAMP Marketplace to locate information about services.
     
     **Purpose:** Help agencies know what to expect on the FedRAMP Marketplace and how to use it.
+    
+    **Edit:** [:material-file-edit-outline:](https://docs.google.com/document/d/1UdOIjketHNMeQrpmDVJdX8KrdKClvVQ7stp97KEYw9I/edit?tab=t.zddyr0mkn10z){ title="Link to FedRAMP Internal Google Doc" }
 
 # Using the FedRAMP Marketplace
 

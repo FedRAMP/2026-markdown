@@ -14,6 +14,8 @@ picto:
     **Description:** Step by step walkthrough of the Initial Authorization process using a FedRAMP Certified cloud service.
     
     **Purpose:** Folks know how to do an initial ATO for an agency information system that uses a FedRAMP Certified cloud service.
+    
+    **Edit:** [:material-file-edit-outline:](https://docs.google.com/document/d/1UdOIjketHNMeQrpmDVJdX8KrdKClvVQ7stp97KEYw9I/edit?tab=t.8kyv5c69ucm2){ title="Link to FedRAMP Internal Google Doc" }
 
 # Initial Agency Authorization
 
