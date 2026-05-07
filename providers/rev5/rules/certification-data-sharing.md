@@ -224,6 +224,22 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
     - _Providers determine what they consider to be separate services, based on maximizing the customer experience for agencies who may only adopt some services and not others._
     - _Providers are encouraged to provide a single comprehensive set of materials for all shared aspects of the service offering and only provide separate materials for unique aspects of each service to minimize the burden on providers and agencies._
+### Responsible Public Sharing
+
+??? abstract "CDS-CSO-RPS"
+    **Changelog:**
+
+
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
+
+
+!!! quote ""
+    Providers MAY responsibly share some or all of the information in a FedRAMP Certification Package publicly or with other parties if the provider determines doing so will NOT likely have an adverse effect on the cloud service offering.
+
+
+    ---
+    **Terms:** [Certification Package](../../../definitions/#certification-package){ data-preview }, [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Likely](../../../definitions/#likely){ data-preview }, [Responsibly](../../../definitions/#responsibly){ data-preview }
 ## FedRAMP-Compatible Trust Centers {#fedramp-compatible-trust-centers}
 
 These rules apply to trust centers that are FedRAMP-compatible.
