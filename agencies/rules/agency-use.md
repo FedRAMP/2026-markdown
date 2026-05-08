@@ -35,7 +35,7 @@ These rules apply to agencies based on the FedRAMP Authorization Act, OMB M-24-1
 
 
 !!! quote ""
-    Agencies MUST maintain agency-wide internal policies aligned with FedRAMP standards and the principles and directives of OMB Memorandum M-24-15.
+    Agencies MUST maintain agency-wide policy that aligns with the requirements in OMB Memorandum M-24-15.
 
 
 ### Notify FedRAMP After Authorization
@@ -51,7 +51,10 @@ These rules apply to agencies based on the FedRAMP Authorization Act, OMB M-24-1
     - Notify FedRAMP by email using ato-letter@fedramp.gov.
 
 !!! quote ""
-    Agencies MUST notify FedRAMP after authorizing an in-scope cloud service by supplying the agency Authorization to Operate letter to ato-letter@fedramp.gov.
+    Agencies MUST supply FedRAMP the following information upon authorizing the use of a cloud service within the scope of FedRAMP:
+
+    1. A copy of the Authorization to Operate letter
+    1. All other supplementary information outlined at https://help.fedramp.gov/ato
 
 
 ### Governance, Risk, and Compliance Tools
@@ -73,20 +76,6 @@ These rules apply to agencies based on the FedRAMP Authorization Act, OMB M-24-1
 
     ---
     **Terms:** [Artifacts](../../definitions/#artifacts){ data-preview }, [Machine-Readable](../../definitions/#machine-readable){ data-preview }
-### Commercial Cloud Adoption
-
-??? abstract "AGU-AGC-CCA"
-    **Changelog:**
-
-
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
-
-
-
-!!! quote ""
-    Agencies SHOULD encourage adoption of commercial cloud services without incentivizing government-specific services.
-
-
 ### No Additional Security Requirements
 
 ??? abstract "AGU-AGC-NAR"
@@ -98,7 +87,7 @@ These rules apply to agencies based on the FedRAMP Authorization Act, OMB M-24-1
 
 
 !!! quote ""
-    Agencies MUST NOT place additional security requirements on FedRAMP Certified cloud service offerings beyond those required by FedRAMP UNLESS the head of the agency or an authorized delegate determines there is a demonstrable need; this does not apply to seeking clarification or asking general questions about FedRAMP Certification Data.
+    Agencies MUST NOT require additional information or materials from FedRAMP Certified cloud service offerings beyond those required by FedRAMP UNLESS the head of the agency or an authorized delegate determines there is a demonstrable need; this does not apply to seeking clarification or asking general questions about FedRAMP Certification Data.
 
 
     ---
@@ -120,7 +109,7 @@ These rules apply to agencies based on the FedRAMP Authorization Act, OMB M-24-1
     - Notify FedRAMP by email using info@fedramp.gov.
 
 !!! quote ""
-    Agencies MUST notify FedRAMP after requesting any additional information or materials from a FedRAMP Certified cloud service offering beyond those FedRAMP requires by sending an email to info@fedramp.gov.
+    Agencies MUST notify FedRAMP after requesting any additional information or materials from a FedRAMP Certified cloud service offering beyond those FedRAMP requires.
 
 
     ---
@@ -129,20 +118,6 @@ These rules apply to agencies based on the FedRAMP Authorization Act, OMB M-24-1
 
     ---
     **Terms:** [Cloud Service Offering](../../definitions/#cloud-service-offering){ data-preview }, [FedRAMP Certified](../../definitions/#fedramp-certified){ data-preview }
-### Lessons Learned Reporting
-
-??? abstract "AGU-AGC-LLR"
-    **Changelog:**
-
-
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
-
-
-
-!!! quote ""
-    Agencies SHOULD contribute to FedRAMP lessons-learned reporting, including sharing risk acceptance rationales, to improve government-wide reuse and transparency.
-
-
 ### FedRAMP Working Groups
 
 ??? abstract "AGU-AGC-WKG"
@@ -168,8 +143,11 @@ These rules apply to agencies based on the FedRAMP Authorization Act, OMB M-24-1
 
 
 !!! quote ""
-    Agencies SHOULD assign at least 1 federal employee to be an active participant in the FedRAMP agency liaison program.
+    Agencies SHOULD assign at least 1 federal employee to be an active participant in the FedRAMP Agency Liaison program.
 
+
+
+    **Reference:** [Agency Liaison Program](https://www.fedramp.gov/preview/2026/agencies/support/liaisons)
 
 ### Shared FedRAMP Inbox
 
@@ -204,39 +182,18 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
 
 
 !!! quote ""
-    Agencies MUST complete an agency authorization before using a cloud service inside a federal information system.
-
-
-### Existing Certification Package
-
-??? abstract "AGU-USE-ERP"
-    **Changelog:**
-
-
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
-
-
-
-!!! quote ""
-    Agencies MUST use the existing FedRAMP Certification package to make agency authorization decisions for FedRAMP Certified cloud services.
+    Agencies MUST complete the Authorization to Operate process for federal information systems that use FedRAMP Certified cloud service offerings.
 
 
     ---
-    **Terms:** [Certification Package](../../definitions/#certification-package){ data-preview }, [FedRAMP Certified](../../definitions/#fedramp-certified){ data-preview }
-### Compensating Controls and Risk Acceptance
 
-??? abstract "AGU-USE-CRC"
-    **Changelog:**
+    _**Note:** FedRAMP provides technical assistance to help agencies navigate this process._
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    **Reference:** [Using a FedRAMP Certified Cloud Service Offering](https://fedramp.gov/preview/2026/agencies/use)
 
-
-
-!!! quote ""
-    Agencies MAY accept compensating controls or risk-acceptance decisions in cases of control misalignment between federal and external frameworks.
-
-
+    ---
+    **Terms:** [Cloud Service Offering](../../definitions/#cloud-service-offering){ data-preview }, [FedRAMP Certified](../../definitions/#fedramp-certified){ data-preview }
 ### Resolve Certification Package Conflicts
 
 ??? abstract "AGU-USE-RCF"
@@ -267,9 +224,9 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
     Agencies MUST review the Secure Configuration Guides supplied by Providers and configure relevant security settings.
 
 
-### Collaborative Continuous Monitoring Plan
+### Accept FedRAMP Rules
 
-??? abstract "AGU-USE-CCP"
+??? abstract "AGU-USE-AFR"
     **Changelog:**
 
 
@@ -278,9 +235,11 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
 
 
 !!! quote ""
-    Agencies MUST develop a plan with the Provider to follow Collaborative Continuous Monitoring rules and complete ongoing authorization activities.
+    Agencies MUST allow FedRAMP Certified cloud service offerings to follow FedRAMP rules.
 
 
+    ---
+    **Terms:** [Cloud Service Offering](../../definitions/#cloud-service-offering){ data-preview }, [FedRAMP Certified](../../definitions/#fedramp-certified){ data-preview }
 ### Review Ongoing Authorization Reports
 
 ??? abstract "AGU-USE-ROR"
@@ -292,7 +251,7 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
 
 
 !!! quote ""
-    Agencies MUST review each Ongoing Authorization Report to understand how changes to the cloud service offering may impact the risk tolerance documented in the agency Authorization to Operate for the federal information system that includes the cloud service offering in its boundary.
+    Agencies SHOULD review each Ongoing Authorization Report to understand how changes to the cloud service offering may impact the risk tolerance documented in the agency Authorization to Operate for the federal information system that includes the cloud service offering in its boundary.
 
 
     ---
@@ -314,7 +273,7 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
     - Notify FedRAMP by email using info@fedramp.gov.
 
 !!! quote ""
-    Agencies MUST notify FedRAMP by sending an email to info@fedramp.gov if information presented in an Ongoing Authorization Report, Quarterly Review, or other ongoing authorization data causes significant concerns that may lead the agency to stop operation of the cloud service offering.
+    Agencies MUST notify FedRAMP if information presented in an Ongoing Authorization Report, Quarterly Review, or other FedRAMP Certification Data causes significant concerns for the authorizing official that would likely result in rescission of their Authorization to Operate.
 
 
     ---
@@ -322,23 +281,7 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
     _**Note:** Agencies are expected to notify FedRAMP under OMB Memorandum M-24-15 section IV (a)._
 
     ---
-    **Terms:** [Cloud Service Offering](../../definitions/#cloud-service-offering){ data-preview }, [Quarterly Review](../../definitions/#quarterly-review){ data-preview }
-### Assign Security Category Resources
-
-??? abstract "AGU-USE-ASC"
-    **Changelog:**
-
-
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
-
-
-
-!!! quote ""
-    Agencies SHOULD consider the Security Category noted in the agency Authorization to Operate and assign appropriate information security resources for reviewing Ongoing Authorization Reports, attending Quarterly Reviews, and reviewing other ongoing authorization data.
-
-
-    ---
-    **Terms:** [Quarterly Review](../../definitions/#quarterly-review){ data-preview }, [Security Category](../../definitions/#security-category){ data-preview }
+    **Terms:** [Certification Data](../../definitions/#certification-data){ data-preview }, [Likely](../../definitions/#likely){ data-preview }, [Quarterly Review](../../definitions/#quarterly-review){ data-preview }
 ### Designate Senior Official
 
 ??? abstract "AGU-USE-DSO"
@@ -350,7 +293,7 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
 
 
 !!! quote ""
-    Agencies SHOULD designate a senior information security official to review Ongoing Authorization Reports and represent the agency at Quarterly Reviews for cloud service offerings included in agency information systems.
+    Agencies SHOULD designate a federal senior information security official to review Ongoing Authorization Reports and represent the agency at Quarterly Reviews for cloud service offerings included in agency information systems.
 
 
     ---
@@ -368,14 +311,14 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
     - Notify Provider by email using Provider security contact.
 
 !!! quote ""
-    Agencies SHOULD formally notify the Provider if information presented in an Ongoing Authorization Report, Quarterly Review, or other ongoing authorization data causes significant concerns that may lead the agency to remove the cloud service offering from operation.
+    Agencies SHOULD formally notify the Provider if information presented in an Ongoing Authorization Report, Quarterly Review, or other FedRAMP Certification Data causes significant concerns for the authorizing official that would likely result in rescission of their Authorization to Operate.
 
 
     ---
-    **Terms:** [Cloud Service Offering](../../definitions/#cloud-service-offering){ data-preview }, [Quarterly Review](../../definitions/#quarterly-review){ data-preview }
-### Review Inherited Services
+    **Terms:** [Certification Data](../../definitions/#certification-data){ data-preview }, [Likely](../../definitions/#likely){ data-preview }, [Quarterly Review](../../definitions/#quarterly-review){ data-preview }
+### Review All Information Resources
 
-??? abstract "AGU-USE-INH"
+??? abstract "AGU-USE-RIR"
     **Changelog:**
 
 
@@ -384,11 +327,11 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
 
 
 !!! quote ""
-    Agencies SHOULD review the certification packages and continuous monitoring information for third-party independent information resources, such as other cloud services, that are used by a FedRAMP Certified cloud service when available.
+    Agencies SHOULD consider third-party information resources used by the cloud service offering during initial and ongoing authorization activities.
 
 
     ---
-    **Terms:** [Certification Package](../../definitions/#certification-package){ data-preview }, [FedRAMP Certified](../../definitions/#fedramp-certified){ data-preview }, [Information Resource](../../definitions/#information-resource){ data-preview }
+    **Terms:** [Cloud Service Offering](../../definitions/#cloud-service-offering){ data-preview }, [Information Resource](../../definitions/#information-resource){ data-preview }, [Third-Party Information Resource](../../definitions/#third-party-information-resource){ data-preview }
 ## Agency Sponsored Certifications {#agency-sponsored-certifications}
 
 These rules apply when an agency sponsors a FedRAMP Rev5 Certification after completing an agency authorization.
@@ -404,18 +347,4 @@ These rules apply when an agency sponsors a FedRAMP Rev5 Certification after com
 
 
 !!! quote ""
-    Agencies MUST follow the most recent FedRAMP Consolidated Rules when initiating agency-sponsored FedRAMP Certification of in-scope cloud services.
-
-
-### Follow Ongoing Authorization Rules
-
-??? abstract "AGU-SPN-OAR"
-    **Changelog:**
-
-
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
-
-
-
-!!! quote ""
-    Agencies MUST follow the ongoing agency authorization rules after FedRAMP issues a FedRAMP Certification they sponsored.
+    Agencies MUST follow the most recent FedRAMP Consolidated Rules when initiating agency-sponsored FedRAMP Certification.
