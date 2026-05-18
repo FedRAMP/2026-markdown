@@ -317,7 +317,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
     - _The option for assessment by FedRAMP directly is limited to cloud services that are explicitly prioritized by FedRAMP, in consultation with the FedRAMP Board and the federal Chief Information Officers Council._
     - _FedRAMP Recognized independent assessors are listed on the FedRAMP Marketplace._
     ---
-    **Terms:** [Certification Data](../../../definitions/#certification-data){ data-preview }, [Persistently](../../../definitions/#persistently){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
+    **Terms:** [Certification Data](../../../definitions/#certification-data){ data-preview }, [FedRAMP Recognized](../../../definitions/#fedramp-recognized){ data-preview }, [Persistently](../../../definitions/#persistently){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
 ### Supply Technical Evidence
 
 ??? abstract "FRC-CSO-STE"
@@ -439,7 +439,7 @@ These rules apply to providers seeking FedRAMP Class A Certifications.
 
 
     ---
-    **Terms:** [Certification Package](../../../definitions/#certification-package){ data-preview }, [FedRAMP Recognized Assessor](../../../definitions/#fedramp-recognized-assessor){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
+    **Terms:** [Certification Package](../../../definitions/#certification-package){ data-preview }, [FedRAMP Recognized](../../../definitions/#fedramp-recognized){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
 ### Rev5 Class A Certification
 
 ??? abstract "FRC-CLA-CAC"
@@ -530,7 +530,7 @@ These rules apply to cloud service providers who have met all other relevant rul
 
 
     ---
-    **Terms:** [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
+    **Terms:** [FedRAMP Recognized](../../../definitions/#fedramp-recognized){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
 ## Applying for FedRAMP Certification with an Agency Sponsor {#applying-for-fedramp-certification-with-an-agency-sponsor}
 
 These rules apply to cloud service providers with an Agency Sponsor who have met all other relevant rules and are ready to apply for any FedRAMP Certification.

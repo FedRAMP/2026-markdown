@@ -75,17 +75,17 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
 
     **Also:** federal customer data
 
-### FedRAMP Recognized Assessor
+### FedRAMP Recognized
 
 ??? abstract "**ID:** FRD-FRA"
     **Changelog:**
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 !!! quote ""
-    An independent assessor recognized by FedRAMP to perform assessment or validation activities for cloud service offerings in the context of FedRAMP Certification.
+    The status of independent assessment services that are recognized by FedRAMP to perform assessment activities on behalf of FedRAMP for cloud service offerings seeking to obtain or maintain FedRAMP Certification.
 
 
-    **Also:** FedRAMP Recognized Assessor, FedRAMP Recognized Assessors, FedRAMP recognized assessor, FedRAMP recognized assessors, recognized assessor, recognized assessors
+    **Also:** FedRAMP Recognized, FedRAMP Recognition
 
 ### FedRAMP Security Inbox
 
@@ -775,11 +775,11 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 !!! quote ""
-    An assessor that performs assessment, verification, or validation activities for a cloud service offering in the context of FedRAMP Certification; FedRAMP is the final assessor for FedRAMP Certification, but FedRAMP Recognized independent assessment services are typically also utilized.
+    An assessor that performs assessment, verification, or validation activities for a cloud service offering seeking to obtain or maintain FedRAMP Certification; FedRAMP is the final assessor for FedRAMP Certification, but FedRAMP Recognized independent assessment services are typically also utilized.
 
     ---
 
-    _**Note:** FedRAMP has transitioned from using the historical term "Third-Party Assessment Organization (3PAO)" to align with the explicit terminology used in the FedRAMP Authorization Act and to avoid the confusion caused when the same organizations provide both assessment and advisory services while being referred to as a 3PAO._
+    _**Note:** FedRAMP has transitioned from using the historical term "Third-Party Assessment Organization (3PAO)" to align with the explicit terminology used in the FedRAMP Authorization Act and to avoid the confusion caused when the same organizations provide both assessment and advisory services to different customers while being referred to as a 3PAO._
 
     **Also:** assessor, assessors
 
