@@ -17,7 +17,7 @@ tags:
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-07-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -40,7 +40,7 @@ tags:
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-07-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -59,7 +59,7 @@ tags:
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-07-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -78,7 +78,7 @@ tags:
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-07-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -97,7 +97,7 @@ tags:
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-07-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
