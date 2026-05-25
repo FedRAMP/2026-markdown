@@ -11,6 +11,7 @@ tags:
 
 
 
+
 ### Generating After Action Reports
 
 ??? abstract "KSI-INR-AAR"
