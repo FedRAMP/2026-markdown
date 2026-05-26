@@ -250,7 +250,7 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     - **2026-07-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 !!! quote ""
-    A significant negative impact on an organization caused by the loss of confidentiality, integrity, or availability of its information. At a minimum, this includes effects that would likely: (i) result in intermittent or ongoing degradation in the availability or performance of services within the cloud service offering, causing unpredictable interruptions to operations for 12+ hours; OR (ii) directly or indirectly result in unauthorized access, disclosure, or modification of a minority of the federal customer data stored within the cloud service offering.
+    An unwanted customer effect that interrupts use of the cloud service for many users for less than 24 hours, or that compromises the integrity or confidentiality of large amounts or many types of federal customer data.
 
 
     **Related Terms Group:** [Customer Effect](#related-terms-group-customer-effect)
