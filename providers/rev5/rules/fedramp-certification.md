@@ -209,74 +209,6 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 
     ---
     **Terms:** [Persistently](../../../definitions/#persistently){ data-preview }, [Vulnerability](../../../definitions/#vulnerability){ data-preview }, [Vulnerability Detection](../../../definitions/#vulnerability-detection){ data-preview }, [Vulnerability Response](../../../definitions/#vulnerability-response){ data-preview }
-### Pick One Program Certification Type
-
-??? abstract "FRC-CSO-POP"
-    **Changelog:**
-
-
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
-
-
-
-!!! quote ""
-    Providers MUST NOT seek both FedRAMP Rev5 Program Certification and FedRAMP 20x Program Certification for the same cloud service offering; pick one type.
-
-
-    ---
-
-    _**Note:** This rule does not prevent a provider from seeking and maintaining a FedRAMP Rev5 Agency Certification and a FedRAMP 20x Program Certification for the same cloud service offering, however, doing so is strongly discouraged due to the increased complexity and risk of confusion for all parties._
-
-    ---
-    **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }
-### Persistent Verification and Validation
-
-??? abstract "FRC-CSO-PVV"
-    **Changelog:**
-
-
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
-
-
-
-!!! quote ""
-    Providers MUST persistently verify and validate that their information resources are operating as intended; this process is called Persistent Verification and Validation (PVV) and is part of vulnerability detection.
-
-
-    ---
-    **Terms:** [Information Resource](../../../definitions/#information-resource){ data-preview }, [Persistently](../../../definitions/#persistently){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }, [Vulnerability](../../../definitions/#vulnerability){ data-preview }, [Vulnerability Detection](../../../definitions/#vulnerability-detection){ data-preview }
-### Failures Are Vulnerabilities
-
-??? abstract "FRC-CSO-FAV"
-    **Changelog:**
-
-
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
-
-
-
-!!! quote ""
-    Providers MUST treat problems detected during persistent verification and validation as vulnerabilities, including failures of the verification and validation process it; FedRAMP Vulnerability Detection and Response rules MUST be followed for such findings.
-
-
-    ---
-    **Terms:** [Persistently](../../../definitions/#persistently){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }, [Vulnerability](../../../definitions/#vulnerability){ data-preview }, [Vulnerability Detection](../../../definitions/#vulnerability-detection){ data-preview }, [Vulnerability Response](../../../definitions/#vulnerability-response){ data-preview }
-### Non-Machine Verification and Validation
-
-??? abstract "FRC-CSO-NMV"
-    **Changelog:**
-
-
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
-
-
-
-!!! quote ""
-    Providers MUST verify and validate the status of non-machine-based information resources at least once every 3 months.
-
-
-    ---
-    **Terms:** [Information Resource](../../../definitions/#information-resource){ data-preview }, [Machine-Based (Information Resources)](../../../definitions/#machine-based-information-resources){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
 ### Independent Verification and Validation
 
 ??? abstract "FRC-CSO-IVV"
@@ -319,6 +251,26 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
     - _FedRAMP Recognized independent assessors are listed on the FedRAMP Marketplace._
     ---
     **Terms:** [Certification Data](../../../definitions/#certification-data){ data-preview }, [FedRAMP Recognized](../../../definitions/#fedramp-recognized){ data-preview }, [Persistently](../../../definitions/#persistently){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
+### Pick One Program Certification Type
+
+??? abstract "FRC-CSO-POP"
+    **Changelog:**
+
+
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
+
+
+!!! quote ""
+    Providers MUST NOT seek both FedRAMP Rev5 Program Certification and FedRAMP 20x Program Certification for the same cloud service offering; pick one type.
+
+
+    ---
+
+    _**Note:** This rule does not prevent a provider from seeking and maintaining a FedRAMP Rev5 Agency Certification and a FedRAMP 20x Program Certification for the same cloud service offering, however, doing so is strongly discouraged due to the increased complexity and risk of confusion for all parties._
+
+    ---
+    **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }
 ### Supply Technical Evidence
 
 ??? abstract "FRC-CSO-STE"
@@ -406,7 +358,7 @@ These rules apply to providers seeking FedRAMP Class A Certifications.
     1. Minimum Assessment Scope: [MAS-CSO-IIR (Identify Information Resources)](minimum-assessment-scope.md#identify-information-resources){ data-preview }
     1. Certification Data Sharing: [CDS-CSO-PUB (Public Information)](certification-data-sharing.md#public-information){ data-preview }
     1. Certification Data Sharing: [CDS-CSO-UTC (Use Trust Centers)](certification-data-sharing.md#use-trust-centers){ data-preview }
-    1. Certification Data Sharing: [CDS-UTC-PGD (Public Guidance)](certification-data-sharing.md#public-guidance){ data-preview }
+    1. Certification Data Sharing: [CDS-UTC-PGD (Public Guidance for Certification Data)](certification-data-sharing.md#public-guidance-for-certification-data){ data-preview }
     1. Certification Data Sharing: [CDS-UTC-AAD (Agency Access Denial)](certification-data-sharing.md#agency-access-denial){ data-preview }
     1. FedRAMP Security Inbox: [FSI-CSO-INB (Maintain a FedRAMP Security Inbox)](fedramp-security-inbox.md#maintain-a-fedramp-security-inbox){ data-preview }
     1. FedRAMP Security Inbox: [FSI-CSO-RCV (Receive Email Without Disruption)](fedramp-security-inbox.md#receive-email-without-disruption){ data-preview }
@@ -572,40 +524,6 @@ These rules apply to providers for FedRAMP Rev5 Certifications.
 
     _**Note:** FedRAMP will not perform FedRAMP Rev5 Class D Program Certifications._
 
-### Persistent Machine Verification and Validation
-
-??? abstract "FRC-CSF-PMV"
-    **Changelog:**
-
-
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
-
-
-
-!!! quote ""
-    === "Class A"
-        Providers of FedRAMP Rev5 Class A offerings SHOULD verify and validate the status of machine-based information resources at least once every month.
-
-        **Timeframe:** 1 month
-
-    === "Class B"
-        Providers of FedRAMP Rev5 Class B offerings SHOULD verify and validate the status of machine-based information resources at least once every month.
-
-        **Timeframe:** 1 month
-
-    === "Class C"
-        Providers of FedRAMP Rev5 Class C offerings MUST verify and validate the status of machine-based information resources at least once every month.
-
-        **Timeframe:** 1 month
-
-    === "Class D"
-        Providers of FedRAMP Rev5 Class D offerings MUST verify and validate the status of machine-based information resources at least once every month.
-
-        **Timeframe:** 1 month
-
-
-    ---
-    **Terms:** [Information Resource](../../../definitions/#information-resource){ data-preview }, [Machine-Based (Information Resources)](../../../definitions/#machine-based-information-resources){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
 ### FedRAMP Ready Conversion
 
 ??? abstract "FRC-CSF-RDY"

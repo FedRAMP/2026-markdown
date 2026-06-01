@@ -23,9 +23,9 @@ This section of the Consolidated Rules for 2026 contains each complete FedRAMP R
 | Acronym | Ruleset | Status | Counts | Most Recently Updated |
 | --- | --- | --- | --- | --- |
 | AGU | [Agency Use of FedRAMP Certified Cloud Services (Needs Review)](agency-use.md) | Placeholder | Subsets: 3<br>Rules: 18 | 2026-05-04 |
-| CCM | [Collaborative Continuous Monitoring](collaborative-continuous-monitoring.md) | Stable | Subsets: 3<br>Rules: 23 | 2026-05-04 |
+| CCM | [Collaborative Continuous Monitoring](collaborative-continuous-monitoring.md) | Stable | Subsets: 3<br>Rules: 21 | 2026-05-04 |
 | CDS | [Certification Data Sharing](certification-data-sharing.md) | Stable | Subsets: 5<br>Rules: 20 | 2026-05-04 |
-| FRC | [FedRAMP Certification](fedramp-certification.md) | Placeholder | Subsets: 9<br>Rules: 45 | 2026-05-04 |
+| FRC | [FedRAMP Certification](fedramp-certification.md) | Placeholder | Subsets: 9<br>Rules: 40 | 2026-05-04 |
 | FSI | [FedRAMP Security Inbox](fedramp-security-inbox.md) | Stable | Subsets: 2<br>Rules: 16 | 2026-05-04 |
 | IAP | [Independent Assessment Plan](independent-assessment-plan.md) | Empty | Subsets: 0<br>Rules: 0 |  |
 | IAR | [Independent Assessment Report](independent-assessment-report.md) | Empty | Subsets: 0<br>Rules: 0 |  |
@@ -37,4 +37,4 @@ This section of the Consolidated Rules for 2026 contains each complete FedRAMP R
 | SCN | [Significant Change Notifications](significant-change-notifications.md) | Stable | Subsets: 5<br>Rules: 17 | 2026-05-04 |
 | SDR | [Security Decision Record](security-decision-record.md) | Empty | Subsets: 0<br>Rules: 0 |  |
 | UCM | [Using Cryptographic Modules](using-cryptographic-modules.md) | Placeholder | Subsets: 1<br>Rules: 3 | 2026-05-04 |
-| VDR | [Vulnerability Detection and Response](vulnerability-detection-and-response.md) | Stable | Subsets: 7<br>Rules: 38 | 2026-05-04 |
+| VDR | [Vulnerability Detection and Response](vulnerability-detection-and-response.md) | Stable | Subsets: 7<br>Rules: 42 | 2026-05-04 |

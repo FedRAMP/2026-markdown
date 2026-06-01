@@ -69,7 +69,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
     ---
     **Terms:** [Certification Package](../../../definitions/#certification-package){ data-preview }
-### Public Guidance
+### Public Secure Configuration Guidance
 
 ??? abstract "SCG-CSO-PUB"
     **Changelog:**

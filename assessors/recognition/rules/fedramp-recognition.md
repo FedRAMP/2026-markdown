@@ -151,27 +151,6 @@ These rules apply to independent assessment services seeking to obtain or mainta
 
     ---
     **Terms:** [FedRAMP Recognized](../../../definitions/#fedramp-recognized){ data-preview }
-### Advisory Separation
-
-??? abstract "REC-IAS-SEP"
-    **Changelog:**
-
-
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
-
-
-
-!!! quote ""
-    Assessors MUST NOT perform an independent assessment of the same cloud service offering within 2 years after supplying advisory or consulting services for that offering, unless FedRAMP publishes a specific exception for a limited pilot or other explicitly scoped process.
-
-    **Timeframe:** 2 years
-
-    !!! warning "Corrective Actions"
-        - FedRAMP may require a consultation meeting, corrective action plan, or revocation for failure to comply.
-
-
-    ---
-    **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }
 ### Roles and Qualifications
 
 ??? abstract "REC-IAS-RQU"
@@ -275,3 +254,26 @@ These rules apply to independent assessment services seeking to obtain or mainta
 
 !!! quote ""
     Assessors MUST treat deliverables prepared, performed, or submitted by personnel who do not meet required role qualifications as invalid for FedRAMP purposes.
+
+
+### Advisory Separation
+
+??? abstract "REC-IAS-SEP"
+    **Changelog:**
+
+
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
+
+
+!!! quote ""
+    Assessors MUST NOT perform an independent assessment of the same cloud service offering within 2 years after supplying advisory or consulting services for that offering, unless FedRAMP publishes a specific exception for a limited pilot or other explicitly scoped process.
+
+    **Timeframe:** 2 years
+
+    !!! warning "Corrective Actions"
+        - FedRAMP may require a consultation meeting, corrective action plan, or revocation for failure to comply.
+
+
+    ---
+    **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }

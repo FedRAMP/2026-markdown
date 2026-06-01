@@ -39,28 +39,6 @@ These rules for agencies apply to all agencies using a FedRAMP Certification.
 
     ---
     **Terms:** [Cloud Service Offering](../../definitions/#cloud-service-offering){ data-preview }, [Ongoing Certification](../../definitions/#ongoing-certification){ data-preview }, [Ongoing Certification Report (OCR)](../../definitions/#ongoing-certification-report-ocr){ data-preview }
-### Notify FedRAMP of Concerns
-
-??? abstract "CCM-AGM-NFR"
-    **Changelog:**
-
-
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
-
-
-!!! warning "This FRR includes a notification requirement!"
-    - Notify FedRAMP by email using info@fedramp.gov.
-
-!!! quote ""
-    Agencies MUST notify FedRAMP by sending an email to info@fedramp.gov if the information presented in an Ongoing Certification Report, Quarterly Review, or other ongoing FedRAMP Certification Data causes significant concerns that may lead the agency to stop operation of the cloud service offering.
-
-
-    ---
-
-    _**Note:** Agencies are required to notify FedRAMP by OMB Memorandum M-24-15 section IV (a)._
-
-    ---
-    **Terms:** [Certification Data](../../definitions/#certification-data){ data-preview }, [Cloud Service Offering](../../definitions/#cloud-service-offering){ data-preview }, [Ongoing Certification](../../definitions/#ongoing-certification){ data-preview }, [Ongoing Certification Report (OCR)](../../definitions/#ongoing-certification-report-ocr){ data-preview }, [Quarterly Review](../../definitions/#quarterly-review){ data-preview }
 ### Notify FedRAMP After Requests
 
 ??? abstract "CCM-AGM-NFA"
@@ -117,21 +95,3 @@ These rules for agencies apply to all agencies using a FedRAMP Certification.
 
     ---
     **Terms:** [Certification Data](../../definitions/#certification-data){ data-preview }, [Cloud Service Offering](../../definitions/#cloud-service-offering){ data-preview }, [Ongoing Certification](../../definitions/#ongoing-certification){ data-preview }, [Quarterly Review](../../definitions/#quarterly-review){ data-preview }, [Security Category](../../definitions/#security-category){ data-preview }
-### Notify Provider of Concerns
-
-??? abstract "CCM-AGM-NPC"
-    **Changelog:**
-
-
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
-
-
-!!! warning "This FRR includes a notification requirement!"
-    - Notify Provider by email using security-email.
-
-!!! quote ""
-    Agencies SHOULD formally notify the provider if the information presented in an Ongoing Certification Report, Quarterly Review, or other ongoing FedRAMP Certification Data causes significant concerns that may lead the agency to remove the cloud service offering from operation.
-
-
-    ---
-    **Terms:** [Certification Data](../../definitions/#certification-data){ data-preview }, [Cloud Service Offering](../../definitions/#cloud-service-offering){ data-preview }, [Ongoing Certification](../../definitions/#ongoing-certification){ data-preview }, [Ongoing Certification Report (OCR)](../../definitions/#ongoing-certification-report-ocr){ data-preview }, [Quarterly Review](../../definitions/#quarterly-review){ data-preview }

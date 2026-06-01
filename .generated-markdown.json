@@ -62,13 +62,7 @@
     "reference/significant-change-notifications.md",
     "reference/using-cryptographic-modules.md",
     "reference/vulnerability-detection-and-response.md",
-    "responsibilities/fedramp-certification.md",
-    "responsibilities/fedramp-recognition.md",
-    "responsibilities/fedramp-security-inbox.md",
-    "responsibilities/incident-communications-procedures.md",
-    "responsibilities/marketplace-listing.md",
-    "responsibilities/significant-change-notifications.md",
-    "responsibilities/vulnerability-detection-and-response.md",
+    "responsibilities/rules.md",
     "todo.md"
   ]
 }

@@ -159,22 +159,6 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 These rules apply to independent assessment services supporting FedRAMP 20x Certifications.
 
-### Static Evidence
-
-??? abstract "FRC-IAX-STE"
-    **Changelog:**
-
-
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
-
-
-
-!!! quote ""
-    Assessors MUST NOT rely on screenshots, configuration dumps, or other static output as evidence EXCEPT when evaluating the accuracy and reliability of a process that generates such artifacts.
-
-
-    ---
-    **Terms:** [Artifacts](../../../definitions/#artifacts){ data-preview }
 ### Underlying Processes
 
 ??? abstract "FRC-IAX-UNP"
@@ -195,3 +179,19 @@ These rules apply to independent assessment services supporting FedRAMP 20x Cert
 
     ---
     **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Information Resource](../../../definitions/#information-resource){ data-preview }, [Machine-Based (Information Resources)](../../../definitions/#machine-based-information-resources){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
+### Static Evidence
+
+??? abstract "FRC-IAX-STE"
+    **Changelog:**
+
+
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
+
+
+!!! quote ""
+    Assessors MUST NOT rely on screenshots, configuration dumps, or other static output as evidence EXCEPT when evaluating the accuracy and reliability of a process that generates such artifacts.
+
+
+    ---
+    **Terms:** [Artifacts](../../../definitions/#artifacts){ data-preview }

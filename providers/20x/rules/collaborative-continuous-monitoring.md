@@ -140,7 +140,7 @@ These rules for Ongoing Certification Reports apply to providers with any type o
 
     ---
     **Terms:** [Ongoing Certification](../../../definitions/#ongoing-certification){ data-preview }, [Regularly](../../../definitions/#regularly){ data-preview }
-### Responsible Public Sharing
+### Responsible Public Certification Report Sharing
 
 ??? abstract "CCM-OCR-RPS"
     **Changelog:**

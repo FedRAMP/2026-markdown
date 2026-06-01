@@ -266,7 +266,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
     - _Providers determine what they consider to be separate services, based on maximizing the customer experience for agencies who may only adopt some services and not others._
     - _Providers are encouraged to provide a single comprehensive set of materials for all shared aspects of the service offering and only provide separate materials for unique aspects of each service to minimize the burden on providers and agencies._
-### Responsible Public Sharing
+### Responsible Public Package Sharing
 
 ??? abstract "CDS-CSO-RPS"
     **Changelog:**
@@ -354,7 +354,7 @@ These rules apply to trust centers that are FedRAMP-compatible.
 
     ---
     **Terms:** [Certification Data](../../../definitions/#certification-data){ data-preview }, [Trust Center](../../../definitions/#trust-center){ data-preview }
-### Human and Machine-Readable
+### Human and Machine-Readable Certification Data
 
 ??? abstract "CDS-TRC-HMR"
     **Changelog:**
@@ -390,7 +390,7 @@ These rules apply to trust centers that are FedRAMP-compatible.
 
 These rules apply to providers that are using a FedRAMP-compatible trust center instead of USDA Connect; they DO NOT apply to providers using USDA Connect.
 
-### Public Guidance
+### Public Guidance for Certification Data
 
 ??? abstract "CDS-UTC-PGD"
     **Changelog:**
@@ -406,22 +406,6 @@ These rules apply to providers that are using a FedRAMP-compatible trust center 
 
     ---
     **Terms:** [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Certification Data](../../../definitions/#certification-data){ data-preview }, [Trust Center](../../../definitions/#trust-center){ data-preview }
-### Agency Access
-
-??? abstract "CDS-UTC-AGA"
-    **Changelog:**
-
-
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
-
-
-
-!!! quote ""
-    Providers SHOULD share the FedRAMP Certification package with agencies upon request.
-
-
-    ---
-    **Terms:** [Certification Package](../../../definitions/#certification-package){ data-preview }
 ### Agency Access Denial
 
 ??? abstract "CDS-UTC-AAD"
@@ -442,3 +426,19 @@ These rules apply to providers that are using a FedRAMP-compatible trust center 
 
     ---
     **Terms:** [Certification Data](../../../definitions/#certification-data){ data-preview }
+### Agency Access
+
+??? abstract "CDS-UTC-AGA"
+    **Changelog:**
+
+
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
+
+
+!!! quote ""
+    Providers SHOULD share the FedRAMP Certification package with agencies upon request.
+
+
+    ---
+    **Terms:** [Certification Package](../../../definitions/#certification-package){ data-preview }

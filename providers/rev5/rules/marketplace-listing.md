@@ -44,7 +44,7 @@ These rules apply to providers seeking a listing in the FedRAMP Marketplace.
 
     _**Notes:**_
 
-    - _FedRAMP will not list products or services that are outside the explicit statutory scope of FedRAMP; See [MKT-FRP-SOF (Scope of FedRAMP)](../../../responsibilities/marketplace-listing.md#scope-of-fedramp){ data-preview }._
+    - _FedRAMP will not list products or services that are outside the explicit statutory scope of FedRAMP; See [MKT-FRP-SOF (Scope of FedRAMP)](../../../responsibilities/rules.md#scope-of-fedramp){ data-preview }._
     - _Services used by private companies to meet other compliance requirements (such as CMMC) that do not also meet one of the above use cases are outside the scope of FedRAMP._
     ---
     **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Information Resource](../../../definitions/#information-resource){ data-preview }, [Third-Party Information Resource](../../../definitions/#third-party-information-resource){ data-preview }

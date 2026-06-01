@@ -83,26 +83,6 @@ These rules apply to agencies based on the FedRAMP Authorization Act, OMB M-24-1
 
     ---
     **Terms:** [Artifacts](../definitions/#artifacts){ data-preview }, [Machine-Readable](../definitions/#machine-readable){ data-preview }
-### No Additional Security Requirements
-
-??? abstract "AGU-AGC-NAR"
-    **Changelog:**
-
-
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
-
-
-
-!!! quote ""
-    Agencies MUST NOT require additional information or materials from FedRAMP Certified cloud service offerings beyond those required by FedRAMP UNLESS the head of the agency or an authorized delegate determines there is a demonstrable need; this does not apply to seeking clarification or asking general questions about FedRAMP Certification Data.
-
-
-    ---
-
-    _**Note:** This is related to the Presumption of Adequacy for a FedRAMP Certification._
-
-    ---
-    **Terms:** [Certification Data](../definitions/#certification-data){ data-preview }, [Cloud Service Offering](../definitions/#cloud-service-offering){ data-preview }, [FedRAMP Certified](../definitions/#fedramp-certified){ data-preview }
 ### Notify Additional Information Requests
 
 ??? abstract "AGU-AGC-NAI"
@@ -125,6 +105,26 @@ These rules apply to agencies based on the FedRAMP Authorization Act, OMB M-24-1
 
     ---
     **Terms:** [Cloud Service Offering](../definitions/#cloud-service-offering){ data-preview }, [FedRAMP Certified](../definitions/#fedramp-certified){ data-preview }
+### No Additional Security Requirements
+
+??? abstract "AGU-AGC-NAR"
+    **Changelog:**
+
+
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
+
+
+!!! quote ""
+    Agencies MUST NOT require additional information or materials from FedRAMP Certified cloud service offerings beyond those required by FedRAMP UNLESS the head of the agency or an authorized delegate determines there is a demonstrable need; this does not apply to seeking clarification or asking general questions about FedRAMP Certification Data.
+
+
+    ---
+
+    _**Note:** This is related to the Presumption of Adequacy for a FedRAMP Certification._
+
+    ---
+    **Terms:** [Certification Data](../definitions/#certification-data){ data-preview }, [Cloud Service Offering](../definitions/#cloud-service-offering){ data-preview }, [FedRAMP Certified](../definitions/#fedramp-certified){ data-preview }
 ### FedRAMP Working Groups
 
 ??? abstract "AGU-AGC-WKG"
@@ -247,27 +247,7 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
 
     ---
     **Terms:** [Cloud Service Offering](../definitions/#cloud-service-offering){ data-preview }, [FedRAMP Certified](../definitions/#fedramp-certified){ data-preview }
-### Review Ongoing Authorization Reports
-
-??? abstract "AGU-USE-ROR"
-    **Changelog:**
-
-
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
-
-
-
-!!! quote ""
-    Agencies SHOULD review each Ongoing Authorization Report to understand how changes to the cloud service offering may impact the risk tolerance documented in the agency Authorization to Operate for the federal information system that includes the cloud service offering in its boundary.
-
-
-    ---
-
-    _**Note:** This agency review supports agency responsibilities under 44 USC § 35, OMB Circular A-130, FIPS-200, and OMB Memorandum M-24-15._
-
-    ---
-    **Terms:** [Cloud Service Offering](../definitions/#cloud-service-offering){ data-preview }
-### Notify FedRAMP of Concerns
+### Notify FedRAMP of Monitoring Concerns
 
 ??? abstract "AGU-USE-NFC"
     **Changelog:**
@@ -289,6 +269,26 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
 
     ---
     **Terms:** [Certification Data](../definitions/#certification-data){ data-preview }, [Likely](../definitions/#likely){ data-preview }, [Quarterly Review](../definitions/#quarterly-review){ data-preview }
+### Review Ongoing Authorization Reports
+
+??? abstract "AGU-USE-ROR"
+    **Changelog:**
+
+
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
+
+
+!!! quote ""
+    Agencies SHOULD review each Ongoing Authorization Report to understand how changes to the cloud service offering may impact the risk tolerance documented in the agency Authorization to Operate for the federal information system that includes the cloud service offering in its boundary.
+
+
+    ---
+
+    _**Note:** This agency review supports agency responsibilities under 44 USC § 35, OMB Circular A-130, FIPS-200, and OMB Memorandum M-24-15._
+
+    ---
+    **Terms:** [Cloud Service Offering](../definitions/#cloud-service-offering){ data-preview }
 ### Designate Senior Official
 
 ??? abstract "AGU-USE-DSO"

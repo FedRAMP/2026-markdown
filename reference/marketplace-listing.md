@@ -53,25 +53,6 @@ These rules apply to FedRAMP activities related to the FedRAMP Marketplace.
     FedRAMP MUST include a summary with any Marketplace listing decision that explains why the decision was made, including an explanation of deficiencies if applicable.
 
 
-### Scope of FedRAMP
-
-??? abstract "MKT-FRP-SOF"
-    **Changelog:**
-
-
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
-
-
-
-!!! quote ""
-    FedRAMP MUST NOT list cloud service offerings in the Marketplace or perform any FedRAMP Certification activities unless it determines the cloud service offering is within the scope of FedRAMP.
-
-
-
-    **Reference:** [Scope of FedRAMP](https://fedramp.gov/docs/authority/scope)
-
-    ---
-    **Terms:** [Cloud Service Offering](../definitions/#cloud-service-offering){ data-preview }
 ### Marketplace JSON Schemas
 
 ??? abstract "MKT-FRP-MJS"
@@ -91,6 +72,25 @@ These rules apply to FedRAMP activities related to the FedRAMP Marketplace.
 
     ---
     **Terms:** [Machine-Readable](../definitions/#machine-readable){ data-preview }
+### Scope of FedRAMP
+
+??? abstract "MKT-FRP-SOF"
+    **Changelog:**
+
+
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
+
+
+!!! quote ""
+    FedRAMP MUST NOT list cloud service offerings in the Marketplace or perform any FedRAMP Certification activities unless it determines the cloud service offering is within the scope of FedRAMP.
+
+
+
+    **Reference:** [Scope of FedRAMP](https://fedramp.gov/docs/authority/scope)
+
+    ---
+    **Terms:** [Cloud Service Offering](../definitions/#cloud-service-offering){ data-preview }
 ## General Provider Responsibilities {#general-provider-responsibilities}
 
 These rules apply to providers seeking a listing in the FedRAMP Marketplace.

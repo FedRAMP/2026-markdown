@@ -25,6 +25,28 @@ The Significant Change Notifications rules supply a simple framework allowing pr
 
 These rules apply to providers with FedRAMP Certifications of any type.
 
+### Evaluate Changes
+
+??? abstract "SCN-CSO-EVA"
+    **Changelog:**
+
+
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
+
+
+!!! quote ""
+    Providers MUST evaluate all potential significant changes to determine the type of significant change and follow the appropriate Significant Change Notification rules.
+
+    1. Is it a significant change? --> Continue evaluation and follow the Significant Change Notification rules.
+    1. If it is, is it an FedRAMP Certification class change?  --> This requires a new assessment and cannot be done under the Significant Change Notification rules.
+    1. If it is not, is it a routine recurring change? --> Follow the Routine Recurring Change rules (SCN-RTR Routine Recurring Changes).
+    1. If it is not, is it a transformative change? --> Follow the Transformative Change rules (SCN-TRF Transformative Changes).
+    1. If it is not, then it is an adaptive change --> Follow the Adaptive Change rules (SCN-ADP Adaptive Changes).
+
+
+    ---
+    **Terms:** [Adaptive Change](../../../definitions/#adaptive-change){ data-preview }, [Certification Class Change](../../../definitions/#certification-class-change){ data-preview }, [Routine Recurring Change](../../../definitions/#routine-recurring-change){ data-preview }, [Significant Change](../../../definitions/#significant-change){ data-preview }, [Transformative Change](../../../definitions/#transformative-change){ data-preview }
 ### Maintain Audit Records
 
 ??? abstract "SCN-CSO-MAR"
@@ -92,7 +114,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
     ---
     **Terms:** [Certification Data](../../../definitions/#certification-data){ data-preview }, [Significant Change](../../../definitions/#significant-change){ data-preview }
-### Human and Machine-Readable
+### Human and Machine-Readable Notifications
 
 ??? abstract "SCN-CSO-HRM"
     **Changelog:**
@@ -174,28 +196,6 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
     ---
     **Terms:** [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Certification Package](../../../definitions/#certification-package){ data-preview }, [Incident](../../../definitions/#incident){ data-preview }, [Significant Change](../../../definitions/#significant-change){ data-preview }, [Transformative Change](../../../definitions/#transformative-change){ data-preview }
-### Evaluate Changes
-
-??? abstract "SCN-CSO-EVA"
-    **Changelog:**
-
-
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
-
-
-
-!!! quote ""
-    Providers MUST evaluate all potential significant changes to determine the type of significant change and follow the appropriate Significant Change Notification rules.
-
-    1. Is it a significant change? --> Continue evaluation and follow the Significant Change Notification rules.
-    1. If it is, is it an FedRAMP Certification class change?  --> This requires a new assessment and cannot be done under the Significant Change Notification rules.
-    1. If it is not, is it a routine recurring change? --> Follow the Routine Recurring Change rules (SCN-RTR Routine Recurring Changes).
-    1. If it is not, is it a transformative change? --> Follow the Transformative Change rules (SCN-TRF Transformative Changes).
-    1. If it is not, then it is an adaptive change --> Follow the Adaptive Change rules (SCN-ADP Adaptive Changes).
-
-
-    ---
-    **Terms:** [Adaptive Change](../../../definitions/#adaptive-change){ data-preview }, [Certification Class Change](../../../definitions/#certification-class-change){ data-preview }, [Routine Recurring Change](../../../definitions/#routine-recurring-change){ data-preview }, [Significant Change](../../../definitions/#significant-change){ data-preview }, [Transformative Change](../../../definitions/#transformative-change){ data-preview }
 ## Adaptive Changes {#adaptive-changes}
 
 These rules apply to all adaptive significant changes.

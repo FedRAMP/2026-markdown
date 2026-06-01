@@ -377,7 +377,7 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
 
     **Related Terms Group:** [Vulnerability](#related-terms-group-vulnerability)
 
-    **Also:** fully mitigated vulnerability, fully mitigated vulnerabilities
+    **Also:** fully mitigated vulnerability, fully mitigated vulnerabilities, fully mitigate vulnerabilities
 ## Handle
 
 ??? abstract "**ID:** FRD-HAN"
@@ -650,7 +650,7 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
 
     **Related Terms Group:** [Vulnerability](#related-terms-group-vulnerability)
 
-    **Also:** partially mitigated vulnerability, partially mitigated vulnerabilities
+    **Also:** partially mitigated vulnerability, partially mitigated vulnerabilities, partially mitigate vulnerabilities
 ## Persistent FedRAMP Assessment
 
 ??? abstract "**ID:** FRD-PFA"
@@ -771,7 +771,7 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
 
     **Related Terms Group:** [Vulnerability](#related-terms-group-vulnerability)
 
-    **Also:** remediated vulnerability, remediated vulnerabilities
+    **Also:** remediated vulnerability, remediated vulnerabilities, remediate vulnerabilities
 ## Responsibly
 
 ??? abstract "**ID:** FRD-RSP"
