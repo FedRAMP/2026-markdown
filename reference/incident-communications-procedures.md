@@ -140,7 +140,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 !!! quote ""
     === "Class A"
-        Providers with Class A Certifications SHOULD responsibly notify all affected parties after identifying FedRAMP Reportable Incidents by providing an Initial Incident Report with as much of the following information that is available at the time of reporting:
+        Providers with Class A Certifications SHOULD responsibly notify all affected parties after identifying FedRAMP Reportable Incidents by providing an Initial Incident Report with as much of the following information that is available at the time of reporting and/or the current relevant status for each item:
 
         1. Contact information for the federal incident response coordinator.
         1. Provider's internally assigned tracking identifier
@@ -165,7 +165,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
         | PAIN-1 | 1 business day |
 
     === "Class B"
-        Providers with Class B Certifications MUST responsibly notify all affected parties after identifying FedRAMP Reportable Incidents by providing an Initial Incident Report with as much of the following information that is available at the time of reporting:
+        Providers with Class B Certifications MUST responsibly notify all affected parties after identifying FedRAMP Reportable Incidents by providing an Initial Incident Report with as much of the following information that is available at the time of reporting and/or the current relevant status for each item:
 
         1. Contact information for the federal incident response coordinator.
         1. Provider's internally assigned tracking identifier
@@ -190,7 +190,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
         | PAIN-1 | 1 business day |
 
     === "Class C"
-        Providers with Class C Certifications MUST responsibly notify all affected parties after identifying FedRAMP Reportable Incidents by providing an Initial Incident Report with as much of the following information that is available at the time of reporting:
+        Providers with Class C Certifications MUST responsibly notify all affected parties after identifying FedRAMP Reportable Incidents by providing an Initial Incident Report with as much of the following information that is available at the time of reporting and/or the current relevant status for each item:
 
         1. Contact information for the federal incident response coordinator.
         1. Provider's internally assigned tracking identifier
@@ -215,7 +215,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
         | PAIN-1 | 1 business day |
 
     === "Class D"
-        Providers with Class D Certifications MUST responsibly notify all affected parties after identifying FedRAMP Reportable Incidents by providing an Initial Incident Report with as much of the following information that is available at the time of reporting:
+        Providers with Class D Certifications MUST responsibly notify all affected parties after identifying FedRAMP Reportable Incidents by providing an Initial Incident Report with as much of the following information that is available at the time of reporting and/or the current relevant status for each item:
 
         1. Contact information for the federal incident response coordinator.
         1. Provider's internally assigned tracking identifier
@@ -258,7 +258,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 !!! quote ""
     === "Class A"
-        Providers with Class A Certifications SHOULD responsibly notify all affected parties of ongoing activity as new information becomes available during incident response for FedRAMP Reportable Incidents, including updates (or lack of updates) to all previously reported information and as much of the the following additional information that is available:
+        Providers with Class A Certifications SHOULD responsibly notify all affected parties of ongoing activity as new information becomes available during incident response for FedRAMP Reportable Incidents, including updates (or lack of updates) to all previously reported information and as much of the the following additional information that is available and/or the current relevant status for each item:
 
         1. Observed incident activity
         1. Indicators of compromise
@@ -280,7 +280,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
         | PAIN-1 | 1 business day |
 
     === "Class B"
-        Providers with Class B Certifications MUST responsibly notify all affected parties of ongoing activity as new information becomes available during incident response for FedRAMP Reportable Incidents, including updates (or lack of updates) to all previously reported information and as much of the the following additional information that is available:
+        Providers with Class B Certifications MUST responsibly notify all affected parties of ongoing activity as new information becomes available during incident response for FedRAMP Reportable Incidents, including updates (or lack of updates) to all previously reported information and as much of the the following additional information that is available and/or the current relevant status for each item:
 
         1. Observed incident activity
         1. Indicators of compromise
@@ -302,7 +302,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
         | PAIN-1 | 1 business day |
 
     === "Class C"
-        Providers with Class C Certifications MUST responsibly notify all affected parties of ongoing activity as new information becomes available during incident response for FedRAMP Reportable Incidents, including updates (or lack of updates) to all previously reported information and as much of the the following additional information that is available:
+        Providers with Class C Certifications MUST responsibly notify all affected parties of ongoing activity as new information becomes available during incident response for FedRAMP Reportable Incidents, including updates (or lack of updates) to all previously reported information and as much of the the following additional information that is available and/or the current relevant status for each item:
 
         1. Observed incident activity
         1. Indicators of compromise
@@ -324,7 +324,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
         | PAIN-1 | 1 business day |
 
     === "Class D"
-        Providers with Class D Certifications MUST responsibly notify all affected parties of ongoing activity as new information becomes available during incident response for FedRAMP Reportable Incidents, including updates (or lack of updates) to all previously reported information and as much of the the following additional information that is available:
+        Providers with Class D Certifications MUST responsibly notify all affected parties of ongoing activity as new information becomes available during incident response for FedRAMP Reportable Incidents, including updates (or lack of updates) to all previously reported information and as much of the the following additional information that is available and/or the current relevant status for each item:
 
         1. Observed incident activity
         1. Indicators of compromise

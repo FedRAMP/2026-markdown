@@ -89,9 +89,9 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
     ---
     **Terms:** [Certification Data](../definitions/#certification-data){ data-preview }, [Cloud Service Offering](../definitions/#cloud-service-offering){ data-preview }, [Security Category](../definitions/#security-category){ data-preview }
-### Public Availability Reporting
+### Availability Reporting
 
-??? abstract "CDS-CSO-PAR"
+??? abstract "CDS-CSO-AVR"
     **Changelog:**
 
 
