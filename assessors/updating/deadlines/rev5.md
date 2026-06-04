@@ -11,5 +11,5 @@ tags:
 | Short Name | Name | Obtain | Maintain | Grace Ends |
 | --- | --- | --- | --- | --- |
 | REC | [FedRAMP Recognition of Independent Assessment Services](../../recognition/rules/fedramp-recognition.md) | 2026-07-04 | 2026-07-04 | 2026-07-04 |
-| FRC | [FedRAMP Certification](../../rev5/rules/fedramp-certification.md) | 2027-01-01 | 2027-01-01 | 2027-01-01 |
+| FRA | [FedRAMP Assessments](../../rev5/rules/fedramp-assessments.md) | 2027-01-01 | 2027-01-01 | 2027-01-01 |
 | MKT | [Marketplace Listing](../../recognition/rules/marketplace-listing.md) | 2027-01-01 | 2027-01-01 | 2027-06-01 |

@@ -1,31 +1,81 @@
 ---
 tags:
   - 20x
+  - Rev5
 ---
 
 <span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-pencil:{ .placeholder title="This content is a placeholder and is not complete." }</span>
 
-# FedRAMP Certification
+# FedRAMP Assessments
 
-The FedRAMP Certification rules define how cloud service offerings obtain and maintain FedRAMP Certification across certification classes and paths. They give providers, assessors, agencies, and FedRAMP a common set of expectations for required rule sets, current evidence, independent verification and validation, and ongoing certification decisions.
+This ruleset explains the expectations for FedRAMP assessments.
 
 **Subsets**
 
+- [General Provider Responsibilities](#general-provider-responsibilities)
 - [General Independent Assessor Responsibilities](#general-independent-assessor-responsibilities)
 - [20x-Specific Independent Assessor Responsibilities](#20x-specific-independent-assessor-responsibilities)
+
+!!! info "Effective Date(s) & Overall Applicability for 20x"
+    - **Required** (Consolidated Rules for 2026)
+    - **Obtain:** 2026-07-04
+    - **Maintain:** 2027-05-04
+    - **Grace Ends:** 2027-05-04
+
+!!! info "Effective Date(s) & Overall Applicability for Rev5"
+    - **Required** (Consolidated Rules for 2026)
+    - **Obtain:** 2027-01-01
+    - **Maintain:** 2027-01-01
+    - **Grace Ends:** 2027-01-01
 
 
 
 ---
 
 
+## General Provider Responsibilities {#general-provider-responsibilities}
+
+These rules apply to cloud service providers obtaining and maintaining any FedRAMP Certification.
+
+### Supply Technical Evidence
+
+??? abstract "FRA-CSO-STE"
+    **Changelog:**
+
+
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
+
+
+!!! quote ""
+    Providers SHOULD supply all necessary accessors with technical explanations, demonstrations, and other relevant supporting information about the technical capabilities they employ to address FedRAMP rules; this SHOULD be supplied as necessary to ensure the assessor can effectively complete verification and validation.
+
+
+    ---
+    **Terms:** [Validation](../definitions/#validation){ data-preview }, [Verification](../definitions/#verification){ data-preview }
+### Receiving Assessor Advice
+
+??? abstract "FRA-CSO-RAA"
+    **Changelog:**
+
+
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
+
+
+!!! quote ""
+    Providers MAY ask for and accept advice from their assessor during assessment regarding techniques and procedures that will improve their security posture or the effectiveness, clarity, and accuracy of their verification, validation and reporting procedures, UNLESS doing so is likely to compromise the objectivity and integrity of the assessment.
+
+
+    ---
+    **Terms:** [Likely](../definitions/#likely){ data-preview }, [Validation](../definitions/#validation){ data-preview }, [Verification](../definitions/#verification){ data-preview }
 ## General Independent Assessor Responsibilities {#general-independent-assessor-responsibilities}
 
 These rules apply to independent assessment services supporting all FedRAMP Certification types.
 
 ### Verify and Validate Processes
 
-??? abstract "FRC-IAS-VVP"
+??? abstract "FRA-IAS-VVP"
     **Changelog:**
 
 
@@ -38,10 +88,10 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 
     ---
-    **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
+    **Terms:** [Cloud Service Offering](../definitions/#cloud-service-offering){ data-preview }, [Validation](../definitions/#validation){ data-preview }, [Verification](../definitions/#verification){ data-preview }
 ### Outcome Consistency
 
-??? abstract "FRC-IAS-OUC"
+??? abstract "FRA-IAS-OUC"
     **Changelog:**
 
 
@@ -54,10 +104,10 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 
     ---
-    **Terms:** [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
+    **Terms:** [Validation](../definitions/#validation){ data-preview }, [Verification](../definitions/#verification){ data-preview }
 ### Procedure Adherence
 
-??? abstract "FRC-IAS-PAD"
+??? abstract "FRA-IAS-PAD"
     **Changelog:**
 
 
@@ -75,7 +125,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 ### Mixed Methods Evaluation
 
-??? abstract "FRC-IAS-MME"
+??? abstract "FRA-IAS-MME"
     **Changelog:**
 
 
@@ -88,10 +138,10 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 
     ---
-    **Terms:** [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
+    **Terms:** [Validation](../definitions/#validation){ data-preview }, [Verification](../definitions/#verification){ data-preview }
 ### Assessment Summary
 
-??? abstract "FRC-IAS-SUM"
+??? abstract "FRA-IAS-SUM"
     **Changelog:**
 
 
@@ -104,10 +154,10 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 
     ---
-    **Terms:** [Certification Data](../../../definitions/#certification-data){ data-preview }, [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }
+    **Terms:** [Certification Data](../definitions/#certification-data){ data-preview }, [Cloud Service Offering](../definitions/#cloud-service-offering){ data-preview }
 ### Overall Summary of Assessment
 
-??? abstract "FRC-IAS-OSA"
+??? abstract "FRA-IAS-OSA"
     **Changelog:**
 
 
@@ -124,10 +174,10 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
     _**Note:** FedRAMP will make the final FedRAMP Certification decision based on the assessor's findings and other relevant information._
 
     ---
-    **Terms:** [All Necessary Assessors](../../../definitions/#all-necessary-assessors){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
+    **Terms:** [All Necessary Assessors](../definitions/#all-necessary-assessors){ data-preview }, [Validation](../definitions/#validation){ data-preview }, [Verification](../definitions/#verification){ data-preview }
 ### Engage Provider Experts
 
-??? abstract "FRC-IAS-EPX"
+??? abstract "FRA-IAS-EPX"
     **Changelog:**
 
 
@@ -141,7 +191,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 ### Sharing Advice
 
-??? abstract "FRC-IAS-SHA"
+??? abstract "FRA-IAS-SHA"
     **Changelog:**
 
 
@@ -154,14 +204,14 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 
     ---
-    **Terms:** [Likely](../../../definitions/#likely){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
+    **Terms:** [Likely](../definitions/#likely){ data-preview }, [Validation](../definitions/#validation){ data-preview }, [Verification](../definitions/#verification){ data-preview }
 ## 20x-Specific Independent Assessor Responsibilities {#20x-specific-independent-assessor-responsibilities}
 
 These rules apply to independent assessment services supporting FedRAMP 20x Certifications.
 
 ### Underlying Processes
 
-??? abstract "FRC-IAX-UNP"
+??? abstract "FRA-IAX-UNP"
     **Changelog:**
 
 
@@ -178,10 +228,10 @@ These rules apply to independent assessment services supporting FedRAMP 20x Cert
 
 
     ---
-    **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Information Resource](../../../definitions/#information-resource){ data-preview }, [Machine-Based (Information Resources)](../../../definitions/#machine-based-information-resources){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
+    **Terms:** [Cloud Service Offering](../definitions/#cloud-service-offering){ data-preview }, [Information Resource](../definitions/#information-resource){ data-preview }, [Machine-Based (Information Resources)](../definitions/#machine-based-information-resources){ data-preview }, [Validation](../definitions/#validation){ data-preview }, [Verification](../definitions/#verification){ data-preview }
 ### Static Evidence
 
-??? abstract "FRC-IAX-STE"
+??? abstract "FRA-IAX-STE"
     **Changelog:**
 
 
@@ -194,4 +244,4 @@ These rules apply to independent assessment services supporting FedRAMP 20x Cert
 
 
     ---
-    **Terms:** [Artifacts](../../../definitions/#artifacts){ data-preview }
+    **Terms:** [Artifacts](../definitions/#artifacts){ data-preview }

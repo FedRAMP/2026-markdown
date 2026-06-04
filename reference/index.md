@@ -24,14 +24,15 @@ This section of the Consolidated Rules for 2026 contains each complete FedRAMP R
 | --- | --- | --- | --- | --- |
 | AGU | [Agency Use of FedRAMP Certified Cloud Services (Needs Review)](agency-use.md) | Placeholder | Subsets: 3<br>Rules: 18 | 2026-05-04 |
 | CCM | [Collaborative Continuous Monitoring](collaborative-continuous-monitoring.md) | Stable | Subsets: 3<br>Rules: 21 | 2026-05-04 |
-| CDS | [Certification Data Sharing](certification-data-sharing.md) | Stable | Subsets: 5<br>Rules: 20 | 2026-05-04 |
-| FRC | [FedRAMP Certification](fedramp-certification.md) | Placeholder | Subsets: 9<br>Rules: 40 | 2026-05-04 |
+| CDS | [Certification Data Sharing](certification-data-sharing.md) | Stable | Subsets: 4<br>Rules: 19 | 2026-05-04 |
+| CPO | [Certification Package Overview](certification-package-overview.md) | Empty | Subsets: 0<br>Rules: 0 |  |
+| FRA | [FedRAMP Assessments](fedramp-assessments.md) | Placeholder | Subsets: 3<br>Rules: 12 | 2026-05-04 |
 | FSI | [FedRAMP Security Inbox](fedramp-security-inbox.md) | Stable | Subsets: 2<br>Rules: 16 | 2026-05-04 |
-| IAP | [Independent Assessment Plan](independent-assessment-plan.md) | Empty | Subsets: 0<br>Rules: 0 |  |
-| IAR | [Independent Assessment Report](independent-assessment-report.md) | Empty | Subsets: 0<br>Rules: 0 |  |
 | ICP | [Incident Communications Procedures](incident-communications-procedures.md) | Placeholder | Subsets: 2<br>Rules: 8 | 2026-05-04 |
+| IFR | [Initial FedRAMP Certification](initial-fedramp-certification.md) | Placeholder | Subsets: 7<br>Rules: 17 | 2026-07-04 |
 | MAS | [Minimum Assessment Scope](minimum-assessment-scope.md) | Stable | Subsets: 1<br>Rules: 5 | 2026-05-04 |
 | MKT | [Marketplace Listing](marketplace-listing.md) | Placeholder | Subsets: 5<br>Rules: 14 | 2026-05-04 |
+| OFR | [Ongoing FedRAMP Certification](ongoing-fedramp-certification.md) | Placeholder | Subsets: 3<br>Rules: 11 | 2026-05-04 |
 | REC | [FedRAMP Recognition of Independent Assessment Services](fedramp-recognition.md) | Placeholder | Subsets: 2<br>Rules: 16 | 2026-05-04 |
 | SCG | [Secure Configuration Guide](secure-configuration-guide.md) | Stable | Subsets: 2<br>Rules: 9 | 2026-05-04 |
 | SCN | [Significant Change Notifications](significant-change-notifications.md) | Stable | Subsets: 5<br>Rules: 17 | 2026-05-04 |

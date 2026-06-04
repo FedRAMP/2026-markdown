@@ -5,9 +5,9 @@ tags:
 
 <span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-pencil:{ .placeholder title="This content is a placeholder and is not complete." }</span>
 
-# FedRAMP Certification
+# FedRAMP Assessments
 
-The FedRAMP Certification rules define how cloud service offerings obtain and maintain FedRAMP Certification across certification classes and paths. They give providers, assessors, agencies, and FedRAMP a common set of expectations for required rule sets, current evidence, independent verification and validation, and ongoing certification decisions.
+This ruleset explains the expectations for FedRAMP assessments.
 
 
 
@@ -20,7 +20,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 ### Verify and Validate Processes
 
-??? abstract "FRC-IAS-VVP"
+??? abstract "FRA-IAS-VVP"
     **Changelog:**
 
 
@@ -36,7 +36,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
     **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
 ### Outcome Consistency
 
-??? abstract "FRC-IAS-OUC"
+??? abstract "FRA-IAS-OUC"
     **Changelog:**
 
 
@@ -52,7 +52,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
     **Terms:** [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
 ### Procedure Adherence
 
-??? abstract "FRC-IAS-PAD"
+??? abstract "FRA-IAS-PAD"
     **Changelog:**
 
 
@@ -70,7 +70,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 ### Mixed Methods Evaluation
 
-??? abstract "FRC-IAS-MME"
+??? abstract "FRA-IAS-MME"
     **Changelog:**
 
 
@@ -86,7 +86,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
     **Terms:** [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
 ### Assessment Summary
 
-??? abstract "FRC-IAS-SUM"
+??? abstract "FRA-IAS-SUM"
     **Changelog:**
 
 
@@ -102,7 +102,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
     **Terms:** [Certification Data](../../../definitions/#certification-data){ data-preview }, [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }
 ### Overall Summary of Assessment
 
-??? abstract "FRC-IAS-OSA"
+??? abstract "FRA-IAS-OSA"
     **Changelog:**
 
 
@@ -122,7 +122,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
     **Terms:** [All Necessary Assessors](../../../definitions/#all-necessary-assessors){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
 ### Engage Provider Experts
 
-??? abstract "FRC-IAS-EPX"
+??? abstract "FRA-IAS-EPX"
     **Changelog:**
 
 
@@ -136,7 +136,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 ### Sharing Advice
 
-??? abstract "FRC-IAS-SHA"
+??? abstract "FRA-IAS-SHA"
     **Changelog:**
 
 

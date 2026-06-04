@@ -36,26 +36,27 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 
 !!! quote ""
-    Providers MUST publicly share up-to-date information about the cloud service offering in both human-readable and machine-readable formats, including at least:
+    Providers MUST publicly share up-to-date information about the cloud service offering in both human-readable and machine-readable formats, including at least the following information that is available and applicable:
 
     1. Direct link to the FedRAMP Marketplace for the offering
     1. Service Model
     1. Deployment Model
     1. Business Category
     1. UEI Number
-    1. Contact Information
+    1. Sales Contact Information
+    1. Security Contact Information
+    1. Product Website Link
+    1. Link to Product Logo
     1. Overall Service Description
     1. Detailed list of specific services and their security categories (see [CDS-CSO-SVC (Service List)](#service-list){ data-preview })
-    1. Summary of customer responsibilities and secure configuration guidance (if applicable, see the FedRAMP Secure Configuration Guide process)
-    1. Process for accessing information in the trust center (if applicable)
-    1. Availability status and recent disruptions for the trust center (if applicable)
-    1. Customer support information for the trust center (if applicable)
+    1. Summary of customer responsibilities and secure configuration guidance
+    1. Link to Trust Center landing page that includes instructions on accessing information in the trust center
     1. Next Ongoing Certification Report date (see [CCM-OCR-NRD (Next Report Date)](collaborative-continuous-monitoring.md#next-report-date){ data-preview })
 
 
     ---
 
-    _**Note:** Generally, this information should be available on a public webpage._
+    _**Note:** Generally, this information should be available on a public webpage or publicly shared in a FedRAMP-compatible trust center._
 
     ---
     **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Machine-Readable](../../../definitions/#machine-readable){ data-preview }, [Ongoing Certification](../../../definitions/#ongoing-certification){ data-preview }, [Ongoing Certification Report (OCR)](../../../definitions/#ongoing-certification-report-ocr){ data-preview }, [Security Category](../../../definitions/#security-category){ data-preview }, [Trust Center](../../../definitions/#trust-center){ data-preview }
@@ -391,22 +392,6 @@ These rules apply to trust centers that are FedRAMP-compatible.
 
 These rules apply to providers that are using a FedRAMP-compatible trust center instead of USDA Connect; they DO NOT apply to providers using USDA Connect.
 
-### Public Guidance for Certification Data
-
-??? abstract "CDS-UTC-PGD"
-    **Changelog:**
-
-
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
-
-
-
-!!! quote ""
-    Providers MUST publicly provide plain-language policies and guidance for all necessary parties that explains how they can obtain and manage access to FedRAMP Certification Data stored in the trust center.
-
-
-    ---
-    **Terms:** [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Certification Data](../../../definitions/#certification-data){ data-preview }, [Trust Center](../../../definitions/#trust-center){ data-preview }
 ### Agency Access Denial
 
 ??? abstract "CDS-UTC-AAD"
@@ -420,7 +405,7 @@ These rules apply to providers that are using a FedRAMP-compatible trust center 
     - Notify FedRAMP by email using info@fedramp.gov.
 
 !!! quote ""
-    Providers MUST notify FedRAMP by email to info@fedramp.gov within 5 business days of denying an agency access request for FedRAMP Certification Data.
+    Providers MUST notify FedRAMP within 5 business days of denying an agency access request for FedRAMP Certification Data.
 
     **Timeframe:** 5 business days
 
@@ -438,7 +423,7 @@ These rules apply to providers that are using a FedRAMP-compatible trust center 
 
 
 !!! quote ""
-    Providers SHOULD share the FedRAMP Certification package with agencies upon request.
+    Providers SHOULD supply access to the FedRAMP Certification package with agencies upon request.
 
 
     ---

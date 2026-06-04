@@ -13,49 +13,6 @@ tags:
 ---
 
 
-## FedRAMP Certification {#fedramp-certification}
-
-The FedRAMP Certification rules define how cloud service offerings obtain and maintain FedRAMP Certification across certification classes and paths. They give providers, assessors, agencies, and FedRAMP a common set of expectations for required rule sets, current evidence, independent verification and validation, and ongoing certification decisions.
-
-These rules apply to FedRAMP.
-
-### Minimum Continuous Monitoring
-
-??? abstract "FRC-FRP-MCM"
-    **Changelog:**
-
-
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
-
-
-
-!!! quote ""
-    FedRAMP MUST perform a minimum level of continuous monitoring for cloud service offerings with FedRAMP Program Certification, including at least reviewing Ongoing Certification Reports.
-
-
-    ---
-    **Terms:** [Cloud Service Offering](../definitions/#cloud-service-offering){ data-preview }, [Ongoing Certification](../definitions/#ongoing-certification){ data-preview }
-### Exemptions from Certification Rules
-
-??? abstract "FRC-FRP-ECR"
-    **Changelog:**
-
-
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
-
-
-
-!!! quote ""
-    FedRAMP MAY approve exemptions from some FedRAMP Certification rules in rare circumstances by supplying an explicit waiver, based on a prioritization and risk assessment completed by FedRAMP.
-
-
-    ---
-
-    _**Notes:**_
-
-    - _FedRAMP will determine when such exemptions are appropriate._
-    - _Exemptions will typically be part of a public prioritization process and criteria will be published publicly._
-    - _Do not ask FedRAMP for an exemption unless the publicly published criteria is met._
 ## FedRAMP Security Inbox {#fedramp-security-inbox}
 
 The FedRAMP Security Inbox rules ensure FedRAMP can reliably contact the security and compliance staff responsible for every FedRAMP-authorized cloud service offering. These rules also set expectations for urgent communications, response time testing, and routing important messages separately from general support or customer service channels.
@@ -237,6 +194,33 @@ These rules apply to FedRAMP.
 
     ---
     **Terms:** [Incident](../definitions/#incident){ data-preview }
+## Initial FedRAMP Certification {#initial-fedramp-certification}
+
+This ruleset explains how cloud service offerings obtain initial FedRAMP Certification across certification classes and paths.
+
+These rules apply to FedRAMP.
+
+### Exemptions from Certification Rules
+
+??? abstract "IFR-FRP-ECR"
+    **Changelog:**
+
+
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
+
+
+!!! quote ""
+    FedRAMP MAY approve exemptions from some FedRAMP Certification rules in rare circumstances by supplying an explicit waiver, based on a prioritization and risk assessment completed by FedRAMP.
+
+
+    ---
+
+    _**Notes:**_
+
+    - _FedRAMP will determine when such exemptions are appropriate._
+    - _Exemptions will typically be part of a public prioritization process and criteria will be published publicly._
+    - _Do not ask FedRAMP for an exemption unless the publicly published criteria is met._
 ## Marketplace Listing {#marketplace-listing}
 
 The Marketplace Listing rules define how FedRAMP decides which cloud service offerings, assessors, and advisors may be listed in the FedRAMP Marketplace. These rules help agencies and other customers rely on the Marketplace as a consistent source of eligible services and supporting organizations, while requiring listed organizations to supply accurate, accessible, and machine-readable information.
@@ -295,6 +279,28 @@ These rules apply to FedRAMP activities related to the FedRAMP Marketplace.
 
     ---
     **Terms:** [Cloud Service Offering](../definitions/#cloud-service-offering){ data-preview }
+## Ongoing FedRAMP Certification {#ongoing-fedramp-certification}
+
+This ruleset explains how cloud service offerings maintain ongoing FedRAMP Certification across certification classes and paths.
+
+These rules apply to FedRAMP.
+
+### Minimum Continuous Monitoring
+
+??? abstract "OFR-FRP-MCM"
+    **Changelog:**
+
+
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
+
+
+!!! quote ""
+    FedRAMP MUST perform a minimum level of continuous monitoring for cloud service offerings with FedRAMP Program Certification, including at least reviewing Ongoing Certification Reports.
+
+
+    ---
+    **Terms:** [Cloud Service Offering](../definitions/#cloud-service-offering){ data-preview }, [Ongoing Certification](../definitions/#ongoing-certification){ data-preview }
 ## FedRAMP Recognition of Independent Assessment Services {#fedramp-recognition-of-independent-assessment-services}
 
 The FedRAMP Recognition of Independent Assessment Services rules explain the requirements for assessors to obtain and maintain FedRAMP Recognition in order to support the FedRAMP Certification process.

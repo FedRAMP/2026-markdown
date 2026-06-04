@@ -82,10 +82,12 @@ These rules apply to providers seeking a Preparation Phase listing in the FedRAM
 !!! quote ""
     Providers MUST implement a minimum set of rules to be listed in the FedRAMP Marketplace during the Preparation Phase, including at least:
 
-    1. CDS: rules
-    1. CCM: rules
+    1. [CDS-CSO-PUB (Public Information)](certification-data-sharing.md#public-information){ data-preview } (Public Information
+    1. [CDS-CSO-UTC (Use Trust Centers)](certification-data-sharing.md#use-trust-centers){ data-preview }
 
 
+    ---
+    **Terms:** [Trust Center](../../../definitions/#trust-center){ data-preview }
 ### Demonstrating Continuous Progress
 
 ??? abstract "MKT-PRE-DCP"
@@ -97,7 +99,7 @@ These rules apply to providers seeking a Preparation Phase listing in the FedRAM
 
 
 !!! quote ""
-    Providers MUST demonstrate continuous progress towards FedRAMP Certification, documented in their quarterly Ongoing Certification Reports; progress is measured by the provider against documented goals and milestones.
+    Providers MUST demonstrate continuous progress towards a FedRAMP Certification, documented in their Trust Center and updated at least quarterly; progress is measured by the provider against documented goals and milestones.
 
 
     ---
@@ -105,7 +107,7 @@ These rules apply to providers seeking a Preparation Phase listing in the FedRAM
     _**Note:** This is an opportunity for a business to showcase its goals and progress, and should be seen as a marketing and customer experience challenge instead of a compliance challenge._
 
     ---
-    **Terms:** [Ongoing Certification](../../../definitions/#ongoing-certification){ data-preview }
+    **Terms:** [Trust Center](../../../definitions/#trust-center){ data-preview }
 ### Deadline for Assessment
 
 ??? abstract "MKT-PRE-DLA"

@@ -6,9 +6,9 @@ tags:
 
 <span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-circle-slash:{ .empty title="This content has not been produced or ported to this website yet." }</span>
 
-# Independent Assessment Report
+# Certification Package Overview
 
-The Independent Assessment Report rules explain the minimum expectations for independent assessor attestations after the completion of an independent assessment for FedRAMP Certification.
+The Certification Package Overview rules outline the expectations for a simple overview of the cloud service offering that must be included within a FedRAMP Certification Package.
 
 !!! info "Effective Date(s) & Overall Applicability for 20x"
     - **Required** (Consolidated Rules for 2026)
