@@ -29,6 +29,11 @@ These rules apply to consulting and advisory services seeking a listing in the F
 
 
 
+!!! schema "Related JSON Schema: [FedRAMP Advisory Service Information Schema](https://fedramp.gov/schemas/fedramp-advisor-information-schema-v2026.06.06.01.json)"
+
+    _Note: This is a placeholder, the URL will not work yet._
+
+
 !!! quote ""
     Advisors MUST have an appropriate web site that publicly supplies at least the following information in consistent machine-readable and human-readable formats:
 
@@ -50,6 +55,7 @@ These rules apply to consulting and advisory services seeking a listing in the F
 
 
 
+
 !!! quote ""
     Advisors MUST complete the Advisor Listing Request Form at https://fedramp.gov/forms/advisor-listing-request/ to request listing in the FedRAMP Marketplace.
 
@@ -61,6 +67,7 @@ These rules apply to consulting and advisory services seeking a listing in the F
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 

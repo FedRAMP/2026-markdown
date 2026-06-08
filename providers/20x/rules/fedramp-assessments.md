@@ -28,6 +28,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 
 
 
+
 !!! quote ""
     Providers SHOULD supply all necessary accessors with technical explanations, demonstrations, and other relevant supporting information about the technical capabilities they employ to address FedRAMP rules; this SHOULD be supplied as necessary to ensure the assessor can effectively complete verification and validation.
 
@@ -41,6 +42,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 

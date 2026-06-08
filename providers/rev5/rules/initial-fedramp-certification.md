@@ -36,6 +36,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 
 
 
+
 !!! quote ""
     === "Class A"
         Providers seeking a Class A Certification MUST supply a complete FedRAMP Certification Package to FedRAMP for initial certification, aligned to the requirements for the target Certification Type, Class, and Path; the FedRAMP Certification Package MUST include at least the following information:
@@ -67,6 +68,44 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 
     ---
     **Terms:** [Certification Package](../../../definitions/#certification-package){ data-preview }, [Initial Certification](../../../definitions/#initial-certification){ data-preview }
+### FedRAMP JSON Schemas
+
+??? abstract "IFR-CSO-JSN"
+    **Changelog:**
+
+
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
+
+
+
+!!! quote ""
+    Providers MUST supply machine-readable information in JSON documents that are valid against the corresponding JSON schema when a rule contains a FedRAMP JSON schema, UNLESS otherwise specified in the rule.
+
+
+    ---
+
+    _**Note:** FedRAMP JSON schemas are designed to be lightweight and flexible to establish a minimum set of structured information while allowing providers to improve on the format and structure of the information as needed to meet their needs and the needs of their customers._
+
+    ---
+    **Terms:** [Machine-Readable](../../../definitions/#machine-readable){ data-preview }
+### Maintain Responsibility and Accountability
+
+??? abstract "IFR-CSO-MRA"
+    **Changelog:**
+
+
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
+
+
+
+!!! quote ""
+    Providers MUST maintain responsibility and accountability for the accuracy and completeness of all information in the FedRAMP Certification Package, especially when they engage a third party (such as an independent assessor, advisory service, or external tools) to supply information on their behalf.
+
+
+    ---
+    **Terms:** [Certification Package](../../../definitions/#certification-package){ data-preview }
 ### Pick One Program Certification Type
 
 ??? abstract "IFR-CSO-POP"
@@ -74,6 +113,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -89,7 +129,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
     **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }
 ## FedRAMP Class A Certification Rules {#fedramp-class-a-certification-rules}
 
-These rules apply to providers seeking FedRAMP Class A Certifications.
+These are specific rules that apply to providers seeking FedRAMP Class A Certifications.
 
 ### Approved Alternative Security Frameworks
 
@@ -101,14 +141,17 @@ These rules apply to providers seeking FedRAMP Class A Certifications.
 
 
 
+
 !!! quote ""
     Providers seeking a FedRAMP Class A Certification MUST have completed a certification or equivalent process, including an independent assessment, from one of the following alternative security frameworks:
 
-    1. FedRAMP Ready
+    1. FedRAMP Rev5 (including FedRAMP Ready) at any historical Impact Level
     1. SOC 2 Type II
-    1. GovRAMP
+    1. GovRAMP at any Impact Level
 
 
+    ---
+    **Terms:** [Security Category](../../../definitions/#security-category){ data-preview }
 ### External Assessment Materials
 
 ??? abstract "IFR-CLA-EAM"
@@ -119,13 +162,14 @@ These rules apply to providers seeking FedRAMP Class A Certifications.
 
 
 
+
 !!! quote ""
     Providers seeking a FedRAMP Class A Certification MUST supply the full materials from the alternative security assessment to all necessary parties as part of the FedRAMP Certification Package.
 
 
     ---
     **Terms:** [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Certification Package](../../../definitions/#certification-package){ data-preview }
-### Address FedRAMP Rules
+### Address FedRAMP Rules for Class A
 
 ??? abstract "IFR-CLA-AFR"
     **Changelog:**
@@ -135,9 +179,12 @@ These rules apply to providers seeking FedRAMP Class A Certifications.
 
 
 
-!!! quote ""
-    Providers seeking a Class A FedRAMP Certification MUST address the following FedRAMP rules and supply the appropriate artifacts or information mapping in the FedRAMP Certification Package:
 
+!!! quote ""
+    Providers seeking a Class A FedRAMP Certification of any Type MUST address all rules in this FedRAMP Class A Certification subset (IFR-CLA) AND the following additional FedRAMP rules; the appropriate artifacts or information mapping for all rules MUST be supplied in the FedRAMP Certification Package.
+
+    1. FedRAMP Certification: [IFR-CSO-PKG (FedRAMP Certification Package)](#fedramp-certification-package){ data-preview }
+    1. FedRAMP Certification: [IFR-CSO-JSN (FedRAMP JSON Schemas)](#fedramp-json-schemas){ data-preview }
     1. FedRAMP Certification: [IFR-CSO-POP (Pick One Program Certification Type)](#pick-one-program-certification-type){ data-preview }
     1. Minimum Assessment Scope: [MAS-CSO-IIR (Identify Information Resources)](minimum-assessment-scope.md#identify-information-resources){ data-preview }
     1. Certification Data Sharing: [CDS-CSO-PUB (Public Information)](certification-data-sharing.md#public-information){ data-preview }
@@ -150,12 +197,21 @@ These rules apply to providers seeking FedRAMP Class A Certifications.
     1. Vulnerability Detection and Response: [VDR-CSO-DET (Vulnerability Detection)](vulnerability-detection-and-response.md#vulnerability-detection){ data-preview }
     1. Continuous Collaborative Monitoring: [CCM-OCR-AVL (Report Availability)](collaborative-continuous-monitoring.md#report-availability){ data-preview }
     1. Continuous Collaborative Monitoring: [CCM-OCR-NRD (Next Report Date)](collaborative-continuous-monitoring.md#next-report-date){ data-preview }
+    1. Key Security Indicators: KSI-CMT-LMC (Logging Changes)
+    1. Key Security Indicators: KSI-CNA-RNT (Restricting Network Traffic)
+    1. Key Security Indicators: KSI-CED-RAT (Reviewing All Training)
+    1. Key Security Indicators: KSI-IAM-AAM (Automating Account Management)
+    1. Key Security Indicators: KSI-INR-RIR (Reviewing Incident Response Procedures)
+    1. Key Security Indicators: KSI-SVC-SNT (Securing Network Traffic)
 
 
     ---
 
-    _**Note:** If the alternative security framework has existing rules that align with these FedRAMP rules then a mapping to the alternative security framework content may be supplied instead of generating new artifacts._
+    _**Notes:**_
 
+    - _Some of these specific FedRAMP rules may not have similar counterparts in external frameworks and providers will need to implement new processes to follow these rules._
+    - _In general, for each of these FedRAMP requirements, providers should include a sufficiently detailed summary that reviewers will not need to dig into the related security framework materials to understand the related decisions - just saying "see SOC 2 report" is not particularly helpful._
+    - _Information about how the provider addresses the included Key Security Indicators are required for both Rev5 and 20x Class A Certifications._
     ---
     **Terms:** [Artifacts](../../../definitions/#artifacts){ data-preview }, [Certification Data](../../../definitions/#certification-data){ data-preview }, [Certification Package](../../../definitions/#certification-package){ data-preview }, [FedRAMP Security Inbox](../../../definitions/#fedramp-security-inbox){ data-preview }, [Incident](../../../definitions/#incident){ data-preview }, [Information Resource](../../../definitions/#information-resource){ data-preview }, [Initial Incident Report (IIR)](../../../definitions/#initial-incident-report-iir){ data-preview }, [Ongoing Certification Report (OCR)](../../../definitions/#ongoing-certification-report-ocr){ data-preview }, [Trust Center](../../../definitions/#trust-center){ data-preview }, [Vulnerability](../../../definitions/#vulnerability){ data-preview }, [Vulnerability Detection](../../../definitions/#vulnerability-detection){ data-preview }, [Vulnerability Response](../../../definitions/#vulnerability-response){ data-preview }
 ### Optional Independent Verification and Validation
@@ -168,32 +224,13 @@ These rules apply to providers seeking FedRAMP Class A Certifications.
 
 
 
+
 !!! quote ""
     Providers seeking a FedRAMP Class A Certification MAY have the FedRAMP Certification Package independently verified and validated by a FedRAMP Recognized assessor before submission to FedRAMP.
 
 
     ---
     **Terms:** [Certification Package](../../../definitions/#certification-package){ data-preview }, [FedRAMP Recognized](../../../definitions/#fedramp-recognized){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
-### Rev5 Class A Certification
-
-??? abstract "IFR-CLA-CAC"
-    **Changelog:**
-
-
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
-
-
-
-!!! quote ""
-    Providers seeking a FedRAMP Rev5 Class A Certification by leveraging an alternative security framework that is based on the SP 800-53 Revision 5 MUST supply all Security Decision Record materials required for FedRAMP Rev5 Class B Certification.
-
-
-    ---
-
-    _**Notes:**_
-
-    - _The only approved alternative security frameworks based on the SP 800-53 Revision 5 are FedRAMP Ready and GovRAMP._
-    - _An independent assessment is not required for FedRAMP Rev5 Class A Certification._
 ## Applying for FedRAMP Certification {#applying-for-fedramp-certification}
 
 These rules apply to cloud service providers who have met all other relevant rules and are ready to apply for any FedRAMP Certification.
@@ -208,13 +245,14 @@ These rules apply to cloud service providers who have met all other relevant rul
 
 
 
+
 !!! quote ""
     Providers MUST be listed in the FedRAMP Marketplace before applying for FedRAMP Certification.
 
 
     ---
 
-    _**Note:** See FedRAMP's Marketplace Listing rules for information about being listed in the Marketplace in the Preparation Phase prior to receiving a formal FedRAMP Certification._
+    _**Note:** See FedRAMP's Marketplace Listing rules for information about being listed in the Marketplace in the Initial Implementation Phase prior to receiving a formal FedRAMP Certification._
 
 ### Applying for FedRAMP Certification
 
@@ -223,6 +261,7 @@ These rules apply to cloud service providers who have met all other relevant rul
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -243,6 +282,7 @@ These rules apply to cloud service providers who have met all other relevant rul
 
 
 
+
 !!! quote ""
     Providers MUST supply a fresh initial FedRAMP Certification Package that shows the current status of the cloud service offering as verified and validated by the provider within the previous 7 days.
 
@@ -259,12 +299,51 @@ These rules apply to cloud service providers who have met all other relevant rul
 
 
 
+
 !!! quote ""
     Providers MUST supply a fresh initial independent verification and validation assessment that was completed by a FedRAMP Recognized Independent Assessment Service within the previous 3 months.
 
 
     ---
     **Terms:** [FedRAMP Recognized](../../../definitions/#fedramp-recognized){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
+### No Third-Party Applications
+
+??? abstract "IFR-APP-NTP"
+    **Changelog:**
+
+
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
+
+
+
+!!! quote ""
+    Providers MUST NOT use a third party to apply for a FedRAMP Certification on their behalf; this includes independent assessment services.
+
+
+    ---
+
+    _**Notes:**_
+
+    - _FedRAMP previously allowed independent assessment services to submit applications on behalf of providers, but this caused confusion about who was responsible for the application and the information in it. Providers should apply directly to ensure clear accountability._
+    - _Providers may use third parties to help them prepare their application and assessment materials for submission._
+### Updating Stale Assessments
+
+??? abstract "IFR-APP-USA"
+    **Changelog:**
+
+
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
+
+
+
+!!! quote ""
+    Providers MAY freshen a stale initial independent verification and validation assessment by having a FedRAMP Recognized Independent Assessment Service review any changes between the original assessment and the current status of the cloud service offering in place of a full re-assessment, UNLESS the stale assessment is more than 9 months old.
+
+
+    ---
+    **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [FedRAMP Recognized](../../../definitions/#fedramp-recognized){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
 ## Applying for FedRAMP Certification with an Agency Sponsor {#applying-for-fedramp-certification-with-an-agency-sponsor}
 
 These rules apply to cloud service providers with an Agency Sponsor who have met all other relevant rules and are ready to apply for any FedRAMP Certification.
@@ -276,6 +355,7 @@ These rules apply to cloud service providers with an Agency Sponsor who have met
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -299,10 +379,14 @@ These rules apply to providers for FedRAMP Rev5 Certifications.
 
 
 
+
 !!! quote ""
     Providers with FedRAMP Rev5 Ready status MUST convert to a FedRAMP Certification before the furthest date of the expiration of their most recently yearly assessment or November 17, 2026; the legacy FedRAMP Ready status will be entirely removed on December 31, 2027.
 
 
     ---
 
-    _**Note:** Cloud services that do not wish to convert or do not meet conversion criteria will be renamed Legacy FedRAMP Ready and otherwise retired from FedRAMP Ready._
+    _**Notes:**_
+
+    - _The simplest conversion in most cases would be to a FedRAMP Rev5 Class A Certification._
+    - _Cloud services that do not wish to convert or do not meet conversion criteria will be renamed Legacy FedRAMP Ready and otherwise retired from FedRAMP Ready._

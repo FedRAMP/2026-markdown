@@ -1,21 +1,15 @@
 ---
 tags:
   - Rev5
-description: "Overview and flowchart of the initial assessment for FedRAMP Rev5, including the difference between program and agency, how to engage end to end, and how to follow the rules."
-purpose: "Assessors know how to get into and complete and assessment."
-google_doc: ""
-picto:
-  source: person
-  status: empty
 ---
 
-<span class="picto">:lucide-person-standing:{ .person title="This content was written by a human just for this page." } :lucide-circle-slash:{ .empty title="This content has not been produced or ported to this website yet." }</span>
-
-??? info inline end "Page Info"
-
-    **Description:** Overview and flowchart of the initial assessment for FedRAMP Rev5, including the difference between program and agency, how to engage end to end, and how to follow the rules.
-    
-    **Purpose:** Assessors know how to get into and complete and assessment.
+<span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-pencil:{ .placeholder title="This content is a placeholder and is not complete." }</span>
 
 # Initial Assessment
 
+!!! tip "There are 2 applicable rulesets with 11 total applicable rules."
+
+| Ruleset | Summary |
+| --- | --- |
+| [**FedRAMP Assessments (FRA)**](../rules/fedramp-assessments.md) | This ruleset explains the expectations for FedRAMP assessments.<br><br>**Applicable Rules:** 8 |
+| [**Marketplace Listing (MKT)**](../../recognition/rules/marketplace-listing.md) | The Marketplace Listing rules define how FedRAMP decides which cloud service offerings, assessors, and advisors may be listed in the FedRAMP Marketplace. These rules help agencies and other customers rely on the Marketplace as a consistent source of eligible services and supporting organizations, while requiring listed organizations to supply accurate, accessible, and machine-readable information.<br><br>**Applicable Rules:** 3 |

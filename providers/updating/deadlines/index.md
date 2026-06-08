@@ -21,3 +21,9 @@ picto:
 
 
 Add explanation of obtain / maintain / grace ends.
+
+Add deadlines that aren't in the rules!
+
+- No New FedRAMP Ready: July 28, 2026
+- No New FedRAMP Rev5 Class A, B, C or D: June 11, 2027
+

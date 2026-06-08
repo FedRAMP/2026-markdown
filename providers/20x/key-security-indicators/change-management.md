@@ -22,6 +22,7 @@ tags:
 
 
 
+
 !!! quote ""
     Modifications to the cloud service offering are logged and monitored.
 
@@ -38,6 +39,7 @@ tags:
 
 
     - **2026-07-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -60,6 +62,7 @@ tags:
 
 
 
+
 !!! quote ""
     The effectiveness of documented change management procedures is persistently reviewed.
 
@@ -76,6 +79,7 @@ tags:
 
 
     - **2026-07-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 

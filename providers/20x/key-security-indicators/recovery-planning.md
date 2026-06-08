@@ -22,6 +22,7 @@ tags:
 
 
 
+
 !!! quote ""
     The alignment of machine-based information resource backups with defined recovery objectives is persistently reviewed.
 
@@ -38,6 +39,7 @@ tags:
 
 
     - **2026-07-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -60,6 +62,7 @@ tags:
 
 
 
+
 !!! quote ""
     The desired Recovery Time Objectives (RTO) and Recovery Point Objectives (RPO) are persistently reviewed for alignment with the provider's business needs and capabilities.
 
@@ -76,6 +79,7 @@ tags:
 
 
     - **2026-07-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 

@@ -40,6 +40,7 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 
 
+
 !!! quote ""
     FedRAMP MUST send messages to cloud service providers using an official @fedramp.gov or @gsa.gov email address with properly configured Sender Policy Framework (SPF), DomainKeys Identified Mail (DKIM), and Domain-based Message Authentication Reporting and Conformance (DMARC) email authentication.
 
@@ -55,6 +56,7 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -82,6 +84,7 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 
 
+
 !!! quote ""
     FedRAMP MUST send Emergency and Emergency Test designated messages from fedramp_security@gsa.gov OR fedramp_security@fedramp.gov.
 
@@ -97,6 +100,7 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 !!! warning "This FRR includes a notification requirement!"
     - Notify publicly by web using fedramp.gov.
+
 
 !!! quote ""
     FedRAMP MUST post a public notice at least 10 business days in advance of sending an Emergency Test message; such notices MUST include explanation of the likely expected actions and timeframes for the Emergency Test message.
@@ -122,6 +126,7 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 
 
+
 !!! quote ""
     FedRAMP MUST clearly specify the required actions in the body of messages that require an elevated reaction.
 
@@ -133,6 +138,7 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -161,6 +167,7 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 
 
+
 !!! quote ""
     FedRAMP MUST clearly specify the corrective actions that will result from failure to complete the required actions in the body of messages that require an elevated reaction; such actions may vary from negative ratings in the FedRAMP Marketplace to suspension of FedRAMP Certification depending on the severity of the event.
 
@@ -172,6 +179,7 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -190,6 +198,7 @@ These rules apply to providers with any type of FedRAMP Certification.
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -220,6 +229,7 @@ These rules apply to providers with any type of FedRAMP Certification.
 !!! warning "This FRR includes a notification requirement!"
     - Notify FedRAMP by email using info@fedramp.gov.
 
+
 !!! quote ""
     Providers MUST immediately notify FedRAMP of any changes in addressing for their FedRAMP Security Inbox by emailing info@fedramp.gov with the name and FedRAMP ID of the cloud service offering and the updated email address.
 
@@ -236,6 +246,7 @@ These rules apply to providers with any type of FedRAMP Certification.
 
 
 
+
 !!! quote ""
     Providers MUST treat any email originating from an @fedramp.gov or @gsa.gov email address as if it was sent from FedRAMP by default; if such a message is confirmed to originate from someone other than FedRAMP then the FedRAMP Security Inbox rules no longer apply.
 
@@ -249,6 +260,7 @@ These rules apply to providers with any type of FedRAMP Certification.
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -270,6 +282,7 @@ These rules apply to providers with any type of FedRAMP Certification.
 
 
 
+
 !!! quote ""
     Providers MUST complete the required actions in Emergency or Emergency Test designated messages sent by FedRAMP within the timeframe included in the message.
 
@@ -285,6 +298,7 @@ These rules apply to providers with any type of FedRAMP Certification.
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -306,6 +320,7 @@ These rules apply to providers with any type of FedRAMP Certification.
 
 
 
+
 !!! quote ""
     Providers SHOULD complete the required actions in Important designated messages sent by FedRAMP within the timeframe specified in the message.
 
@@ -321,6 +336,7 @@ These rules apply to providers with any type of FedRAMP Certification.
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 

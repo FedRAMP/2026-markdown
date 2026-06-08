@@ -19,12 +19,14 @@ The Certification Data Sharing rules allow providers to store and share FedRAMP 
 
 !!! info "Effective Date(s) & Overall Applicability for 20x"
     - **Required** (Consolidated Rules for 2026)
+    - **Optional Adoption:** 2026-07-04
     - **Obtain:** 2026-07-04
     - **Maintain:** 2027-01-01
-    - **Grace Ends:** 2027-05-04
+    - **Grace Ends:** On the first annual assessment scheduled after 2027-01-01
 
 !!! info "Effective Date(s) & Overall Applicability for Rev5"
     - **Required** (Consolidated Rules for 2026)
+    - **Optional Adoption:** 2026-07-04
     - **Obtain:** 2027-01-01
     - **Maintain:** 2027-08-01
     - **Grace Ends:** 2028-02-01
@@ -49,8 +51,13 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 
 
+!!! schema "Related JSON Schema: [FedRAMP Public Marketplace Information Schema](https://fedramp.gov/schemas/fedramp-public-marketplace-information-schema-v2026.06.06.01.json)"
+
+    _Note: This is a placeholder, the URL will not work yet._
+
+
 !!! quote ""
-    Providers MUST publicly share up-to-date information about the cloud service offering in both human-readable and machine-readable formats, including at least the following information that is available and applicable:
+    Providers MUST publicly share up-to-date information about the cloud service offering in both human-readable and JSON formats, including at least the following information that is available and applicable:
 
     1. Direct link to the FedRAMP Marketplace for the offering
     1. Service Model
@@ -63,9 +70,11 @@ These rules apply to providers for FedRAMP Certifications of any type.
     1. Link to Product Logo
     1. Overall Service Description
     1. Detailed list of specific services and their security categories (see [CDS-CSO-SVC (Service List)](#service-list){ data-preview })
-    1. Summary of customer responsibilities and secure configuration guidance
+    1. Link to Secure Configuration Guidance
+    1. Overview of documentation supplied by the provider for the cloud service offering
     1. Link to Trust Center landing page that includes instructions on accessing information in the trust center
     1. Next Ongoing Certification Report date (see [CCM-OCR-NRD (Next Report Date)](collaborative-continuous-monitoring.md#next-report-date){ data-preview })
+    1. Current FedRAMP Recognized Independent Assessment Service
 
 
     ---
@@ -73,7 +82,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
     _**Note:** Generally, this information should be available on a public webpage or publicly shared in a FedRAMP-compatible trust center._
 
     ---
-    **Terms:** [Cloud Service Offering](../definitions/#cloud-service-offering){ data-preview }, [Machine-Readable](../definitions/#machine-readable){ data-preview }, [Ongoing Certification](../definitions/#ongoing-certification){ data-preview }, [Ongoing Certification Report (OCR)](../definitions/#ongoing-certification-report-ocr){ data-preview }, [Security Category](../definitions/#security-category){ data-preview }, [Trust Center](../definitions/#trust-center){ data-preview }
+    **Terms:** [Cloud Service Offering](../definitions/#cloud-service-offering){ data-preview }, [FedRAMP Recognized](../definitions/#fedramp-recognized){ data-preview }, [Ongoing Certification](../definitions/#ongoing-certification){ data-preview }, [Ongoing Certification Report (OCR)](../definitions/#ongoing-certification-report-ocr){ data-preview }, [Security Category](../definitions/#security-category){ data-preview }, [Trust Center](../definitions/#trust-center){ data-preview }
 ### Service List
 
 ??? abstract "CDS-CSO-SVC"
@@ -81,6 +90,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -97,6 +107,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -142,6 +153,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 
 
+
 !!! quote ""
     Providers MUST use a FedRAMP-compatible trust center to store and share FedRAMP Certification Data with all necessary parties.
 
@@ -162,6 +174,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 
 
+
 !!! quote ""
     Providers MUST use automation to ensure information remains consistent between human-readable and machine-readable formats when FedRAMP Certification Data is provided in both formats.
 
@@ -175,6 +188,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -232,13 +246,9 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 
 
+
 !!! quote ""
     Providers MUST make historical versions of FedRAMP Certification Data available for three years to all necessary parties UNLESS otherwise specified by applicable FedRAMP rules; deltas between versions MAY be consolidated quarterly.
-
-    **Effective Date(s):**
-    - **Obtain:** 2027-05-04
-    - **Maintain:** 2027-05-04
-    - **Grace By Assessment Months:** 2
 
 
     ---
@@ -257,6 +267,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 
 
+
 !!! quote ""
     === "Class A"
         Providers with Class A Certifications MAY supply per-service FedRAMP Certification materials.
@@ -269,11 +280,6 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
     === "Class D"
         Providers with Class D Certifications MUST supply per-service FedRAMP Certification materials.
-
-        **Effective Date(s):**
-        - **Obtain:** 2027-05-04
-        - **Maintain:** 2027-05-04
-        - **Grace By Assessment Months:** 2
 
 
     ---
@@ -289,6 +295,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -312,6 +319,7 @@ These rules apply to trust centers that are FedRAMP-compatible.
 
 
 
+
 !!! quote ""
     Trust centers MUST share FedRAMP Certification Data with all necessary parties without interruption.
 
@@ -332,6 +340,7 @@ These rules apply to trust centers that are FedRAMP-compatible.
 
 
 
+
 !!! quote ""
     Trust centers MUST provide documented programmatic access to all FedRAMP Certification Data, including programmatic access to human-readable materials.
 
@@ -345,6 +354,7 @@ These rules apply to trust centers that are FedRAMP-compatible.
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -364,6 +374,7 @@ These rules apply to trust centers that are FedRAMP-compatible.
 
 
 
+
 !!! quote ""
     Trust centers MUST log access to FedRAMP Certification Data and store summaries of access for at least six months; such information, as it pertains to specific parties, SHOULD be made available upon request by those parties.
 
@@ -380,6 +391,7 @@ These rules apply to trust centers that are FedRAMP-compatible.
 
 
 
+
 !!! quote ""
     Trust centers SHOULD make FedRAMP Certification Data available to view and download in both human-readable and machine-readable formats.
 
@@ -393,6 +405,7 @@ These rules apply to trust centers that are FedRAMP-compatible.
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -418,6 +431,7 @@ These rules apply to providers that are using a FedRAMP-compatible trust center 
 !!! warning "This FRR includes a notification requirement!"
     - Notify FedRAMP by email using info@fedramp.gov.
 
+
 !!! quote ""
     Providers MUST notify FedRAMP within 5 business days of denying an agency access request for FedRAMP Certification Data.
 
@@ -433,6 +447,7 @@ These rules apply to providers that are using a FedRAMP-compatible trust center 
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -458,55 +473,10 @@ These rules apply to providers for FedRAMP Rev5 Certifications.
 !!! warning "This FRR includes a notification requirement!"
     - Notify All Necessary Parties by update using FedRAMP Certification Data.
 
+
 !!! quote ""
     Providers MUST notify all necessary parties when migrating to a trust center and MUST provide information in their existing USDA Connect Community Portal secure folders explaining how to use the trust center to obtain FedRAMP Certification Data.
 
 
     ---
     **Terms:** [All Necessary Parties](../definitions/#all-necessary-parties){ data-preview }, [Certification Data](../definitions/#certification-data){ data-preview }, [Trust Center](../definitions/#trust-center){ data-preview }
-### Structured Certification Data
-
-??? abstract "CDS-CSF-SCD"
-    **Changelog:**
-
-
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
-
-
-
-!!! quote ""
-    === "Class A"
-        Providers with Class A Certifications MUST supply semi-structured text-based FedRAMP Certification Data.
-
-        **Effective Date(s):**
-        - **Obtain:** 2027-01-01
-        - **Maintain:** 2027-05-04
-        - **Grace By Assessment Months:** 2
-
-    === "Class B"
-        Providers with Class B Certifications MUST supply semi-structured text-based FedRAMP Certification Data.
-
-        **Effective Date(s):**
-        - **Obtain:** 2027-01-01
-        - **Maintain:** 2027-05-04
-        - **Grace By Assessment Months:** 2
-
-    === "Class C"
-        Providers with Class C Certifications MUST supply semi-structured text-based FedRAMP Certification Data.
-
-        **Effective Date(s):**
-        - **Obtain:** 2027-01-01
-        - **Maintain:** 2027-05-04
-        - **Grace By Assessment Months:** 2
-
-    === "Class D"
-        Providers with Class D Certifications MUST supply comprehensive machine-readable FedRAMP Certification Data.
-
-        **Effective Date(s):**
-        - **Obtain:** 2027-05-04
-        - **Maintain:** 2027-05-04
-        - **Grace By Assessment Months:** 2
-
-
-    ---
-    **Terms:** [Certification Data](../definitions/#certification-data){ data-preview }, [Machine-Readable](../definitions/#machine-readable){ data-preview }

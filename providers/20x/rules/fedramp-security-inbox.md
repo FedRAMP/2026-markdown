@@ -28,6 +28,7 @@ These rules apply to providers with any type of FedRAMP Certification.
 
 
 
+
 !!! quote ""
     Providers MUST establish and maintain an email address to receive messages from FedRAMP; this inbox is a FedRAMP Security Inbox (FSI).
 
@@ -55,6 +56,7 @@ These rules apply to providers with any type of FedRAMP Certification.
 !!! warning "This FRR includes a notification requirement!"
     - Notify FedRAMP by email using info@fedramp.gov.
 
+
 !!! quote ""
     Providers MUST immediately notify FedRAMP of any changes in addressing for their FedRAMP Security Inbox by emailing info@fedramp.gov with the name and FedRAMP ID of the cloud service offering and the updated email address.
 
@@ -71,6 +73,7 @@ These rules apply to providers with any type of FedRAMP Certification.
 
 
 
+
 !!! quote ""
     Providers MUST treat any email originating from an @fedramp.gov or @gsa.gov email address as if it was sent from FedRAMP by default; if such a message is confirmed to originate from someone other than FedRAMP then the FedRAMP Security Inbox rules no longer apply.
 
@@ -84,6 +87,7 @@ These rules apply to providers with any type of FedRAMP Certification.
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -105,6 +109,7 @@ These rules apply to providers with any type of FedRAMP Certification.
 
 
 
+
 !!! quote ""
     Providers MUST complete the required actions in Emergency or Emergency Test designated messages sent by FedRAMP within the timeframe included in the message.
 
@@ -120,6 +125,7 @@ These rules apply to providers with any type of FedRAMP Certification.
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -141,6 +147,7 @@ These rules apply to providers with any type of FedRAMP Certification.
 
 
 
+
 !!! quote ""
     Providers SHOULD complete the required actions in Important designated messages sent by FedRAMP within the timeframe specified in the message.
 
@@ -156,6 +163,7 @@ These rules apply to providers with any type of FedRAMP Certification.
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 

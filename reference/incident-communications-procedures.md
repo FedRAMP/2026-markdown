@@ -17,12 +17,14 @@ The Incident Communications Procedures rules explain how providers must communic
 
 !!! info "Effective Date(s) & Overall Applicability for 20x"
     - **Required** (Consolidated Rules for 2026)
+    - **Optional Adoption:** 2026-07-04
     - **Obtain:** 2026-07-04
     - **Maintain:** 2027-01-01
-    - **Grace Ends:** 2027-05-04
+    - **Grace Ends:** On the first annual assessment scheduled after 2027-01-01
 
 !!! info "Effective Date(s) & Overall Applicability for Rev5"
     - **Required** (Consolidated Rules for 2026)
+    - **Optional Adoption:** 2026-07-04
     - **Obtain:** 2027-01-01
     - **Maintain:** 2027-01-01
     - **Grace Ends:** 2027-06-01
@@ -78,6 +80,7 @@ These rules apply to FedRAMP.
 
 
 
+
 !!! quote ""
     FedRAMP MUST periodically review Incident Communications Procedures implementation with providers based on lack of reporting or other information.
 
@@ -102,6 +105,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 
 
+
 !!! quote ""
     Providers MUST promptly evaluate incidents to determine if they affect confidentiality or integrity of federal customer data or are likely to affect confidentiality or integrity of federal customer data; such incidents are FedRAMP Reportable Incidents and must be reported following the FedRAMP Incident Communications Procedures.
 
@@ -115,6 +119,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -137,6 +142,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
     - Notify FedRAMP by email using fedramp_security@fedramp.gov.
     - Notify Agency Customers by update using incident contact procedures documented in contract agreement.
     - Notify All Necessary Parties by update using trust center.
+
 
 !!! quote ""
     === "Class A"
@@ -256,6 +262,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
     - Notify Agency Customers by update using incident contact procedures documented in contract agreement.
     - Notify All Necessary Parties by update using trust center.
 
+
 !!! quote ""
     === "Class A"
         Providers with Class A Certifications SHOULD responsibly notify all affected parties of ongoing activity as new information becomes available during incident response for FedRAMP Reportable Incidents, including updates (or lack of updates) to all previously reported information and as much of the the following additional information that is available and/or the current relevant status for each item:
@@ -362,6 +369,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
     - Notify Agency Customers by update using incident contact procedures documented in contract agreement.
     - Notify All Necessary Parties by update using trust center.
 
+
 !!! quote ""
     === "Class A"
         Providers with Class A Certifications MUST responsibly notify all affected parties by providing a Final Incident Report once the incident has been resolved and recovery is complete, including final updates to all previously reported information.
@@ -440,6 +448,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 
 
+
 !!! quote ""
     Providers SHOULD promptly estimate the likely adverse impact of an incident on agency customers to assign a Potential Agency Impact N-rating; this step is called Incident Rating.
 
@@ -463,6 +472,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 

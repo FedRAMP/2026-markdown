@@ -13,6 +13,7 @@ This ruleset explains how cloud service offerings maintain ongoing FedRAMP Certi
 
 - [General Provider Responsibilities](#general-provider-responsibilities)
 - [Addressing FedRAMP Rules](#addressing-fedramp-rules)
+- [20x-Specific Provider Responsibilities](#20x-specific-provider-responsibilities)
 
 
 
@@ -30,6 +31,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -79,6 +81,7 @@ These rules apply to all cloud service providers obtaining and maintaining any F
 
 
 
+
 !!! quote ""
     Providers MUST follow and persistently address the FedRAMP Certification Data Sharing (CDS) rules, based on the applicability and effective date(s) in those rules.
 
@@ -101,6 +104,7 @@ These rules apply to all cloud service providers obtaining and maintaining any F
 
 
 
+
 !!! quote ""
     Providers MUST follow and persistently address the Collaborative Continuous Monitoring (CCM) rules, based on the applicability and effective date(s) in those rules.
 
@@ -117,6 +121,7 @@ These rules apply to all cloud service providers obtaining and maintaining any F
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -139,6 +144,7 @@ These rules apply to all cloud service providers obtaining and maintaining any F
 
 
 
+
 !!! quote ""
     Providers MUST follow and persistently address the FedRAMP Incident Communications Procedures (ICP) rules, based on the applicability and effective date(s) in those rules.
 
@@ -155,6 +161,7 @@ These rules apply to all cloud service providers obtaining and maintaining any F
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -180,6 +187,7 @@ These rules apply to all cloud service providers obtaining and maintaining any F
 
 
 
+
 !!! quote ""
     Providers MUST follow and persistently address the FedRAMP Significant Change Notifications (SCN) rules, based on the applicability and effective date(s) in those rules.
 
@@ -202,6 +210,7 @@ These rules apply to all cloud service providers obtaining and maintaining any F
 
 
 
+
 !!! quote ""
     Providers MUST follow and persistently address the FedRAMP Using Cryptographic Modules (UCM) rules, based on the applicability and effective date(s) in those rules.
 
@@ -218,6 +227,7 @@ These rules apply to all cloud service providers obtaining and maintaining any F
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -243,6 +253,7 @@ These rules apply to all cloud service providers obtaining and maintaining any F
 
 
 
+
 !!! quote ""
     Providers MUST follow and persistently address the FedRAMP Secure Configuration Guide (SCG) rules, based on the applicability and effective date(s) in those rules.
 
@@ -252,3 +263,48 @@ These rules apply to all cloud service providers obtaining and maintaining any F
 
     ---
     **Terms:** [Persistently](../../../definitions/#persistently){ data-preview }
+## 20x-Specific Provider Responsibilities {#20x-specific-provider-responsibilities}
+
+These rules apply to providers for FedRAMP 20x Certifications.
+
+### Certification Package Maintenance for 20x
+
+??? abstract "OFR-CSX-CPM"
+    **Changelog:**
+
+
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
+
+
+
+!!! quote ""
+    === "Class A"
+        Providers with 20x Class A Certifications SHOULD persistently maintain their FedRAMP Certification Package to ensure it is up to date and complete at least once every 3 months.
+
+        **Timeframe:** 3 months
+
+    === "Class B"
+        Providers with 20x Class B Certifications MUST persistently maintain their FedRAMP Certification Package to ensure it is up to date and complete at least once every month.
+
+        **Timeframe:** 1 month
+
+    === "Class C"
+        Providers with 20x Class C Certifications MUST persistently maintain their FedRAMP Certification Package to ensure it is up to date and complete at least once every 2 weeks.
+
+        **Timeframe:** 2 weeks
+
+    === "Class D"
+        Providers with 20x Class D Certifications MUST persistently maintain their FedRAMP Certification Package to ensure it is up to date and complete at least once every week.
+
+        **Timeframe:** 1 weeks
+
+
+    ---
+
+    _**Notes:**_
+
+    - _Providers are expected to maintain their FedRAMP Certification Package using automation as changes occur to ensure they are never out of date._
+    - _This rule does not require or expect persistent human review of all materials in this cadence._
+    ---
+    **Terms:** [Certification Package](../../../definitions/#certification-package){ data-preview }, [Persistently](../../../definitions/#persistently){ data-preview }

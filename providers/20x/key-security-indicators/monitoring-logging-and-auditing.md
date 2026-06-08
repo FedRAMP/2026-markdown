@@ -22,6 +22,7 @@ tags:
 
 
 
+
 !!! quote ""
     === "Class B"
         **Optional:** A least-privileged, role and attribute-based, and just-in-time access authorization model is used and persistently reviewed for access to log data based on organizationally defined data sensitivity.
@@ -45,6 +46,7 @@ tags:
 
 
 
+
 !!! quote ""
     The configuration of machine-based information resources, especially infrastructure as code, is persistently evaluated and tested.
 
@@ -61,6 +63,7 @@ tags:
 
 
     - **2026-07-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -83,6 +86,7 @@ tags:
 
 
 
+
 !!! quote ""
     A Security Information and Event Management (SIEM) or similar system(s) is used and persistently reviewed for centralized, tamper-resistant logging of events, activities, and changes.
 
@@ -99,6 +103,7 @@ tags:
 
 
     - **2026-07-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 

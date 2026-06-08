@@ -8,8 +8,8 @@ tags:
 # Rev5 Deadlines
 
 
-| Short Name | Name | Obtain | Maintain | Grace Ends |
+| Ruleset | Optional Adoption | Obtain | Maintain | Grace Ends |
 | --- | --- | --- | --- | --- |
-| REC | [FedRAMP Recognition of Independent Assessment Services](../../recognition/rules/fedramp-recognition.md) | 2026-07-04 | 2026-07-04 | 2026-07-04 |
-| FRA | [FedRAMP Assessments](../../rev5/rules/fedramp-assessments.md) | 2027-01-01 | 2027-01-01 | 2027-01-01 |
-| MKT | [Marketplace Listing](../../recognition/rules/marketplace-listing.md) | 2027-01-01 | 2027-01-01 | 2027-06-01 |
+| [FedRAMP Recognition of Independent Assessment Services (REC)](../../recognition/rules/fedramp-recognition.md) | 2026-07-04 | 2026-07-04 | 2026-07-04 | 2026-07-04 |
+| [FedRAMP Assessments (FRA)](../../rev5/rules/fedramp-assessments.md) | 2026-07-04 | 2027-01-01 | 2027-01-01 | On the first annual assessment scheduled after 2027-01-01 |
+| [Marketplace Listing (MKT)](../../recognition/rules/marketplace-listing.md) | 2026-07-04 | 2027-01-01 | 2027-01-01 | 2027-06-01 |

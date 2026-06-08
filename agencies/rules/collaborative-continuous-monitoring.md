@@ -29,6 +29,7 @@ These rules for agencies apply to all agencies using a FedRAMP Certification.
 
 
 
+
 !!! quote ""
     Agencies MUST review each Ongoing Certification Report to understand how changes to the cloud service offering may impact the previously agreed-upon risk tolerance documented in the agency's Authorization to Operate of a federal information system that includes the cloud service offering in its boundary.
 
@@ -51,6 +52,7 @@ These rules for agencies apply to all agencies using a FedRAMP Certification.
 !!! warning "This FRR includes a notification requirement!"
     - Notify FedRAMP by email using info@fedramp.gov.
 
+
 !!! quote ""
     Agencies MUST notify FedRAMP after requesting any additional information or materials from a cloud service provider beyond those FedRAMP requires by sending an email to info@fedramp.gov.
 
@@ -66,6 +68,7 @@ These rules for agencies apply to all agencies using a FedRAMP Certification.
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -86,6 +89,7 @@ These rules for agencies apply to all agencies using a FedRAMP Certification.
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 

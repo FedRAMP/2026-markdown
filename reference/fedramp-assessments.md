@@ -18,15 +18,17 @@ This ruleset explains the expectations for FedRAMP assessments.
 
 !!! info "Effective Date(s) & Overall Applicability for 20x"
     - **Required** (Consolidated Rules for 2026)
+    - **Optional Adoption:** 2026-07-04
     - **Obtain:** 2026-07-04
-    - **Maintain:** 2027-05-04
-    - **Grace Ends:** 2027-05-04
+    - **Maintain:** 2027-01-01
+    - **Grace Ends:** On the first annual assessment scheduled after 2027-01-01
 
 !!! info "Effective Date(s) & Overall Applicability for Rev5"
     - **Required** (Consolidated Rules for 2026)
+    - **Optional Adoption:** 2026-07-04
     - **Obtain:** 2027-01-01
     - **Maintain:** 2027-01-01
-    - **Grace Ends:** 2027-01-01
+    - **Grace Ends:** On the first annual assessment scheduled after 2027-01-01
 
 
 
@@ -47,6 +49,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 
 
 
+
 !!! quote ""
     Providers SHOULD supply all necessary accessors with technical explanations, demonstrations, and other relevant supporting information about the technical capabilities they employ to address FedRAMP rules; this SHOULD be supplied as necessary to ensure the assessor can effectively complete verification and validation.
 
@@ -60,6 +63,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -83,6 +87,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 
 
+
 !!! quote ""
     Assessors MUST verify and validate the implementation of processes derived from FedRAMP requirements, including rules, controls and Key Security Indicators, to determine whether or not the provider has accurately documented their process and security goals for the cloud service offering.
 
@@ -99,6 +104,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 
 
+
 !!! quote ""
     Assessors MUST verify and validate whether or not the underlying processes are consistently creating the desired security outcome documented by the provider.
 
@@ -112,6 +118,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -133,6 +140,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 
 
+
 !!! quote ""
     Assessors MUST perform verification and validation using a combination of quantitative and expert qualitative assessment as appropriate AND document which is applied to which aspect of the assessment.
 
@@ -149,6 +157,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 
 
+
 !!! quote ""
     Assessors MUST deliver a high-level summary of their assessment process and findings for each FedRAMP requirement, including rules, controls, and Key Security Indicators; this summary will be included in the FedRAMP Certification Data for the cloud service offering.
 
@@ -162,6 +171,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -185,6 +195,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 
 
+
 !!! quote ""
     Assessors SHOULD engage provider experts in discussion to understand the decisions made by the provider and inform expert qualitative assessment, and SHOULD perform independent research to test such information as part of the expert qualitative assessment process.
 
@@ -196,6 +207,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -219,6 +231,7 @@ These rules apply to independent assessment services supporting FedRAMP 20x Cert
 
 
 
+
 !!! quote ""
     Assessors MUST verify and validate the underlying processes (both machine-based and non-machine-based) that providers use to validate Key Security Indicators; this should include at least:
 
@@ -236,6 +249,7 @@ These rules apply to independent assessment services supporting FedRAMP 20x Cert
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 

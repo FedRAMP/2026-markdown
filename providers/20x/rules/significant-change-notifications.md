@@ -35,6 +35,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 
 
+
 !!! quote ""
     Providers MUST evaluate all potential significant changes to determine the type of significant change and follow the appropriate Significant Change Notification rules.
 
@@ -57,6 +58,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 
 
+
 !!! quote ""
     Providers MUST maintain auditable records of the significant change evaluation activities required by [SCN-CSO-EVA (Evaluate Changes)](#evaluate-changes){ data-preview } and make them available to FedRAMP.
 
@@ -74,6 +76,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -108,6 +111,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 
 
+
 !!! quote ""
     Providers MUST keep 12 months of historical Significant Change Notifications available with their FedRAMP Certification Data.
 
@@ -124,16 +128,17 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 
 
+!!! schema "Related JSON Schema: [FedRAMP Significant Change Notifications Schema](https://fedramp.gov/schemas/fedramp-significant-change-notifications-schema-v2026.06.06.01.json)"
+
+    _Note: This is a placeholder, the URL will not work yet._
+
+
 !!! quote ""
-    Providers MUST make ALL Significant Change Notifications and related audit records available in human-readable and machine-readable formats.
+    Providers MUST make ALL Significant Change Notifications and related audit records available in human-readable and JSON formats.
 
 
     ---
-
-    _**Note:** During the SCN beta, many cloud service providers met this requirement by using carefully structured and organized csv files to meet human-readable and machine-readable requirements simultaneously._
-
-    ---
-    **Terms:** [Machine-Readable](../../../definitions/#machine-readable){ data-preview }, [Significant Change](../../../definitions/#significant-change){ data-preview }
+    **Terms:** [Significant Change](../../../definitions/#significant-change){ data-preview }
 ### Additional Relevant Information
 
 ??? abstract "SCN-CSO-ARI"
@@ -141,6 +146,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -164,6 +170,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 
 
+
 !!! quote ""
     Providers MAY notify necessary parties in a variety of ways as long as the mechanism for notification is clearly documented in the FedRAMP Certification package and easily accessible.
 
@@ -183,6 +190,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -211,6 +219,7 @@ These rules apply to all adaptive significant changes.
 
 !!! warning "This FRR includes a notification requirement!"
     - Notify All Necessary Parties by update using FedRAMP Certification Data.
+
 
 !!! quote ""
     Providers MUST notify all necessary parties within 10 business days after finishing adaptive changes, also including the following information:
@@ -270,6 +279,7 @@ These rules apply to all routine recurring significant changes.
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -358,6 +368,7 @@ These rules apply to all transformative significant changes.
 !!! warning "This FRR includes a notification requirement!"
     - Notify All Necessary Parties by update using FedRAMP Certification Data.
 
+
 !!! quote ""
     Providers MUST notify all necessary parties of initial plans for transformative changes at least 30 business days before starting transformative changes, including a summary of any likely security impacts or changes in risk.
 
@@ -377,6 +388,7 @@ These rules apply to all transformative significant changes.
 
 !!! warning "This FRR includes a notification requirement!"
     - Notify All Necessary Parties by update using FedRAMP Certification Data.
+
 
 !!! quote ""
     Providers MUST notify all necessary parties of final plans for transformative changes at least 10 business days before starting transformative changes, including updates to all previously sent information.
@@ -398,6 +410,7 @@ These rules apply to all transformative significant changes.
 !!! warning "This FRR includes a notification requirement!"
     - Notify All Necessary Parties by update using FedRAMP Certification Data.
 
+
 !!! quote ""
     Providers MUST notify all necessary parties within 5 business days after finishing transformative changes, including updates to all previously sent information.
 
@@ -417,6 +430,7 @@ These rules apply to all transformative significant changes.
 
 !!! warning "This FRR includes a notification requirement!"
     - Notify All Necessary Parties by update using FedRAMP Certification Data.
+
 
 !!! quote ""
     Providers MUST notify all necessary parties within 5 business days after completing the verification, assessment, and/or validation of transformative changes, also including the following information:
@@ -440,6 +454,7 @@ These rules apply to all transformative significant changes.
 
 
 
+
 !!! quote ""
     Providers MUST publish updated service documentation and other materials to reflect transformative changes within 30 business days after finishing transformative changes.
 
@@ -459,6 +474,7 @@ These rules apply to all transformative significant changes.
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 

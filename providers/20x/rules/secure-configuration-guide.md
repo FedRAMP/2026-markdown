@@ -33,6 +33,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 
 
+
 !!! quote ""
     Providers MUST create, maintain, and make available recommendations for securely configuring their cloud services (the Secure Configuration Guide) that includes at least the following information:
 
@@ -59,6 +60,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 
 
+
 !!! quote ""
     Providers MUST include instructions in the FedRAMP Certification package that explain how to obtain and use the Secure Configuration Guide.
 
@@ -79,6 +81,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 
 
+
 !!! quote ""
     Providers SHOULD make the Secure Configuration Guide available publicly.
 
@@ -90,6 +93,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -113,6 +117,7 @@ These recommendations apply to providers with FedRAMP Certifications of any type
 
 
 
+
 !!! quote ""
     Providers SHOULD offer the capability to compare all current settings for top-level administrative accounts and privileged accounts to the recommended secure defaults.
 
@@ -126,6 +131,7 @@ These recommendations apply to providers with FedRAMP Certifications of any type
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -145,6 +151,7 @@ These recommendations apply to providers with FedRAMP Certifications of any type
 
 
 
+
 !!! quote ""
     Providers SHOULD offer the capability to view and adjust security settings via an API or similar capability.
 
@@ -156,6 +163,7 @@ These recommendations apply to providers with FedRAMP Certifications of any type
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -172,6 +180,7 @@ These recommendations apply to providers with FedRAMP Certifications of any type
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 

@@ -28,6 +28,7 @@ These rules apply to providers for FedRAMP Certifications.
 
 
 
+
 !!! quote ""
     Providers MUST document the cryptographic modules used in each service (or groups of services that use the same modules) where cryptographic services are used to protect federal customer data, including whether these modules are validated under the NIST Cryptographic Module Validation Program or are update streams of such modules.
 
@@ -41,6 +42,7 @@ These rules apply to providers for FedRAMP Certifications.
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -67,6 +69,7 @@ These rules apply to providers for FedRAMP Certifications.
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 

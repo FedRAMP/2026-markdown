@@ -28,6 +28,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 
 
+
 !!! quote ""
     Assessors MUST verify and validate the implementation of processes derived from FedRAMP requirements, including rules, controls and Key Security Indicators, to determine whether or not the provider has accurately documented their process and security goals for the cloud service offering.
 
@@ -44,6 +45,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 
 
+
 !!! quote ""
     Assessors MUST verify and validate whether or not the underlying processes are consistently creating the desired security outcome documented by the provider.
 
@@ -57,6 +59,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -78,6 +81,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 
 
+
 !!! quote ""
     Assessors MUST perform verification and validation using a combination of quantitative and expert qualitative assessment as appropriate AND document which is applied to which aspect of the assessment.
 
@@ -94,6 +98,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 
 
+
 !!! quote ""
     Assessors MUST deliver a high-level summary of their assessment process and findings for each FedRAMP requirement, including rules, controls, and Key Security Indicators; this summary will be included in the FedRAMP Certification Data for the cloud service offering.
 
@@ -107,6 +112,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -130,6 +136,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 
 
+
 !!! quote ""
     Assessors SHOULD engage provider experts in discussion to understand the decisions made by the provider and inform expert qualitative assessment, and SHOULD perform independent research to test such information as part of the expert qualitative assessment process.
 
@@ -141,6 +148,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 

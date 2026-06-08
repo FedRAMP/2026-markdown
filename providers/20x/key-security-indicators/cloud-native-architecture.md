@@ -22,6 +22,7 @@ tags:
 
 
 
+
 !!! quote ""
     The functionality and privileges for infrastructure and services are strictly defined.
 
@@ -36,6 +37,7 @@ tags:
 
 
     - **2026-07-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -62,6 +64,7 @@ tags:
 
 
 
+
 !!! quote ""
     The use and configuration of third-party machine-based information resources is persistently compared against the original provider's best practices and guidance.
 
@@ -78,6 +81,7 @@ tags:
 
 
     - **2026-07-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -100,6 +104,7 @@ tags:
 
 
 
+
 !!! quote ""
     Machine-based information resources are persistently reviewed to ensure they are appropriately optimized for high availability and rapid recovery.
 
@@ -113,6 +118,7 @@ tags:
 
 
     - **2026-07-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -135,6 +141,7 @@ tags:
 
 
 
+
 !!! quote ""
     The effectiveness of protection against denial of service attacks and other unwanted activity for machine-based information resources is persistently reviewed.
 
@@ -151,6 +158,7 @@ tags:
 
 
     - **2026-07-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 

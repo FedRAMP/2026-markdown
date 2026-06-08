@@ -1,7 +1,6 @@
 ---
 tags:
   - 20x
-  - Rev5
 ---
 
 <span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-pencil:{ .placeholder title="This content is a placeholder and is not complete." }</span>
@@ -9,21 +8,6 @@ tags:
 # Certification Package Overview
 
 The Certification Package Overview rules outline the expectations for a simple overview of the cloud service offering that must be included within a FedRAMP Certification Package. This overview replaces the historically required base System Security Plan for FedRAMP Rev5 and is intended to provide a clear, concise, and consistent summary of the offering and the information included in the package to help customers understand the offering at a high level.
-
-!!! info "Effective Date(s) & Overall Applicability for 20x"
-    - **Required** (Consolidated Rules for 2026)
-    - **Optional Adoption:** 2026-07-04
-    - **Obtain:** 2026-07-04
-    - **Maintain:** 2027-01-01
-    - **Grace Ends:** On the first annual assessment scheduled after 2027-01-01
-
-!!! info "Effective Date(s) & Overall Applicability for Rev5"
-    - **Required** (Consolidated Rules for 2026)
-    - **Optional Adoption:** 2026-07-04
-    - **Obtain:** 2027-01-01
-    - **Maintain:** 2027-07-01
-    - **Grace Ends:** On the first annual assessment scheduled after 2027-01-01
-    - **Sign-up Form:** [ADDME](ADDME)
 
 
 
@@ -69,7 +53,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
     - _For FedRAMP Rev5, the Certification Package Overview replaces the historically required System Security Plan (not including appendices)._
     - _This list of rules may not apply to all FedRAMP Certification Classes or Types - if a rule does not apply then the information is not required._
     ---
-    **Terms:** [Certification Data](../definitions/#certification-data){ data-preview }, [Certification Package](../definitions/#certification-package){ data-preview }, [Information Resource](../definitions/#information-resource){ data-preview }, [Initial Incident Report (IIR)](../definitions/#initial-incident-report-iir){ data-preview }, [Security Category](../definitions/#security-category){ data-preview }, [Third-Party Information Resource](../definitions/#third-party-information-resource){ data-preview }
+    **Terms:** [Certification Data](../../../definitions/#certification-data){ data-preview }, [Certification Package](../../../definitions/#certification-package){ data-preview }, [Information Resource](../../../definitions/#information-resource){ data-preview }, [Initial Incident Report (IIR)](../../../definitions/#initial-incident-report-iir){ data-preview }, [Security Category](../../../definitions/#security-category){ data-preview }, [Third-Party Information Resource](../../../definitions/#third-party-information-resource){ data-preview }
 ### Certification Package Overview Metadata
 
 ??? abstract "CPO-CSO-MTD"
@@ -90,4 +74,4 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 
     ---
-    **Terms:** [Certification Package](../definitions/#certification-package){ data-preview }
+    **Terms:** [Certification Package](../../../definitions/#certification-package){ data-preview }

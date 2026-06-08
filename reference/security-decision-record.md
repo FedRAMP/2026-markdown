@@ -12,15 +12,17 @@ The Security Decision Record replaced a traditional System Security Plan with a 
 
 !!! info "Effective Date(s) & Overall Applicability for 20x"
     - **Required** (Consolidated Rules for 2026)
+    - **Optional Adoption:** 2026-07-04
     - **Obtain:** 2026-07-04
     - **Maintain:** 2027-01-01
-    - **Grace Ends:** 2027-05-04
+    - **Grace Ends:** On the first annual assessment scheduled after 2027-01-01
 
 !!! info "Effective Date(s) & Overall Applicability for Rev5"
     - **Required** (Consolidated Rules for 2026)
+    - **Optional Adoption:** 2026-07-04
     - **Obtain:** 2027-01-01
     - **Maintain:** 2027-08-01
-    - **Grace Ends:** 2028-02-01
+    - **Grace Ends:** On the first annual assessment scheduled after 2027-08-01
     - **Sign-up Form:** [ADDME](ADDME)
 
 

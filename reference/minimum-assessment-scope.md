@@ -12,15 +12,17 @@ The Minimum Assessment Scope rules help providers define assessment boundaries n
 
 !!! info "Effective Date(s) & Overall Applicability for 20x"
     - **Required** (Consolidated Rules for 2026)
+    - **Optional Adoption:** 2026-07-04
     - **Obtain:** 2026-07-04
     - **Maintain:** 2027-01-01
-    - **Grace Ends:** 2027-05-04
+    - **Grace Ends:** On the first annual assessment scheduled after 2027-01-01
 
 !!! info "Effective Date(s) & Overall Applicability for Rev5"
     - **Required** (Consolidated Rules for 2026)
+    - **Optional Adoption:** 2026-07-04
     - **Obtain:** 2027-01-01
     - **Maintain:** 2027-01-01
-    - **Grace By Assessment Months:** 2
+    - **Grace Ends:** On the first annual assessment scheduled after 2027-01-01
     - **Sign-up Form:** [ADDME](ADDME)
 
 
@@ -39,6 +41,7 @@ These rules apply to providers for any type of FedRAMP Certification.
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -65,6 +68,7 @@ These rules apply to providers for any type of FedRAMP Certification.
 
 
 
+
 !!! quote ""
     Providers MUST clearly identify, document, and explain information flows and security categories for ALL information resources or sets of information resources in the cloud service offering.
 
@@ -82,6 +86,7 @@ These rules apply to providers for any type of FedRAMP Certification.
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -106,6 +111,7 @@ These rules apply to providers for any type of FedRAMP Certification.
 
 
 
+
 !!! quote ""
     Providers MUST include metadata (including metadata about federal customer data) in the Minimum Assessment Scope ONLY IF [MAS-CSO-IIR (Identify Information Resources)](#identify-information-resources){ data-preview } APPLIES.
 
@@ -119,6 +125,7 @@ These rules apply to providers for any type of FedRAMP Certification.
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 

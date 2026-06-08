@@ -22,6 +22,7 @@ tags:
 
 
 
+
 !!! quote ""
     Authoritative sources are used to automatically generate real-time inventories of all information resources when needed.
 
@@ -41,6 +42,7 @@ tags:
 
 
 
+
 !!! quote ""
     Executive support for achieving the provider's security goals is persistently reviewed and demonstrated.
 
@@ -54,6 +56,7 @@ tags:
 
 
     - **2026-07-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -76,6 +79,7 @@ tags:
 
 
 
+
 !!! quote ""
     The effectiveness of building security and privacy considerations into the Software Development Lifecycle and aligning with CISA Secure By Design principles is persistently reviewed.
 
@@ -92,6 +96,7 @@ tags:
 
 
     - **2026-07-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 

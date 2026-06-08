@@ -28,6 +28,7 @@ These rules apply to providers for any type of FedRAMP Certification.
 
 
 
+
 !!! quote ""
     Providers MUST identify a set of information resources to assess for FedRAMP Certification that includes all information resources that are likely to handle federal customer data or likely to impact the confidentiality, integrity, or availability of federal customer data handled by the cloud service offering; this set of information resources is the cloud service offering.
 
@@ -51,6 +52,7 @@ These rules apply to providers for any type of FedRAMP Certification.
 
 
 
+
 !!! quote ""
     Providers MUST clearly identify, document, and explain information flows and security categories for ALL information resources or sets of information resources in the cloud service offering.
 
@@ -68,6 +70,7 @@ These rules apply to providers for any type of FedRAMP Certification.
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -92,6 +95,7 @@ These rules apply to providers for any type of FedRAMP Certification.
 
 
 
+
 !!! quote ""
     Providers MUST include metadata (including metadata about federal customer data) in the Minimum Assessment Scope ONLY IF [MAS-CSO-IIR (Identify Information Resources)](#identify-information-resources){ data-preview } APPLIES.
 
@@ -105,6 +109,7 @@ These rules apply to providers for any type of FedRAMP Certification.
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 

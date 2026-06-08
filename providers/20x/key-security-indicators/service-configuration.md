@@ -22,6 +22,7 @@ tags:
 
 
 
+
 !!! quote ""
     The configuration of machine-based information resources is managed using automation and persistently reviewed for drift.
 
@@ -38,6 +39,7 @@ tags:
 
 
     - **2026-07-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -60,6 +62,7 @@ tags:
 
 
 
+
 !!! quote ""
     Information resources are persistently evaluated for opportunities to improve security and those improvements are persistently made.
 
@@ -76,6 +79,7 @@ tags:
 
 
     - **2026-07-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -102,6 +106,7 @@ tags:
 
 
 
+
 !!! quote ""
     === "Class B"
         **Optional:** Unwanted federal customer data is removed promptly when requested by an agency in alignment with customer agreements, including from backups if appropriate; this typically applies when a customer spills information or when a customer seeks to remove information from a service due to a change in usage.
@@ -125,6 +130,7 @@ tags:
 
 
 
+
 !!! quote ""
     Encrypt or otherwise secure network traffic.
 
@@ -139,6 +145,7 @@ tags:
 
 
     - **2026-07-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -162,6 +169,7 @@ tags:
 
 
     - **2026-07-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 

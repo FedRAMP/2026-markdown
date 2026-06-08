@@ -12,7 +12,7 @@ The Marketplace Listing rules define how FedRAMP decides which cloud service off
 **Subsets**
 
 - [General Provider Responsibilities](#general-provider-responsibilities)
-- [Provider Responsibilities for Preparation Phase Listings](#provider-responsibilities-for-preparation-phase-listings)
+- [Provider Responsibilities for Initial Implementation Phase Listings](#provider-responsibilities-for-initial-implementation-phase-listings)
 
 
 
@@ -23,13 +23,59 @@ The Marketplace Listing rules define how FedRAMP decides which cloud service off
 
 These rules apply to providers seeking a listing in the FedRAMP Marketplace.
 
-### Agency Use Cases
+### Marketplace Listing Requirements
 
-??? abstract "MKT-CSO-AGU"
+??? abstract "MKT-CSO-MLR"
     **Changelog:**
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
+
+
+
+!!! quote ""
+    Providers MUST address at least these FedRAMP rules to apply for a new FedRAMP Marketplace listing OR to request updates to an existing listing:
+
+    1. Certification Data Sharing: [CDS-CSO-PUB (Public Information)](certification-data-sharing.md#public-information){ data-preview }
+
+
+    ---
+    **Terms:** [Certification Data](../../../definitions/#certification-data){ data-preview }
+### Provider Marketplace Listing Requests
+
+??? abstract "MKT-CSO-PML"
+    **Changelog:**
+
+
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
+
+
+
+!!! quote ""
+    Providers MUST use the FedRAMP Marketplace Providing Listing Request Form to request a listing in the FedRAMP Marketplace.
+
+
+    ---
+
+    _**Note:** FedRAMP does not accept applications for a FedRAMP Marketplace Listing via email!_
+
+
+    **Reference:** [FedRAMP Marketplace Provider Listing Request Form](https://fedramp.gov/forms/to-be-added)
+
+## Provider Responsibilities for Initial Implementation Phase Listings {#provider-responsibilities-for-initial-implementation-phase-listings}
+
+FedRAMP allows cloud service providers that are actively preparing to obtain a FedRAMP Certification to apply for listing in the FedRAMP Marketplace. All cloud service providers must obtain a Initial Implementation Phase Marketplace Listing before they can apply for FedRAMP Certification. These rules apply to providers seeking a Initial Implementation Phase listing in the FedRAMP Marketplace.
+
+### Agency Use Cases
+
+??? abstract "MKT-IIP-AGU"
+    **Changelog:**
+
+
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -48,53 +94,14 @@ These rules apply to providers seeking a listing in the FedRAMP Marketplace.
     - _Services used by private companies to meet other compliance requirements (such as CMMC) that do not also meet one of the above use cases are outside the scope of FedRAMP._
     ---
     **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Information Resource](../../../definitions/#information-resource){ data-preview }, [Third-Party Information Resource](../../../definitions/#third-party-information-resource){ data-preview }
-### Listing Requests for Providers
-
-??? abstract "MKT-CSO-LRQ"
-    **Changelog:**
-
-
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
-
-
-
-!!! quote ""
-    Providers MUST complete the Provider Listing Request Form at https://fedramp.gov/forms/provider-listing-request/ in full to request listing in the FedRAMP Marketplace.
-
-
-
-    **Reference:** [FedRAMP Marketplace Provider Listing Request Form](https://fedramp.gov/forms)
-
-## Provider Responsibilities for Preparation Phase Listings {#provider-responsibilities-for-preparation-phase-listings}
-
-These rules apply to providers seeking a Preparation Phase listing in the FedRAMP Marketplace.
-
-### Preparation Phase Requirements
-
-??? abstract "MKT-PRE-REQ"
-    **Changelog:**
-
-
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
-
-
-
-!!! quote ""
-    Providers MUST implement a minimum set of rules to be listed in the FedRAMP Marketplace during the Preparation Phase, including at least:
-
-    1. [CDS-CSO-PUB (Public Information)](certification-data-sharing.md#public-information){ data-preview } (Public Information
-    1. [CDS-CSO-UTC (Use Trust Centers)](certification-data-sharing.md#use-trust-centers){ data-preview }
-
-
-    ---
-    **Terms:** [Trust Center](../../../definitions/#trust-center){ data-preview }
 ### Demonstrating Continuous Progress
 
-??? abstract "MKT-PRE-DCP"
+??? abstract "MKT-IIP-DCP"
     **Changelog:**
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -110,7 +117,7 @@ These rules apply to providers seeking a Preparation Phase listing in the FedRAM
     **Terms:** [Trust Center](../../../definitions/#trust-center){ data-preview }
 ### Deadline for Assessment
 
-??? abstract "MKT-PRE-DLA"
+??? abstract "MKT-IIP-DLA"
     **Changelog:**
 
 
@@ -118,8 +125,9 @@ These rules apply to providers seeking a Preparation Phase listing in the FedRAM
 
 
 
+
 !!! quote ""
-    Providers MUST demonstrate that an assessment for a FedRAMP Certification Class B, C, or D has been scheduled within 2 years of initial listing in the Preparation Phase
+    Providers MUST demonstrate that an assessment for a FedRAMP Certification Class B, C, or D has been scheduled within 2 years of initial listing in the Initial Implementation Phase.
 
     !!! warning "Corrective Actions"
-        - If a provider fails to schedule an assessment for a FedRAMP Certification Class B, C, or D within 2 years of initial listing in the Preparation Phase, FedRAMP will remove their listing from the Marketplace until they provide evidence of a scheduled assessment.
+        - If a provider fails to schedule an assessment for a FedRAMP Certification Class B, C, or D within 2 years of initial listing in the Initial Implementation Phase, FedRAMP will remove their listing from the Marketplace until they provide evidence of a scheduled assessment.

@@ -17,6 +17,7 @@ The FedRAMP Recognition of Independent Assessment Services rules explain the req
 
 !!! info "Effective Date(s) & Overall Applicability for 20x and Rev5"
     - **Required** (Consolidated Rules for 2026)
+    - **Optional Adoption:** 2026-07-04
     - **Obtain:** 2026-07-04
     - **Maintain:** 2026-07-04
     - **Grace Ends:** 2026-07-04
@@ -40,6 +41,7 @@ These rules apply to FedRAMP when evaluating independent assessment services for
 
 
 
+
 !!! quote ""
     FedRAMP MUST maintain a process to collect foreign ownership, control, or influence declarations from FedRAMP Recognized assessors and updates to those declarations.
 
@@ -56,6 +58,7 @@ These rules apply to FedRAMP when evaluating independent assessment services for
 
 
 
+
 !!! quote ""
     FedRAMP MUST NOT accept verification, validation, or other attestations from independent assessors who are not FedRAMP Recognized.
 
@@ -69,6 +72,7 @@ These rules apply to FedRAMP when evaluating independent assessment services for
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -92,6 +96,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
 
 
 
+
 !!! quote ""
     Assessors MUST obtain and maintain accreditation through the American Association for Laboratory Accreditation (A2LA) Cybersecurity Inspection Body Program to qualify for FedRAMP Recognition.
 
@@ -112,15 +117,11 @@ These rules apply to independent assessment services seeking to obtain or mainta
 
 
 
+
 !!! quote ""
     Assessors MUST complete at least 2 initial or ongoing assessments for Class B, C, or D FedRAMP Certifications every 2 years to maintain FedRAMP Recognition.
 
     **Timeframe:** 2 years
-
-    **Effective Date(s):**
-    - **Obtain:** 2026-06-01
-    - **Maintain:** 2026-06-01
-    - **Grace Ends:** 2026-06-01
 
     !!! warning "Corrective Actions"
         - FedRAMP will notify assessors when they are within 6 months of losing FedRAMP Recognition under this rule and request a corrective action plan.
@@ -143,6 +144,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
 
 
 
+
 !!! quote ""
     Assessors MUST maintain compliance with the latest American Association for Laboratory Accreditation (A2LA) R311 - Specific Requirements - Federal Risk and Authorization Management Program to maintain FedRAMP Recognition.
 
@@ -159,6 +161,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -183,6 +186,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
 
 
 
+
 !!! quote ""
     Assessors MUST achieve a favorable full reassessment by the American Association for Laboratory Accreditation (A2LA) at least once every 2 years to maintain FedRAMP Recognition.
 
@@ -201,6 +205,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -224,6 +229,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
 
 
 
+
 !!! quote ""
     Assessors MUST staff FedRAMP assessments with all roles required by the American Association for Laboratory Accreditation (A2LA) R311, including personnel who meet the qualifications for each role, unless FedRAMP publishes a specific exception for a limited pilot or other explicitly scoped process.
 
@@ -243,6 +249,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
 !!! warning "This FRR includes a notification requirement!"
     - Notify FedRAMP by web using FedRAMP Foreign Ownership, Control, or Influence Declaration Form.
 
+
 !!! quote ""
     Assessors MUST report information relating to any foreign interest, foreign influence, or foreign control of the independent assessment service to FedRAMP annually.
 
@@ -261,6 +268,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
 !!! warning "This FRR includes a notification requirement!"
     - Notify FedRAMP by web using FedRAMP Foreign Ownership, Control, or Influence Declaration Form.
 
+
 !!! quote ""
     Assessors MUST report updated information relating to any foreign interest, foreign influence, or foreign control of the independent assessment service within 48 hours of any change in foreign ownership or control.
 
@@ -274,6 +282,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -301,6 +310,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
 
 
 
+
 !!! quote ""
     Assessors MUST supply a corrective action plan when FedRAMP requires one for performance standards deficiencies or organizational risks.
 
@@ -315,6 +325,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
 
 
 
+
 !!! quote ""
     Assessors MUST treat deliverables prepared, performed, or submitted by personnel who do not meet required role qualifications as invalid for FedRAMP purposes.
 
@@ -326,6 +337,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 

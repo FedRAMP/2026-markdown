@@ -18,12 +18,14 @@ The Collaborative Continuous Monitoring rules help agencies use shared, current 
 
 !!! info "Effective Date(s) & Overall Applicability for 20x"
     - **Required** (Consolidated Rules for 2026)
+    - **Optional Adoption:** 2026-07-04
     - **Obtain:** 2026-07-04
     - **Maintain:** 2027-01-01
-    - **Grace Ends:** 2027-05-04
+    - **Grace Ends:** On the first annual assessment scheduled after 2027-01-01
 
 !!! info "Effective Date(s) & Overall Applicability for Rev5"
     - **Required** (Consolidated Rules for 2026)
+    - **Optional Adoption:** 2026-07-04
     - **Obtain:** 2027-01-01
     - **Maintain:** 2027-04-02
     - **Grace Ends:** 2027-10-01
@@ -45,6 +47,7 @@ These rules for agencies apply to all agencies using a FedRAMP Certification.
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -70,6 +73,7 @@ These rules for agencies apply to all agencies using a FedRAMP Certification.
 !!! warning "This FRR includes a notification requirement!"
     - Notify FedRAMP by email using info@fedramp.gov.
 
+
 !!! quote ""
     Agencies MUST notify FedRAMP after requesting any additional information or materials from a cloud service provider beyond those FedRAMP requires by sending an email to info@fedramp.gov.
 
@@ -85,6 +89,7 @@ These rules for agencies apply to all agencies using a FedRAMP Certification.
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -108,6 +113,7 @@ These rules for agencies apply to all agencies using a FedRAMP Certification.
 
 
 
+
 !!! quote ""
     Agencies SHOULD consider the Security Category noted in their Authorization to Operate of the federal information system that includes the cloud service offering in its boundary and assign appropriate information security resources for reviewing Ongoing Certification Reports, attending Quarterly Reviews, and other ongoing FedRAMP Certification Data.
 
@@ -125,6 +131,7 @@ These rules for Ongoing Certification Reports apply to providers with any type o
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -153,6 +160,7 @@ These rules for Ongoing Certification Reports apply to providers with any type o
 
 
 
+
 !!! quote ""
     Providers MUST supply the target date for their next Ongoing Certification Report with other public FedRAMP Certification Data.
 
@@ -166,6 +174,7 @@ These rules for Ongoing Certification Reports apply to providers with any type o
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -189,6 +198,7 @@ These rules for Ongoing Certification Reports apply to providers with any type o
 
 
 
+
 !!! quote ""
     Providers MUST supply an anonymized and desensitized summary of the feedback, questions, and answers about each Ongoing Certification Report as an addendum to the Ongoing Certification Report.
 
@@ -209,6 +219,7 @@ These rules for Ongoing Certification Reports apply to providers with any type o
 
 
 
+
 !!! quote ""
     Providers MUST NOT irresponsibly disclose sensitive information in an Ongoing Certification Report that would likely have an adverse effect on the cloud service offering.
 
@@ -222,6 +233,7 @@ These rules for Ongoing Certification Reports apply to providers with any type o
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -245,6 +257,7 @@ These rules for Ongoing Certification Reports apply to providers with any type o
 
 
 
+
 !!! quote ""
     Providers MAY responsibly supply some or all of the information an Ongoing Certification Report to the public or other parties if the provider determines doing so will NOT likely have an adverse effect on the cloud service offering.
 
@@ -262,6 +275,7 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -299,6 +313,7 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
 
 
 
+
 !!! quote ""
     Providers MUST supply either a registration link or a downloadable calendar file with meeting information for Quarterly Reviews to all necessary parties.
 
@@ -312,6 +327,7 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -331,6 +347,7 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
 
 
 
+
 !!! quote ""
     Providers MUST NOT irresponsibly disclose sensitive information in a Quarterly Review that would likely have an adverse effect on the cloud service offering.
 
@@ -344,6 +361,7 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -363,6 +381,7 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
 
 
 
+
 !!! quote ""
     Providers SHOULD supply additional information in Quarterly Reviews that the provider determines is of interest, use, or otherwise relevant to agencies.
 
@@ -379,6 +398,7 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
 
 
 
+
 !!! quote ""
     Providers SHOULD record or transcribe Quarterly Reviews and supply them to all necessary parties.
 
@@ -392,6 +412,7 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -415,6 +436,7 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
 
 
 
+
 !!! quote ""
     Providers MAY responsibly supply recordings or transcriptions of Quarterly Reviews to the public or other parties ONLY if the provider removes all agency information (comments, questions, names, etc.) AND determines doing so will NOT likely have an adverse effect on the cloud service offering.
 
@@ -428,6 +450,7 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 

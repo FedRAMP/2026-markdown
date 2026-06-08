@@ -2,12 +2,12 @@
   "site": {
     "repo": "fedramp/2026",
     "ref": "main",
-    "sha": "56c74813caf43216f1a5ddbb0dc354e9a1e28fbc"
+    "sha": "2fa98024f9e4eb0e748586c68a6698c3b64684fb"
   },
   "rules": {
     "repo": "fedramp/rules",
     "ref": "main",
-    "sha": "c40b7d7f2e17961d0aef2c92390c5991ddbef366"
+    "sha": "a96b29d27e919209a6ce9ef64c0367bafbcaa797"
   },
-  "generated_at": "2026-06-04T20:52:05Z"
+  "generated_at": "2026-06-08T01:26:57Z"
 }

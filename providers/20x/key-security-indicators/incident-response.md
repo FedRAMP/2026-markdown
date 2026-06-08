@@ -22,6 +22,7 @@ tags:
 
 
 
+
 !!! quote ""
     Incident after action reports are generated and lessons learned are persistently incorporated.
 
@@ -41,6 +42,7 @@ tags:
 
 
 
+
 !!! quote ""
     The effectiveness of documented incident response procedures is persistently reviewed.
 
@@ -57,6 +59,7 @@ tags:
 
 
     - **2026-07-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 

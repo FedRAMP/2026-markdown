@@ -22,6 +22,7 @@ tags:
 
 
 
+
 !!! quote ""
     The effectiveness of relevant cybersecurity education and training is persistently reviewed, including at least general training for all employees, role-specific training for employees in high risk roles, training for development and engineering staff on secure software delivery, and training for staff involved with incident response or disaster recovery.
 

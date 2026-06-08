@@ -1,6 +1,7 @@
 ---
 tags:
   - 20x
+  - Rev5
 ---
 
 <span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-pencil:{ .placeholder title="This content is a placeholder and is not complete." }</span>
@@ -37,7 +38,7 @@ These rules apply to providers seeking a listing in the FedRAMP Marketplace.
 !!! quote ""
     Providers MUST address at least these FedRAMP rules to apply for a new FedRAMP Marketplace listing OR to request updates to an existing listing:
 
-    1. Certification Data Sharing: [CDS-CSO-PUB (Public Information)](certification-data-sharing.md#public-information){ data-preview }
+    1. Certification Data Sharing: [CDS-CSO-PUB (Public Information)](../../../reference/certification-data-sharing.md#public-information){ data-preview }
 
 
     ---
@@ -90,7 +91,7 @@ FedRAMP allows cloud service providers that are actively preparing to obtain a F
 
     _**Notes:**_
 
-    - _FedRAMP will not list products or services that are outside the explicit statutory scope of FedRAMP; See [MKT-FRP-SOF (Scope of FedRAMP)](../../../responsibilities/rules.md#scope-of-fedramp){ data-preview }._
+    - _FedRAMP will not list products or services that are outside the explicit statutory scope of FedRAMP; See [MKT-FRP-SOF (Scope of FedRAMP)](../../../reference/marketplace-listing.md#scope-of-fedramp){ data-preview }._
     - _Services used by private companies to meet other compliance requirements (such as CMMC) that do not also meet one of the above use cases are outside the scope of FedRAMP._
     ---
     **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Information Resource](../../../definitions/#information-resource){ data-preview }, [Third-Party Information Resource](../../../definitions/#third-party-information-resource){ data-preview }

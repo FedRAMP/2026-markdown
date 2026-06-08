@@ -22,6 +22,7 @@ tags:
 
 
 
+
 !!! quote ""
     The lifecycle and privileges of all accounts, roles, and groups are securely managed using automation.
 
@@ -39,6 +40,7 @@ tags:
 
 
 
+
 !!! quote ""
     Secure passwordless methods are used for user authentication and authorization when feasible, otherwise strong passwords with phishing-resistant MFA is used.
 
@@ -53,6 +55,7 @@ tags:
 
 
     - **2026-07-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -75,6 +78,7 @@ tags:
 
 
 
+
 !!! quote ""
     A least-privileged, role and attribute-based, and just-in-time security authorization model is used and persistently reviewed for all user and non-user accounts and services.
 
@@ -94,6 +98,7 @@ tags:
 
 
 
+
 !!! quote ""
     Appropriately secure authentication methods are used and persistently reviewed for non-user accounts and services.
 
@@ -110,6 +115,7 @@ tags:
 
 
     - **2026-07-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 

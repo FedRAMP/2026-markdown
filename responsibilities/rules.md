@@ -29,6 +29,7 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 
 
+
 !!! quote ""
     FedRAMP MUST send messages to cloud service providers using an official @fedramp.gov or @gsa.gov email address with properly configured Sender Policy Framework (SPF), DomainKeys Identified Mail (DKIM), and Domain-based Message Authentication Reporting and Conformance (DMARC) email authentication.
 
@@ -44,6 +45,7 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -71,6 +73,7 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 
 
+
 !!! quote ""
     FedRAMP MUST send Emergency and Emergency Test designated messages from fedramp_security@gsa.gov OR fedramp_security@fedramp.gov.
 
@@ -86,6 +89,7 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 !!! warning "This FRR includes a notification requirement!"
     - Notify publicly by web using fedramp.gov.
+
 
 !!! quote ""
     FedRAMP MUST post a public notice at least 10 business days in advance of sending an Emergency Test message; such notices MUST include explanation of the likely expected actions and timeframes for the Emergency Test message.
@@ -111,6 +115,7 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 
 
+
 !!! quote ""
     FedRAMP MUST clearly specify the required actions in the body of messages that require an elevated reaction.
 
@@ -122,6 +127,7 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -150,6 +156,7 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 
 
+
 !!! quote ""
     FedRAMP MUST clearly specify the corrective actions that will result from failure to complete the required actions in the body of messages that require an elevated reaction; such actions may vary from negative ratings in the FedRAMP Marketplace to suspension of FedRAMP Certification depending on the severity of the event.
 
@@ -161,6 +168,7 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -181,6 +189,7 @@ These rules apply to FedRAMP.
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -210,6 +219,7 @@ These rules apply to FedRAMP.
 
 
 
+
 !!! quote ""
     FedRAMP MAY approve exemptions from some FedRAMP Certification rules in rare circumstances by supplying an explicit waiver, based on a prioritization and risk assessment completed by FedRAMP.
 
@@ -227,39 +237,6 @@ The Marketplace Listing rules define how FedRAMP decides which cloud service off
 
 These rules apply to FedRAMP activities related to the FedRAMP Marketplace.
 
-### Decision Summaries
-
-??? abstract "MKT-FRP-DSM"
-    **Changelog:**
-
-
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
-
-
-
-!!! quote ""
-    FedRAMP MUST include a summary with any Marketplace listing decision that explains why the decision was made, including an explanation of deficiencies if applicable.
-
-
-### Marketplace JSON Schemas
-
-??? abstract "MKT-FRP-MJS"
-    **Changelog:**
-
-
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
-
-
-
-!!! quote ""
-    FedRAMP MUST publish and maintain JSON schemas for required machine-readable Marketplace web information supplied by advisors and assessors.
-
-
-
-    **Reference:** [FedRAMP JSON Schemas on GitHub](https://github.com/FedRAMP/schemas)
-
-    ---
-    **Terms:** [Machine-Readable](../definitions/#machine-readable){ data-preview }
 ### Scope of FedRAMP
 
 ??? abstract "MKT-FRP-SOF"
@@ -267,6 +244,7 @@ These rules apply to FedRAMP activities related to the FedRAMP Marketplace.
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -295,6 +273,7 @@ These rules apply to FedRAMP.
 
 
 
+
 !!! quote ""
     FedRAMP MUST perform a minimum level of continuous monitoring for cloud service offerings with FedRAMP Program Certification, including at least reviewing Ongoing Certification Reports.
 
@@ -317,6 +296,7 @@ These rules apply to FedRAMP when evaluating independent assessment services for
 
 
 
+
 !!! quote ""
     FedRAMP MUST maintain a process to collect foreign ownership, control, or influence declarations from FedRAMP Recognized assessors and updates to those declarations.
 
@@ -333,6 +313,7 @@ These rules apply to FedRAMP when evaluating independent assessment services for
 
 
 
+
 !!! quote ""
     FedRAMP MUST NOT accept verification, validation, or other attestations from independent assessors who are not FedRAMP Recognized.
 
@@ -346,6 +327,7 @@ These rules apply to FedRAMP when evaluating independent assessment services for
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -368,6 +350,7 @@ These rules apply to FedRAMP.
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
@@ -397,6 +380,7 @@ These rules apply to FedRAMP when setting expectations for specific cloud servic
 
 
 
+
 !!! quote ""
     FedRAMP MAY require providers to share additional vulnerability information, alternative reports, or to report at an alternative frequency as a condition of a FedRAMP Corrective Action Plan or other agreements with federal agencies.
 
@@ -410,6 +394,7 @@ These rules apply to FedRAMP when setting expectations for specific cloud servic
 
 
     - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
 
 
 
