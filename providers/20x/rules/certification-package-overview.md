@@ -34,7 +34,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 
 !!! quote ""
-    Providers MUST supply a Certification Package Overview within their FedRAMP Certification Package, in both human-readable and JSON formats, that includes at least the all of the information required by the following rules:
+    Providers MUST supply a Certification Package Overview within their FedRAMP Certification Package, in both human-readable and JSON formats, that includes at least all of the information required by the following rules:
 
     1. Certification Package Overview: [CPO-CSO-MTD (Certification Package Overview Metadata)](#certification-package-overview-metadata){ data-preview }
     1. Certification Data Sharing: [CDS-CSO-PUB (Public Information)](certification-data-sharing.md#public-information){ data-preview }
