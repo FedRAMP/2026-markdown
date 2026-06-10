@@ -9,6 +9,11 @@ tags:
 
 The Certification Package Overview rules outline the expectations for a simple overview of the cloud service offering that must be included within a FedRAMP Certification Package. This overview replaces the historically required base System Security Plan for FedRAMP Rev5 and is intended to provide a clear, concise, and consistent summary of the offering and the information included in the package to help customers understand the offering at a high level.
 
+**Subsets**
+
+- [General Provider Responsibilities](#general-provider-responsibilities)
+- [20x-Specific Provider Responsibilities](#20x-specific-provider-responsibilities)
+
 
 
 ---
@@ -42,7 +47,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
     1. Minimum Assessment Scope: [MAS-CSO-IIR (Identify Information Resources)](minimum-assessment-scope.md#identify-information-resources){ data-preview }
     1. Minimum Assessment Scope: [MAS-CSO-FLO (Information Flows and Security Categories)](minimum-assessment-scope.md#information-flows-and-security-categories){ data-preview }
     1. Minimum Assessment Scope: [MAS-CSO-TPR (Third-Party Information Resources)](minimum-assessment-scope.md#third-party-information-resources){ data-preview }
-    1. Using Cryptographic Modules: [UCM-CSO-CMD (Cryptographic Module Documentation)](using-cryptographic-modules.md#cryptographic-module-documentation){ data-preview }
+    1. Using Cryptographic Modules: [CMU-CSO-CMD (Cryptographic Module Documentation)](cryptographic-module-use.md#cryptographic-module-documentation){ data-preview }
     1. FedRAMP Assessment: Whatever rule is created to replace the SAR ;)
 
 
@@ -75,3 +80,48 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
     ---
     **Terms:** [Certification Package](../../../definitions/#certification-package){ data-preview }
+## 20x-Specific Provider Responsibilities {#20x-specific-provider-responsibilities}
+
+These rules apply to providers for FedRAMP 20x Certifications.
+
+### Certification Package Maintenance for 20x
+
+??? abstract "CPO-CSX-CPM"
+    **Changelog:**
+
+
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
+
+
+
+!!! quote ""
+    === "Class A"
+        Providers with 20x Class A Certifications SHOULD persistently maintain their FedRAMP Certification Package to ensure it is up to date and complete at least once every 3 months.
+
+        **Timeframe:** 3 months
+
+    === "Class B"
+        Providers with 20x Class B Certifications MUST persistently maintain their FedRAMP Certification Package to ensure it is up to date and complete at least once every month.
+
+        **Timeframe:** 1 month
+
+    === "Class C"
+        Providers with 20x Class C Certifications MUST persistently maintain their FedRAMP Certification Package to ensure it is up to date and complete at least once every 2 weeks.
+
+        **Timeframe:** 2 weeks
+
+    === "Class D"
+        Providers with 20x Class D Certifications MUST persistently maintain their FedRAMP Certification Package to ensure it is up to date and complete at least once every week.
+
+        **Timeframe:** 1 weeks
+
+
+    ---
+
+    _**Notes:**_
+
+    - _Providers are expected to maintain their FedRAMP Certification Package using automation as changes occur to ensure they are never out of date._
+    - _This rule does not require or expect persistent human review of all materials in this cadence._
+    ---
+    **Terms:** [Certification Package](../../../definitions/#certification-package){ data-preview }, [Persistently](../../../definitions/#persistently){ data-preview }

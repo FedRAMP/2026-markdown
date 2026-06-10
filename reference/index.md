@@ -22,20 +22,20 @@ This section of the Consolidated Rules for 2026 contains each complete FedRAMP R
 
 | Acronym | Ruleset | Status | Counts | Most Recently Updated |
 | --- | --- | --- | --- | --- |
-| AGU | [Agency Use of FedRAMP Certified Cloud Services (Needs Review)](agency-use.md) | Placeholder | Subsets: 3<br>Rules: 20 | 2026-05-04 |
+| AFC | [Addressing FedRAMP Communication](addressing-fedramp-communication.md) | Stable | Subsets: 2<br>Rules: 16 | 2026-05-04 |
+| AGU | [Agency Use of FedRAMP Certified Cloud Services](agency-use.md) | Placeholder | Subsets: 3<br>Rules: 20 | 2026-05-04 |
 | CCM | [Collaborative Continuous Monitoring](collaborative-continuous-monitoring.md) | Stable | Subsets: 3<br>Rules: 21 | 2026-05-04 |
 | CDS | [Certification Data Sharing](certification-data-sharing.md) | Stable | Subsets: 4<br>Rules: 18 | 2026-05-04 |
-| CPO | [Certification Package Overview](certification-package-overview.md) | Placeholder | Subsets: 1<br>Rules: 2 | 2026-05-04 |
-| FRA | [FedRAMP Assessments](fedramp-assessments.md) | Placeholder | Subsets: 3<br>Rules: 12 | 2026-05-04 |
-| FSI | [FedRAMP Security Inbox](fedramp-security-inbox.md) | Stable | Subsets: 2<br>Rules: 16 | 2026-05-04 |
-| ICP | [Incident Communications Procedures](incident-communications-procedures.md) | Placeholder | Subsets: 2<br>Rules: 8 | 2026-05-04 |
-| IFR | [Initial FedRAMP Certification](initial-fedramp-certification.md) | Placeholder | Subsets: 7<br>Rules: 20 | 2026-07-04 |
+| CMU | [Cryptographic Module Use](cryptographic-module-use.md) | Placeholder | Subsets: 1<br>Rules: 3 | 2026-05-04 |
+| CPO | [Certification Package Overview](certification-package-overview.md) | Placeholder | Subsets: 3<br>Rules: 4 | 2026-05-04 |
+| FRC | [FedRAMP Certification](fedramp-certification.md) | Placeholder | Subsets: 7<br>Rules: 20 | 2026-07-04 |
+| IEC | [Incident Evaluation and Communication](incident-evaluation-and-communication.md) | Placeholder | Subsets: 2<br>Rules: 8 | 2026-05-04 |
+| IVV | [Independent Verification and Validation](independent-verification-and-validation.md) | Placeholder | Subsets: 4<br>Rules: 15 | 2026-05-04 |
 | MAS | [Minimum Assessment Scope](minimum-assessment-scope.md) | Stable | Subsets: 1<br>Rules: 5 | 2026-05-04 |
 | MKT | [Marketplace Listing](marketplace-listing.md) | Placeholder | Subsets: 5<br>Rules: 12 | 2026-05-04 |
-| OFR | [Ongoing FedRAMP Certification](ongoing-fedramp-certification.md) | Placeholder | Subsets: 5<br>Rules: 15 | 2026-05-04 |
 | REC | [FedRAMP Recognition of Independent Assessment Services](fedramp-recognition.md) | Placeholder | Subsets: 2<br>Rules: 16 | 2026-05-04 |
 | SCG | [Secure Configuration Guide](secure-configuration-guide.md) | Stable | Subsets: 2<br>Rules: 9 | 2026-05-04 |
-| SCN | [Significant Change Notifications](significant-change-notifications.md) | Stable | Subsets: 5<br>Rules: 17 | 2026-05-04 |
-| SDR | [Security Decision Record](security-decision-record.md) | Empty | Subsets: 0<br>Rules: 0 |  |
-| UCM | [Using Cryptographic Modules](using-cryptographic-modules.md) | Placeholder | Subsets: 1<br>Rules: 3 | 2026-05-04 |
-| VDR | [Vulnerability Detection and Response](vulnerability-detection-and-response.md) | Stable | Subsets: 7<br>Rules: 42 | 2026-05-04 |
+| SCN | [Significant Change Notification](significant-change-notification.md) | Stable | Subsets: 5<br>Rules: 17 | 2026-05-04 |
+| SDR | [Security Decision Record](security-decision-record.md) | Empty | Subsets: 1<br>Rules: 1 | 2026-05-04 |
+| VDR | [Vulnerability Detection and Response](vulnerability-detection-and-response.md) | Stable | Subsets: 2<br>Rules: 18 | 2026-05-04 |
+| VER | [Vulnerability Evaluation and Reporting](vulnerability-evaluation-and-reporting.md) | Stable | Subsets: 5<br>Rules: 24 | 2026-05-04 |

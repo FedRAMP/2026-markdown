@@ -237,10 +237,10 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
     ---
 
-    _**Note:** Consolidating changes quarterly means that the historical status at the end of each quarter or at the time of the Ongoing Authorization Report or Quarterly Review is sufficient, instead of maintaining separate versions with every single change that took place throughout the quarter._
+    _**Note:** Consolidating changes quarterly means that the historical status at the end of each quarter or at the time of the Ongoing Certification Report or Quarterly Review is sufficient, instead of maintaining separate versions with every single change that took place throughout the quarter._
 
     ---
-    **Terms:** [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Certification Data](../../../definitions/#certification-data){ data-preview }, [Quarterly Review](../../../definitions/#quarterly-review){ data-preview }
+    **Terms:** [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Certification Data](../../../definitions/#certification-data){ data-preview }, [Ongoing Certification](../../../definitions/#ongoing-certification){ data-preview }, [Ongoing Certification Report (OCR)](../../../definitions/#ongoing-certification-report-ocr){ data-preview }, [Quarterly Review](../../../definitions/#quarterly-review){ data-preview }
 ### Per-Service Certification Materials
 
 ??? abstract "CDS-CSO-PSM"

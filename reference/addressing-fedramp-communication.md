@@ -4,18 +4,29 @@ tags:
   - Rev5
 ---
 
-<span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-pencil:{ .placeholder title="This content is a placeholder and is not complete." }</span>
+<span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
 
-# FedRAMP's Responsibilities
+# Addressing FedRAMP Communication
+
+The Addressing FedRAMP Communication rules (formerly FedRAMP Security Inbox) ensure FedRAMP can reliably contact the security and compliance staff responsible for every FedRAMP-authorized cloud service offering. These rules also set expectations for urgent communications, response time testing, and routing important messages separately from general support or customer service channels.
+
+**Subsets**
+
+- [FedRAMP Responsibilities](#fedramp-responsibilities)
+- [General Provider Responsibilities](#general-provider-responsibilities)
+
+!!! info "Effective Date(s) & Overall Applicability for 20x and Rev5"
+    - **Required** (Consolidated Rules for 2026)
+    - **Obtain:** 2026-01-05
+    - **Maintain:** 2026-01-05
+    - **Grace Ends:** 2026-07-01
 
 
 
 ---
 
 
-## Addressing FedRAMP Communication {#addressing-fedramp-communication}
-
-The Addressing FedRAMP Communication rules (formerly FedRAMP Security Inbox) ensure FedRAMP can reliably contact the security and compliance staff responsible for every FedRAMP-authorized cloud service offering. These rules also set expectations for urgent communications, response time testing, and routing important messages separately from general support or customer service channels.
+## FedRAMP Responsibilities {#fedramp-responsibilities}
 
 These rules apply to FedRAMP when communicating with cloud service providers.
 
@@ -176,15 +187,13 @@ These rules apply to FedRAMP when communicating with cloud service providers.
     FedRAMP MAY track and publicly share the time required by cloud service providers to take the actions specified in messages that require an elevated reaction.
 
 
-## Incident Evaluation and Communication {#incident-evaluation-and-communication}
+## General Provider Responsibilities {#general-provider-responsibilities}
 
-The Incident Evaluation and Communication rules explain how providers must communicate incident information to FedRAMP and government customers when they are affected by an incident or likely to be affected by an incident.
+These rules apply to providers with any type of FedRAMP Certification.
 
-These rules apply to FedRAMP.
+### Maintain a FedRAMP Security Inbox
 
-### Ongoing Review
-
-??? abstract "IEC-FRP-ORV"
+??? abstract "AFC-CSO-INB"
     **Changelog:**
 
 
@@ -194,24 +203,42 @@ These rules apply to FedRAMP.
 
 
 !!! quote ""
-    FedRAMP MUST periodically review Incident Communications Procedures implementation with providers based on lack of reporting or other information.
+    Providers MUST establish and maintain an email address to receive messages from FedRAMP; this inbox is a FedRAMP Security Inbox (FSI).
 
-    !!! warning "Corrective Actions"
-        - FedRAMP will request a Corrective Action Plan when a provider is unaware of the rules or has failed to implement proper procedures.
-        - FedRAMP will grant a 3 month grace period to implement proper procedures pending remediation and possible revocation of FedRAMP Certification.
+    ---
+
+    !!! danger "Be careful using a personal email tied to an individual for this inbox due to the significant risk to future communications after a change in personnel!"
+
+    ---
+
+    _**Notes:**_
+
+    - _Unless otherwise notified, FedRAMP will use the listed Security Email on the Marketplace for these notifications._
+    - _If a provider establishes a new inbox in reaction to this guidance that is different from the Security Email then they must follow the [AFC-CSO-NOC (Notification of Changes)](#notification-of-changes){ data-preview } rules to notify FedRAMP._
+    ---
+    **Terms:** [FedRAMP Security Inbox](../definitions/#fedramp-security-inbox){ data-preview }
+### Notification of Changes
+
+??? abstract "AFC-CSO-NOC"
+    **Changelog:**
+
+
+    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
+
+!!! warning "This FRR includes a notification requirement!"
+    - Notify FedRAMP by email using info@fedramp.gov.
+
+
+!!! quote ""
+    Providers MUST immediately notify FedRAMP of any changes in addressing for their FedRAMP Security Inbox by emailing info@fedramp.gov with the name and FedRAMP ID of the cloud service offering and the updated email address.
 
 
     ---
-    **Terms:** [Incident](../definitions/#incident){ data-preview }
-## Marketplace Listing {#marketplace-listing}
+    **Terms:** [Cloud Service Offering](../definitions/#cloud-service-offering){ data-preview }, [FedRAMP Security Inbox](../definitions/#fedramp-security-inbox){ data-preview }
+### Trust @fedramp.gov and @gsa.gov
 
-The Marketplace Listing rules define how FedRAMP decides which cloud service offerings, assessors, and advisors may be listed in the FedRAMP Marketplace. These rules help agencies and other customers rely on the Marketplace as a consistent source of eligible services and supporting organizations, while requiring listed organizations to supply accurate, accessible, and machine-readable information.
-
-These rules apply to FedRAMP activities related to the FedRAMP Marketplace.
-
-### Scope of FedRAMP
-
-??? abstract "MKT-FRP-SOF"
+??? abstract "AFC-CSO-TFG"
     **Changelog:**
 
 
@@ -221,23 +248,14 @@ These rules apply to FedRAMP activities related to the FedRAMP Marketplace.
 
 
 !!! quote ""
-    FedRAMP MUST NOT list cloud service offerings in the Marketplace or perform any FedRAMP Certification activities unless it determines the cloud service offering is within the scope of FedRAMP.
+    Providers MUST treat any email originating from an @fedramp.gov or @gsa.gov email address as if it was sent from FedRAMP by default; if such a message is confirmed to originate from someone other than FedRAMP then the FedRAMP Security Inbox rules no longer apply.
 
-
-
-    **Reference:** [Scope of FedRAMP](https://fedramp.gov/docs/authority/scope)
 
     ---
-    **Terms:** [Cloud Service Offering](../definitions/#cloud-service-offering){ data-preview }
-## FedRAMP Recognition of Independent Assessment Services {#fedramp-recognition-of-independent-assessment-services}
+    **Terms:** [FedRAMP Security Inbox](../definitions/#fedramp-security-inbox){ data-preview }
+### Receive Email Without Disruption
 
-The FedRAMP Recognition of Independent Assessment Services rules explain the requirements for assessors to obtain and maintain FedRAMP Recognition in order to support the FedRAMP Certification process.
-
-These rules apply to FedRAMP when evaluating independent assessment services for initial or ongoing FedRAMP Recognition.
-
-### Foreign Ownership Collection
-
-??? abstract "REC-FRP-FOC"
+??? abstract "AFC-CSO-RCV"
     **Changelog:**
 
 
@@ -247,14 +265,16 @@ These rules apply to FedRAMP when evaluating independent assessment services for
 
 
 !!! quote ""
-    FedRAMP MUST maintain a process to collect foreign ownership, control, or influence declarations from FedRAMP Recognized assessors and updates to those declarations.
+    Providers MUST receive and react to email messages from FedRAMP without disruption and without requiring additional actions from FedRAMP.
 
 
     ---
-    **Terms:** [FedRAMP Recognized](../definitions/#fedramp-recognized){ data-preview }
-### Recognized Assessors Only
 
-??? abstract "REC-FRP-RAO"
+    _**Note:** This requirement is intended to prevent cloud service providers from requiring FedRAMP to complete a CAPTCHA, log into a customer portal, or otherwise take service-specific actions that might prevent the security team from receiving the message._
+
+### Complete Required Actions
+
+??? abstract "AFC-CSO-CRA"
     **Changelog:**
 
 
@@ -264,14 +284,16 @@ These rules apply to FedRAMP when evaluating independent assessment services for
 
 
 !!! quote ""
-    FedRAMP MUST NOT accept verification, validation, or other attestations from independent assessors who are not FedRAMP Recognized.
+    Providers MUST complete the required actions in Emergency or Emergency Test designated messages sent by FedRAMP within the timeframe included in the message.
 
 
     ---
-    **Terms:** [FedRAMP Recognized](../definitions/#fedramp-recognized){ data-preview }, [Validation](../definitions/#validation){ data-preview }, [Verification](../definitions/#verification){ data-preview }
-### Double Revocation Disqualification
 
-??? abstract "REC-FRP-DRD"
+    _**Note:** Timeframes may vary by FedRAMP Certification class._
+
+### Emergency Message Routing
+
+??? abstract "AFC-CSO-EMR"
     **Changelog:**
 
 
@@ -281,20 +303,16 @@ These rules apply to FedRAMP when evaluating independent assessment services for
 
 
 !!! quote ""
-    FedRAMP MUST NOT restore FedRAMP Recognition for an assessor after FedRAMP has revoked that assessor's FedRAMP Recognition 2 times.
+    Providers MUST route Emergency designated messages sent by FedRAMP to a senior security official for their awareness.
 
 
     ---
-    **Terms:** [FedRAMP Recognized](../definitions/#fedramp-recognized){ data-preview }
-## Significant Change Notification {#significant-change-notification}
 
-The Significant Change Notification rules supply a simple framework allowing providers to make significant changes to their own products while keeping agency customers in the loop. These rules organize significant changes into clear categories so agencies can understand the expected risk and make authorization decisions accordingly.
+    _**Note:** Senior security officials are determined by the provider._
 
-These rules apply to FedRAMP.
+### Important Message Actions
 
-### Corrective Action Plan Conditions
-
-??? abstract "SCN-FRP-CAP"
+??? abstract "AFC-CSO-IMA"
     **Changelog:**
 
 
@@ -304,24 +322,16 @@ These rules apply to FedRAMP.
 
 
 !!! quote ""
-    FedRAMP MAY require providers to delay significant changes beyond the standard Significant Change Notification period and/or submit significant changes for approval in advance as a condition of a formal FedRAMP Corrective Action Plan or other agreement.
+    Providers SHOULD complete the required actions in Important designated messages sent by FedRAMP within the timeframe specified in the message.
 
 
     ---
 
-    _**Note:** The circumstances and conditions of such a Corrective Action Plan will vary and be documented in the Correcive Action Plan._
+    _**Note:** Timeframes may vary by FedRAMP Certification class._
 
-    ---
-    **Terms:** [Significant Change](../definitions/#significant-change){ data-preview }
-## Vulnerability Evaluation and Reporting {#vulnerability-evaluation-and-reporting}
+### Acknowledge Receipt
 
-The Vulnerability Evaluation and Reporting rules require cloud service providers to determine when vulnerabilities are likely to impact federal customers and report the status of such vulnerabilities to all necessary parties.
-
-These rules apply to FedRAMP when setting expectations for specific cloud service providers.
-
-### Additional Requirements
-
-??? abstract "VER-FRP-ARP"
+??? abstract "AFC-CSO-ACK"
     **Changelog:**
 
 
@@ -331,25 +341,8 @@ These rules apply to FedRAMP when setting expectations for specific cloud servic
 
 
 !!! quote ""
-    FedRAMP MAY require providers to share additional vulnerability information, alternative reports, or to report at an alternative frequency as a condition of a FedRAMP Corrective Action Plan or other agreements with federal agencies.
+    Providers SHOULD promptly and automatically acknowledge the receipt of messages received from FedRAMP in their FedRAMP Security Inbox.
 
 
     ---
-    **Terms:** [Vulnerability](../definitions/#vulnerability){ data-preview }
-### Sensitive Details
-
-??? abstract "VER-FRP-ADV"
-    **Changelog:**
-
-
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
-
-
-
-
-!!! quote ""
-    FedRAMP MAY require providers to share additional information or details about vulnerabilities, including sensitive information that would likely lead to exploitation, as part of review, response or investigation by necessary parties.
-
-
-    ---
-    **Terms:** [Likely](../definitions/#likely){ data-preview }, [Vulnerability](../definitions/#vulnerability){ data-preview }, [Vulnerability Response](../definitions/#vulnerability-response){ data-preview }
+    **Terms:** [FedRAMP Security Inbox](../definitions/#fedramp-security-inbox){ data-preview }, [Promptly](../definitions/#promptly){ data-preview }

@@ -6,7 +6,7 @@ tags:
 
 <span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-pencil:{ .placeholder title="This content is a placeholder and is not complete." }</span>
 
-# Agency Use of FedRAMP Certified Cloud Services (Needs Review)
+# Agency Use of FedRAMP Certified Cloud Services
 
 The Agency Use rules summarize the many demands made on agencies by the FedRAMP Authorization Act and OMB Memorandum M-24-15 in a simple, clear, easy-to-follow set of FedRAMP-style rules. These rules align agency policies, authorization letters, machine-readable tools, secure configuration review, continuous monitoring, and communication with FedRAMP so certifications can be reused consistently across government.
 
@@ -299,7 +299,7 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
 
 
 !!! quote ""
-    Agencies MUST notify FedRAMP if information presented in an Ongoing Authorization Report, Quarterly Review, or other FedRAMP Certification Data causes significant concerns for the authorizing official that would likely result in rescission of their Authorization to Operate.
+    Agencies MUST notify FedRAMP if information presented in an Ongoing Certification Report, Quarterly Review, or other FedRAMP Certification Data causes significant concerns for the authorizing official that would likely result in rescission of their Authorization to Operate.
 
 
     ---
@@ -307,8 +307,8 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
     _**Note:** Agencies are expected to notify FedRAMP under OMB Memorandum M-24-15 section IV (a)._
 
     ---
-    **Terms:** [Certification Data](../definitions/#certification-data){ data-preview }, [Likely](../definitions/#likely){ data-preview }, [Quarterly Review](../definitions/#quarterly-review){ data-preview }
-### Review Ongoing Authorization Reports
+    **Terms:** [Certification Data](../definitions/#certification-data){ data-preview }, [Likely](../definitions/#likely){ data-preview }, [Ongoing Certification](../definitions/#ongoing-certification){ data-preview }, [Ongoing Certification Report (OCR)](../definitions/#ongoing-certification-report-ocr){ data-preview }, [Quarterly Review](../definitions/#quarterly-review){ data-preview }
+### Review Ongoing Certification Reports
 
 ??? abstract "AGU-USE-ROR"
     **Changelog:**
@@ -320,7 +320,7 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
 
 
 !!! quote ""
-    Agencies SHOULD review each Ongoing Authorization Report to understand how changes to the cloud service offering may impact the risk tolerance documented in the agency Authorization to Operate for the federal information system that includes the cloud service offering in its boundary.
+    Agencies SHOULD review each Ongoing Certification Report to understand how changes to the cloud service offering may impact the risk tolerance documented in the agency Authorization to Operate for the federal information system that includes the cloud service offering in its boundary.
 
 
     ---
@@ -328,7 +328,7 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
     _**Note:** This agency review supports agency responsibilities under 44 USC § 35, OMB Circular A-130, FIPS-200, and OMB Memorandum M-24-15._
 
     ---
-    **Terms:** [Cloud Service Offering](../definitions/#cloud-service-offering){ data-preview }
+    **Terms:** [Cloud Service Offering](../definitions/#cloud-service-offering){ data-preview }, [Ongoing Certification](../definitions/#ongoing-certification){ data-preview }, [Ongoing Certification Report (OCR)](../definitions/#ongoing-certification-report-ocr){ data-preview }
 ### Designate Senior Official
 
 ??? abstract "AGU-USE-DSO"
@@ -341,11 +341,11 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
 
 
 !!! quote ""
-    Agencies SHOULD designate a federal senior information security official to review Ongoing Authorization Reports and represent the agency at Quarterly Reviews for cloud service offerings included in agency information systems.
+    Agencies SHOULD designate a federal senior information security official to review Ongoing Certification Reports and represent the agency at Quarterly Reviews for cloud service offerings included in agency information systems.
 
 
     ---
-    **Terms:** [Cloud Service Offering](../definitions/#cloud-service-offering){ data-preview }, [Quarterly Review](../definitions/#quarterly-review){ data-preview }
+    **Terms:** [Cloud Service Offering](../definitions/#cloud-service-offering){ data-preview }, [Ongoing Certification](../definitions/#ongoing-certification){ data-preview }, [Quarterly Review](../definitions/#quarterly-review){ data-preview }
 ### Notify Provider of Concerns
 
 ??? abstract "AGU-USE-NPC"
@@ -360,11 +360,11 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
 
 
 !!! quote ""
-    Agencies SHOULD formally notify the Provider if information presented in an Ongoing Authorization Report, Quarterly Review, or other FedRAMP Certification Data causes significant concerns for the authorizing official that would likely result in rescission of their Authorization to Operate.
+    Agencies SHOULD formally notify the Provider if information presented in an Ongoing Certification Report, Quarterly Review, or other FedRAMP Certification Data causes significant concerns for the authorizing official that would likely result in rescission of their Authorization to Operate.
 
 
     ---
-    **Terms:** [Certification Data](../definitions/#certification-data){ data-preview }, [Likely](../definitions/#likely){ data-preview }, [Quarterly Review](../definitions/#quarterly-review){ data-preview }
+    **Terms:** [Certification Data](../definitions/#certification-data){ data-preview }, [Likely](../definitions/#likely){ data-preview }, [Ongoing Certification](../definitions/#ongoing-certification){ data-preview }, [Ongoing Certification Report (OCR)](../definitions/#ongoing-certification-report-ocr){ data-preview }, [Quarterly Review](../definitions/#quarterly-review){ data-preview }
 ### Review All Information Resources
 
 ??? abstract "AGU-USE-RIR"
