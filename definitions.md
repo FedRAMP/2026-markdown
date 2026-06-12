@@ -487,10 +487,10 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     - **2026-07-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 !!! quote ""
-    Has the meaning given in CISA Binding Operational Directive 22-01, which is any vulnerability identified in CISA's Known Exploited Vulnerabilities catalog.
+    Has the meaning given in CISA Binding Operational Directive 26-04, which is any vulnerability identified in CISA's Known Exploited Vulnerabilities catalog.
 
 
-    **Reference:** [CISA BOD 22-01](https://www.cisa.gov/news-events/directives/bod-22-01-reducing-significant-risk-known-exploited-vulnerabilities)
+    **Reference:** [CISA BOD 26-04](https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk)
 
     **Related Terms Group:** [Vulnerability](#related-terms-group-vulnerability)
 
