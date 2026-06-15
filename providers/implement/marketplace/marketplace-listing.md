@@ -107,7 +107,7 @@ FedRAMP allows cloud service providers that are actively preparing to obtain a F
 
 
 !!! quote ""
-    Providers MUST demonstrate continuous progress towards a FedRAMP Certification, documented in their Trust Center and updated at least quarterly; progress is measured by the provider against documented goals and milestones.
+    Providers MUST demonstrate continuous progress towards a FedRAMP Certification, documented in their Trust Center or website and updated at least quarterly; progress is measured by the provider against documented goals and milestones.
 
 
     ---

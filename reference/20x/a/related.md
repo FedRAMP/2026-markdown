@@ -282,7 +282,7 @@ The Marketplace Listing rules define how FedRAMP decides which cloud service off
 
 
 !!! quote ""
-    Providers MUST demonstrate continuous progress towards a FedRAMP Certification, documented in their Trust Center and updated at least quarterly; progress is measured by the provider against documented goals and milestones.
+    Providers MUST demonstrate continuous progress towards a FedRAMP Certification, documented in their Trust Center or website and updated at least quarterly; progress is measured by the provider against documented goals and milestones.
 
 
     ---
