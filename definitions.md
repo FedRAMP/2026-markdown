@@ -20,7 +20,7 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
 | --- | --- |
 | <span id="related-terms-group-accounts"></span>Accounts | [Privileged Account](#privileged-account){ data-preview }<br>[Top-Level Administrative Account](#top-level-administrative-account){ data-preview } |
 | <span id="related-terms-group-assessment"></span>Assessment | [Initial FedRAMP Assessment](#initial-fedramp-assessment){ data-preview }<br>[Persistent FedRAMP Assessment](#persistent-fedramp-assessment){ data-preview } |
-| <span id="related-terms-group-certification"></span>Certification | [Artifacts](#artifacts){ data-preview }<br>[Certification Data](#certification-data){ data-preview }<br>[Certification Package](#certification-package){ data-preview }<br>[FedRAMP Certified](#fedramp-certified){ data-preview }<br>[Initial Certification](#initial-certification){ data-preview }<br>[Quarterly Review](#quarterly-review){ data-preview } |
+| <span id="related-terms-group-certification"></span>Certification | [Artifacts](#artifacts){ data-preview }<br>[Certification Class](#certification-class){ data-preview }<br>[Certification Data](#certification-data){ data-preview }<br>[Certification Package](#certification-package){ data-preview }<br>[Certification Path](#certification-path){ data-preview }<br>[Certification Profile](#certification-profile){ data-preview }<br>[Certification Type](#certification-type){ data-preview }<br>[FedRAMP Certified](#fedramp-certified){ data-preview }<br>[Initial Certification](#initial-certification){ data-preview }<br>[Ongoing Certification](#ongoing-certification){ data-preview }<br>[Quarterly Review](#quarterly-review){ data-preview } |
 | <span id="related-terms-group-customer-effect"></span>Customer Effect | [Debilitating Customer Effect](#debilitating-customer-effect){ data-preview }<br>[Disruptive Customer Effect](#disruptive-customer-effect){ data-preview }<br>[Minimal Customer Effect](#minimal-customer-effect){ data-preview }<br>[Narrow Customer Effect](#narrow-customer-effect){ data-preview } |
 | <span id="related-terms-group-incident"></span>Incident | [FedRAMP Reportable Incident](#fedramp-reportable-incident){ data-preview }<br>[Final Incident Report (FIR)](#final-incident-report-fir){ data-preview }<br>[Incident](#incident){ data-preview }<br>[Initial Incident Report (IIR)](#initial-incident-report-iir){ data-preview }<br>[Ongoing Incident Report (OIR)](#ongoing-incident-report-oir){ data-preview } |
 | <span id="related-terms-group-information-resource"></span>Information Resource | [Information Resource](#information-resource){ data-preview }<br>[Machine-Based (Information Resources)](#machine-based-information-resources){ data-preview }<br>[Third-Party Information Resource](#third-party-information-resource){ data-preview } |
@@ -155,6 +155,19 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Related Terms Group:** [Stakeholder](#related-terms-group-stakeholder)
 
     **Also:** assessor, assessors
+## Certification Class
+
+??? abstract "**ID:** FRD-CCL"
+    **Changelog:**
+    - **2026-07-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
+!!! quote ""
+    The category of assurance that a cloud service offering supplies to federal government customers following FedRAMP Practices, increasing from minimal assurance at Class A to significant assurance at Class D; currently available categories are Class A, B, C, or D.
+
+
+    **Related Terms Group:** [Certification](#related-terms-group-certification)
+
+    **Also:** Certification Class, Certification Classes
 ## Certification Class Change
 
 ??? abstract "**ID:** FRD-CCC"
@@ -202,6 +215,45 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Related Terms Group:** [Certification](#related-terms-group-certification)
 
     **Also:** certification package, certification packages
+## Certification Path
+
+??? abstract "**ID:** FRD-CPH"
+    **Changelog:**
+    - **2026-07-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
+!!! quote ""
+    The underlying source of the FedRAMP Certification, either from a federal agency sponsored authorization to operate or directly from FedRAMP itself. The agency path is a legacy path that is only available for FedRAMP Rev5 and still requires review and approval from FedRAMP.
+
+
+    **Related Terms Group:** [Certification](#related-terms-group-certification)
+
+    **Also:** Certification Path, Certification Paths
+## Certification Profile
+
+??? abstract "**ID:** FRD-CPF"
+    **Changelog:**
+    - **2026-07-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
+!!! quote ""
+    The combination of a FedRAMP Certification Type (Rev5 or 20x), FedRAMP Certification Path (Program or Agency), and FedRAMP Certification Class (A, B, C, or D) for a cloud service offering.
+
+
+    **Related Terms Group:** [Certification](#related-terms-group-certification)
+
+    **Also:** Certification Profile, Certification Profiles
+## Certification Type
+
+??? abstract "**ID:** FRD-CTY"
+    **Changelog:**
+    - **2026-07-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
+!!! quote ""
+    The form of assurance that a cloud service offering supplies to federal government customers following FedRAMP Practices, either Rev5 or 20x. Rev5 follows a legacy approach based primarily on documented plans while 20x follows a modern approach based primarily on measured outcomes.
+
+
+    **Related Terms Group:** [Certification](#related-terms-group-certification)
+
+    **Also:** Certification Type, Certification Types
 ## Cloud Service Offering
 
 ??? abstract "**ID:** FRD-CSO"
@@ -317,6 +369,28 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Related Terms Group:** [Certification](#related-terms-group-certification)
 
     **Also:** FedRAMP Certified, FedRAMP certified, certified, FedRAMP authorized, FedRAMP Authorized, authorized
+## FedRAMP Independent Assessment
+
+??? abstract "**ID:** FRD-FIN"
+    **Changelog:**
+    - **2026-07-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
+!!! quote ""
+    An independent verification and validation assessment, performed by a FedRAMP Recognized independent assessment service or FedRAMP following FedRAMP Rules. These assessments are typically first performed to obtain an initial FedRAMP Certification then repeated on an annual basis to maintain FedRAMP Certification.
+
+
+    **Also:** FedRAMP independent assessment, FedRAMP independent assessments
+## FedRAMP Practices
+
+??? abstract "**ID:** FRD-FPR"
+    **Changelog:**
+    - **2026-07-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
+!!! quote ""
+    The security measures, safeguards, precautions, procedures, activities, policies, capabilities, mechanisms, etc. that are expected to be in place by FedRAMP to demonstrate that information resources are properly protected, expressed in FedRAMP 20x Key Security Indicators or FedRAMP Rev5 Controls and supplemented by FedRAMP Rules.
+
+
+    **Also:** FedRAMP Practice, FedRAMP Practices
 ## FedRAMP Recognized
 
 ??? abstract "**ID:** FRD-FRA"
@@ -429,7 +503,7 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     - **2026-07-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 !!! quote ""
-    The first FedRAMP Certification of a cloud service offering based on the applicable initial assessment, validation, certification package, and certification data.
+    The first FedRAMP Certification of a cloud service offering based on the applicable FedRAMP Practices.
 
 
     **Related Terms Group:** [Certification](#related-terms-group-certification)
@@ -597,8 +671,10 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     - **2026-07-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 !!! quote ""
-    The continued FedRAMP Certification of a cloud service offering based on the applicable ongoing assessment, validation, monitoring, reporting, and certification data.
+    The continued FedRAMP Certification of a cloud service offering based on the applicable FedRAMP Practices.
 
+
+    **Related Terms Group:** [Certification](#related-terms-group-certification)
 
     **Also:** ongoing certification, ongoing certifications
 ## Ongoing Certification Report (OCR)
@@ -909,7 +985,7 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     - **2026-07-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 !!! quote ""
-    Confirmation through objective evidence that specified FedRAMP rules, controls, indicators, or certification data requirements have been fulfilled for a cloud service offering.
+    Confirmation through objective evidence that specified FedRAMP Practices have been fulfilled for a cloud service offering.
 
     ---
 
@@ -925,7 +1001,7 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     - **2026-07-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 !!! quote ""
-    Has the meaning given to "security vulnerability" in 6 USC § 650 (25), which is "any attribute of hardware, software, process, or procedure that could enable or facilitate the defeat of [...] management, operational, and technical controls used to protect against an unauthorized effort to adversely affect the confidentiality, integrity, and availability of an information system or its information." This includes gaps in Rev5 controls and 20x Key Security Indicators, software vulnerabilities, misconfigurations, exposures, weak credentials, insecure services, and all other such potential weaknesses in protection (intentional or unintentional).
+    Has the meaning given to "security vulnerability" in 6 USC § 650 (25), which is "any attribute of hardware, software, process, or procedure that could enable or facilitate the defeat of [...] management, operational, and technical controls used to protect against an unauthorized effort to adversely affect the confidentiality, integrity, and availability of an information system or its information." This includes gaps in Rev5 Controls and 20x Key Security Indicators, software vulnerabilities, misconfigurations, exposures, weak credentials, insecure services, and all other such potential weaknesses in protection (intentional or unintentional).
 
 
     **Reference:** [6 USC § 650 (25)](https://www.govinfo.gov/app/details/USCODE-2024-title6/USCODE-2024-title6-chap1-subchapXVIII-sec650)

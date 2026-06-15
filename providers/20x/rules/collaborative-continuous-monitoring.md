@@ -29,7 +29,7 @@ These rules for Ongoing Certification Reports apply to providers with any type o
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -55,7 +55,7 @@ These rules for Ongoing Certification Reports apply to providers with any type o
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -72,7 +72,7 @@ These rules for Ongoing Certification Reports apply to providers with any type o
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -93,7 +93,7 @@ These rules for Ongoing Certification Reports apply to providers with any type o
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -114,7 +114,7 @@ These rules for Ongoing Certification Reports apply to providers with any type o
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -131,7 +131,7 @@ These rules for Ongoing Certification Reports apply to providers with any type o
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -152,7 +152,7 @@ These rules for Ongoing Certification Reports apply to providers with any type o
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -173,7 +173,7 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -208,7 +208,7 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -225,7 +225,7 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -242,7 +242,7 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -259,7 +259,7 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -276,7 +276,7 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -293,7 +293,7 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -310,7 +310,7 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -331,7 +331,7 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -348,7 +348,7 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 

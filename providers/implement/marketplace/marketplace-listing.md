@@ -4,7 +4,7 @@ tags:
   - Rev5
 ---
 
-<span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-pencil:{ .placeholder title="This content is a placeholder and is not complete." }</span>
+<span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
 
 # Marketplace Listing
 
@@ -30,7 +30,7 @@ These rules apply to providers seeking a listing in the FedRAMP Marketplace.
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -49,7 +49,7 @@ These rules apply to providers seeking a listing in the FedRAMP Marketplace.
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -75,7 +75,7 @@ FedRAMP allows cloud service providers that are actively preparing to obtain a F
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -101,7 +101,7 @@ FedRAMP allows cloud service providers that are actively preparing to obtain a F
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -122,7 +122,7 @@ FedRAMP allows cloud service providers that are actively preparing to obtain a F
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -132,3 +132,7 @@ FedRAMP allows cloud service providers that are actively preparing to obtain a F
 
     !!! warning "Corrective Actions"
         - If a provider fails to schedule an assessment for a FedRAMP Certification Class B, C, or D within 2 years of initial listing in the Initial Implementation Phase, FedRAMP will remove their listing from the Marketplace until they provide evidence of a scheduled assessment.
+
+
+    ---
+    **Terms:** [Certification Class](../../../definitions/#certification-class){ data-preview }

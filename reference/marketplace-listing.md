@@ -4,7 +4,7 @@ tags:
   - Rev5
 ---
 
-<span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-pencil:{ .placeholder title="This content is a placeholder and is not complete." }</span>
+<span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
 
 # Marketplace Listing
 
@@ -23,7 +23,7 @@ The Marketplace Listing rules define how FedRAMP decides which cloud service off
     - **Optional Adoption:** 2026-07-04
     - **Obtain:** 2026-07-04
     - **Maintain:** 2027-01-01
-    - **Grace Ends:** On the first annual assessment scheduled after 2027-01-01
+    - **Grace Ends:** On the first FedRAMP independent assessment completed after 2027-01-01
 
 !!! info "Effective Date(s) & Overall Applicability for Rev5"
     - **Required** (Consolidated Rules for 2026)
@@ -47,7 +47,7 @@ These rules apply to FedRAMP activities related to the FedRAMP Marketplace.
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -71,7 +71,7 @@ These rules apply to providers seeking a listing in the FedRAMP Marketplace.
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -90,7 +90,7 @@ These rules apply to providers seeking a listing in the FedRAMP Marketplace.
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -116,7 +116,7 @@ These rules apply to independent assessment services seeking a listing in the Fe
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -133,7 +133,7 @@ These rules apply to independent assessment services seeking a listing in the Fe
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -157,7 +157,7 @@ These rules apply to independent assessment services seeking a listing in the Fe
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -176,7 +176,7 @@ These rules apply to consulting and advisory services seeking a listing in the F
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -202,7 +202,7 @@ These rules apply to consulting and advisory services seeking a listing in the F
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -217,7 +217,7 @@ These rules apply to consulting and advisory services seeking a listing in the F
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -241,7 +241,7 @@ FedRAMP allows cloud service providers that are actively preparing to obtain a F
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -267,7 +267,7 @@ FedRAMP allows cloud service providers that are actively preparing to obtain a F
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -288,7 +288,7 @@ FedRAMP allows cloud service providers that are actively preparing to obtain a F
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -298,3 +298,7 @@ FedRAMP allows cloud service providers that are actively preparing to obtain a F
 
     !!! warning "Corrective Actions"
         - If a provider fails to schedule an assessment for a FedRAMP Certification Class B, C, or D within 2 years of initial listing in the Initial Implementation Phase, FedRAMP will remove their listing from the Marketplace until they provide evidence of a scheduled assessment.
+
+
+    ---
+    **Terms:** [Certification Class](../definitions/#certification-class){ data-preview }

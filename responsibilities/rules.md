@@ -4,7 +4,7 @@ tags:
   - Rev5
 ---
 
-<span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-pencil:{ .placeholder title="This content is a placeholder and is not complete." }</span>
+<span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
 
 # FedRAMP's Responsibilities
 
@@ -25,7 +25,7 @@ These rules apply to FedRAMP when communicating with cloud service providers.
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -36,7 +36,7 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
     ---
 
-    _**Note:** Anyone at GSA can send email from @fedramp.gov or @gsa.gov - FedRAMP team members will typically have "FedRAMP" or "Q20B" in their name but this is not universal or enforceable. The nature of government enterprise IT services makes it difficult for FedRAMP to isolate FedRAMP-specific team members with enforceable identifiers._
+    _**Note:** Anyone at GSA can send email from @fedramp.gov or @gsa.gov - FedRAMP team members will typically have "FedRAMP" or "F20B" in their name but this is not universal or enforceable. The nature of government enterprise IT services makes it difficult for FedRAMP to isolate FedRAMP-specific team members with enforceable identifiers._
 
 ### Criticality Designators
 
@@ -44,7 +44,7 @@ These rules apply to FedRAMP when communicating with cloud service providers.
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -69,7 +69,7 @@ These rules apply to FedRAMP when communicating with cloud service providers.
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -84,7 +84,7 @@ These rules apply to FedRAMP when communicating with cloud service providers.
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -111,7 +111,7 @@ These rules apply to FedRAMP when communicating with cloud service providers.
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -126,7 +126,7 @@ These rules apply to FedRAMP when communicating with cloud service providers.
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -152,7 +152,7 @@ These rules apply to FedRAMP when communicating with cloud service providers.
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -167,7 +167,7 @@ These rules apply to FedRAMP when communicating with cloud service providers.
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -188,7 +188,7 @@ These rules apply to FedRAMP.
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -215,7 +215,7 @@ These rules apply to FedRAMP activities related to the FedRAMP Marketplace.
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -241,7 +241,7 @@ These rules apply to FedRAMP when evaluating independent assessment services for
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -258,7 +258,7 @@ These rules apply to FedRAMP when evaluating independent assessment services for
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -275,7 +275,7 @@ These rules apply to FedRAMP when evaluating independent assessment services for
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -298,7 +298,7 @@ These rules apply to FedRAMP.
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -325,7 +325,7 @@ These rules apply to FedRAMP when setting expectations for specific cloud servic
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -342,7 +342,7 @@ These rules apply to FedRAMP when setting expectations for specific cloud servic
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 

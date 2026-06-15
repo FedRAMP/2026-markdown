@@ -1,41 +1,78 @@
 ---
-title: "Complete Ruleset Reference"
-description: "This section contains the entire Consolidated Rules for 2026 as a standalone reference for each ruleset."
-purpose: "This content allows folks to see the full rules together without them broken apart by stakeholder."
+title: "Ruleset Reference"
+description: "A reference section for reviewing complete FedRAMP rulesets without stakeholder-specific filtering."
+purpose: "Helps readers find complete generated rulesets for 20x, Rev5, and the full consolidated rules."
 google_doc: ""
+icon: material/information-outline
 picto:
-  source: machine
+  source: person
   status: stable
 ---
 
-<span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
+<span class="picto">:lucide-person-standing:{ .person title="This content was written by a human just for this page." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
 
 ??? info inline end "Page Info"
 
-    **Description:** This section contains the entire Consolidated Rules for 2026 as a standalone reference for each ruleset.
+    **Description:** A reference section for reviewing complete FedRAMP rulesets without stakeholder-specific filtering.
     
-    **Purpose:** This content allows folks to see the full rules together without them broken apart by stakeholder.
+    **Purpose:** Helps readers find complete generated rulesets for 20x, Rev5, and the full consolidated rules.
 
-# Complete Ruleset Reference
+# Ruleset Reference
 
-This section of the Consolidated Rules for 2026 contains each complete FedRAMP Ruleset with all related content in a single rule as an overall reference. The individual stakeholder sections of this site contain only the specific rules that apply in different circumstances for different stakeholders, while the reference rulesets are entirely unabridged.
+This section contains generated reference copies of the FedRAMP Consolidated Rules for 2026. These pages show the rules together as complete rulesets instead of carving them into stakeholder-specific sections for providers, agencies, independent assessors, advisors, or FedRAMP.
 
-| Acronym | Ruleset | Status | Counts | Most Recently Updated |
-| --- | --- | --- | --- | --- |
-| AFC | [Addressing FedRAMP Communication](addressing-fedramp-communication.md) | Stable | Subsets: 2<br>Rules: 16 | 2026-05-04 |
-| AGU | [Agency Use of FedRAMP Certified Cloud Services](agency-use.md) | Placeholder | Subsets: 3<br>Rules: 20 | 2026-05-04 |
-| CCM | [Collaborative Continuous Monitoring](collaborative-continuous-monitoring.md) | Stable | Subsets: 3<br>Rules: 21 | 2026-05-04 |
-| CDS | [Certification Data Sharing](certification-data-sharing.md) | Stable | Subsets: 4<br>Rules: 18 | 2026-05-04 |
-| CMU | [Cryptographic Module Use](cryptographic-module-use.md) | Placeholder | Subsets: 1<br>Rules: 3 | 2026-05-04 |
-| CPO | [Certification Package Overview](certification-package-overview.md) | Placeholder | Subsets: 3<br>Rules: 4 | 2026-05-04 |
-| FRC | [FedRAMP Certification](fedramp-certification.md) | Placeholder | Subsets: 7<br>Rules: 20 | 2026-07-04 |
-| IEC | [Incident Evaluation and Communication](incident-evaluation-and-communication.md) | Placeholder | Subsets: 2<br>Rules: 8 | 2026-05-04 |
-| IVV | [Independent Verification and Validation](independent-verification-and-validation.md) | Placeholder | Subsets: 4<br>Rules: 15 | 2026-05-04 |
-| MAS | [Minimum Assessment Scope](minimum-assessment-scope.md) | Stable | Subsets: 1<br>Rules: 5 | 2026-05-04 |
-| MKT | [Marketplace Listing](marketplace-listing.md) | Placeholder | Subsets: 5<br>Rules: 12 | 2026-05-04 |
-| REC | [FedRAMP Recognition of Independent Assessment Services](fedramp-recognition.md) | Placeholder | Subsets: 2<br>Rules: 16 | 2026-05-04 |
-| SCG | [Secure Configuration Guide](secure-configuration-guide.md) | Stable | Subsets: 2<br>Rules: 9 | 2026-05-04 |
-| SCN | [Significant Change Notification](significant-change-notification.md) | Stable | Subsets: 5<br>Rules: 17 | 2026-05-04 |
-| SDR | [Security Decision Record](security-decision-record.md) | Empty | Subsets: 1<br>Rules: 1 | 2026-05-04 |
-| VDR | [Vulnerability Detection and Response](vulnerability-detection-and-response.md) | Stable | Subsets: 2<br>Rules: 18 | 2026-05-04 |
-| VER | [Vulnerability Evaluation and Reporting](vulnerability-evaluation-and-reporting.md) | Stable | Subsets: 5<br>Rules: 24 | 2026-05-04 |
+---
+
+<div class="grid cards" markdown>
+
+-   :material-dice-d20-outline:{ .xl .middle .stable } **FedRAMP 20x**
+
+    ---
+
+    Review the 20x rulesets by certification class, including the rules and Key Security Indicators that apply to each class.
+
+    [20x Ruleset Reference](20x/index.md){ data-preview }
+
+-   :material-rewind-5:{ .xl .middle .stable } **FedRAMP Rev5**
+
+    ---
+
+    Review the Rev5 rulesets by certification class for services that still need the Rev5 certification approach.
+
+    [Rev5 Ruleset Reference](rev5/index.md){ data-preview }
+
+-   :lucide-book-open-check:{ .xl .middle .machine } **Complete Rulesets**
+
+    ---
+
+    Review each complete consolidated ruleset without filtering by certification type, class, stakeholder, or site section.
+
+    [Complete Ruleset Reference](complete-rulesets/index.md){ data-preview }
+
+</div>
+
+---
+
+## Focus on FedRAMP 20x Class A
+
+FedRAMP 20x Class A is the simplest and fastest way to see the new outcome-focused approach in action. It keeps the reference small, emphasizes the most essential expectations, and makes it easier to understand how 20x uses measurable security outcomes instead of large documentation packages.
+
+<div class="grid cards" markdown>
+
+-   :lucide-sparkles:{ .xl .middle .stable } **Start with Class A**
+
+    ---
+
+    Class A is a great place to start because it shows the core 20x structure with the least extra noise.
+
+    [20x Class A Ruleset Reference](20x/a/index.md){ data-preview }
+
+-   :lucide-list-checks:{ .xl .middle .machine } **See the Class A Indicators**
+
+    ---
+
+    Review the Key Security Indicators that make Class A concrete, measurable, and easier to reason about.
+
+    [20x Class A Key Security Indicators](20x/a/key-security-indicators.md){ data-preview }
+
+</div>

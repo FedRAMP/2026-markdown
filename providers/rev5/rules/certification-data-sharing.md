@@ -31,7 +31,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -53,7 +53,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
     1. Product Website Link
     1. Link to Product Logo
     1. Overall Service Description
-    1. Detailed list of specific services and their security categories (see [CDS-CSO-SVC (Service List)](#service-list){ data-preview })
+    1. Detailed list of specific services and their security categories (see [CDS-CSO-SVC (Public Service List)](#public-service-list){ data-preview } (Service List))
     1. Link to Secure Configuration Guidance
     1. Overview of documentation supplied by the provider for the cloud service offering
     1. Link to Trust Center landing page that includes instructions on accessing information in the trust center
@@ -67,13 +67,13 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
     ---
     **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [FedRAMP Recognized](../../../definitions/#fedramp-recognized){ data-preview }, [Ongoing Certification](../../../definitions/#ongoing-certification){ data-preview }, [Ongoing Certification Report (OCR)](../../../definitions/#ongoing-certification-report-ocr){ data-preview }, [Security Category](../../../definitions/#security-category){ data-preview }, [Trust Center](../../../definitions/#trust-center){ data-preview }
-### Service List
+### Public Service List
 
 ??? abstract "CDS-CSO-SVC"
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -84,13 +84,34 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
     ---
     **Terms:** [Certification Data](../../../definitions/#certification-data){ data-preview }, [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Security Category](../../../definitions/#security-category){ data-preview }
+### Always Include FedRAMP ID
+
+??? abstract "CDS-CSO-FID"
+    **Changelog:**
+
+
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
+
+
+
+!!! quote ""
+    Providers MUST always include the FedRAMP ID of the related cloud service offering in all FedRAMP Certification Data, including all reports, notifications, and other communication that results from FedRAMP Rules.
+
+
+    ---
+
+    _**Note:** Many providers have multiple cloud service offerings or use internal names that don't align to public materials; using the FedRAMP ID ensures we can easily align the communication with a specific cloud service offering._
+
+    ---
+    **Terms:** [Certification Data](../../../definitions/#certification-data){ data-preview }, [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }
 ### Availability Reporting
 
 ??? abstract "CDS-CSO-AVR"
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -133,7 +154,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -154,7 +175,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -171,7 +192,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -220,19 +241,44 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
     ---
     **Terms:** [Certification Data](../../../definitions/#certification-data){ data-preview }, [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Likely](../../../definitions/#likely){ data-preview }
+### Include Relevant Policies
+
+??? abstract "CDS-CSO-IRP"
+    **Changelog:**
+
+
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
+
+
+
+!!! quote ""
+    Providers MUST supply all relevant policies and procedures in the FedRAMP Certification Data, including a human-readable and machine-readable reference that explains at least the following about each included policy and procedure:
+
+    1. Name of policy or procedure
+    1. Name of file, document, web page, etc.
+    1. Brief summary of policy or procedure
+    1. Word count of document
+    1. Current version
+    1. Date of last update
+    1. Related FedRAMP Practices (if applicable)
+
+
+    ---
+    **Terms:** [Certification Data](../../../definitions/#certification-data){ data-preview }, [FedRAMP Practices](../../../definitions/#fedramp-practices){ data-preview }, [Machine-Readable](../../../definitions/#machine-readable){ data-preview }
 ### Historical FedRAMP Certification Data
 
 ??? abstract "CDS-CSO-HAD"
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
 
 !!! quote ""
-    Providers MUST make historical versions of FedRAMP Certification Data available for three years to all necessary parties UNLESS otherwise specified by applicable FedRAMP rules; deltas between versions MAY be consolidated quarterly.
+    Providers MUST supply historical versions of FedRAMP Certification Data for three years to all necessary parties UNLESS otherwise specified by applicable FedRAMP rules; deltas between versions MAY be consolidated quarterly.
 
 
     ---
@@ -247,7 +293,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -278,7 +324,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -299,7 +345,7 @@ These rules apply to trust centers that are FedRAMP-compatible.
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -320,7 +366,7 @@ These rules apply to trust centers that are FedRAMP-compatible.
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -337,7 +383,7 @@ These rules apply to trust centers that are FedRAMP-compatible.
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -354,7 +400,7 @@ These rules apply to trust centers that are FedRAMP-compatible.
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -371,7 +417,7 @@ These rules apply to trust centers that are FedRAMP-compatible.
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -388,7 +434,7 @@ These rules apply to trust centers that are FedRAMP-compatible.
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -409,7 +455,7 @@ These rules apply to providers that are using a FedRAMP-compatible trust center 
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -430,7 +476,7 @@ These rules apply to providers that are using a FedRAMP-compatible trust center 
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -451,7 +497,7 @@ These rules apply to providers for FedRAMP Rev5 Certifications.
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 !!! warning "This FRR includes a notification requirement!"

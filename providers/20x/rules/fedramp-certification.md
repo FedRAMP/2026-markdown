@@ -3,7 +3,7 @@ tags:
   - 20x
 ---
 
-<span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-pencil:{ .placeholder title="This content is a placeholder and is not complete." }</span>
+<span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
 
 # FedRAMP Certification
 
@@ -27,6 +27,27 @@ This ruleset explains how cloud service offerings obtain and maintain FedRAMP Ce
 
 These rules apply to cloud service providers obtaining and maintaining any FedRAMP Certification.
 
+### FedRAMP Certification Profile
+
+??? abstract "FRC-CSO-FCP"
+    **Changelog:**
+
+
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+
+
+
+
+!!! quote ""
+    Providers MUST identify a target FedRAMP Certification Profile and apply all relevant FedRAMP Practices to the cloud service offering.
+
+
+    ---
+
+    _**Note:** Information resources (including third-party information resources) MAY vary by security category as appropriate to the type of information handled by or impacted by the information resource._
+
+    ---
+    **Terms:** [Certification Profile](../../../definitions/#certification-profile){ data-preview }, [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [FedRAMP Practices](../../../definitions/#fedramp-practices){ data-preview }, [Handle](../../../definitions/#handle){ data-preview }, [Information Resource](../../../definitions/#information-resource){ data-preview }, [Security Category](../../../definitions/#security-category){ data-preview }, [Third-Party Information Resource](../../../definitions/#third-party-information-resource){ data-preview }
 ### FedRAMP Certification Package
 
 ??? abstract "FRC-CSO-PKG"
@@ -40,27 +61,27 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 
 !!! quote ""
     === "Class A"
-        Providers seeking a Class A Certification MUST supply a complete FedRAMP Certification Package to FedRAMP for initial certification, aligned to the requirements for the target Certification Type, Class, and Path; the FedRAMP Certification Package MUST include at least the following information:
+        Providers seeking a Class A Certification MUST supply a complete FedRAMP Certification Package to FedRAMP for initial certification; the FedRAMP Certification Package MUST include at least the following information:
 
         1. A Certification Package Overview
         1. An External Framework Mapping
 
     === "Class B"
-        Providers seeking a Class B Certification MUST supply a complete FedRAMP Certification Package to FedRAMP for initial certification, aligned to the requirements for the target Certification Type, Class, and Path; the FedRAMP Certification Package MUST include at least the following information:
+        Providers seeking a Class B Certification MUST supply a complete FedRAMP Certification Package to FedRAMP for initial certification; the FedRAMP Certification Package MUST include at least the following information:
 
         1. A Certification Package Overview
         1. A Security Decision Record
         1. A real or example Ongoing Certification Report following [CCM-OCR-AVL (Report Availability)](collaborative-continuous-monitoring.md#report-availability){ data-preview }
 
     === "Class C"
-        Providers seeking a Class C Certification MUST supply a complete FedRAMP Certification Package to FedRAMP for initial certification, aligned to the requirements for the target Certification Type, Class, and Path; the FedRAMP Certification Package MUST include at least the following information:
+        Providers seeking a Class C Certification MUST supply a complete FedRAMP Certification Package to FedRAMP for initial certification; the FedRAMP Certification Package MUST include at least the following information:
 
         1. A Certification Package Overview
         1. A Security Decision Record
         1. A real or example Ongoing Certification Report following [CCM-OCR-AVL (Report Availability)](collaborative-continuous-monitoring.md#report-availability){ data-preview }
 
     === "Class D"
-        Providers seeking a Class D Certification MUST supply a complete FedRAMP Certification Package to FedRAMP for initial certification, aligned to the requirements for the target Certification Type, Class, and Path; the FedRAMP Certification Package MUST include at least the following information:
+        Providers seeking a Class D Certification MUST supply a complete FedRAMP Certification Package to FedRAMP for initial certification; the FedRAMP Certification Package MUST include at least the following information:
 
         1. A Certification Package Overview
         1. A Security Decision Record
@@ -75,7 +96,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -96,7 +117,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -113,7 +134,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -138,13 +159,13 @@ These are specific rules that apply to providers seeking FedRAMP Class A Certifi
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
 
 !!! quote ""
-    Providers seeking a FedRAMP Class A Certification MUST have completed a certification or equivalent process, including an independent assessment, from one of the following alternative security frameworks:
+    Providers seeking a FedRAMP Class A Certification MUST have completed a certification or equivalent process, including an independent assessment if applicable, from one of the following alternative security frameworks:
 
     1. FedRAMP Rev5 (including FedRAMP Ready) at any historical Impact Level
     1. SOC 2 Type II
@@ -159,7 +180,7 @@ These are specific rules that apply to providers seeking FedRAMP Class A Certifi
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -176,7 +197,7 @@ These are specific rules that apply to providers seeking FedRAMP Class A Certifi
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -191,19 +212,19 @@ These are specific rules that apply to providers seeking FedRAMP Class A Certifi
     1. Certification Data Sharing: [CDS-CSO-PUB (Public Information)](certification-data-sharing.md#public-information){ data-preview }
     1. Certification Data Sharing: [CDS-CSO-UTC (Use Trust Centers)](certification-data-sharing.md#use-trust-centers){ data-preview }
     1. Certification Data Sharing: [CDS-UTC-AAD (Agency Access Denial)](certification-data-sharing.md#agency-access-denial){ data-preview }
-    1. FedRAMP Security Inbox: [AFC-CSO-INB (Maintain a FedRAMP Security Inbox)](addressing-fedramp-communication.md#maintain-a-fedramp-security-inbox){ data-preview }
-    1. FedRAMP Security Inbox: [AFC-CSO-RCV (Receive Email Without Disruption)](addressing-fedramp-communication.md#receive-email-without-disruption){ data-preview }
-    1. FedRAMP Security Inbox: [AFC-CSO-CRA (Complete Required Actions)](addressing-fedramp-communication.md#complete-required-actions){ data-preview }
-    1. Incident Communications Procedures: [IEC-CSO-EFR (Evaluate FedRAMP Reportability)](incident-evaluation-and-communication.md#evaluate-fedramp-reportability){ data-preview }
+    1. Addressing FedRAMP Communication: [AFC-CSO-INB (Maintain a FedRAMP Security Inbox)](addressing-fedramp-communication.md#maintain-a-fedramp-security-inbox){ data-preview }
+    1. Addressing FedRAMP Communication: [AFC-CSO-RCV (Receive Email Without Disruption)](addressing-fedramp-communication.md#receive-email-without-disruption){ data-preview }
+    1. Addressing FedRAMP Communication: [AFC-CSO-CRA (Complete Required Actions)](addressing-fedramp-communication.md#complete-required-actions){ data-preview }
+    1. Incident Evaluation and Communication: [IEC-CSO-EFR (Evaluate FedRAMP Reportability)](incident-evaluation-and-communication.md#evaluate-fedramp-reportability){ data-preview }
     1. Vulnerability Detection and Response: [VDR-CSO-DET (Vulnerability Detection)](vulnerability-detection-and-response.md#vulnerability-detection){ data-preview }
-    1. Continuous Collaborative Monitoring: [CCM-OCR-AVL (Report Availability)](collaborative-continuous-monitoring.md#report-availability){ data-preview }
-    1. Continuous Collaborative Monitoring: [CCM-OCR-NRD (Next Report Date)](collaborative-continuous-monitoring.md#next-report-date){ data-preview }
-    1. Key Security Indicators: KSI-CMT-LMC (Logging Changes)
-    1. Key Security Indicators: KSI-CNA-RNT (Restricting Network Traffic)
-    1. Key Security Indicators: KSI-CED-RAT (Reviewing All Training)
-    1. Key Security Indicators: KSI-IAM-AAM (Automating Account Management)
-    1. Key Security Indicators: KSI-INR-RIR (Reviewing Incident Response Procedures)
-    1. Key Security Indicators: KSI-SVC-SNT (Securing Network Traffic)
+    1. Collaborative Continuous Monitoring: [CCM-OCR-AVL (Report Availability)](collaborative-continuous-monitoring.md#report-availability){ data-preview }
+    1. Collaborative Continuous Monitoring: [CCM-OCR-NRD (Next Report Date)](collaborative-continuous-monitoring.md#next-report-date){ data-preview }
+    1. Key Security Indicators: [KSI-CMT-LMC (Logging Changes)](../key-security-indicators/change-management.md#logging-changes){ data-preview }
+    1. Key Security Indicators: [KSI-CNA-RNT (Restricting Network Traffic)](../key-security-indicators/cloud-native-architecture.md#restricting-network-traffic){ data-preview }
+    1. Key Security Indicators: [KSI-CED-RAT (Reviewing All Training)](../key-security-indicators/cybersecurity-education.md#reviewing-all-training){ data-preview }
+    1. Key Security Indicators: [KSI-IAM-AAM (Automating Account Management)](../key-security-indicators/identity-and-access-management.md#automating-account-management){ data-preview }
+    1. Key Security Indicators: [KSI-INR-RIR (Reviewing Incident Response Procedures)](../key-security-indicators/incident-response.md#reviewing-incident-response-procedures){ data-preview }
+    1. Key Security Indicators: [KSI-SVC-SIN (Securing Information)](../key-security-indicators/service-configuration.md#securing-information){ data-preview }
 
 
     ---
@@ -214,14 +235,14 @@ These are specific rules that apply to providers seeking FedRAMP Class A Certifi
     - _In general, for each of these FedRAMP requirements, providers should include a sufficiently detailed summary that reviewers will not need to dig into the related security framework materials to understand the related decisions - just saying "see SOC 2 report" is not particularly helpful._
     - _Information about how the provider addresses the included Key Security Indicators are required for both Rev5 and 20x Class A Certifications._
     ---
-    **Terms:** [Artifacts](../../../definitions/#artifacts){ data-preview }, [Certification Data](../../../definitions/#certification-data){ data-preview }, [Certification Package](../../../definitions/#certification-package){ data-preview }, [FedRAMP Security Inbox](../../../definitions/#fedramp-security-inbox){ data-preview }, [Incident](../../../definitions/#incident){ data-preview }, [Information Resource](../../../definitions/#information-resource){ data-preview }, [Initial Incident Report (IIR)](../../../definitions/#initial-incident-report-iir){ data-preview }, [Ongoing Certification Report (OCR)](../../../definitions/#ongoing-certification-report-ocr){ data-preview }, [Trust Center](../../../definitions/#trust-center){ data-preview }, [Vulnerability](../../../definitions/#vulnerability){ data-preview }, [Vulnerability Detection](../../../definitions/#vulnerability-detection){ data-preview }, [Vulnerability Response](../../../definitions/#vulnerability-response){ data-preview }
+    **Terms:** [Artifacts](../../../definitions/#artifacts){ data-preview }, [Certification Data](../../../definitions/#certification-data){ data-preview }, [Certification Package](../../../definitions/#certification-package){ data-preview }, [Certification Type](../../../definitions/#certification-type){ data-preview }, [FedRAMP Security Inbox](../../../definitions/#fedramp-security-inbox){ data-preview }, [Incident](../../../definitions/#incident){ data-preview }, [Information Resource](../../../definitions/#information-resource){ data-preview }, [Initial Incident Report (IIR)](../../../definitions/#initial-incident-report-iir){ data-preview }, [Ongoing Certification Report (OCR)](../../../definitions/#ongoing-certification-report-ocr){ data-preview }, [Trust Center](../../../definitions/#trust-center){ data-preview }, [Vulnerability](../../../definitions/#vulnerability){ data-preview }, [Vulnerability Detection](../../../definitions/#vulnerability-detection){ data-preview }, [Vulnerability Response](../../../definitions/#vulnerability-response){ data-preview }
 ### Optional Independent Verification and Validation
 
 ??? abstract "FRC-CLA-IVV"
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -232,36 +253,6 @@ These are specific rules that apply to providers seeking FedRAMP Class A Certifi
 
     ---
     **Terms:** [Certification Package](../../../definitions/#certification-package){ data-preview }, [FedRAMP Recognized](../../../definitions/#fedramp-recognized){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
-### Key Security Indicator Mapping
-
-??? abstract "FRC-CLA-KSM"
-    **Changelog:**
-
-
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
-
-
-
-
-!!! quote ""
-    Providers seeking a FedRAMP 20x Certification Class A by leveraging an alternative security framework MUST supply a temporary mapping from the alternative security assessment to the following FedRAMP Key Security Indicators:
-
-    1. KSI-CMT-LMC
-    1. KSI-CNA-RNT
-    1. KSI-CED-RAT
-    1. KSI-IAM-AAM
-    1. KSI-INR-RIR
-    1. KSI-SVC-SNT
-
-
-    ---
-
-    _**Notes:**_
-
-    - _The mapping must be available in both machine-readable and human-readable formats._
-    - _If a mapping is not clear, the provider should supply new information indicating that the Key Security Indicator has not been independently audited._
-    ---
-    **Terms:** [Machine-Readable](../../../definitions/#machine-readable){ data-preview }
 ## Applying for FedRAMP Certification {#applying-for-fedramp-certification}
 
 These rules apply to cloud service providers who have met all other relevant rules and are ready to apply for any FedRAMP Certification.
@@ -272,18 +263,19 @@ These rules apply to cloud service providers who have met all other relevant rul
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
 
 !!! quote ""
-    Providers MUST be listed in the FedRAMP Marketplace before applying for FedRAMP Certification.
+    Providers MUST be listed in the FedRAMP Marketplace before applying for FedRAMP Certification, including:
 
+    1. FedRAMP Marketplace: [MKT-CSO-MLR (Marketplace Listing Requirements)](marketplace-listing.md#marketplace-listing-requirements){ data-preview },
+    1. FedRAMP Marketplace: [MKT-CSO-PML (Provider Marketplace Listing Requests)](marketplace-listing.md#provider-marketplace-listing-requests){ data-preview }
+    1. FedRAMP Marketplace: [MKT-IIP-AGU (Agency Use Cases)](marketplace-listing.md#agency-use-cases){ data-preview }
+    1. FedRAMP Marketplace: [MKT-IIP-DCP (Demonstrating Continuous Progress)](marketplace-listing.md#demonstrating-continuous-progress){ data-preview }
 
-    ---
-
-    _**Note:** See FedRAMP's Marketplace Listing rules for information about being listed in the Marketplace in the Initial Implementation Phase prior to receiving a formal FedRAMP Certification._
 
 ### Applying for FedRAMP Certification
 
@@ -291,7 +283,7 @@ These rules apply to cloud service providers who have met all other relevant rul
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -309,7 +301,7 @@ These rules apply to cloud service providers who have met all other relevant rul
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -326,24 +318,24 @@ These rules apply to cloud service providers who have met all other relevant rul
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
 
 !!! quote ""
-    Providers MUST supply a fresh initial independent verification and validation assessment that was completed by a FedRAMP Recognized Independent Assessment Service within the previous 3 months.
+    Providers MUST supply a fresh initial FedRAMP independent assessment that was completed by a FedRAMP Recognized Independent Assessment Service within the previous 3 months.
 
 
     ---
-    **Terms:** [FedRAMP Recognized](../../../definitions/#fedramp-recognized){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
-### No Third-Party Applications
+    **Terms:** [FedRAMP Independent Assessment](../../../definitions/#fedramp-independent-assessment){ data-preview }, [FedRAMP Recognized](../../../definitions/#fedramp-recognized){ data-preview }
+### No Third-Party Applicants
 
 ??? abstract "FRC-APP-NTP"
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -364,13 +356,13 @@ These rules apply to cloud service providers who have met all other relevant rul
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
 
 !!! quote ""
-    Providers MAY freshen a stale initial independent verification and validation assessment by having a FedRAMP Recognized Independent Assessment Service review any changes between the original assessment and the current status of the cloud service offering in place of a full re-assessment, UNLESS the stale assessment is more than 9 months old.
+    Providers MAY freshen a stale initial independent verification and validation assessment by having a FedRAMP Recognized independent assessment service review any changes between the original assessment and the current status of the cloud service offering in place of a full re-assessment, UNLESS the stale assessment is more than 9 months old.
 
 
     ---
@@ -385,7 +377,7 @@ These rules apply to cloud service providers with an Agency Sponsor who have met
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -406,7 +398,7 @@ These rules apply to cloud service providers when changing their FedRAMP Certifi
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -419,41 +411,19 @@ These rules apply to cloud service providers when changing their FedRAMP Certifi
 
     _**Note:** This is a placeholder rule that must be updated!_
 
+    ---
+    **Terms:** [Certification Class](../../../definitions/#certification-class){ data-preview }
 ## 20x-Specific Provider Responsibilities {#20x-specific-provider-responsibilities}
 
 These rules apply to providers for FedRAMP 20x Certifications.
 
-### Initial Implementation Summaries
-
-??? abstract "FRC-CSX-SUM"
-    **Changelog:**
-
-
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
-
-
-
-
-!!! quote ""
-    Providers MUST supply simple high-level summaries of at least the following for each Key Security Indicator:
-
-    1. Goals for how it will be implemented and validated, including clear pass/fail criteria and traceability
-    1. The consolidated _information resources_ that will be validated (this should include consolidated summaries such as "all employees with privileged access that are members of the Admin group")
-    1. The machine-based processes for _validation_ and the _persistent_ cycle on which they will be performed (or an explanation of why this doesn't apply)
-    1. The non-machine-based processes for _validation_ and the _persistent_ cycle on which they will be performed (or an explanation of why this doesn't apply)
-    1. Current implementation status
-    1. Any clarifications or responses to the assessment summary
-
-
-    ---
-    **Terms:** [Machine-Based (Information Resources)](../../../definitions/#machine-based-information-resources){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }
 ### Application within MAS
 
 ??? abstract "FRC-CSX-MAS"
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 

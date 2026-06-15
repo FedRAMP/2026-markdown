@@ -15,14 +15,14 @@ The Minimum Assessment Scope rules help providers define assessment boundaries n
     - **Optional Adoption:** 2026-07-04
     - **Obtain:** 2026-07-04
     - **Maintain:** 2027-01-01
-    - **Grace Ends:** On the first annual assessment scheduled after 2027-01-01
+    - **Grace Ends:** On the first FedRAMP independent assessment completed after 2027-01-01
 
 !!! info "Effective Date(s) & Overall Applicability for Rev5"
     - **Required** (Consolidated Rules for 2026)
     - **Optional Adoption:** 2026-07-04
     - **Obtain:** 2027-01-01
     - **Maintain:** 2027-01-01
-    - **Grace Ends:** On the first annual assessment scheduled after 2027-01-01
+    - **Grace Ends:** On the first FedRAMP independent assessment completed after 2027-01-01
     - **Sign-up Form:** [ADDME](ADDME)
 
 
@@ -40,7 +40,7 @@ These rules apply to providers for any type of FedRAMP Certification.
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -64,7 +64,7 @@ These rules apply to providers for any type of FedRAMP Certification.
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -85,7 +85,7 @@ These rules apply to providers for any type of FedRAMP Certification.
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -107,7 +107,7 @@ These rules apply to providers for any type of FedRAMP Certification.
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -124,7 +124,7 @@ These rules apply to providers for any type of FedRAMP Certification.
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 

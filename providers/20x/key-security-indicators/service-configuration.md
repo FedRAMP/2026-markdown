@@ -120,9 +120,9 @@ tags:
 
     ---
     **Terms:** [Federal Customer Data](../../../definitions/#federal-customer-data){ data-preview }, [Promptly](../../../definitions/#promptly){ data-preview }
-### Securing Network Traffic
+### Securing Information
 
-??? abstract "KSI-SVC-SNT"
+??? abstract "KSI-SVC-SIN"
     **Changelog:**
 
 
@@ -132,11 +132,11 @@ tags:
 
 
 !!! quote ""
-    Encrypt or otherwise secure network traffic.
+    Information is encrypted or otherwise secured from unwanted access or modification.
 
 
 
-    **Related SP 800-53 Controls:** [AC-1](https://controlfreak.risk-redux.io/controls/AC-01), [AC-17.2](https://controlfreak.risk-redux.io/controls/AC-17(02)), [CP-9.8](https://controlfreak.risk-redux.io/controls/CP-09(08)), [SC-8](https://controlfreak.risk-redux.io/controls/SC-08), [SC-8.1](https://controlfreak.risk-redux.io/controls/SC-08(01)), [SC-13](https://controlfreak.risk-redux.io/controls/SC-13), [SC-20](https://controlfreak.risk-redux.io/controls/SC-20), [SC-21](https://controlfreak.risk-redux.io/controls/SC-21), [SC-22](https://controlfreak.risk-redux.io/controls/SC-22), [SC-23](https://controlfreak.risk-redux.io/controls/SC-23)
+    **Related SP 800-53 Controls:** [AC-1](https://controlfreak.risk-redux.io/controls/AC-01), [AC-17.2](https://controlfreak.risk-redux.io/controls/AC-17(02)), [CP-9.8](https://controlfreak.risk-redux.io/controls/CP-09(08)), [SC-8](https://controlfreak.risk-redux.io/controls/SC-08), [SC-8.1](https://controlfreak.risk-redux.io/controls/SC-08(01)), [SC-13](https://controlfreak.risk-redux.io/controls/SC-13), [SC-20](https://controlfreak.risk-redux.io/controls/SC-20), [SC-21](https://controlfreak.risk-redux.io/controls/SC-21), [SC-22](https://controlfreak.risk-redux.io/controls/SC-22), [SC-23](https://controlfreak.risk-redux.io/controls/SC-23), [SC-28](https://controlfreak.risk-redux.io/controls/SC-28), [SC-28.1](https://controlfreak.risk-redux.io/controls/SC-28(01))
 
 ### Validating Communications
 

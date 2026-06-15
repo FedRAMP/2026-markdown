@@ -3,7 +3,7 @@ tags:
   - Rev5
 ---
 
-<span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-pencil:{ .placeholder title="This content is a placeholder and is not complete." }</span>
+<span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
 
 # Incident Evaluation and Communication
 
@@ -55,7 +55,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -72,7 +72,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -89,7 +89,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -102,11 +102,11 @@ These rules apply to providers with FedRAMP Certifications of any type.
     === "Class A"
         Providers with Class A Certifications SHOULD responsibly notify all affected parties after identifying FedRAMP Reportable Incidents by providing an Initial Incident Report with as much of the following information that is available at the time of reporting and/or the current relevant status for each item:
 
-        1. Contact information for the federal incident response coordinator.
+        1. Contact information for the federal incident response coordinator
         1. Provider's internally assigned tracking identifier
         1. Description of the incident
         1. Timeline of the incident, including start time, time and source of detection, time of completed FedRAMP Reportable Incident evaluation, and other major incident milestones determined by the provider
-        1. Historically and currently estimated Potential Adverse Impact N-rating (PAIN) of the incident, including an explanation of the evaluation following the requirements in [IEC-CSO-EFI (Estimate Federal Impact)](#estimate-federal-impact){ data-preview } (if applicable)
+        1. Historically and currently estimated Potential Agency Impact N-rating (PAIN) of the incident, including an explanation of the evaluation following the requirements in [IEC-CSO-EFI (Estimate Federal Impact)](#estimate-federal-impact){ data-preview } (if applicable)
         1. Functional impact to federal agency customers (include impact to confidentiality and/or integrity and the impacted federal customer data types)
         1. Estimated recovery plan, milestones, and timelines
         1. List of likely affected customer agencies
@@ -131,7 +131,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
         1. Provider's internally assigned tracking identifier
         1. Description of the incident
         1. Timeline of the incident, including start time, time and source of detection, time of completed FedRAMP Reportable Incident evaluation, and other major incident milestones determined by the provider
-        1. Historically and currently estimated Potential Adverse Impact N-rating (PAIN) of the incident, including an explanation of the evaluation following the requirements in [IEC-CSO-EFI (Estimate Federal Impact)](#estimate-federal-impact){ data-preview } (if applicable)
+        1. Historically and currently estimated Potential Agency Impact N-rating (PAIN) of the incident, including an explanation of the evaluation following the requirements in [IEC-CSO-EFI (Estimate Federal Impact)](#estimate-federal-impact){ data-preview } (if applicable)
         1. Functional impact to federal agency customers (include impact to confidentiality and/or integrity and the impacted federal customer data types)
         1. Estimated recovery plan, milestones, and timelines
         1. List of likely affected customer agencies
@@ -156,7 +156,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
         1. Provider's internally assigned tracking identifier
         1. Description of the incident
         1. Timeline of the incident, including start time, time and source of detection, time of completed FedRAMP Reportable Incident evaluation, and other major incident milestones determined by the provider
-        1. Historically and currently estimated Potential Adverse Impact N-rating (PAIN) of the incident, including an explanation of the evaluation following the requirements in [IEC-CSO-EFI (Estimate Federal Impact)](#estimate-federal-impact){ data-preview } (if applicable)
+        1. Historically and currently estimated Potential Agency Impact N-rating (PAIN) of the incident, including an explanation of the evaluation following the requirements in [IEC-CSO-EFI (Estimate Federal Impact)](#estimate-federal-impact){ data-preview } (if applicable)
         1. Functional impact to federal agency customers (include impact to confidentiality and/or integrity and the impacted federal customer data types)
         1. Estimated recovery plan, milestones, and timelines
         1. List of likely affected customer agencies
@@ -181,7 +181,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
         1. Provider's internally assigned tracking identifier
         1. Description of the incident
         1. Timeline of the incident, including start time, time and source of detection, time of completed FedRAMP Reportable Incident evaluation, and other major incident milestones determined by the provider
-        1. Historically and currently estimated Potential Adverse Impact N-rating (PAIN) of the incident, including an explanation of the evaluation following the requirements in [IEC-CSO-EFI (Estimate Federal Impact)](#estimate-federal-impact){ data-preview } (if applicable)
+        1. Historically and currently estimated Potential Agency Impact N-rating (PAIN) of the incident, including an explanation of the evaluation following the requirements in [IEC-CSO-EFI (Estimate Federal Impact)](#estimate-federal-impact){ data-preview } (if applicable)
         1. Functional impact to federal agency customers (include impact to confidentiality and/or integrity and the impacted federal customer data types)
         1. Estimated recovery plan, milestones, and timelines
         1. List of likely affected customer agencies
@@ -208,7 +208,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -315,7 +315,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -398,7 +398,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -425,7 +425,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 

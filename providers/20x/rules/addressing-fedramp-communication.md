@@ -24,7 +24,7 @@ These rules apply to providers with any type of FedRAMP Certification.
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -50,7 +50,7 @@ These rules apply to providers with any type of FedRAMP Certification.
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -69,7 +69,7 @@ These rules apply to providers with any type of FedRAMP Certification.
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -86,7 +86,7 @@ These rules apply to providers with any type of FedRAMP Certification.
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -105,7 +105,7 @@ These rules apply to providers with any type of FedRAMP Certification.
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -118,13 +118,15 @@ These rules apply to providers with any type of FedRAMP Certification.
 
     _**Note:** Timeframes may vary by FedRAMP Certification class._
 
+    ---
+    **Terms:** [Certification Class](../../../definitions/#certification-class){ data-preview }
 ### Emergency Message Routing
 
 ??? abstract "AFC-CSO-EMR"
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -143,7 +145,7 @@ These rules apply to providers with any type of FedRAMP Certification.
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
@@ -156,13 +158,15 @@ These rules apply to providers with any type of FedRAMP Certification.
 
     _**Note:** Timeframes may vary by FedRAMP Certification class._
 
+    ---
+    **Terms:** [Certification Class](../../../definitions/#certification-class){ data-preview }
 ### Acknowledge Receipt
 
 ??? abstract "AFC-CSO-ACK"
     **Changelog:**
 
 
-    - **2026-05-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
 
 
 
