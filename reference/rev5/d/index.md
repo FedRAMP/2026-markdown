@@ -36,4 +36,4 @@ This section contains the FedRAMP Rev5 rulesets with content that applies to Rev
 | SCN | [Significant Change Notification](significant-change-notification.md) | Stable | Subsets: 5<br>Rules: 17 | 2026-06-30 |
 | SDR | [Security Decision Record](security-decision-record.md) | Empty | Subsets: 2<br>Rules: 4 | 2026-06-30 |
 | VDR | [Vulnerability Detection and Response](vulnerability-detection-and-response.md) | Stable | Subsets: 2<br>Rules: 17 | 2026-06-30 |
-| VER | [Vulnerability Evaluation and Reporting](vulnerability-evaluation-and-reporting.md) | Stable | Subsets: 5<br>Rules: 24 | 2026-06-30 |
+| VER | [Vulnerability Evaluation and Reporting](vulnerability-evaluation-and-reporting.md) | Stable | Subsets: 5<br>Rules: 25 | 2026-06-30 |
