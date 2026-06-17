@@ -3,22 +3,24 @@ tags:
   - Rev5
 description: "Explanation that sponsors are NO DIFFERENT FROM ANYONE ELSE once the FedRAMP Certification is done and that they just follow along with the rest now."
 purpose: "Folks realize that they are responsible for their own risk and maintaining their own information system, not some random cloud service provider's information system just because they sponsored it."
-google_doc: https://docs.google.com/document/d/1UdOIjketHNMeQrpmDVJdX8KrdKClvVQ7stp97KEYw9I/edit?tab=t.l5xq0xmknr00"
+google_doc: ""
 picto:
   source: person
-  status: empty
+  status: stable
 ---
 
-<span class="picto">:lucide-person-standing:{ .person title="This content was written by a human just for this page." } :lucide-circle-slash:{ .empty title="This content has not been produced or ported to this website yet." }</span>
+<span class="picto">:lucide-person-standing:{ .person title="This content was written by a human just for this page." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
 
 ??? info inline end "Page Info"
 
     **Description:** Explanation that sponsors are NO DIFFERENT FROM ANYONE ELSE once the FedRAMP Certification is done and that they just follow along with the rest now.
     
     **Purpose:** Folks realize that they are responsible for their own risk and maintaining their own information system, not some random cloud service provider's information system just because they sponsored it.
-    
-    **Edit:** [:material-file-edit-outline:](https://docs.google.com/document/d/1UdOIjketHNMeQrpmDVJdX8KrdKClvVQ7stp97KEYw9I/edit?tab=t.l5xq0xmknr00"){ title="Link to FedRAMP Internal Google Doc" }
 
 # Making Ongoing Certification Collaborative
 
+Federal agency sponsorship responsibilities end when the cloud service offering receives a FedRAMP Certification!
 
+The cloud service provider is expected to transition immediately into Collaborative Continuous Monitoring with
+FedRAMP and any agency customers using the product, and the original sponsor does not have any special duties or
+responsibilities any longer.
