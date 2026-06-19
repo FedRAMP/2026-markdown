@@ -22,18 +22,18 @@ This section of the Consolidated Rules for 2026 contains each complete FedRAMP R
 
 | Acronym | Ruleset | Status | Counts | Most Recently Updated |
 | --- | --- | --- | --- | --- |
-| AFC | [Addressing FedRAMP Communication](addressing-fedramp-communication.md) | Stable | Subsets: 2<br>Rules: 16 | 2026-06-30 |
-| CCM | [Collaborative Continuous Monitoring](collaborative-continuous-monitoring.md) | Stable | Subsets: 3<br>Rules: 21 | 2026-06-30 |
-| CDS | [Certification Data Sharing](certification-data-sharing.md) | Stable | Subsets: 3<br>Rules: 19 | 2026-06-30 |
-| CMU | [Cryptographic Module Use](cryptographic-module-use.md) | Placeholder | Subsets: 1<br>Rules: 3 | 2026-06-30 |
-| CPO | [Certification Package Overview](certification-package-overview.md) | Placeholder | Subsets: 2<br>Rules: 3 | 2026-06-30 |
-| FRC | [FedRAMP Certification](fedramp-certification.md) | Placeholder | Subsets: 3<br>Rules: 12 | 2026-07-04 |
-| IEC | [Incident Evaluation and Communication](incident-evaluation-and-communication.md) | Placeholder | Subsets: 2<br>Rules: 8 | 2026-06-30 |
-| IVV | [Independent Verification and Validation](independent-verification-and-validation.md) | Placeholder | Subsets: 3<br>Rules: 16 | 2026-06-30 |
-| MAS | [Minimum Assessment Scope](minimum-assessment-scope.md) | Stable | Subsets: 1<br>Rules: 5 | 2026-06-30 |
-| MKT | [Marketplace Listing](marketplace-listing.md) | Placeholder | Subsets: 2<br>Rules: 3 | 2026-06-30 |
-| SCG | [Secure Configuration Guide](secure-configuration-guide.md) | Stable | Subsets: 2<br>Rules: 9 | 2026-06-30 |
-| SCN | [Significant Change Notification](significant-change-notification.md) | Stable | Subsets: 5<br>Rules: 17 | 2026-06-30 |
-| SDR | [Security Decision Record](security-decision-record.md) | Empty | Subsets: 2<br>Rules: 4 | 2026-06-30 |
-| VDR | [Vulnerability Detection and Response](vulnerability-detection-and-response.md) | Stable | Subsets: 2<br>Rules: 17 | 2026-06-30 |
-| VER | [Vulnerability Evaluation and Reporting](vulnerability-evaluation-and-reporting.md) | Stable | Subsets: 5<br>Rules: 25 | 2026-06-30 |
+| AFC | [Addressing FedRAMP Communication](addressing-fedramp-communication.md) | Stable | Subsets: 2<br>Rules: 16 | 2026-06-23 |
+| CCM | [Collaborative Continuous Monitoring](collaborative-continuous-monitoring.md) | Stable | Subsets: 3<br>Rules: 21 | 2026-06-23 |
+| CDS | [Certification Data Sharing](certification-data-sharing.md) | Stable | Subsets: 3<br>Rules: 20 | 2026-06-23 |
+| CMU | [Cryptographic Module Use](cryptographic-module-use.md) | Stable | Subsets: 1<br>Rules: 3 | 2026-06-23 |
+| CPO | [Certification Package Overview](certification-package-overview.md) | Stable | Subsets: 2<br>Rules: 3 | 2026-06-23 |
+| FRC | [FedRAMP Certification](fedramp-certification.md) | Stable | Subsets: 3<br>Rules: 12 | 2026-06-23 |
+| IEC | [Incident Evaluation and Communication](incident-evaluation-and-communication.md) | Stable | Subsets: 2<br>Rules: 8 | 2026-06-23 |
+| IVV | [Independent Verification and Validation](independent-verification-and-validation.md) | Stable | Subsets: 3<br>Rules: 16 | 2026-06-23 |
+| MAS | [Minimum Assessment Scope](minimum-assessment-scope.md) | Stable | Subsets: 1<br>Rules: 5 | 2026-06-23 |
+| MKT | [Marketplace Listing](marketplace-listing.md) | Stable | Subsets: 2<br>Rules: 3 | 2026-06-23 |
+| SCG | [Secure Configuration Guide](secure-configuration-guide.md) | Stable | Subsets: 2<br>Rules: 9 | 2026-06-23 |
+| SCN | [Significant Change Notification](significant-change-notification.md) | Stable | Subsets: 5<br>Rules: 17 | 2026-06-23 |
+| SDR | [Security Decision Record](security-decision-record.md) | Stable | Subsets: 2<br>Rules: 4 | 2026-06-23 |
+| VDR | [Vulnerability Detection and Response](vulnerability-detection-and-response.md) | Stable | Subsets: 2<br>Rules: 17 | 2026-06-23 |
+| VER | [Vulnerability Evaluation and Reporting](vulnerability-evaluation-and-reporting.md) | Stable | Subsets: 5<br>Rules: 25 | 2026-06-23 |

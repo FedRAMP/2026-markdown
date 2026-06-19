@@ -25,7 +25,7 @@ These rules for agencies apply to all agencies using a FedRAMP Certification.
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -39,18 +39,18 @@ These rules for agencies apply to all agencies using a FedRAMP Certification.
     _**Note:** This is required by 44 USC § 35, OMB A-130, FIPS-200, and M-24-15._
 
     ---
-    **Terms:** [Cloud Service Offering](../../definitions/#cloud-service-offering){ data-preview }, [Ongoing Certification](../../definitions/#ongoing-certification){ data-preview }, [Ongoing Certification Report (OCR)](../../definitions/#ongoing-certification-report-ocr){ data-preview }
+    **Terms:** [Cloud Service Offering](../../definitions/#cloud-service-offering){ data-preview }, [FedRAMP Certification Report](../../definitions/#fedramp-certification-report){ data-preview }, [Ongoing Certification](../../definitions/#ongoing-certification){ data-preview }, [Ongoing Certification Report (OCR)](../../definitions/#ongoing-certification-report-ocr){ data-preview }
 ### Notify FedRAMP After Requests
 
 ??? abstract "CCM-AGM-NFA"
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 !!! warning "This FRR includes a notification requirement!"
-    - Notify FedRAMP by email using info@fedramp.gov.
+    - Notify FedRAMP by form using https://help.fedramp.gov/hc/en-us/requests/new?ticket_form_id=51822364715035.
 
 
 !!! quote ""
@@ -67,9 +67,11 @@ These rules for agencies apply to all agencies using a FedRAMP Certification.
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
+!!! warning "This FRR includes a notification requirement!"
+    - Notify FedRAMP by form using https://help.fedramp.gov/hc/en-us/requests/new?ticket_form_id=51822364715035.
 
 
 !!! quote ""
@@ -88,7 +90,7 @@ These rules for agencies apply to all agencies using a FedRAMP Certification.
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 

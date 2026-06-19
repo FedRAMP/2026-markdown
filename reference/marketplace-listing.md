@@ -18,19 +18,12 @@ The Marketplace Listing rules define how FedRAMP decides which cloud service off
 - [General Advisor Responsibilities](#general-advisor-responsibilities)
 - [Provider Responsibilities for Initial Implementation Phase Listings](#provider-responsibilities-for-initial-implementation-phase-listings)
 
-!!! info "Effective Date(s) & Overall Applicability for 20x"
+!!! info "Effective Date(s) & Overall Applicability for 20x and Rev5"
     - **Required** (Consolidated Rules for 2026)
     - **Optional Adoption:** 2026-07-04
     - **Obtain:** 2026-07-04
-    - **Maintain:** 2027-01-01
-    - **Grace Ends:** On the first FedRAMP independent assessment completed after 2027-01-01
-
-!!! info "Effective Date(s) & Overall Applicability for Rev5"
-    - **Required** (Consolidated Rules for 2026)
-    - **Optional Adoption:** 2026-07-04
-    - **Obtain:** 2027-01-01
-    - **Maintain:** 2027-01-01
-    - **Grace Ends:** 2027-06-01
+    - **Maintain:** 2026-07-04
+    - **Grace Ends:** 2026-07-04
 
 
 
@@ -47,7 +40,7 @@ These rules apply to FedRAMP activities related to the FedRAMP Marketplace.
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -71,7 +64,7 @@ These rules apply to providers seeking a listing in the FedRAMP Marketplace.
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -90,21 +83,20 @@ These rules apply to providers seeking a listing in the FedRAMP Marketplace.
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
+!!! warning "This FRR includes a notification requirement!"
+    - Notify FedRAMP by form using https://help.fedramp.gov/hc/en-us/requests/new?ticket_form_id=50939227168027.
 
 
 !!! quote ""
-    Providers MUST use the FedRAMP Marketplace Providing Listing Request Form to request a listing in the FedRAMP Marketplace.
+    Providers MUST notify FedRAMP using the FedRAMP Marketplace Providing Listing Request Form to request a listing in the FedRAMP Marketplace.
 
 
     ---
 
     _**Note:** FedRAMP does not accept applications for a FedRAMP Marketplace Listing via email!_
-
-
-    **Reference:** [FedRAMP Marketplace Provider Listing Request Form](https://fedramp.gov/forms/to-be-added)
 
 ## General Assessor Responsibilities {#general-assessor-responsibilities}
 
@@ -116,7 +108,7 @@ These rules apply to independent assessment services seeking a listing in the Fe
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -133,7 +125,7 @@ These rules apply to independent assessment services seeking a listing in the Fe
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -157,7 +149,7 @@ These rules apply to independent assessment services seeking a listing in the Fe
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -176,7 +168,7 @@ These rules apply to consulting and advisory services seeking a listing in the F
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -202,7 +194,7 @@ These rules apply to consulting and advisory services seeking a listing in the F
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -217,7 +209,7 @@ These rules apply to consulting and advisory services seeking a listing in the F
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -241,7 +233,7 @@ FedRAMP allows cloud service providers that are actively preparing to obtain a F
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -267,7 +259,7 @@ FedRAMP allows cloud service providers that are actively preparing to obtain a F
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -288,7 +280,7 @@ FedRAMP allows cloud service providers that are actively preparing to obtain a F
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 

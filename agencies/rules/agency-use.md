@@ -31,7 +31,7 @@ These rules apply to agencies based on the FedRAMP Authorization Act, OMB M-24-1
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -46,18 +46,18 @@ These rules apply to agencies based on the FedRAMP Authorization Act, OMB M-24-1
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 !!! warning "This FRR includes a notification requirement!"
-    - Notify FedRAMP by email using ato-letter@fedramp.gov.
+    - Notify FedRAMP by form using https://help.fedramp.gov/hc/en-us/requests/new?ticket_form_id=51447926193691.
 
 
 !!! quote ""
-    Agencies MUST supply FedRAMP the following information upon authorizing the use of a cloud service within the scope of FedRAMP:
+    Agencies MUST notify FedRAMP upon authorizing the use of a cloud service within the scope of FedRAMP, supplying at least the following information:
 
     1. A copy of the Authorization to Operate letter
-    1. All other supplementary information outlined at https://help.fedramp.gov/ato
+    1. All other supplementary information outlined in the Submit an ATO Letter form on the FedRAMP Help Center
 
 
 ### Governance, Risk, and Compliance Tools
@@ -66,7 +66,7 @@ These rules apply to agencies based on the FedRAMP Authorization Act, OMB M-24-1
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -86,15 +86,15 @@ These rules apply to agencies based on the FedRAMP Authorization Act, OMB M-24-1
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 !!! warning "This FRR includes a notification requirement!"
-    - Notify FedRAMP by email using info@fedramp.gov.
+    - Notify FedRAMP by form using https://help.fedramp.gov/hc/en-us/requests/new?ticket_form_id=51822364715035.
 
 
 !!! quote ""
-    Agencies MUST notify FedRAMP after requesting any additional information or materials from a FedRAMP Certified cloud service offering beyond those FedRAMP requires.
+    Agencies MUST notify FedRAMP after requesting any additional information or materials from a FedRAMP Certified cloud service offering beyond those required by FedRAMP.
 
 
     ---
@@ -109,7 +109,7 @@ These rules apply to agencies based on the FedRAMP Authorization Act, OMB M-24-1
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -132,7 +132,7 @@ These rules apply to agencies based on the FedRAMP Authorization Act, OMB M-24-1
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -155,7 +155,7 @@ These rules apply to agencies based on the FedRAMP Authorization Act, OMB M-24-1
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -170,7 +170,7 @@ These rules apply to agencies based on the FedRAMP Authorization Act, OMB M-24-1
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -188,7 +188,7 @@ These rules apply to agencies based on the FedRAMP Authorization Act, OMB M-24-1
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -211,7 +211,7 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -235,7 +235,7 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -252,7 +252,7 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -267,7 +267,7 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -284,11 +284,11 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 !!! warning "This FRR includes a notification requirement!"
-    - Notify FedRAMP by email using info@fedramp.gov.
+    - Notify FedRAMP by form using https://help.fedramp.gov/hc/en-us/requests/new?ticket_form_id=51821301979547.
 
 
 !!! quote ""
@@ -300,14 +300,14 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
     _**Note:** Agencies are expected to notify FedRAMP under OMB Memorandum M-24-15 section IV (a)._
 
     ---
-    **Terms:** [Certification Data](../../definitions/#certification-data){ data-preview }, [Likely](../../definitions/#likely){ data-preview }, [Ongoing Certification](../../definitions/#ongoing-certification){ data-preview }, [Ongoing Certification Report (OCR)](../../definitions/#ongoing-certification-report-ocr){ data-preview }, [Quarterly Review](../../definitions/#quarterly-review){ data-preview }
+    **Terms:** [Certification Data](../../definitions/#certification-data){ data-preview }, [FedRAMP Certification Report](../../definitions/#fedramp-certification-report){ data-preview }, [Likely](../../definitions/#likely){ data-preview }, [Ongoing Certification](../../definitions/#ongoing-certification){ data-preview }, [Ongoing Certification Report (OCR)](../../definitions/#ongoing-certification-report-ocr){ data-preview }, [Quarterly Review](../../definitions/#quarterly-review){ data-preview }
 ### Review Ongoing Certification Reports
 
 ??? abstract "AGU-USE-ROR"
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -321,14 +321,14 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
     _**Note:** This agency review supports agency responsibilities under 44 USC § 35, OMB Circular A-130, FIPS-200, and OMB Memorandum M-24-15._
 
     ---
-    **Terms:** [Cloud Service Offering](../../definitions/#cloud-service-offering){ data-preview }, [Ongoing Certification](../../definitions/#ongoing-certification){ data-preview }, [Ongoing Certification Report (OCR)](../../definitions/#ongoing-certification-report-ocr){ data-preview }
+    **Terms:** [Cloud Service Offering](../../definitions/#cloud-service-offering){ data-preview }, [FedRAMP Certification Report](../../definitions/#fedramp-certification-report){ data-preview }, [Ongoing Certification](../../definitions/#ongoing-certification){ data-preview }, [Ongoing Certification Report (OCR)](../../definitions/#ongoing-certification-report-ocr){ data-preview }
 ### Designate Senior Official
 
 ??? abstract "AGU-USE-DSO"
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -345,26 +345,26 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 !!! warning "This FRR includes a notification requirement!"
-    - Notify Provider by email using Provider security contact.
+    - Notify Provider by varies using varies by provider.
 
 
 !!! quote ""
-    Agencies SHOULD formally notify the Provider if information presented in an Ongoing Certification Report, Quarterly Review, or other FedRAMP Certification Data causes significant concerns for the authorizing official that would likely result in rescission of their Authorization to Operate.
+    Agencies SHOULD formally notify the cloud service provider if information presented in an Ongoing Certification Report, Quarterly Review, or other FedRAMP Certification Data causes significant concerns for the authorizing official that would likely result in rescission of their Authorization to Operate.
 
 
     ---
-    **Terms:** [Certification Data](../../definitions/#certification-data){ data-preview }, [Likely](../../definitions/#likely){ data-preview }, [Ongoing Certification](../../definitions/#ongoing-certification){ data-preview }, [Ongoing Certification Report (OCR)](../../definitions/#ongoing-certification-report-ocr){ data-preview }, [Quarterly Review](../../definitions/#quarterly-review){ data-preview }
+    **Terms:** [Certification Data](../../definitions/#certification-data){ data-preview }, [FedRAMP Certification Report](../../definitions/#fedramp-certification-report){ data-preview }, [Likely](../../definitions/#likely){ data-preview }, [Ongoing Certification](../../definitions/#ongoing-certification){ data-preview }, [Ongoing Certification Report (OCR)](../../definitions/#ongoing-certification-report-ocr){ data-preview }, [Quarterly Review](../../definitions/#quarterly-review){ data-preview }
 ### Review All Information Resources
 
 ??? abstract "AGU-USE-RIR"
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -381,7 +381,7 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -402,7 +402,7 @@ These rules apply when an agency sponsors a FedRAMP Rev5 Certification after com
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 

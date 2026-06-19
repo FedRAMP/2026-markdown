@@ -22,6 +22,6 @@ This section of the Consolidated Rules for 2026 contains each complete FedRAMP R
 
 | Acronym | Ruleset | Status | Counts | Most Recently Updated |
 | --- | --- | --- | --- | --- |
-| CPO | [Certification Package Overview](certification-package-overview.md) | Placeholder | Subsets: 1<br>Rules: 1 | 2026-06-30 |
-| FRC | [FedRAMP Certification](fedramp-certification.md) | Placeholder | Subsets: 3<br>Rules: 15 | 2026-07-04 |
-| MKT | [Marketplace Listing](marketplace-listing.md) | Placeholder | Subsets: 2<br>Rules: 3 | 2026-06-30 |
+| CPO | [Certification Package Overview](certification-package-overview.md) | Stable | Subsets: 1<br>Rules: 1 | 2026-06-23 |
+| FRC | [FedRAMP Certification](fedramp-certification.md) | Stable | Subsets: 3<br>Rules: 17 | 2026-06-23 |
+| MKT | [Marketplace Listing](marketplace-listing.md) | Stable | Subsets: 2<br>Rules: 3 | 2026-06-23 |

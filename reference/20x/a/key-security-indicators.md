@@ -19,7 +19,7 @@ tags:
     **Changelog:**
 
 
-    - **2026-07-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -41,7 +41,7 @@ tags:
     **Changelog:**
 
 
-    - **2026-07-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -63,7 +63,7 @@ tags:
     **Changelog:**
 
 
-    - **2026-07-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -85,7 +85,7 @@ tags:
     **Changelog:**
 
 
-    - **2026-07-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -97,6 +97,24 @@ tags:
 
     **Related SP 800-53 Controls:** [AC-2.2](https://controlfreak.risk-redux.io/controls/AC-02(02)), [AC-2.3](https://controlfreak.risk-redux.io/controls/AC-02(03)), [AC-2.13](https://controlfreak.risk-redux.io/controls/AC-02(13)), [AC-6.7](https://controlfreak.risk-redux.io/controls/AC-06(07)), [IA-4.4](https://controlfreak.risk-redux.io/controls/IA-04(04)), [IA-12](https://controlfreak.risk-redux.io/controls/IA-12), [IA-12.2](https://controlfreak.risk-redux.io/controls/IA-12(02)), [IA-12.3](https://controlfreak.risk-redux.io/controls/IA-12(03)), [IA-12.5](https://controlfreak.risk-redux.io/controls/IA-12(05))
 
+### Adopting Passwordless Methods
+
+??? abstract "KSI-IAM-APM"
+    **Changelog:**
+
+
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+
+
+
+
+!!! quote ""
+    Secure passwordless methods are used for user authentication and authorization when feasible, otherwise strong passwords with phishing-resistant MFA is used.
+
+
+
+    **Related SP 800-53 Controls:** [AC-3](https://controlfreak.risk-redux.io/controls/AC-03), [IA-5.1](https://controlfreak.risk-redux.io/controls/IA-05(01)), [IA-5.2](https://controlfreak.risk-redux.io/controls/IA-05(02)), [IA-5.6](https://controlfreak.risk-redux.io/controls/IA-05(06)), [IA-6](https://controlfreak.risk-redux.io/controls/IA-06), [AC-2](https://controlfreak.risk-redux.io/controls/AC-02), [IA-2](https://controlfreak.risk-redux.io/controls/IA-02), [IA-2.1](https://controlfreak.risk-redux.io/controls/IA-02(01)), [IA-2.2](https://controlfreak.risk-redux.io/controls/IA-02(02)), [IA-2.8](https://controlfreak.risk-redux.io/controls/IA-02(08)), [IA-5](https://controlfreak.risk-redux.io/controls/IA-05), [IA-8](https://controlfreak.risk-redux.io/controls/IA-08), [SC-23](https://controlfreak.risk-redux.io/controls/SC-23)
+
 ## Incident Response {#incident-response}
 
 ### Reviewing Incident Response Procedures
@@ -105,7 +123,7 @@ tags:
     **Changelog:**
 
 
-    - **2026-07-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -127,7 +145,7 @@ tags:
     **Changelog:**
 
 
-    - **2026-07-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 

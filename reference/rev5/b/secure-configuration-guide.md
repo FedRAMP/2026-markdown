@@ -35,7 +35,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -53,7 +53,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
     _**Notes:**_
 
     - _These rules refer to this guidance as a Secure Configuration Guide but cloud service providers may make this guidance available in various appropriate forms that provide the best customer experience._
-    - _This guidance should explain how top-level administrative accounts are named and referred to in the cloud service offering._
+    - _This guidance should explain how top-level administrative accounts and privileged accounts are named and referred to in the cloud service offering._
     ---
     **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Privileged Account](../../../definitions/#privileged-account){ data-preview }, [Top-Level Administrative Account](../../../definitions/#top-level-administrative-account){ data-preview }
 ### Use Instructions
@@ -62,7 +62,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -83,7 +83,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -98,7 +98,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -119,7 +119,7 @@ These recommendations apply to providers with FedRAMP Certifications of any type
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -136,7 +136,7 @@ These recommendations apply to providers with FedRAMP Certifications of any type
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -153,7 +153,7 @@ These recommendations apply to providers with FedRAMP Certifications of any type
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -168,7 +168,7 @@ These recommendations apply to providers with FedRAMP Certifications of any type
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -185,7 +185,7 @@ These recommendations apply to providers with FedRAMP Certifications of any type
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 

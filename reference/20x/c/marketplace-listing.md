@@ -18,8 +18,8 @@ The Marketplace Listing rules define how FedRAMP decides which cloud service off
     - **Required** (Consolidated Rules for 2026)
     - **Optional Adoption:** 2026-07-04
     - **Obtain:** 2026-07-04
-    - **Maintain:** 2027-01-01
-    - **Grace Ends:** On the first FedRAMP independent assessment completed after 2027-01-01
+    - **Maintain:** 2026-07-04
+    - **Grace Ends:** 2026-07-04
 
 
 
@@ -36,7 +36,7 @@ These rules apply to FedRAMP activities related to the FedRAMP Marketplace.
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -60,7 +60,7 @@ These rules apply to providers seeking a listing in the FedRAMP Marketplace.
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -79,18 +79,17 @@ These rules apply to providers seeking a listing in the FedRAMP Marketplace.
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
+!!! warning "This FRR includes a notification requirement!"
+    - Notify FedRAMP by form using https://help.fedramp.gov/hc/en-us/requests/new?ticket_form_id=50939227168027.
 
 
 !!! quote ""
-    Providers MUST use the FedRAMP Marketplace Providing Listing Request Form to request a listing in the FedRAMP Marketplace.
+    Providers MUST notify FedRAMP using the FedRAMP Marketplace Providing Listing Request Form to request a listing in the FedRAMP Marketplace.
 
 
     ---
 
     _**Note:** FedRAMP does not accept applications for a FedRAMP Marketplace Listing via email!_
-
-
-    **Reference:** [FedRAMP Marketplace Provider Listing Request Form](https://fedramp.gov/forms/to-be-added)

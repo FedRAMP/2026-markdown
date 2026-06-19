@@ -22,18 +22,18 @@ This section contains the FedRAMP 20x rulesets with content that applies to one 
 
 | Acronym | Ruleset | Status | Counts | Most Recently Updated |
 | --- | --- | --- | --- | --- |
-| AFC | Addressing FedRAMP Communication<br>[Class B](b/addressing-fedramp-communication.md)<br>[Class C](c/addressing-fedramp-communication.md) | Stable | Subsets: 2<br>Rules: 16 | 2026-06-30 |
-| CCM | Collaborative Continuous Monitoring<br>[Class B](b/collaborative-continuous-monitoring.md)<br>[Class C](c/collaborative-continuous-monitoring.md) | Stable | Subsets: 3<br>Rules: 21 | 2026-06-30 |
-| CDS | Certification Data Sharing<br>[Class B](b/certification-data-sharing.md)<br>[Class C](c/certification-data-sharing.md) | Stable | Subsets: 3<br>Rules: 19 | 2026-06-30 |
-| CMU | Cryptographic Module Use<br>[Class B](b/cryptographic-module-use.md)<br>[Class C](c/cryptographic-module-use.md) | Placeholder | Subsets: 1<br>Rules: 3 | 2026-06-30 |
-| CPO | Certification Package Overview<br>[Class A](a/certification-package-overview.md)<br>[Class B](b/certification-package-overview.md)<br>[Class C](c/certification-package-overview.md) | Placeholder | Subsets: 2<br>Rules: 3 | 2026-06-30 |
-| FRC | FedRAMP Certification<br>[Class A](a/fedramp-certification.md)<br>[Class B](b/fedramp-certification.md)<br>[Class C](c/fedramp-certification.md) | Placeholder | Subsets: 4<br>Rules: 16 | 2026-07-04 |
-| IEC | Incident Evaluation and Communication<br>[Class B](b/incident-evaluation-and-communication.md)<br>[Class C](c/incident-evaluation-and-communication.md) | Placeholder | Subsets: 2<br>Rules: 8 | 2026-06-30 |
-| IVV | Independent Verification and Validation<br>[Class B](b/independent-verification-and-validation.md)<br>[Class C](c/independent-verification-and-validation.md) | Placeholder | Subsets: 3<br>Rules: 16 | 2026-06-30 |
-| MAS | Minimum Assessment Scope<br>[Class B](b/minimum-assessment-scope.md)<br>[Class C](c/minimum-assessment-scope.md) | Stable | Subsets: 1<br>Rules: 5 | 2026-06-30 |
-| MKT | Marketplace Listing<br>[Class A](a/marketplace-listing.md)<br>[Class B](b/marketplace-listing.md)<br>[Class C](c/marketplace-listing.md) | Placeholder | Subsets: 2<br>Rules: 3 | 2026-06-30 |
-| SCG | Secure Configuration Guide<br>[Class B](b/secure-configuration-guide.md)<br>[Class C](c/secure-configuration-guide.md) | Stable | Subsets: 2<br>Rules: 9 | 2026-06-30 |
-| SCN | Significant Change Notification<br>[Class B](b/significant-change-notification.md)<br>[Class C](c/significant-change-notification.md) | Stable | Subsets: 5<br>Rules: 17 | 2026-06-30 |
-| SDR | Security Decision Record<br>[Class B](b/security-decision-record.md)<br>[Class C](c/security-decision-record.md) | Empty | Subsets: 2<br>Rules: 4 | 2026-06-30 |
-| VDR | Vulnerability Detection and Response<br>[Class B](b/vulnerability-detection-and-response.md)<br>[Class C](c/vulnerability-detection-and-response.md) | Stable | Subsets: 2<br>Rules: 17 | 2026-06-30 |
-| VER | Vulnerability Evaluation and Reporting<br>[Class B](b/vulnerability-evaluation-and-reporting.md)<br>[Class C](c/vulnerability-evaluation-and-reporting.md) | Stable | Subsets: 5<br>Rules: 25 | 2026-06-30 |
+| AFC | Addressing FedRAMP Communication<br>[Class B](b/addressing-fedramp-communication.md)<br>[Class C](c/addressing-fedramp-communication.md) | Stable | Subsets: 2<br>Rules: 16 | 2026-06-23 |
+| CCM | Collaborative Continuous Monitoring<br>[Class B](b/collaborative-continuous-monitoring.md)<br>[Class C](c/collaborative-continuous-monitoring.md) | Stable | Subsets: 3<br>Rules: 21 | 2026-06-23 |
+| CDS | Certification Data Sharing<br>[Class B](b/certification-data-sharing.md)<br>[Class C](c/certification-data-sharing.md) | Stable | Subsets: 3<br>Rules: 20 | 2026-06-23 |
+| CMU | Cryptographic Module Use<br>[Class B](b/cryptographic-module-use.md)<br>[Class C](c/cryptographic-module-use.md) | Stable | Subsets: 1<br>Rules: 3 | 2026-06-23 |
+| CPO | Certification Package Overview<br>[Class A](a/certification-package-overview.md)<br>[Class B](b/certification-package-overview.md)<br>[Class C](c/certification-package-overview.md) | Stable | Subsets: 2<br>Rules: 3 | 2026-06-23 |
+| FRC | FedRAMP Certification<br>[Class A](a/fedramp-certification.md)<br>[Class B](b/fedramp-certification.md)<br>[Class C](c/fedramp-certification.md) | Stable | Subsets: 4<br>Rules: 18 | 2026-06-23 |
+| IEC | Incident Evaluation and Communication<br>[Class B](b/incident-evaluation-and-communication.md)<br>[Class C](c/incident-evaluation-and-communication.md) | Stable | Subsets: 2<br>Rules: 8 | 2026-06-23 |
+| IVV | Independent Verification and Validation<br>[Class B](b/independent-verification-and-validation.md)<br>[Class C](c/independent-verification-and-validation.md) | Stable | Subsets: 3<br>Rules: 16 | 2026-06-23 |
+| MAS | Minimum Assessment Scope<br>[Class B](b/minimum-assessment-scope.md)<br>[Class C](c/minimum-assessment-scope.md) | Stable | Subsets: 1<br>Rules: 5 | 2026-06-23 |
+| MKT | Marketplace Listing<br>[Class A](a/marketplace-listing.md)<br>[Class B](b/marketplace-listing.md)<br>[Class C](c/marketplace-listing.md) | Stable | Subsets: 2<br>Rules: 3 | 2026-06-23 |
+| SCG | Secure Configuration Guide<br>[Class B](b/secure-configuration-guide.md)<br>[Class C](c/secure-configuration-guide.md) | Stable | Subsets: 2<br>Rules: 9 | 2026-06-23 |
+| SCN | Significant Change Notification<br>[Class B](b/significant-change-notification.md)<br>[Class C](c/significant-change-notification.md) | Stable | Subsets: 5<br>Rules: 17 | 2026-06-23 |
+| SDR | Security Decision Record<br>[Class B](b/security-decision-record.md)<br>[Class C](c/security-decision-record.md) | Stable | Subsets: 2<br>Rules: 4 | 2026-06-23 |
+| VDR | Vulnerability Detection and Response<br>[Class B](b/vulnerability-detection-and-response.md)<br>[Class C](c/vulnerability-detection-and-response.md) | Stable | Subsets: 2<br>Rules: 17 | 2026-06-23 |
+| VER | Vulnerability Evaluation and Reporting<br>[Class B](b/vulnerability-evaluation-and-reporting.md)<br>[Class C](c/vulnerability-evaluation-and-reporting.md) | Stable | Subsets: 5<br>Rules: 25 | 2026-06-23 |

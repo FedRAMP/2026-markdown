@@ -55,7 +55,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -72,7 +72,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -89,12 +89,12 @@ These rules apply to providers with FedRAMP Certifications of any type.
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 !!! warning "This FRR includes a notification requirement!"
     - Notify FedRAMP by email using fedramp_security@fedramp.gov.
-    - Notify Agency Customers by update using incident contact procedures documented in contract agreement.
+    - Notify Agency Customers by varies using varies by agency.
     - Notify All Necessary Parties by update using trust center.
 
 
@@ -208,12 +208,12 @@ These rules apply to providers with FedRAMP Certifications of any type.
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 !!! warning "This FRR includes a notification requirement!"
     - Notify FedRAMP by email using fedramp_security@fedramp.gov.
-    - Notify Agency Customers by update using incident contact procedures documented in contract agreement.
+    - Notify Agency Customers by varies using varies by agency.
     - Notify All Necessary Parties by update using trust center.
 
 
@@ -315,12 +315,12 @@ These rules apply to providers with FedRAMP Certifications of any type.
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 !!! warning "This FRR includes a notification requirement!"
     - Notify FedRAMP by email using fedramp_security@fedramp.gov.
-    - Notify Agency Customers by update using incident contact procedures documented in contract agreement.
+    - Notify Agency Customers by varies using varies by agency.
     - Notify All Necessary Parties by update using trust center.
 
 
@@ -398,7 +398,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -425,7 +425,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 

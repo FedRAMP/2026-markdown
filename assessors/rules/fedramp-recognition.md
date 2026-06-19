@@ -25,7 +25,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -46,7 +46,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -73,7 +73,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -93,7 +93,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -115,7 +115,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -137,7 +137,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -158,7 +158,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -176,11 +176,11 @@ These rules apply to independent assessment services seeking to obtain or mainta
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 !!! warning "This FRR includes a notification requirement!"
-    - Notify FedRAMP by web using FedRAMP Foreign Ownership, Control, or Influence Declaration Form.
+    - Notify FedRAMP by form using https://help.fedramp.gov/forms/assessors/foci-declaration.
 
 
 !!! quote ""
@@ -195,11 +195,11 @@ These rules apply to independent assessment services seeking to obtain or mainta
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 !!! warning "This FRR includes a notification requirement!"
-    - Notify FedRAMP by web using FedRAMP Foreign Ownership, Control, or Influence Declaration Form.
+    - Notify FedRAMP by form using https://help.fedramp.gov/forms/assessors/foci-declaration.
 
 
 !!! quote ""
@@ -214,7 +214,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -239,7 +239,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -254,7 +254,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -269,7 +269,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 

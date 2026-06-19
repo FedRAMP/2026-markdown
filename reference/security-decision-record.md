@@ -29,7 +29,6 @@ The Security Decision Record replaced a traditional System Security Plan with a 
     - **Obtain:** 2027-01-01
     - **Maintain:** 2027-08-01
     - **Grace Ends:** On the first FedRAMP independent assessment completed after 2027-08-01
-    - **Sign-up Form:** [ADDME](ADDME)
 
 
 
@@ -46,7 +45,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -68,14 +67,14 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 
     ---
-    **Terms:** [Artifacts](../definitions/#artifacts){ data-preview }, [Validation](../definitions/#validation){ data-preview }, [Verification](../definitions/#verification){ data-preview }
+    **Terms:** [Artifacts](../definitions/#artifacts){ data-preview }, [Security Decision Record (SDR)](../definitions/#security-decision-record-sdr){ data-preview }, [Validation](../definitions/#validation){ data-preview }, [Verification](../definitions/#verification){ data-preview }
 ### Security Decision Record Metadata
 
 ??? abstract "SDR-CSO-MTD"
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -88,6 +87,8 @@ These rules apply to providers for FedRAMP Certifications of any type.
     1. Source of update
 
 
+    ---
+    **Terms:** [Security Decision Record (SDR)](../definitions/#security-decision-record-sdr){ data-preview }
 ## 20x-Specific Provider Responsibilities {#20x-specific-provider-responsibilities}
 
 These rules apply to providers for FedRAMP 20x Certifications.
@@ -98,7 +99,7 @@ These rules apply to providers for FedRAMP 20x Certifications.
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -125,7 +126,7 @@ These rules apply to providers for FedRAMP 20x Certifications.
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -155,6 +156,8 @@ These rules apply to providers for FedRAMP 20x Certifications.
         Providers with 20x Class D Certifications MUST significantly supersede the minimum requirements for lower Classes, with specifics to be set during the 20x Phase 4 Pilot.
 
 
+    ---
+    **Terms:** [Security Decision Record (SDR)](../definitions/#security-decision-record-sdr){ data-preview }
 ## Rev5-Specific Provider Responsibilities {#rev5-specific-provider-responsibilities}
 
 These rules apply to providers for FedRAMP Rev5 Certifications.
@@ -165,7 +168,7 @@ These rules apply to providers for FedRAMP Rev5 Certifications.
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -192,10 +195,10 @@ These rules apply to providers for FedRAMP Rev5 Certifications.
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
 
 !!! quote ""
-    Providers MUST define all required organization-defined parameters tied all Rev5 Controls, following FedRAMP Rules if applicable, UNLESS the parameter is assigned by FedRAMP.
+    Providers MUST define all required organization-defined parameters tied to all Rev5 Controls, following FedRAMP Rules if applicable, UNLESS the parameter is assigned by FedRAMP.

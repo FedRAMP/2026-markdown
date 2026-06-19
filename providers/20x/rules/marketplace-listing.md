@@ -29,7 +29,7 @@ These rules apply to providers seeking a listing in the FedRAMP Marketplace.
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -48,21 +48,20 @@ These rules apply to providers seeking a listing in the FedRAMP Marketplace.
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
+!!! warning "This FRR includes a notification requirement!"
+    - Notify FedRAMP by form using https://help.fedramp.gov/hc/en-us/requests/new?ticket_form_id=50939227168027.
 
 
 !!! quote ""
-    Providers MUST use the FedRAMP Marketplace Providing Listing Request Form to request a listing in the FedRAMP Marketplace.
+    Providers MUST notify FedRAMP using the FedRAMP Marketplace Providing Listing Request Form to request a listing in the FedRAMP Marketplace.
 
 
     ---
 
     _**Note:** FedRAMP does not accept applications for a FedRAMP Marketplace Listing via email!_
-
-
-    **Reference:** [FedRAMP Marketplace Provider Listing Request Form](https://fedramp.gov/forms/to-be-added)
 
 ## Provider Responsibilities for Initial Implementation Phase Listings {#provider-responsibilities-for-initial-implementation-phase-listings}
 
@@ -74,7 +73,7 @@ FedRAMP allows cloud service providers that are actively preparing to obtain a F
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -100,7 +99,7 @@ FedRAMP allows cloud service providers that are actively preparing to obtain a F
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -121,7 +120,7 @@ FedRAMP allows cloud service providers that are actively preparing to obtain a F
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 

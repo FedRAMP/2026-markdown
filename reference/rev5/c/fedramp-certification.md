@@ -39,7 +39,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -60,7 +60,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
     **Changelog:**
 
 
-    - **2026-07-04:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -82,7 +82,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -103,7 +103,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -120,7 +120,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -145,7 +145,7 @@ These rules apply to cloud service providers who have met all other relevant rul
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -165,7 +165,7 @@ These rules apply to cloud service providers who have met all other relevant rul
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -183,7 +183,7 @@ These rules apply to cloud service providers who have met all other relevant rul
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -200,13 +200,16 @@ These rules apply to cloud service providers who have met all other relevant rul
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
 
 !!! quote ""
-    Providers MUST supply a fresh initial FedRAMP independent assessment that was completed by a FedRAMP Recognized Independent Assessment Service within the previous 3 months.
+    === "Class C"
+        Providers seeking Class C Certification MUST supply a fresh initial FedRAMP independent assessment that was completed by a FedRAMP Recognized Independent Assessment Service within the previous 3 months.
+
+        **Timeframe:** 3 months
 
 
     ---
@@ -217,7 +220,7 @@ These rules apply to cloud service providers who have met all other relevant rul
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -238,7 +241,7 @@ These rules apply to cloud service providers who have met all other relevant rul
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -259,7 +262,7 @@ These rules apply to cloud service providers with an Agency Sponsor who have met
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -274,27 +277,73 @@ These rules apply to cloud service providers with an Agency Sponsor who have met
 
 These rules apply to cloud service providers when changing their FedRAMP Certification Class.
 
-### Placeholder on Changing Certification Class
+### Upgrading Certification Class
 
-??? abstract "FRC-CCL-PLC"
+??? abstract "FRC-CCL-UCC"
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
 
 !!! quote ""
-    Providers MUST do things properly in order to change their FedRAMP Certification Class.
+    Providers MUST apply for a new FedRAMP Certification to upgrade their Certification Class; all applicable requirements MUST be met in advance.
 
 
     ---
 
-    _**Note:** This is a placeholder rule that must be updated!_
+    _**Notes:**_
 
+    - _Upgrade paths include moving from A to B, C, or D; B to C or D; and C to D._
+    - _The preferred path is to incrementally update the implementation and assurance commitments within the current Certification Class until the provider has met all requirements for the target Certification Class, then apply for the new Certification Class._
     ---
     **Terms:** [Certification Class](../../../definitions/#certification-class){ data-preview }
+### Downgrading Certification Class
+
+??? abstract "FRC-CCL-DCC"
+    **Changelog:**
+
+
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+
+
+
+
+!!! quote ""
+    Providers MUST apply for a new FedRAMP Certification to downgrade their Certification Class.
+
+
+    ---
+
+    _**Notes:**_
+
+    - _Downgrade paths include moving from D to C, B, or A; C to B or A; or B to A._
+    - _[FRC-CCL-DNP (Downgrade Notification Period)](#downgrade-notification-period){ data-preview } applies - please DO NOT downgrade Certification Class with providing advance notification to all necessary parties!_
+    ---
+    **Terms:** [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Certification Class](../../../definitions/#certification-class){ data-preview }
+### Downgrade Notification Period
+
+??? abstract "FRC-CCL-DNP"
+    **Changelog:**
+
+
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+
+
+
+
+!!! quote ""
+    Providers SHOULD notify all necessary parties at least 120 days in advance of an intended downgrade or cancellation of FedRAMP Certification.
+
+
+    ---
+
+    _**Note:** Downgrading or canceling FedRAMP Certification will have severe negative consequences for the provider and their agency customers and should only be done after careful consideration and planning... but if it must be done, notify all necessary parties as soon as possible._
+
+    ---
+    **Terms:** [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }
 ## Rev5-Specific Provider Responsibilities {#rev5-specific-provider-responsibilities}
 
 These rules apply to providers for FedRAMP Rev5 Certifications.
@@ -305,7 +354,7 @@ These rules apply to providers for FedRAMP Rev5 Certifications.
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -318,5 +367,5 @@ These rules apply to providers for FedRAMP Rev5 Certifications.
 
     _**Notes:**_
 
-    - _The simplest conversion in most cases would be to a FedRAMP Rev5 Class A Certification._
+    - _The simplest conversion in most cases would be to a FedRAMP 20x Class A Certification._
     - _Cloud services that do not wish to convert or do not meet conversion criteria will be renamed Legacy FedRAMP Ready and otherwise retired from FedRAMP Ready._

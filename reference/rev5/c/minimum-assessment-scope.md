@@ -15,7 +15,6 @@ The Minimum Assessment Scope rules help providers define assessment boundaries n
     - **Obtain:** 2027-01-01
     - **Maintain:** 2027-01-01
     - **Grace Ends:** On the first FedRAMP independent assessment completed after 2027-01-01
-    - **Sign-up Form:** [ADDME](ADDME)
 
 
 
@@ -32,7 +31,7 @@ These rules apply to providers for any type of FedRAMP Certification.
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -56,7 +55,7 @@ These rules apply to providers for any type of FedRAMP Certification.
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -77,7 +76,7 @@ These rules apply to providers for any type of FedRAMP Certification.
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -99,7 +98,7 @@ These rules apply to providers for any type of FedRAMP Certification.
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -116,7 +115,7 @@ These rules apply to providers for any type of FedRAMP Certification.
     **Changelog:**
 
 
-    - **2026-06-30:** Initial reset for the Consolidated Rules for 2026 Public Preview.
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
