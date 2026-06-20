@@ -1,19 +1,10 @@
 ---
-description: "Explanation of the process for getting listed on the Marketplace in the preparation phase to start with, and how that changes during the lifecycle of the product. Reference the Applicable Rules for preparation but don't quote them. The Rules will be directly underneath this."
-purpose: "Folks will understand the reasons for getting listed and how to do it. "
-google_doc: ""
 picto:
   source: person
   status: stable
 ---
 
 <span class="picto">:lucide-person-standing:{ .person title="This content was written by a human just for this page." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
-
-??? info inline end "Page Info"
-
-    **Description:** Explanation of the process for getting listed on the Marketplace in the preparation phase to start with, and how that changes during the lifecycle of the product. Reference the Applicable Rules for preparation but don't quote them. The Rules will be directly underneath this.
-    
-    **Purpose:** Folks will understand the reasons for getting listed and how to do it.
 
 # Getting Listed
 
@@ -67,4 +58,4 @@ be listed in the FedRAMP Marketplace in the Implementation Phase:
 
 !!! tip "Next Steps"
 
-    Follow the [FedRAMP Rules for Marketplace Listing here](marketplace-listing.md)!
+    Follow the [FedRAMP rules for Marketplace Listing here](marketplace-listing.md)!

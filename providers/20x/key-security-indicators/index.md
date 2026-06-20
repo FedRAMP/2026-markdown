@@ -1,21 +1,12 @@
 ---
 tags:
   - 20x
-description: "Introduction to the philosophy and approach for Key Security Indicators and how to work through them and verify/validate them with metrics etc."
-purpose: "Folks will understand how the KSI approach works."
-google_doc: ""
 picto:
   source: person
   status: stable
 ---
 
 <span class="picto">:lucide-person-standing:{ .person title="This content was written by a human just for this page." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
-
-??? info inline end "Page Info"
-
-    **Description:** Introduction to the philosophy and approach for Key Security Indicators and how to work through them and verify/validate them with metrics etc.
-    
-    **Purpose:** Folks will understand how the KSI approach works.
 
 # Key Security Indicators
 

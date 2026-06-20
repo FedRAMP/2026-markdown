@@ -25,6 +25,13 @@ The Minimum Assessment Scope rules help providers define assessment boundaries n
 
 These rules apply to providers for any type of FedRAMP Certification.
 
+<div class="subset-applicability" role="group" aria-label="Applicability">
+<span class="subset-applicability__group subset-applicability__group--types"><span class="subset-applicability__label">Type:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">20x</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--paths"><span class="subset-applicability__label">Path:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Program</span><span class="subset-applicability__tag">Agency</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--classes"><span class="subset-applicability__label">Class:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Class B</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--affects"><span class="subset-applicability__label">Audience:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Providers</span></span></span>
+</div>
+
 ### Identify Information Resources
 
 ??? abstract "MAS-CSO-IIR"
@@ -121,7 +128,7 @@ These rules apply to providers for any type of FedRAMP Certification.
 
 
 !!! quote ""
-    Providers MAY include additional materials about other information resources that are not part of the cloud service offering in a FedRAMP Certification package supplement; these resources will not be FedRAMP Certified and MUST be clearly marked and separated from the cloud service offering.
+    Providers MAY include additional materials about other information resources that are not part of the cloud service offering in a FedRAMP Certification Package supplement; these resources will not be FedRAMP Certified and MUST be clearly marked and separated from the cloud service offering.
 
 
     ---

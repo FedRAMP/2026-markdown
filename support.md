@@ -1,19 +1,10 @@
 ---
-description: "An explanation of how to get support, where to find information, what to look for on fedramp.gov, what FedRAMP can and can't do for you, when to talk to FedRAMP vs public communications, and the need to find an advisor."
-purpose: "Folks will know how to engage and get help from various places or parties and understand the rules of interacting with a gov program."
-google_doc: ""
 picto:
   source: person
   status: stable
 ---
 
 <span class="picto">:lucide-person-standing:{ .person title="This content was written by a human just for this page." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
-
-??? info inline end "Page Info"
-
-    **Description:** An explanation of how to get support, where to find information, what to look for on fedramp.gov, what FedRAMP can and can't do for you, when to talk to FedRAMP vs public communications, and the need to find an advisor.
-    
-    **Purpose:** Folks will know how to engage and get help from various places or parties and understand the rules of interacting with a gov program.
 
 # Getting Support
 
@@ -160,9 +151,9 @@ requests that are inappropriate or otherwise publicly addressed.
 
     ---
 
-    It's not your typical corporate help desk with a thousand agents who don't know the subject - ours is monitored primarily by senior technical staff and leadership.
+    It's not your typical corporate inbox with a thousand agents who don't know the subject - ours is monitored primarily by senior technical staff and leadership.
 
-    [The FedRAMP Help Desk](https://help.fedramp.gov/)
+    [E-mail info@fedramp.gov](mailto:info@fedramp.gov)
 
 </div>
 

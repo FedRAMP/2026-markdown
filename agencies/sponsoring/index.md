@@ -1,9 +1,6 @@
 ---
 tags:
   - Rev5
-description: "Explains when agency sponsorship still makes sense, why new sponsorship should usually be avoided, and how agencies should finish sponsorship work already underway."
-purpose: "Agencies understand that sponsoring is a legacy Rev5 path, that sponsors accept risk only for their own agency use, and that active sponsorship efforts should be completed quickly."
-google_doc: ""
 picto:
   source: person
   status: stable
@@ -11,17 +8,11 @@ picto:
 
 <span class="picto">:lucide-person-standing:{ .person title="This content was written by a human just for this page." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
 
-??? info inline end "Page Info"
-
-    **Description:** Explains when agency sponsorship still makes sense, why new sponsorship should usually be avoided, and how agencies should finish sponsorship work already underway.
-    
-    **Purpose:** Agencies understand that sponsoring is a legacy Rev5 path, that sponsors accept risk only for their own agency use, and that active sponsorship efforts should be completed quickly.
-
 # Sponsoring a FedRAMP Certification
 
-Agency sponsorship is the legacy path for a FedRAMP Rev5 Agency Certification. Following this path, an agency completes its own authorization for an agency information system that uses a cloud service offering then the cloud service provider uses that agency authorization as part of its request for FedRAMP Certification.
+Agency sponsorship is the legacy path for a FedRAMP Rev5 Agency Certification. Following this path, an agency completes its own authorization for an agency information system that uses a cloud service offering, then the cloud service provider uses that agency authorization as part of its request for FedRAMP Certification.
 
-This path still exists temporarily as FedRAMP transitions to the Consolidated Rules for 2026, but agencies should be cautious about starting new sponsorship work. FedRAMP 20x and Program Certification are designed to reduce the need for agency sponsorship by allowing cloud service providers to work directly with FedRAMP for certification and FedRAMP will not accept agency sponsored FedRAMP Certifications after June 11, 2027.
+This path still exists temporarily as FedRAMP transitions to the Consolidated Rules for 2026, but agencies should be cautious about starting new sponsorship work. FedRAMP 20x and Program Certification are designed to reduce the need for agency sponsorship by allowing cloud service providers to work directly with FedRAMP for certification.
 
 !!! danger "FedRAMP will stop accepting applications for sponsored Agency Certifications on June 11, 2027."
 

@@ -9,6 +9,13 @@ tags:
 
 The Incident Evaluation and Communication rules explain how providers must communicate incident information to FedRAMP and government customers when they are affected by an incident or likely to be affected by an incident.
 
+!!! info "Effective Date(s) & Overall Applicability for Rev5"
+    - **Required** (Consolidated Rules for 2026)
+    - **Optional Adoption:** 2026-07-04
+    - **Obtain:** 2027-01-01
+    - **Maintain:** 2027-01-01
+    - **Grace Ends:** 2027-06-01
+
 
 ## Activity Workflow: Incident Evaluation and Communication
 
@@ -48,6 +55,13 @@ flowchart TD
 ## General Provider Responsibilities {#general-provider-responsibilities}
 
 These rules apply to providers with FedRAMP Certifications of any type.
+
+<div class="subset-applicability" role="group" aria-label="Applicability">
+<span class="subset-applicability__group subset-applicability__group--types"><span class="subset-applicability__label">Type:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Rev5</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--paths"><span class="subset-applicability__label">Path:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Program</span><span class="subset-applicability__tag">Agency</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--classes"><span class="subset-applicability__label">Class:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Class B</span><span class="subset-applicability__tag">Class C</span><span class="subset-applicability__tag">Class D</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--affects"><span class="subset-applicability__label">Audience:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Providers</span></span></span>
+</div>
 
 ### Evaluate FedRAMP Reportability
 
@@ -93,9 +107,9 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 
 !!! warning "This FRR includes a notification requirement!"
-    - Notify FedRAMP by email using fedramp_security@fedramp.gov.
-    - Notify Agency Customers by varies using varies by agency.
-    - Notify All Necessary Parties by update using trust center.
+    - Notify FedRAMP via email: [FedRAMP Security Team](mailto:fedramp_security@fedramp.gov).
+    - Notify Agency Customers via the appropriate recipient-specific method: Follow agency-specific incident reporting procedures (varies by agency).
+    - Notify All Necessary Parties via an update: Provider's Trust Center or USDA Connect (trust center).
 
 
 !!! quote ""
@@ -168,9 +182,9 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
         | PAIN Rating | Initial Incident Report |
         |--------------------------|---|
-        | PAIN-5 | 1 hours |
-        | PAIN-4 | 1 hours |
-        | PAIN-3 | 1 hours |
+        | PAIN-5 | 1 hour |
+        | PAIN-4 | 1 hour |
+        | PAIN-3 | 1 hour |
         | PAIN-2 | 24 hours |
         | PAIN-1 | 1 business day |
 
@@ -196,8 +210,8 @@ These rules apply to providers with FedRAMP Certifications of any type.
         | PAIN-5 | 0.25 hours |
         | PAIN-4 | 0.25 hours |
         | PAIN-3 | 0.25 hours |
-        | PAIN-2 | 1 hours |
-        | PAIN-1 | 1 hours |
+        | PAIN-2 | 1 hour |
+        | PAIN-1 | 1 hour |
 
 
     ---
@@ -212,9 +226,9 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 
 !!! warning "This FRR includes a notification requirement!"
-    - Notify FedRAMP by email using fedramp_security@fedramp.gov.
-    - Notify Agency Customers by varies using varies by agency.
-    - Notify All Necessary Parties by update using trust center.
+    - Notify FedRAMP via email: [FedRAMP Security Team](mailto:fedramp_security@fedramp.gov).
+    - Notify Agency Customers via the appropriate recipient-specific method: Follow agency-specific incident reporting procedures (varies by agency).
+    - Notify All Necessary Parties via an update: Provider's Trust Center or USDA Connect (trust center).
 
 
 !!! quote ""
@@ -319,9 +333,9 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 
 !!! warning "This FRR includes a notification requirement!"
-    - Notify FedRAMP by email using fedramp_security@fedramp.gov.
-    - Notify Agency Customers by varies using varies by agency.
-    - Notify All Necessary Parties by update using trust center.
+    - Notify FedRAMP via email: [FedRAMP Security Team](mailto:fedramp_security@fedramp.gov).
+    - Notify Agency Customers via the appropriate recipient-specific method: Follow agency-specific incident reporting procedures (varies by agency).
+    - Notify All Necessary Parties via an update: Provider's Trust Center or USDA Connect (trust center).
 
 
 !!! quote ""

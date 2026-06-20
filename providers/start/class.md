@@ -1,19 +1,10 @@
 ---
-description: "Overview of the classes, explanations that it's good to progress through them, and where to start and how to proceed through them with a focus on starting class."
-purpose: "Folks will know they should start at Class A and not try to go straight to Class D or something bonkers like that."
-google_doc: ""
 picto:
   source: person
   status: stable
 ---
 
 <span class="picto">:lucide-person-standing:{ .person title="This content was written by a human just for this page." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
-
-??? info inline end "Page Info"
-
-    **Description:** Overview of the classes, explanations that it's good to progress through them, and where to start and how to proceed through them with a focus on starting class.
-    
-    **Purpose:** Folks will know they should start at Class A and not try to go straight to Class D or something bonkers like that.
 
 # Choosing a Certification Class
 

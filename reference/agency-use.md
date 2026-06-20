@@ -32,6 +32,13 @@ The Agency Use rules summarize the many demands made on agencies by the FedRAMP 
 
 These rules apply to agencies based on the FedRAMP Authorization Act, OMB M-24-15, and related FedRAMP policies.
 
+<div class="subset-applicability" role="group" aria-label="Applicability">
+<span class="subset-applicability__group subset-applicability__group--types"><span class="subset-applicability__label">Type:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">20x</span><span class="subset-applicability__tag">Rev5</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--paths"><span class="subset-applicability__label">Path:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Program</span><span class="subset-applicability__tag">Agency</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--classes"><span class="subset-applicability__label">Class:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Class A</span><span class="subset-applicability__tag">Class B</span><span class="subset-applicability__tag">Class C</span><span class="subset-applicability__tag">Class D</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--affects"><span class="subset-applicability__label">Audience:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Agencies</span></span></span>
+</div>
+
 ### Agency Internal Policies
 
 ??? abstract "AGU-AGC-AIP"
@@ -57,7 +64,7 @@ These rules apply to agencies based on the FedRAMP Authorization Act, OMB M-24-1
 
 
 !!! warning "This FRR includes a notification requirement!"
-    - Notify FedRAMP by form using https://help.fedramp.gov/hc/en-us/requests/new?ticket_form_id=51447926193691.
+    - Notify FedRAMP via form: [Submit an ATO Letter](https://help.fedramp.gov/hc/en-us/requests/new?ticket_form_id=51447926193691).
 
 
 !!! quote ""
@@ -97,7 +104,7 @@ These rules apply to agencies based on the FedRAMP Authorization Act, OMB M-24-1
 
 
 !!! warning "This FRR includes a notification requirement!"
-    - Notify FedRAMP by form using https://help.fedramp.gov/hc/en-us/requests/new?ticket_form_id=51822364715035.
+    - Notify FedRAMP via form: [\[For Agencies\] Additional Information, Security Requirements, or Certification Change, or After Request Form](https://help.fedramp.gov/hc/en-us/requests/new?ticket_form_id=51822364715035).
 
 
 !!! quote ""
@@ -120,7 +127,7 @@ These rules apply to agencies based on the FedRAMP Authorization Act, OMB M-24-1
 
 
 !!! warning "This FRR includes a notification requirement!"
-    - Notify FedRAMP by email using info@fedramp.gov.
+    - Notify FedRAMP via email: [info@fedramp.gov](mailto:info@fedramp.gov).
 
 
 !!! quote ""
@@ -143,7 +150,7 @@ These rules apply to agencies based on the FedRAMP Authorization Act, OMB M-24-1
 
 
 !!! warning "This FRR includes a notification requirement!"
-    - Notify FedRAMP by email using info@fedramp.gov.
+    - Notify FedRAMP via email: [info@fedramp.gov](mailto:info@fedramp.gov).
 
 
 !!! quote ""
@@ -212,6 +219,13 @@ These rules apply to agencies based on the FedRAMP Authorization Act, OMB M-24-1
 
 These rules apply when agencies use FedRAMP Certifications to make agency authorization decisions.
 
+<div class="subset-applicability" role="group" aria-label="Applicability">
+<span class="subset-applicability__group subset-applicability__group--types"><span class="subset-applicability__label">Type:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">20x</span><span class="subset-applicability__tag">Rev5</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--paths"><span class="subset-applicability__label">Path:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Program</span><span class="subset-applicability__tag">Agency</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--classes"><span class="subset-applicability__label">Class:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Class A</span><span class="subset-applicability__tag">Class B</span><span class="subset-applicability__tag">Class C</span><span class="subset-applicability__tag">Class D</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--affects"><span class="subset-applicability__label">Audience:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Agencies</span></span></span>
+</div>
+
 ### Authorization Before Use
 
 ??? abstract "AGU-USE-ABU"
@@ -248,7 +262,7 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
 
 
 !!! quote ""
-    Agencies MUST collaborate with FedRAMP when discrepancies or conflicts arise between agency-specific security determinations and the baseline FedRAMP Certification package.
+    Agencies MUST collaborate with FedRAMP when discrepancies or conflicts arise between agency-specific security determinations and the baseline FedRAMP Certification Package.
 
 
     ---
@@ -295,7 +309,7 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
 
 
 !!! warning "This FRR includes a notification requirement!"
-    - Notify FedRAMP by form using https://help.fedramp.gov/hc/en-us/requests/new?ticket_form_id=51821301979547.
+    - Notify FedRAMP via form: [Report Concerns on Ongoing Certifications](https://help.fedramp.gov/hc/en-us/requests/new?ticket_form_id=51821301979547).
 
 
 !!! quote ""
@@ -356,7 +370,7 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
 
 
 !!! warning "This FRR includes a notification requirement!"
-    - Notify Provider by varies using varies by provider.
+    - Notify Provider via the appropriate recipient-specific method: The provider's security contact email or form (varies by provider).
 
 
 !!! quote ""
@@ -402,6 +416,13 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
 ## Agency Sponsored Certifications {#agency-sponsored-certifications}
 
 These rules apply when an agency sponsors a FedRAMP Rev5 Certification after completing an agency authorization.
+
+<div class="subset-applicability" role="group" aria-label="Applicability">
+<span class="subset-applicability__group subset-applicability__group--types"><span class="subset-applicability__label">Type:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Rev5</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--paths"><span class="subset-applicability__label">Path:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Agency</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--classes"><span class="subset-applicability__label">Class:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Class B</span><span class="subset-applicability__tag">Class C</span><span class="subset-applicability__tag">Class D</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--affects"><span class="subset-applicability__label">Audience:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Agencies</span></span></span>
+</div>
 
 ### Most Recent Consolidated Rules
 

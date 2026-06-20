@@ -7,7 +7,7 @@ tags:
 
 # Certification Data Sharing
 
-The Certification Data Sharing rules allow providers to store and share FedRAMP certification information through the platform they choose as long as it follows FedRAMP rules for access, accuracy, and transparency. This helps customers and the public review consistent, current security and compliance information while recognizing that the information usually remains the provider's intellectual property and is not federal information.
+The Certification Data Sharing rules allow providers to store and share FedRAMP Certification Data through the platform they choose as long as it follows FedRAMP rules for access, accuracy, and transparency. This helps customers and the public review consistent, current security and compliance information while recognizing that the information usually remains the provider's intellectual property and is not federal information.
 
 **Subsets**
 
@@ -31,6 +31,13 @@ The Certification Data Sharing rules allow providers to store and share FedRAMP 
 
 These rules apply to providers for FedRAMP Certifications of any type.
 
+<div class="subset-applicability" role="group" aria-label="Applicability">
+<span class="subset-applicability__group subset-applicability__group--types"><span class="subset-applicability__label">Type:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">20x</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--paths"><span class="subset-applicability__label">Path:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Program</span><span class="subset-applicability__tag">Agency</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--classes"><span class="subset-applicability__label">Class:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Class C</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--affects"><span class="subset-applicability__label">Audience:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Providers</span></span></span>
+</div>
+
 ### Public Information
 
 ??? abstract "CDS-CSO-PUB"
@@ -49,7 +56,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
 !!! quote ""
     Providers MUST publicly share up-to-date information about the cloud service offering in both human-readable and JSON formats, including at least the following information that is available and applicable:
 
-    1. Direct link to the FedRAMP Marketplace for the offering
+    1. FedRAMP ID
     1. Service Model
     1. Deployment Model
     1. Business Category
@@ -64,7 +71,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
     1. Overview of documentation supplied by the provider for the cloud service offering
     1. Link to Trust Center landing page that includes instructions on accessing information in the trust center
     1. Next Ongoing Certification Report date (see [CCM-OCR-NRD (Next Report Date)](collaborative-continuous-monitoring.md#next-report-date){ data-preview })
-    1. Current FedRAMP Recognized Independent Assessment Service
+    1. Current FedRAMP Recognized independent assessment service
 
 
     ---
@@ -102,7 +109,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 
 !!! quote ""
-    Providers MUST always include the FedRAMP ID of the related cloud service offering in all FedRAMP Certification Data once assigned, including all reports, notifications, and other communication that results from FedRAMP Rules.
+    Providers MUST always include the FedRAMP ID of the related cloud service offering in all FedRAMP Certification Data once assigned, including all reports, notifications, and other communication that results from FedRAMP rules.
 
 
     ---
@@ -113,7 +120,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
     - _Many providers have multiple cloud service offerings or use internal names that don't align to public materials; using the FedRAMP ID ensures we can easily align the communication with a specific cloud service offering._
     ---
     **Terms:** [Certification Data](../../../definitions/#certification-data){ data-preview }, [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }
-### FedRAMP Certification Information
+### FedRAMP Certification Reports
 
 ??? abstract "CDS-CSO-FRC"
     **Changelog:**
@@ -340,6 +347,13 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 These rules apply to trust centers that are FedRAMP-compatible.
 
+<div class="subset-applicability" role="group" aria-label="Applicability">
+<span class="subset-applicability__group subset-applicability__group--types"><span class="subset-applicability__label">Type:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">20x</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--paths"><span class="subset-applicability__label">Path:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Program</span><span class="subset-applicability__tag">Agency</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--classes"><span class="subset-applicability__label">Class:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Class C</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--affects"><span class="subset-applicability__label">Audience:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Providers</span></span></span>
+</div>
+
 ### Uninterrupted Sharing
 
 ??? abstract "CDS-TRC-USH"
@@ -450,6 +464,13 @@ These rules apply to trust centers that are FedRAMP-compatible.
 
 These rules apply to providers that are using a FedRAMP-compatible trust center instead of USDA Connect; they DO NOT apply to providers using USDA Connect.
 
+<div class="subset-applicability" role="group" aria-label="Applicability">
+<span class="subset-applicability__group subset-applicability__group--types"><span class="subset-applicability__label">Type:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">20x</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--paths"><span class="subset-applicability__label">Path:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Program</span><span class="subset-applicability__tag">Agency</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--classes"><span class="subset-applicability__label">Class:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Class C</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--affects"><span class="subset-applicability__label">Audience:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Providers</span></span></span>
+</div>
+
 ### Agency Access Denial
 
 ??? abstract "CDS-UTC-AAD"
@@ -460,7 +481,7 @@ These rules apply to providers that are using a FedRAMP-compatible trust center 
 
 
 !!! warning "This FRR includes a notification requirement!"
-    - Notify FedRAMP by form using https://help.fedramp.gov/hc/en-us/requests/new?ticket_form_id=51829826617243.
+    - Notify FedRAMP via form: [\[CSP\] Agency Access Denial](https://help.fedramp.gov/hc/en-us/requests/new?ticket_form_id=51829826617243).
 
 
 !!! quote ""
@@ -483,7 +504,7 @@ These rules apply to providers that are using a FedRAMP-compatible trust center 
 
 
 !!! quote ""
-    Providers SHOULD supply access to the FedRAMP Certification package with agencies upon request.
+    Providers SHOULD supply access to the FedRAMP Certification Package with agencies upon request.
 
 
     ---

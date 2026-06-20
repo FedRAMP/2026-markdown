@@ -15,6 +15,13 @@ The Marketplace Listing rules define how FedRAMP decides which cloud service off
 - [General Provider Responsibilities](#general-provider-responsibilities)
 - [Provider Responsibilities for Initial Implementation Phase Listings](#provider-responsibilities-for-initial-implementation-phase-listings)
 
+!!! info "Effective Date(s) & Overall Applicability for 20x and Rev5"
+    - **Required** (Consolidated Rules for 2026)
+    - **Optional Adoption:** 2026-07-04
+    - **Obtain:** 2026-07-04
+    - **Maintain:** 2026-07-04
+    - **Grace Ends:** 2026-07-04
+
 
 
 ---
@@ -23,6 +30,13 @@ The Marketplace Listing rules define how FedRAMP decides which cloud service off
 ## General Provider Responsibilities {#general-provider-responsibilities}
 
 These rules apply to providers seeking a listing in the FedRAMP Marketplace.
+
+<div class="subset-applicability" role="group" aria-label="Applicability">
+<span class="subset-applicability__group subset-applicability__group--types"><span class="subset-applicability__label">Type:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">20x</span><span class="subset-applicability__tag">Rev5</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--paths"><span class="subset-applicability__label">Path:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Program</span><span class="subset-applicability__tag">Agency</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--classes"><span class="subset-applicability__label">Class:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Class A</span><span class="subset-applicability__tag">Class B</span><span class="subset-applicability__tag">Class C</span><span class="subset-applicability__tag">Class D</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--affects"><span class="subset-applicability__label">Audience:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Providers</span></span></span>
+</div>
 
 ### Marketplace Listing Requirements
 
@@ -53,7 +67,7 @@ These rules apply to providers seeking a listing in the FedRAMP Marketplace.
 
 
 !!! warning "This FRR includes a notification requirement!"
-    - Notify FedRAMP by form using https://help.fedramp.gov/hc/en-us/requests/new?ticket_form_id=50939227168027.
+    - Notify FedRAMP via form: [FedRAMP Marketplace Provider Listing Request Form](https://help.fedramp.gov/hc/en-us/requests/new?ticket_form_id=50939227168027).
 
 
 !!! quote ""
@@ -67,6 +81,12 @@ These rules apply to providers seeking a listing in the FedRAMP Marketplace.
 ## Provider Responsibilities for Initial Implementation Phase Listings {#provider-responsibilities-for-initial-implementation-phase-listings}
 
 FedRAMP allows cloud service providers that are actively preparing to obtain a FedRAMP Certification to apply for listing in the FedRAMP Marketplace. All cloud service providers must obtain a Initial Implementation Phase Marketplace Listing before they can apply for FedRAMP Certification. These rules apply to providers seeking a Initial Implementation Phase listing in the FedRAMP Marketplace.
+
+<div class="subset-applicability" role="group" aria-label="Applicability">
+<span class="subset-applicability__group subset-applicability__group--types"><span class="subset-applicability__label">Type:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">20x</span><span class="subset-applicability__tag">Rev5</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--paths"><span class="subset-applicability__label">Path:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Program</span><span class="subset-applicability__tag">Agency</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--affects"><span class="subset-applicability__label">Audience:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Providers</span></span></span>
+</div>
 
 ### Agency Use Cases
 

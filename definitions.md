@@ -391,7 +391,7 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 !!! quote ""
-    An independent verification and validation assessment, performed by a FedRAMP Recognized independent assessment service or FedRAMP following FedRAMP Rules. These assessments are typically first performed to obtain an initial FedRAMP Certification then repeated on an annual basis to maintain FedRAMP Certification.
+    An independent verification and validation assessment, performed by a FedRAMP Recognized independent assessment service or FedRAMP following FedRAMP rules. These assessments are typically first performed to obtain an initial FedRAMP Certification then repeated on an annual basis to maintain FedRAMP Certification.
 
 
     **Also:** FedRAMP independent assessment, FedRAMP independent assessments
@@ -402,7 +402,7 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 !!! quote ""
-    The security measures, safeguards, precautions, procedures, activities, policies, capabilities, mechanisms, etc. that are expected to be in place by FedRAMP to demonstrate that information resources are properly protected, expressed in FedRAMP 20x Key Security Indicators or FedRAMP Rev5 Controls and supplemented by FedRAMP Rules.
+    The security measures, safeguards, precautions, procedures, activities, policies, capabilities, mechanisms, etc. that are expected to be in place by FedRAMP to demonstrate that information resources are properly protected, expressed in FedRAMP 20x Key Security Indicators or FedRAMP Rev5 Controls and supplemented by FedRAMP rules.
 
 
     **Also:** FedRAMP Practice, FedRAMP Practices

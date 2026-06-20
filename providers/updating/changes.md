@@ -1,19 +1,10 @@
 ---
-description: "Broad overview of the changes, including balance improvement releases folding in, reminders that former JAB folks have to step up and do things the right way, and expectations for semi-structured and machine-readable stuff that is created by tools instead of people editing word documents and spreadsheets."
-purpose: "Folks will have an explicit sense of what they will need to do differently at a high level so they can start getting business buy-in and doing the work."
-google_doc: ""
 picto:
   source: person
   status: stable
 ---
 
 <span class="picto">:lucide-person-standing:{ .person title="This content was written by a human just for this page." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
-
-??? info inline end "Page Info"
-
-    **Description:** Broad overview of the changes, including balance improvement releases folding in, reminders that former JAB folks have to step up and do things the right way, and expectations for semi-structured and machine-readable stuff that is created by tools instead of people editing word documents and spreadsheets.
-    
-    **Purpose:** Folks will have an explicit sense of what they will need to do differently at a high level so they can start getting business buy-in and doing the work.
 
 # What's Changing in 2026
 

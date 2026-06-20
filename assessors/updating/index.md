@@ -1,19 +1,10 @@
 ---
-description: "A general description of the expectations for adopting 2026 rules in assessments."
-purpose: "Assessors know what they have to do to dig into these rules and start using them and what will happen if they don't."
-google_doc: ""
 picto:
   source: person
   status: stable
 ---
 
 <span class="picto">:lucide-person-standing:{ .person title="This content was written by a human just for this page." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
-
-??? info inline end "Page Info"
-
-    **Description:** A general description of the expectations for adopting 2026 rules in assessments.
-    
-    **Purpose:** Assessors know what they have to do to dig into these rules and start using them and what will happen if they don't.
 
 # Updating to 2026 Rules
 

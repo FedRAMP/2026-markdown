@@ -166,7 +166,6 @@
     "reference/significant-change-notification.md",
     "reference/vulnerability-detection-and-response.md",
     "reference/vulnerability-evaluation-and-reporting.md",
-    "responsibilities/rules.md",
-    "todo.md"
+    "responsibilities/rules.md"
   ]
 }

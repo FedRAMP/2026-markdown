@@ -9,6 +9,13 @@ tags:
 
 The Minimum Assessment Scope rules help providers define assessment boundaries narrowly enough to avoid unnecessary review of components that do not affect the offering's security. These rules still ensure the assessment includes the resources and connections needed to understand the offering's confidentiality, integrity, and availability.
 
+!!! info "Effective Date(s) & Overall Applicability for Rev5"
+    - **Required** (Consolidated Rules for 2026)
+    - **Optional Adoption:** 2026-07-04
+    - **Obtain:** 2027-01-01
+    - **Maintain:** 2027-01-01
+    - **Grace Ends:** On the first FedRAMP independent assessment completed after 2027-01-01
+
 
 
 ---
@@ -17,6 +24,13 @@ The Minimum Assessment Scope rules help providers define assessment boundaries n
 ## General Provider Responsibilities {#general-provider-responsibilities}
 
 These rules apply to providers for any type of FedRAMP Certification.
+
+<div class="subset-applicability" role="group" aria-label="Applicability">
+<span class="subset-applicability__group subset-applicability__group--types"><span class="subset-applicability__label">Type:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Rev5</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--paths"><span class="subset-applicability__label">Path:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Program</span><span class="subset-applicability__tag">Agency</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--classes"><span class="subset-applicability__label">Class:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Class B</span><span class="subset-applicability__tag">Class C</span><span class="subset-applicability__tag">Class D</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--affects"><span class="subset-applicability__label">Audience:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Providers</span></span></span>
+</div>
 
 ### Identify Information Resources
 
@@ -114,7 +128,7 @@ These rules apply to providers for any type of FedRAMP Certification.
 
 
 !!! quote ""
-    Providers MAY include additional materials about other information resources that are not part of the cloud service offering in a FedRAMP Certification package supplement; these resources will not be FedRAMP Certified and MUST be clearly marked and separated from the cloud service offering.
+    Providers MAY include additional materials about other information resources that are not part of the cloud service offering in a FedRAMP Certification Package supplement; these resources will not be FedRAMP Certified and MUST be clearly marked and separated from the cloud service offering.
 
 
     ---

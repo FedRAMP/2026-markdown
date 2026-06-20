@@ -8,7 +8,7 @@ tags:
 
 # FedRAMP Recognition of Independent Assessment Services
 
-The FedRAMP Recognition of Independent Assessment Services rules explain the requirements for assessors to obtain and maintain FedRAMP Recognition in order to support the FedRAMP Certification process.
+The FedRAMP Recognition of independent assessment services rules explain the requirements for assessors to obtain and maintain FedRAMP Recognition in order to support the FedRAMP Certification process.
 
 **Subsets**
 
@@ -30,6 +30,10 @@ The FedRAMP Recognition of Independent Assessment Services rules explain the req
 ## FedRAMP Responsibilities {#fedramp-responsibilities}
 
 These rules apply to FedRAMP when evaluating independent assessment services for initial or ongoing FedRAMP Recognition.
+
+<div class="subset-applicability" role="group" aria-label="Applicability">
+<span class="subset-applicability__group subset-applicability__group--affects"><span class="subset-applicability__label">Audience:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">FedRAMP</span></span></span>
+</div>
 
 ### Foreign Ownership Collection
 
@@ -85,6 +89,10 @@ These rules apply to FedRAMP when evaluating independent assessment services for
 ## General Independent Assessor Responsibilities {#general-independent-assessor-responsibilities}
 
 These rules apply to independent assessment services seeking to obtain or maintain FedRAMP Recognition.
+
+<div class="subset-applicability" role="group" aria-label="Applicability">
+<span class="subset-applicability__group subset-applicability__group--affects"><span class="subset-applicability__label">Audience:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Assessors</span></span></span>
+</div>
 
 ### A2LA Accreditation
 
@@ -168,7 +176,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
 !!! quote ""
     Assessors MUST achieve a favorable annual surveillance assessment by the American Association for Laboratory Accreditation (A2LA) to maintain FedRAMP Recognition.
 
-    **Timeframe:** 1 years
+    **Timeframe:** 1 year
 
     !!! warning "Corrective Actions"
         - Assessors have 75 days to complete corrective actions for nonconformances identified by the American Association for Laboratory Accreditation (A2LA)during a surveillance assessment. If an assessor exceeds the 75 day resolution timeframe, A2LA will supply FedRAMP with a narrative of the assessor's current status, the assessor will be designated as in Remediation in the FedRAMP Marketplace, and the assessor must supply a corrective action plan to FedRAMP.
@@ -247,13 +255,13 @@ These rules apply to independent assessment services seeking to obtain or mainta
 
 
 !!! warning "This FRR includes a notification requirement!"
-    - Notify FedRAMP by form using https://help.fedramp.gov/forms/assessors/foci-declaration.
+    - Notify FedRAMP via form: [FedRAMP Foreign Ownership, Control, or Influence Declaration Form](https://help.fedramp.gov/forms/assessors/foci-declaration).
 
 
 !!! quote ""
     Assessors MUST report information relating to any foreign interest, foreign influence, or foreign control of the independent assessment service to FedRAMP annually.
 
-    **Timeframe:** 1 years
+    **Timeframe:** 1 year
 
 
 ### Changes in Foreign Interest
@@ -266,7 +274,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
 
 
 !!! warning "This FRR includes a notification requirement!"
-    - Notify FedRAMP by form using https://help.fedramp.gov/forms/assessors/foci-declaration.
+    - Notify FedRAMP via form: [FedRAMP Foreign Ownership, Control, or Influence Declaration Form](https://help.fedramp.gov/forms/assessors/foci-declaration).
 
 
 !!! quote ""

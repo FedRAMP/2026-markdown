@@ -1,19 +1,10 @@
 ---
-description: "Overview of the Certification paths and how to choose one, including depending on the type and class expectations."
-purpose: "Folks know they should aim for Program Certification on 20x unless they need a Class D before early 2027."
-google_doc: ""
 picto:
   source: person
   status: stable
 ---
 
 <span class="picto">:lucide-person-standing:{ .person title="This content was written by a human just for this page." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
-
-??? info inline end "Page Info"
-
-    **Description:** Overview of the Certification paths and how to choose one, including depending on the type and class expectations.
-    
-    **Purpose:** Folks know they should aim for Program Certification on 20x unless they need a Class D before early 2027.
 
 # Choosing a Certification Path
 

@@ -1,19 +1,10 @@
 ---
-description: "Guidelines and examples for understanding the scope of FedRAMP."
-purpose: "Helps folks understand when a cloud service is within the scope of FedRAMP."
-google_doc: ""
 picto:
   source: person
   status: stable
 ---
 
 <span class="picto">:lucide-person-standing:{ .person title="This content was written by a human just for this page." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
-
-??? info inline end "Page Info"
-
-    **Description:** Guidelines and examples for understanding the scope of FedRAMP.
-    
-    **Purpose:** Helps folks understand when a cloud service is within the scope of FedRAMP.
 
 # Scope of FedRAMP
 

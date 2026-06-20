@@ -1,7 +1,6 @@
 ---
-description: "Background information on the FedRAMP Marketplace."
-purpose: "Helps folks know where to find and how to use the FedRAMP Marketplace."
-google_doc: ""
+hide:
+  - toc
 picto:
   source: person
   status: stable
@@ -9,15 +8,9 @@ picto:
 
 <span class="picto">:lucide-person-standing:{ .person title="This content was written by a human just for this page." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
 
-??? info inline end "Page Info"
-
-    **Description:** Background information on the FedRAMP Marketplace.
-    
-    **Purpose:** Helps folks know where to find and how to use the FedRAMP Marketplace.
-
 # The FedRAMP Marketplace
 
-[FedRAMP’s Marketplace](https://www.fedramp.gov/marketplace/) is the federal government’s catalog for cloud service offerings, federal agency authorizations, and FedRAMP Recognized independent assessors. It is the authoritative place to confirm whether a cloud service offering has a FedRAMP designation, is working toward certification, or is connected to agency reuse.
+[FedRAMP’s Marketplace](https://www.fedramp.gov/marketplace/) is the federal government’s catalog for cloud service offerings, independent assessment services, and advisors. It is the authoritative place to confirm whether a cloud service offering has a FedRAMP designation, is working toward certification, or is connected to agency reuse.
 
 <div class="grid cards" markdown>
 

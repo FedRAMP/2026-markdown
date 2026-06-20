@@ -14,6 +14,13 @@ The Certification Package Overview rules outline the expectations for a simple o
 - [General Provider Responsibilities](#general-provider-responsibilities)
 - [Rev5-Specific Provider Responsibilities](#rev5-specific-provider-responsibilities)
 
+!!! info "Effective Date(s) & Overall Applicability for Rev5"
+    - **Required** (Consolidated Rules for 2026)
+    - **Optional Adoption:** 2026-07-04
+    - **Obtain:** 2027-01-01
+    - **Maintain:** 2027-07-01
+    - **Grace Ends:** On the first FedRAMP independent assessment completed after 2027-01-01
+
 
 
 ---
@@ -22,6 +29,13 @@ The Certification Package Overview rules outline the expectations for a simple o
 ## General Provider Responsibilities {#general-provider-responsibilities}
 
 These rules apply to providers for FedRAMP Certifications of any type.
+
+<div class="subset-applicability" role="group" aria-label="Applicability">
+<span class="subset-applicability__group subset-applicability__group--types"><span class="subset-applicability__label">Type:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Rev5</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--paths"><span class="subset-applicability__label">Path:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Program</span><span class="subset-applicability__tag">Agency</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--classes"><span class="subset-applicability__label">Class:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Class B</span><span class="subset-applicability__tag">Class C</span><span class="subset-applicability__tag">Class D</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--affects"><span class="subset-applicability__label">Audience:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Providers</span></span></span>
+</div>
 
 ### Overview of the Cloud Service Offering
 
@@ -86,6 +100,13 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 These rules apply to providers for FedRAMP Rev5 Certifications.
 
+<div class="subset-applicability" role="group" aria-label="Applicability">
+<span class="subset-applicability__group subset-applicability__group--types"><span class="subset-applicability__label">Type:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Rev5</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--paths"><span class="subset-applicability__label">Path:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Program</span><span class="subset-applicability__tag">Agency</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--classes"><span class="subset-applicability__label">Class:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Class A</span><span class="subset-applicability__tag">Class B</span><span class="subset-applicability__tag">Class C</span><span class="subset-applicability__tag">Class D</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--affects"><span class="subset-applicability__label">Audience:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Providers</span></span></span>
+</div>
+
 ### Certification Package Maintenance for Rev5
 
 ??? abstract "CPO-CSF-CPM"
@@ -101,17 +122,17 @@ These rules apply to providers for FedRAMP Rev5 Certifications.
     === "Class A"
         Providers with Rev5 Class A Certifications SHOULD persistently maintain their FedRAMP Certification Package to ensure it is up to date and complete at least once every year.
 
-        **Timeframe:** 1 years
+        **Timeframe:** 1 year
 
     === "Class B"
         Providers with Rev5 Class B Certifications MUST persistently maintain their FedRAMP Certification Package to ensure it is up to date and complete at least once every year.
 
-        **Timeframe:** 1 years
+        **Timeframe:** 1 year
 
     === "Class C"
         Providers with Rev5 Class C Certifications MUST persistently maintain their FedRAMP Certification Package to ensure it is up to date and complete at least once every year.
 
-        **Timeframe:** 1 years
+        **Timeframe:** 1 year
 
     === "Class D"
         Providers with Rev5 Class D Certifications MUST persistently maintain their FedRAMP Certification Package to ensure it is up to date and complete at least once every six months.

@@ -41,6 +41,13 @@ The Significant Change Notification rules supply a simple framework allowing pro
 
 These rules apply to FedRAMP.
 
+<div class="subset-applicability" role="group" aria-label="Applicability">
+<span class="subset-applicability__group subset-applicability__group--types"><span class="subset-applicability__label">Type:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">20x</span><span class="subset-applicability__tag">Rev5</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--paths"><span class="subset-applicability__label">Path:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Program</span><span class="subset-applicability__tag">Agency</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--classes"><span class="subset-applicability__label">Class:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Class B</span><span class="subset-applicability__tag">Class C</span><span class="subset-applicability__tag">Class D</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--affects"><span class="subset-applicability__label">Audience:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">FedRAMP</span></span></span>
+</div>
+
 ### Corrective Action Plan Conditions
 
 ??? abstract "SCN-FRP-CAP"
@@ -65,6 +72,13 @@ These rules apply to FedRAMP.
 ## General Provider Responsibilities {#general-provider-responsibilities}
 
 These rules apply to providers with FedRAMP Certifications of any type.
+
+<div class="subset-applicability" role="group" aria-label="Applicability">
+<span class="subset-applicability__group subset-applicability__group--types"><span class="subset-applicability__label">Type:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">20x</span><span class="subset-applicability__tag">Rev5</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--paths"><span class="subset-applicability__label">Path:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Program</span><span class="subset-applicability__tag">Agency</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--classes"><span class="subset-applicability__label">Class:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Class B</span><span class="subset-applicability__tag">Class C</span><span class="subset-applicability__tag">Class D</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--affects"><span class="subset-applicability__label">Audience:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Providers</span></span></span>
+</div>
 
 ### Evaluate Changes
 
@@ -106,7 +120,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
     ---
 
-    _**Note:** These audit records must be available to FedRAMP on request; these records do not need to be included in the FedRAMP Certification package by default and do not need to be emailed to FedRAMP continuously._
+    _**Note:** These audit records must be available to FedRAMP on request; these records do not need to be included in the FedRAMP Certification Package by default and do not need to be emailed to FedRAMP continuously._
 
     ---
     **Terms:** [Certification Package](../definitions/#certification-package){ data-preview }, [Significant Change](../definitions/#significant-change){ data-preview }
@@ -213,7 +227,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 
 !!! quote ""
-    Providers MAY notify necessary parties in a variety of ways as long as the mechanism for notification is clearly documented in the FedRAMP Certification package and easily accessible.
+    Providers MAY notify necessary parties in a variety of ways as long as the mechanism for notification is clearly documented in the FedRAMP Certification Package and easily accessible.
 
 
     ---
@@ -241,13 +255,20 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
     ---
 
-    _**Note:** Procedures for emergency changes should be documented in the FedRAMP Certification package._
+    _**Note:** Procedures for emergency changes should be documented in the FedRAMP Certification Package._
 
     ---
     **Terms:** [All Necessary Parties](../definitions/#all-necessary-parties){ data-preview }, [Certification Package](../definitions/#certification-package){ data-preview }, [Incident](../definitions/#incident){ data-preview }, [Significant Change](../definitions/#significant-change){ data-preview }, [Transformative Change](../definitions/#transformative-change){ data-preview }
 ## Adaptive Changes {#adaptive-changes}
 
 These rules apply to all adaptive significant changes.
+
+<div class="subset-applicability" role="group" aria-label="Applicability">
+<span class="subset-applicability__group subset-applicability__group--types"><span class="subset-applicability__label">Type:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">20x</span><span class="subset-applicability__tag">Rev5</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--paths"><span class="subset-applicability__label">Path:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Program</span><span class="subset-applicability__tag">Agency</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--classes"><span class="subset-applicability__label">Class:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Class B</span><span class="subset-applicability__tag">Class C</span><span class="subset-applicability__tag">Class D</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--affects"><span class="subset-applicability__label">Audience:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Providers</span></span></span>
+</div>
 
 ### Notification Requirements
 
@@ -259,7 +280,7 @@ These rules apply to all adaptive significant changes.
 
 
 !!! warning "This FRR includes a notification requirement!"
-    - Notify All Necessary Parties by update using FedRAMP Certification Data.
+    - Notify All Necessary Parties via an update: FedRAMP Certification Data.
 
 
 !!! quote ""
@@ -312,6 +333,13 @@ These rules apply to all adaptive significant changes.
 ## Routine Recurring Changes {#routine-recurring-changes}
 
 These rules apply to all routine recurring significant changes.
+
+<div class="subset-applicability" role="group" aria-label="Applicability">
+<span class="subset-applicability__group subset-applicability__group--types"><span class="subset-applicability__label">Type:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">20x</span><span class="subset-applicability__tag">Rev5</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--paths"><span class="subset-applicability__label">Path:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Program</span><span class="subset-applicability__tag">Agency</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--classes"><span class="subset-applicability__label">Class:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Class B</span><span class="subset-applicability__tag">Class C</span><span class="subset-applicability__tag">Class D</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--affects"><span class="subset-applicability__label">Audience:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Providers</span></span></span>
+</div>
 
 ### No Notification Requirements
 
@@ -397,6 +425,13 @@ These rules apply to all routine recurring significant changes.
 
 These rules apply to all transformative significant changes.
 
+<div class="subset-applicability" role="group" aria-label="Applicability">
+<span class="subset-applicability__group subset-applicability__group--types"><span class="subset-applicability__label">Type:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">20x</span><span class="subset-applicability__tag">Rev5</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--paths"><span class="subset-applicability__label">Path:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Program</span><span class="subset-applicability__tag">Agency</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--classes"><span class="subset-applicability__label">Class:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Class B</span><span class="subset-applicability__tag">Class C</span><span class="subset-applicability__tag">Class D</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--affects"><span class="subset-applicability__label">Audience:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Providers</span></span></span>
+</div>
+
 ### Notification of Initial Plans
 
 ??? abstract "SCN-TRF-NIP"
@@ -407,7 +442,7 @@ These rules apply to all transformative significant changes.
 
 
 !!! warning "This FRR includes a notification requirement!"
-    - Notify All Necessary Parties by update using FedRAMP Certification Data.
+    - Notify All Necessary Parties via an update: FedRAMP Certification Data.
 
 
 !!! quote ""
@@ -428,7 +463,7 @@ These rules apply to all transformative significant changes.
 
 
 !!! warning "This FRR includes a notification requirement!"
-    - Notify All Necessary Parties by update using FedRAMP Certification Data.
+    - Notify All Necessary Parties via an update: FedRAMP Certification Data.
 
 
 !!! quote ""
@@ -449,7 +484,7 @@ These rules apply to all transformative significant changes.
 
 
 !!! warning "This FRR includes a notification requirement!"
-    - Notify All Necessary Parties by update using FedRAMP Certification Data.
+    - Notify All Necessary Parties via an update: FedRAMP Certification Data.
 
 
 !!! quote ""
@@ -470,7 +505,7 @@ These rules apply to all transformative significant changes.
 
 
 !!! warning "This FRR includes a notification requirement!"
-    - Notify All Necessary Parties by update using FedRAMP Certification Data.
+    - Notify All Necessary Parties via an update: FedRAMP Certification Data.
 
 
 !!! quote ""
@@ -504,7 +539,7 @@ These rules apply to all transformative significant changes.
 
     ---
 
-    _**Note:** This requirement is focused on service documentation like user guides, information listed in the marketplace, and other such materials; it does not require updating the system security plan or FedRAMP Certification package._
+    _**Note:** This requirement is focused on service documentation like user guides, information listed in the marketplace, and other such materials; it does not require updating the system security plan or FedRAMP Certification Package._
 
     ---
     **Terms:** [Certification Package](../definitions/#certification-package){ data-preview }, [Transformative Change](../definitions/#transformative-change){ data-preview }

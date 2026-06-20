@@ -10,6 +10,20 @@ tags:
 
 This ruleset explains the expectations for independent verification and validation assessments.
 
+!!! info "Effective Date(s) & Overall Applicability for 20x"
+    - **Required** (Consolidated Rules for 2026)
+    - **Optional Adoption:** 2026-07-04
+    - **Obtain:** 2026-07-04
+    - **Maintain:** 2027-01-01
+    - **Grace Ends:** On the first FedRAMP independent assessment completed after 2027-01-01
+
+!!! info "Effective Date(s) & Overall Applicability for Rev5"
+    - **Required** (Consolidated Rules for 2026)
+    - **Optional Adoption:** 2026-07-04
+    - **Obtain:** 2027-01-01
+    - **Maintain:** 2027-01-01
+    - **Grace Ends:** On the first FedRAMP independent assessment completed after 2027-01-01
+
 
 
 ---
@@ -18,6 +32,13 @@ This ruleset explains the expectations for independent verification and validati
 ## General Independent Assessor Responsibilities {#general-independent-assessor-responsibilities}
 
 These rules apply to independent assessment services supporting all FedRAMP Certification types.
+
+<div class="subset-applicability" role="group" aria-label="Applicability">
+<span class="subset-applicability__group subset-applicability__group--types"><span class="subset-applicability__label">Type:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">20x</span><span class="subset-applicability__tag">Rev5</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--paths"><span class="subset-applicability__label">Path:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Program</span><span class="subset-applicability__tag">Agency</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--classes"><span class="subset-applicability__label">Class:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Class B</span><span class="subset-applicability__tag">Class C</span><span class="subset-applicability__tag">Class D</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--affects"><span class="subset-applicability__label">Audience:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Assessors</span></span></span>
+</div>
 
 ### Verify Implementation
 
@@ -31,11 +52,15 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 
 !!! quote ""
-    Assessors MUST verify that the measures implemented by the cloud service offering matches the  measures they documented to meet FedRAMP Practices.
+    Assessors MUST verify that the measures implemented by the cloud service offering matches the measures they documented to meet FedRAMP Practices.
 
 
     ---
-    **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [FedRAMP Practices](../../../definitions/#fedramp-practices){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
+
+    _**Note:** This requires reviewing the actual measures themselves at a technical level, such as reviewing underlying code as appropriate; don't simply review documentation or screenshots._
+
+    ---
+    **Terms:** [Cloud Service Offering](../../definitions/#cloud-service-offering){ data-preview }, [FedRAMP Practices](../../definitions/#fedramp-practices){ data-preview }, [Verification](../../definitions/#verification){ data-preview }
 ### Validate Effectiveness
 
 ??? abstract "IVV-IAS-VEF"
@@ -52,7 +77,11 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 
     ---
-    **Terms:** [FedRAMP Practices](../../../definitions/#fedramp-practices){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }
+
+    _**Note:** This requires reviewing the actual measures themselves at a technical level, such as reviewing underlying code as appropriate; don't simply review documentation or screenshots._
+
+    ---
+    **Terms:** [FedRAMP Practices](../../definitions/#fedramp-practices){ data-preview }, [Validation](../../definitions/#validation){ data-preview }
 ### Assessment Summary
 
 ??? abstract "IVV-IAS-SUM"
@@ -65,7 +94,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 
 !!! quote ""
-    Assessors MUST supply the provider with a high-level summary of their assessment process and findings for each FedRAMP Rule, control, and Key Security Indicator; this summary will be included by the provider in the FedRAMP Security Decision Record for the cloud service offering.
+    Assessors MUST supply the provider with a high-level summary of their assessment process and findings for each FedRAMP Practice; this summary will be included by the provider in the FedRAMP Security Decision Record for the cloud service offering.
 
 
     ---
@@ -73,7 +102,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
     _**Note:** FedRAMP does not require a separate Security Assessment Plan or Security Assessment Report for FedRAMP 20x or FedRAMP Rev5 Certifications; this information is expected to be included in the Security Decision Record by the cloud service provider._
 
     ---
-    **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Security Decision Record (SDR)](../../../definitions/#security-decision-record-sdr){ data-preview }
+    **Terms:** [Cloud Service Offering](../../definitions/#cloud-service-offering){ data-preview }, [FedRAMP Practices](../../definitions/#fedramp-practices){ data-preview }, [Security Decision Record (SDR)](../../definitions/#security-decision-record-sdr){ data-preview }
 ### Overall Summary of Assessment
 
 ??? abstract "IVV-IAS-OSA"
@@ -94,7 +123,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
     _**Note:** FedRAMP does not supply a template for this summary and encourages independent assessment services to optimize for the best customer experience in the creation of these materials._
 
     ---
-    **Terms:** [Certification Package](../../../definitions/#certification-package){ data-preview }, [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
+    **Terms:** [Certification Package](../../definitions/#certification-package){ data-preview }, [Cloud Service Offering](../../definitions/#cloud-service-offering){ data-preview }, [Validation](../../definitions/#validation){ data-preview }, [Verification](../../definitions/#verification){ data-preview }
 ### Verify Inclusion in Certification Package
 
 ??? abstract "IVV-IAS-VIP"
@@ -115,7 +144,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
     _**Note:** This rule is related to [IVV-CSO-ICP (Inclusion in Certification Package)](../../reference/independent-verification-and-validation.md#inclusion-in-certification-package){ data-preview }._
 
     ---
-    **Terms:** [Certification Package](../../../definitions/#certification-package){ data-preview }, [FedRAMP Independent Assessment](../../../definitions/#fedramp-independent-assessment){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
+    **Terms:** [Certification Package](../../definitions/#certification-package){ data-preview }, [FedRAMP Independent Assessment](../../definitions/#fedramp-independent-assessment){ data-preview }, [Verification](../../definitions/#verification){ data-preview }
 ### Engage Provider Experts
 
 ??? abstract "IVV-IAS-EPX"
@@ -147,4 +176,4 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 
     ---
-    **Terms:** [Likely](../../../definitions/#likely){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
+    **Terms:** [Likely](../../definitions/#likely){ data-preview }, [Validation](../../definitions/#validation){ data-preview }, [Verification](../../definitions/#verification){ data-preview }

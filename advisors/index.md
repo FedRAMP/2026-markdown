@@ -1,21 +1,14 @@
 ---
 title: "Advisors"
 icon: material/head-question-outline
-description: "An overview of the advisory services section."
-purpose: "Helps advisory services understand how to navigate effectively."
-google_doc: ""
+hide:
+  - toc
 picto:
   source: person
   status: stable
 ---
 
 <span class="picto">:lucide-person-standing:{ .person title="This content was written by a human just for this page." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
-
-??? info inline end "Page Info"
-
-    **Description:** An overview of the advisory services section.
-    
-    **Purpose:** Helps advisory services understand how to navigate effectively.
 
 # Advisory Services
 

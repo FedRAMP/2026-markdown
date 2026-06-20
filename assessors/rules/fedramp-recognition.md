@@ -8,7 +8,14 @@ tags:
 
 # FedRAMP Recognition of Independent Assessment Services
 
-The FedRAMP Recognition of Independent Assessment Services rules explain the requirements for assessors to obtain and maintain FedRAMP Recognition in order to support the FedRAMP Certification process.
+The FedRAMP Recognition of independent assessment services rules explain the requirements for assessors to obtain and maintain FedRAMP Recognition in order to support the FedRAMP Certification process.
+
+!!! info "Effective Date(s) & Overall Applicability for 20x and Rev5"
+    - **Required** (Consolidated Rules for 2026)
+    - **Optional Adoption:** 2026-07-04
+    - **Obtain:** 2026-07-04
+    - **Maintain:** 2026-07-04
+    - **Grace Ends:** 2026-07-04
 
 
 
@@ -18,6 +25,10 @@ The FedRAMP Recognition of Independent Assessment Services rules explain the req
 ## General Independent Assessor Responsibilities {#general-independent-assessor-responsibilities}
 
 These rules apply to independent assessment services seeking to obtain or maintain FedRAMP Recognition.
+
+<div class="subset-applicability" role="group" aria-label="Applicability">
+<span class="subset-applicability__group subset-applicability__group--affects"><span class="subset-applicability__label">Audience:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Assessors</span></span></span>
+</div>
 
 ### A2LA Accreditation
 
@@ -39,7 +50,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
     _**Note:** FedRAMP will remove FedRAMP Recognition immediately after the American Association for Laboratory Accreditation notifies FedRAMP that an assessor's accreditation has lapsed._
 
     ---
-    **Terms:** [FedRAMP Recognized](../../../definitions/#fedramp-recognized){ data-preview }
+    **Terms:** [FedRAMP Recognized](../../definitions/#fedramp-recognized){ data-preview }
 ### Actually Do Assessments
 
 ??? abstract "REC-IAS-ADA"
@@ -66,7 +77,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
     _**Note:** For a newly FedRAMP Recognized Assessor, this rule applies beginning on the initial date of FedRAMP Recognition if that date is later than 2026-06-01._
 
     ---
-    **Terms:** [FedRAMP Recognized](../../../definitions/#fedramp-recognized){ data-preview }
+    **Terms:** [FedRAMP Recognized](../../definitions/#fedramp-recognized){ data-preview }
 ### Policy and Standards Compliance
 
 ??? abstract "REC-IAS-PSC"
@@ -86,7 +97,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
     **Reference:** [A2LA Public Documents](https://portal.a2la.org/documents/)
 
     ---
-    **Terms:** [FedRAMP Recognized](../../../definitions/#fedramp-recognized){ data-preview }
+    **Terms:** [FedRAMP Recognized](../../definitions/#fedramp-recognized){ data-preview }
 ### Annual Surveillance Assessment
 
 ??? abstract "REC-IAS-ANR"
@@ -101,14 +112,14 @@ These rules apply to independent assessment services seeking to obtain or mainta
 !!! quote ""
     Assessors MUST achieve a favorable annual surveillance assessment by the American Association for Laboratory Accreditation (A2LA) to maintain FedRAMP Recognition.
 
-    **Timeframe:** 1 years
+    **Timeframe:** 1 year
 
     !!! warning "Corrective Actions"
         - Assessors have 75 days to complete corrective actions for nonconformances identified by the American Association for Laboratory Accreditation (A2LA)during a surveillance assessment. If an assessor exceeds the 75 day resolution timeframe, A2LA will supply FedRAMP with a narrative of the assessor's current status, the assessor will be designated as in Remediation in the FedRAMP Marketplace, and the assessor must supply a corrective action plan to FedRAMP.
 
 
     ---
-    **Terms:** [FedRAMP Recognized](../../../definitions/#fedramp-recognized){ data-preview }
+    **Terms:** [FedRAMP Recognized](../../definitions/#fedramp-recognized){ data-preview }
 ### Full A2LA Reassessment
 
 ??? abstract "REC-IAS-RAS"
@@ -130,7 +141,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
 
 
     ---
-    **Terms:** [FedRAMP Recognized](../../../definitions/#fedramp-recognized){ data-preview }
+    **Terms:** [FedRAMP Recognized](../../definitions/#fedramp-recognized){ data-preview }
 ### Re-entry after Revocation
 
 ??? abstract "REC-IAS-RAR"
@@ -151,7 +162,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
     _**Note:** A revocation may require extended time in revoked status while the assessor demonstrates acceptable performance in the A2LA Cybersecurity Inspection Body Program before seeking FedRAMP Recognition again._
 
     ---
-    **Terms:** [FedRAMP Recognized](../../../definitions/#fedramp-recognized){ data-preview }
+    **Terms:** [FedRAMP Recognized](../../definitions/#fedramp-recognized){ data-preview }
 ### Roles and Qualifications
 
 ??? abstract "REC-IAS-RQU"
@@ -180,13 +191,13 @@ These rules apply to independent assessment services seeking to obtain or mainta
 
 
 !!! warning "This FRR includes a notification requirement!"
-    - Notify FedRAMP by form using https://help.fedramp.gov/forms/assessors/foci-declaration.
+    - Notify FedRAMP via form: [FedRAMP Foreign Ownership, Control, or Influence Declaration Form](https://help.fedramp.gov/forms/assessors/foci-declaration).
 
 
 !!! quote ""
     Assessors MUST report information relating to any foreign interest, foreign influence, or foreign control of the independent assessment service to FedRAMP annually.
 
-    **Timeframe:** 1 years
+    **Timeframe:** 1 year
 
 
 ### Changes in Foreign Interest
@@ -199,7 +210,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
 
 
 !!! warning "This FRR includes a notification requirement!"
-    - Notify FedRAMP by form using https://help.fedramp.gov/forms/assessors/foci-declaration.
+    - Notify FedRAMP via form: [FedRAMP Foreign Ownership, Control, or Influence Declaration Form](https://help.fedramp.gov/forms/assessors/foci-declaration).
 
 
 !!! quote ""
@@ -232,7 +243,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
 
 
     ---
-    **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }
+    **Terms:** [Cloud Service Offering](../../definitions/#cloud-service-offering){ data-preview }
 ### Corrective Action Plan
 
 ??? abstract "REC-IAS-CAP"
@@ -284,4 +295,4 @@ These rules apply to independent assessment services seeking to obtain or mainta
 
 
     ---
-    **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [FedRAMP Independent Assessment](../../../definitions/#fedramp-independent-assessment){ data-preview }
+    **Terms:** [Cloud Service Offering](../../definitions/#cloud-service-offering){ data-preview }, [FedRAMP Independent Assessment](../../definitions/#fedramp-independent-assessment){ data-preview }

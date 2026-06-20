@@ -1,21 +1,14 @@
 ---
 title: "Assessors"
 icon: material/eye-check-outline
-description: "An explanation of what Independent Assessors are, why this term is used instead of 3PAOs now, and the general role of the assessor as now performing independent verification and validation."
-purpose: "Folks know why it's IAS instead of 3PAO and how to dig into this section."
-google_doc: ""
+hide:
+  - toc
 picto:
   source: person
   status: stable
 ---
 
 <span class="picto">:lucide-person-standing:{ .person title="This content was written by a human just for this page." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
-
-??? info inline end "Page Info"
-
-    **Description:** An explanation of what Independent Assessors are, why this term is used instead of 3PAOs now, and the general role of the assessor as now performing independent verification and validation.
-    
-    **Purpose:** Folks know why it's IAS instead of 3PAO and how to dig into this section.
 
 # Independent Assessment Services
 
@@ -37,7 +30,7 @@ This section helps independent assessment services understand the expectations f
 
     Learn how to get involved with the FedRAMP Community and what kind of support FedRAMP offers in public vs in private.
 
-    [Getting Support](support.md){ data-preview }
+    [Getting Support](../support.md){ data-preview }
 
 -   :material-update:{ .xl .middle .empty } **Been here awhile?**
 

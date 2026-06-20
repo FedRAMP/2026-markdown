@@ -1,19 +1,12 @@
 ---
-description: "A broad overview of how agencies leverage (use) FedRAMP Certifications within their information security programs for cloud services."
-purpose: "Introduces agencies to the basic concepts and expectations of using FedRAMP Certifications, highlighting the need to treat cloud services as a third-party service that is used in an agency information system (not something that becomes an agency information system itself). Also make sure they are aware of government-wide implications."
-google_doc: ""
+hide:
+  - toc
 picto:
   source: person
   status: stable
 ---
 
 <span class="picto">:lucide-person-standing:{ .person title="This content was written by a human just for this page." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
-
-??? info inline end "Page Info"
-
-    **Description:** A broad overview of how agencies leverage (use) FedRAMP Certifications within their information security programs for cloud services.
-    
-    **Purpose:** Introduces agencies to the basic concepts and expectations of using FedRAMP Certifications, highlighting the need to treat cloud services as a third-party service that is used in an agency information system (not something that becomes an agency information system itself). Also make sure they are aware of government-wide implications.
 
 # Using a FedRAMP Certified Cloud Service
 
@@ -31,7 +24,7 @@ In practice, agencies should:
 
 1. Confirm that the planned use is within the [scope of FedRAMP](../../scope.md){ data-preview } and that the agency is using the FedRAMP Certified version of the cloud service offering.
 
-2. Review the cloud service offering’s [FedRAMP Certification package](packages/index.md){ data-preview }, including the certification type, certification class, inherited controls, provider responsibilities, secure configuration guidance, and ongoing certification data.
+2. Review the cloud service offering’s [FedRAMP Certification Package](packages/index.md){ data-preview }, including the certification type, certification class, inherited controls, provider responsibilities, secure configuration guidance, and ongoing certification data.
 
 3. Determine whether the service is appropriate for the agency’s information, mission, integrations, and risk tolerance. [Certification classes](classes.md){ data-preview } help agencies understand the amount and rigor of certification information available, but they do not replace the agency’s own security categorization or risk decision.
 

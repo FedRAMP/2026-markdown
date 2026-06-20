@@ -1,19 +1,10 @@
 ---
-description: "How agencies can get support directly from FedRAMP when they need it."
-purpose: "Helps folks know who to reach out to and when, where to go for more info, and why it's okay to email us."
-google_doc: ""
 picto:
   source: person
   status: stable
 ---
 
 <span class="picto">:lucide-person-standing:{ .person title="This content was written by a human just for this page." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
-
-??? info inline end "Page Info"
-
-    **Description:** How agencies can get support directly from FedRAMP when they need it.
-    
-    **Purpose:** Helps folks know who to reach out to and when, where to go for more info, and why it's okay to email us.
 
 # Getting Support from FedRAMP
 

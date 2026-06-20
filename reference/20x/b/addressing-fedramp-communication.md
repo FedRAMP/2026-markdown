@@ -29,6 +29,13 @@ The Addressing FedRAMP Communication rules (formerly FedRAMP Security Inbox) ens
 
 These rules apply to FedRAMP when communicating with cloud service providers.
 
+<div class="subset-applicability" role="group" aria-label="Applicability">
+<span class="subset-applicability__group subset-applicability__group--types"><span class="subset-applicability__label">Type:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">20x</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--paths"><span class="subset-applicability__label">Path:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Program</span><span class="subset-applicability__tag">Agency</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--classes"><span class="subset-applicability__label">Class:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Class B</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--affects"><span class="subset-applicability__label">Audience:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">FedRAMP</span></span></span>
+</div>
+
 ### Verified Emails
 
 ??? abstract "AFC-FRP-VRE"
@@ -98,7 +105,7 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 
 !!! warning "This FRR includes a notification requirement!"
-    - Notify Everyone by web using https://www.fedramp.gov/notices.
+    - Notify Everyone via the web: [FedRAMP Public Notices](https://www.fedramp.gov/notices).
 
 
 !!! quote ""
@@ -190,6 +197,13 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 These rules apply to providers with any type of FedRAMP Certification.
 
+<div class="subset-applicability" role="group" aria-label="Applicability">
+<span class="subset-applicability__group subset-applicability__group--types"><span class="subset-applicability__label">Type:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">20x</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--paths"><span class="subset-applicability__label">Path:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Program</span><span class="subset-applicability__tag">Agency</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--classes"><span class="subset-applicability__label">Class:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Class B</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--affects"><span class="subset-applicability__label">Audience:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Providers</span></span></span>
+</div>
+
 ### Maintain a FedRAMP Security Inbox
 
 ??? abstract "AFC-CSO-INB"
@@ -226,7 +240,7 @@ These rules apply to providers with any type of FedRAMP Certification.
 
 
 !!! warning "This FRR includes a notification requirement!"
-    - Notify FedRAMP by form using https://help.fedramp.gov/hc/en-us/requests/new?ticket_form_id=51829466938011.
+    - Notify FedRAMP via form: [\[CSP\] Notification of Changes](https://help.fedramp.gov/hc/en-us/requests/new?ticket_form_id=51829466938011).
 
 
 !!! quote ""

@@ -10,12 +10,6 @@ picto:
 
 <span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
 
-??? info inline end "Page Info"
-
-    **Description:** This section contains the FedRAMP 20x rulesets as standalone references.
-    
-    **Purpose:** This content allows folks to see the 20x rules together without them broken apart by stakeholder.
-
 # 20x Ruleset Reference
 
 This section contains the FedRAMP 20x rulesets with content that applies to one or more 20x classes.
@@ -31,7 +25,7 @@ This section contains the FedRAMP 20x rulesets with content that applies to one 
 | IEC | Incident Evaluation and Communication<br>[Class B](b/incident-evaluation-and-communication.md)<br>[Class C](c/incident-evaluation-and-communication.md) | Stable | Subsets: 2<br>Rules: 8 | 2026-06-23 |
 | IVV | Independent Verification and Validation<br>[Class B](b/independent-verification-and-validation.md)<br>[Class C](c/independent-verification-and-validation.md) | Stable | Subsets: 3<br>Rules: 16 | 2026-06-23 |
 | MAS | Minimum Assessment Scope<br>[Class B](b/minimum-assessment-scope.md)<br>[Class C](c/minimum-assessment-scope.md) | Stable | Subsets: 1<br>Rules: 5 | 2026-06-23 |
-| MKT | Marketplace Listing<br>[Class A](a/marketplace-listing.md)<br>[Class B](b/marketplace-listing.md)<br>[Class C](c/marketplace-listing.md) | Stable | Subsets: 2<br>Rules: 3 | 2026-06-23 |
+| MKT | Marketplace Listing<br>[Class A](a/marketplace-listing.md)<br>[Class B](b/marketplace-listing.md)<br>[Class C](c/marketplace-listing.md) | Stable | Subsets: 5<br>Rules: 12 | 2026-06-23 |
 | SCG | Secure Configuration Guide<br>[Class B](b/secure-configuration-guide.md)<br>[Class C](c/secure-configuration-guide.md) | Stable | Subsets: 2<br>Rules: 9 | 2026-06-23 |
 | SCN | Significant Change Notification<br>[Class B](b/significant-change-notification.md)<br>[Class C](c/significant-change-notification.md) | Stable | Subsets: 5<br>Rules: 17 | 2026-06-23 |
 | SDR | Security Decision Record<br>[Class B](b/security-decision-record.md)<br>[Class C](c/security-decision-record.md) | Stable | Subsets: 2<br>Rules: 4 | 2026-06-23 |

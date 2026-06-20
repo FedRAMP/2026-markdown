@@ -10,12 +10,6 @@ picto:
 
 <span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
 
-??? info inline end "Page Info"
-
-    **Description:** This section contains the FedRAMP Rev5 Class D rulesets as standalone references.
-    
-    **Purpose:** This content allows folks to see Rev5 Class D rules together without them broken apart by stakeholder.
-
 # Rev5 Class D Ruleset Reference
 
 This section contains the FedRAMP Rev5 rulesets with content that applies to Rev5 Class D.
@@ -31,7 +25,7 @@ This section contains the FedRAMP Rev5 rulesets with content that applies to Rev
 | IEC | [Incident Evaluation and Communication](incident-evaluation-and-communication.md) | Stable | Subsets: 2<br>Rules: 8 | 2026-06-23 |
 | IVV | [Independent Verification and Validation](independent-verification-and-validation.md) | Stable | Subsets: 3<br>Rules: 19 | 2026-06-23 |
 | MAS | [Minimum Assessment Scope](minimum-assessment-scope.md) | Stable | Subsets: 1<br>Rules: 5 | 2026-06-23 |
-| MKT | [Marketplace Listing](marketplace-listing.md) | Stable | Subsets: 2<br>Rules: 3 | 2026-06-23 |
+| MKT | [Marketplace Listing](marketplace-listing.md) | Stable | Subsets: 5<br>Rules: 12 | 2026-06-23 |
 | SCG | [Secure Configuration Guide](secure-configuration-guide.md) | Stable | Subsets: 2<br>Rules: 9 | 2026-06-23 |
 | SCN | [Significant Change Notification](significant-change-notification.md) | Stable | Subsets: 5<br>Rules: 17 | 2026-06-23 |
 | SDR | [Security Decision Record](security-decision-record.md) | Stable | Subsets: 2<br>Rules: 4 | 2026-06-23 |

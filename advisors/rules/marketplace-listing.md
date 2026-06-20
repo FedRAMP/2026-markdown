@@ -10,6 +10,13 @@ tags:
 
 The Marketplace Listing rules define how FedRAMP decides which cloud service offerings, assessors, and advisors may be listed in the FedRAMP Marketplace. These rules help agencies and other customers rely on the Marketplace as a consistent source of eligible services and supporting organizations, while requiring listed organizations to supply accurate, accessible, and machine-readable information.
 
+!!! info "Effective Date(s) & Overall Applicability for 20x and Rev5"
+    - **Required** (Consolidated Rules for 2026)
+    - **Optional Adoption:** 2026-07-04
+    - **Obtain:** 2026-07-04
+    - **Maintain:** 2026-07-04
+    - **Grace Ends:** 2026-07-04
+
 
 
 ---
@@ -18,6 +25,10 @@ The Marketplace Listing rules define how FedRAMP decides which cloud service off
 ## General Advisor Responsibilities {#general-advisor-responsibilities}
 
 These rules apply to consulting and advisory services seeking a listing in the FedRAMP Marketplace.
+
+<div class="subset-applicability" role="group" aria-label="Applicability">
+<span class="subset-applicability__group subset-applicability__group--affects"><span class="subset-applicability__label">Audience:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Advisors</span></span></span>
+</div>
 
 ### Website Requirements for Advisors
 

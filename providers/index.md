@@ -1,21 +1,14 @@
 ---
 title: "Providers"
 icon: material/cloud-lock-outline
-description: "Welcome to providers and a general overview of the expectations for FedRAMP and how to navigate this entire section."
-purpose: "Providers will know how to navigate the consolidated rules for 2026."
-google_doc: ""
+hide:
+  - toc
 picto:
   source: person
   status: stable
 ---
 
 <span class="picto">:lucide-person-standing:{ .person title="This content was written by a human just for this page." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
-
-??? info inline end "Page Info"
-
-    **Description:** Welcome to providers and a general overview of the expectations for FedRAMP and how to navigate this entire section.
-    
-    **Purpose:** Providers will know how to navigate the consolidated rules for 2026.
 
 # Cloud Service Providers
 

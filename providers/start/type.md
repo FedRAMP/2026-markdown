@@ -1,19 +1,10 @@
 ---
-description: "Overview of the certification types and how to choose one, with a focus on choosing since there's a lot more information in the Overview section on types."
-purpose: "Folks will know they should go 20x unless they want Class D before early 2027 or they run their own infrastructure."
-google_doc: ""
 picto:
   source: person
   status: stable
 ---
 
 <span class="picto">:lucide-person-standing:{ .person title="This content was written by a human just for this page." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
-
-??? info inline end "Page Info"
-
-    **Description:** Overview of the certification types and how to choose one, with a focus on choosing since there's a lot more information in the Overview section on types.
-    
-    **Purpose:** Folks will know they should go 20x unless they want Class D before early 2027 or they run their own infrastructure.
 
 # Choosing a Certification Type
 

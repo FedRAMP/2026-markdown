@@ -1,19 +1,10 @@
 ---
-description: "Explains FedRAMP Rev5 packages, how they're laid out, and how they are typically distributed including expectations for high packages vs others on USDA connect, and talks about changes that are happening with the CDS."
-purpose: "Folks understand what is in a Rev5 package and how to get ahold of them plus what is changing with CDS."
-google_doc: ""
 picto:
   source: person
   status: stable
 ---
 
 <span class="picto">:lucide-person-standing:{ .person title="This content was written by a human just for this page." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
-
-??? info inline end "Page Info"
-
-    **Description:** Explains FedRAMP Rev5 packages, how they're laid out, and how they are typically distributed including expectations for high packages vs others on USDA connect, and talks about changes that are happening with the CDS.
-    
-    **Purpose:** Folks understand what is in a Rev5 package and how to get ahold of them plus what is changing with CDS.
 
 # Using FedRAMP Rev5 Certification Packages
 
@@ -37,11 +28,11 @@ Agencies should generally expect these kinds of materials:
 
 2. **Security Decision Record:** A maintained record of the provider's security decisions, including how applicable Rev5 controls are addressed, verified, validated, and independently assessed.
 
-3. **Rev5 control information:** Provider documentation about applicable controls, implementation status, organization-defined parameters, inheritance, validation, assessment results, and control-specific artifacts.
+3. **Rev5 Controls:** Provider documentation about applicable controls, implementation status, organization-defined parameters, inheritance, validation, assessment results, and control-specific artifacts.
 
 4. **Secure Configuration Guide:** Instructions that help agencies configure the service securely, especially for administrative accounts, privileged accounts, and security-related settings.
 
-5. **Independent assessment information:** Materials from the FedRAMP Recognized independent assessment service that support the quality and completeness of the provider's Rev5 implementation.
+5. **Independent Assessment:** Materials from the FedRAMP Recognized independent assessment service that support the quality and completeness of the provider's Rev5 implementation.
 
 6. **Ongoing Certification Data:** Current information that supports ongoing agency authorization decisions, including Ongoing Certification Reports, vulnerability information, significant change information, incident-related information, and other required updates.
 

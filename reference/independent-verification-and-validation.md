@@ -40,6 +40,13 @@ This ruleset explains the expectations for independent verification and validati
 
 These rules apply to cloud service providers obtaining and maintaining any FedRAMP Certification.
 
+<div class="subset-applicability" role="group" aria-label="Applicability">
+<span class="subset-applicability__group subset-applicability__group--types"><span class="subset-applicability__label">Type:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">20x</span><span class="subset-applicability__tag">Rev5</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--paths"><span class="subset-applicability__label">Path:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Program</span><span class="subset-applicability__tag">Agency</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--classes"><span class="subset-applicability__label">Class:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Class B</span><span class="subset-applicability__tag">Class C</span><span class="subset-applicability__tag">Class D</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--affects"><span class="subset-applicability__label">Audience:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Providers</span></span></span>
+</div>
+
 ### FedRAMP Independent Assessments
 
 ??? abstract "IVV-CSO-FIA"
@@ -53,24 +60,24 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 
 !!! quote ""
     === "Class A"
-        Providers with Class A Certifications MAY persistently complete an independent verification and validation assessment of all applicable FedRAMP Rules with a FedRAMP Recognized independent assessment service OR FedRAMP at least once per year; this is a FedRAMP independent assessment.
+        Providers with Class A Certifications MAY persistently complete an independent verification and validation assessment of all applicable FedRAMP rules with a FedRAMP Recognized independent assessment service OR FedRAMP at least once per year; this is a FedRAMP independent assessment.
 
-        **Timeframe:** 1 years
+        **Timeframe:** 1 year
 
     === "Class B"
-        Providers with Class B Certifications MUST persistently complete an independent verification and validation assessment of all applicable FedRAMP Rules with a FedRAMP Recognized independent assessment service OR FedRAMP at least once per year; this is a FedRAMP independent assessment.
+        Providers with Class B Certifications MUST persistently complete an independent verification and validation assessment of all applicable FedRAMP rules with a FedRAMP Recognized independent assessment service OR FedRAMP at least once per year; this is a FedRAMP independent assessment.
 
-        **Timeframe:** 1 years
+        **Timeframe:** 1 year
 
     === "Class C"
-        Providers with Class C Certifications MUST persistently complete an independent verification and validation assessment of all applicable FedRAMP Rules with a FedRAMP Recognized independent assessment service OR FedRAMP at least once per year; this is a FedRAMP independent assessment.
+        Providers with Class C Certifications MUST persistently complete an independent verification and validation assessment of all applicable FedRAMP rules with a FedRAMP Recognized independent assessment service OR FedRAMP at least once per year; this is a FedRAMP independent assessment.
 
-        **Timeframe:** 1 years
+        **Timeframe:** 1 year
 
     === "Class D"
-        Providers with Class D Certifications MUST persistently complete an independent verification and validation assessment of all applicable FedRAMP Rules with a FedRAMP Recognized independent assessment service OR FedRAMP at least once per year; this is a FedRAMP independent assessment.
+        Providers with Class D Certifications MUST persistently complete an independent verification and validation assessment of all applicable FedRAMP rules with a FedRAMP Recognized independent assessment service OR FedRAMP at least once per year; this is a FedRAMP independent assessment.
 
-        **Timeframe:** 1 years
+        **Timeframe:** 1 year
 
 
     ---
@@ -224,6 +231,13 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 
 These rules apply to independent assessment services supporting all FedRAMP Certification types.
 
+<div class="subset-applicability" role="group" aria-label="Applicability">
+<span class="subset-applicability__group subset-applicability__group--types"><span class="subset-applicability__label">Type:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">20x</span><span class="subset-applicability__tag">Rev5</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--paths"><span class="subset-applicability__label">Path:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Program</span><span class="subset-applicability__tag">Agency</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--classes"><span class="subset-applicability__label">Class:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Class B</span><span class="subset-applicability__tag">Class C</span><span class="subset-applicability__tag">Class D</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--affects"><span class="subset-applicability__label">Audience:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Assessors</span></span></span>
+</div>
+
 ### Verify Implementation
 
 ??? abstract "IVV-IAS-VIM"
@@ -236,8 +250,12 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 
 !!! quote ""
-    Assessors MUST verify that the measures implemented by the cloud service offering matches the  measures they documented to meet FedRAMP Practices.
+    Assessors MUST verify that the measures implemented by the cloud service offering matches the measures they documented to meet FedRAMP Practices.
 
+
+    ---
+
+    _**Note:** This requires reviewing the actual measures themselves at a technical level, such as reviewing underlying code as appropriate; don't simply review documentation or screenshots._
 
     ---
     **Terms:** [Cloud Service Offering](../definitions/#cloud-service-offering){ data-preview }, [FedRAMP Practices](../definitions/#fedramp-practices){ data-preview }, [Verification](../definitions/#verification){ data-preview }
@@ -257,6 +275,10 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 
     ---
+
+    _**Note:** This requires reviewing the actual measures themselves at a technical level, such as reviewing underlying code as appropriate; don't simply review documentation or screenshots._
+
+    ---
     **Terms:** [FedRAMP Practices](../definitions/#fedramp-practices){ data-preview }, [Validation](../definitions/#validation){ data-preview }
 ### Assessment Summary
 
@@ -270,7 +292,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 
 !!! quote ""
-    Assessors MUST supply the provider with a high-level summary of their assessment process and findings for each FedRAMP Rule, control, and Key Security Indicator; this summary will be included by the provider in the FedRAMP Security Decision Record for the cloud service offering.
+    Assessors MUST supply the provider with a high-level summary of their assessment process and findings for each FedRAMP Practice; this summary will be included by the provider in the FedRAMP Security Decision Record for the cloud service offering.
 
 
     ---
@@ -278,7 +300,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
     _**Note:** FedRAMP does not require a separate Security Assessment Plan or Security Assessment Report for FedRAMP 20x or FedRAMP Rev5 Certifications; this information is expected to be included in the Security Decision Record by the cloud service provider._
 
     ---
-    **Terms:** [Cloud Service Offering](../definitions/#cloud-service-offering){ data-preview }, [Security Decision Record (SDR)](../definitions/#security-decision-record-sdr){ data-preview }
+    **Terms:** [Cloud Service Offering](../definitions/#cloud-service-offering){ data-preview }, [FedRAMP Practices](../definitions/#fedramp-practices){ data-preview }, [Security Decision Record (SDR)](../definitions/#security-decision-record-sdr){ data-preview }
 ### Overall Summary of Assessment
 
 ??? abstract "IVV-IAS-OSA"
@@ -357,6 +379,13 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 These rules apply to providers for FedRAMP 20x Certifications.
 
+<div class="subset-applicability" role="group" aria-label="Applicability">
+<span class="subset-applicability__group subset-applicability__group--types"><span class="subset-applicability__label">Type:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">20x</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--paths"><span class="subset-applicability__label">Path:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Program</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--classes"><span class="subset-applicability__label">Class:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Class B</span><span class="subset-applicability__tag">Class C</span><span class="subset-applicability__tag">Class D</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--affects"><span class="subset-applicability__label">Audience:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Providers</span></span></span>
+</div>
+
 ### Annual Independent Assessments for 20x
 
 ??? abstract "IVV-CSX-AIA"
@@ -375,17 +404,17 @@ These rules apply to providers for FedRAMP 20x Certifications.
     === "Class B"
         Providers with 20x Class B Certifications MUST include all Key Security Indicators in a FedRAMP independent assessment at least one per year.
 
-        **Timeframe:** 1 years
+        **Timeframe:** 1 year
 
     === "Class C"
         Providers with 20x Class C Certifications MUST include all Key Security Indicators in a FedRAMP independent assessment at least one per year.
 
-        **Timeframe:** 1 years
+        **Timeframe:** 1 year
 
     === "Class D"
         Providers with 20x Class D Certifications MUST include all Key Security Indicators in a FedRAMP independent assessment at least one per year.
 
-        **Timeframe:** 1 years
+        **Timeframe:** 1 year
 
 
     ---
@@ -393,6 +422,13 @@ These rules apply to providers for FedRAMP 20x Certifications.
 ## Rev5-Specific Provider Responsibilities {#rev5-specific-provider-responsibilities}
 
 These rules apply to providers for FedRAMP Rev5 Certifications.
+
+<div class="subset-applicability" role="group" aria-label="Applicability">
+<span class="subset-applicability__group subset-applicability__group--types"><span class="subset-applicability__label">Type:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Rev5</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--paths"><span class="subset-applicability__label">Path:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Program</span><span class="subset-applicability__tag">Agency</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--classes"><span class="subset-applicability__label">Class:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Class B</span><span class="subset-applicability__tag">Class C</span><span class="subset-applicability__tag">Class D</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--affects"><span class="subset-applicability__label">Audience:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Providers</span></span></span>
+</div>
 
 ### Annual Independent Assessments for Rev5
 
@@ -409,7 +445,7 @@ These rules apply to providers for FedRAMP Rev5 Certifications.
     === "Class B"
         Providers with Rev5 Class B Certifications MUST include the following Rev5 Controls in a FedRAMP independent assessment at least once per year:
 
-        **Timeframe:** 1 years
+        **Timeframe:** 1 year
 
         1. AC-2
         1. AC-3
@@ -449,7 +485,7 @@ These rules apply to providers for FedRAMP Rev5 Certifications.
     === "Class C"
         Providers with Rev5 Class C Certifications MUST include the following Rev5 Controls in a FedRAMP independent assessment at least once per year:
 
-        **Timeframe:** 1 years
+        **Timeframe:** 1 year
 
         1. AC-2
         1. AC-2 (1)
@@ -534,7 +570,7 @@ These rules apply to providers for FedRAMP Rev5 Certifications.
     === "Class D"
         Providers with Rev5 Class D Certifications MUST include the following Rev5 Controls in a FedRAMP independent assessment at least once per year:
 
-        **Timeframe:** 1 years
+        **Timeframe:** 1 year
 
         1. AC-2
         1. AC-2 (1)

@@ -10,12 +10,6 @@ picto:
 
 <span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
 
-??? info inline end "Page Info"
-
-    **Description:** This section contains the entire Consolidated Rules for 2026 as a standalone reference for each ruleset.
-    
-    **Purpose:** This content allows folks to see the full rules together without them broken apart by stakeholder.
-
 # Complete Ruleset Reference
 
 This section of the Consolidated Rules for 2026 contains each complete FedRAMP Ruleset with all related content in a single rule as an overall reference. The individual stakeholder sections of this site contain only the specific rules that apply in different circumstances for different stakeholders, while the reference rulesets are entirely unabridged.

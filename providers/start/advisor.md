@@ -1,19 +1,10 @@
 ---
-description: "Why providers absolutely should hire advisors and some general tips on finding them."
-purpose: "Folks will know they can't do this alone and stop trying."
-google_doc: ""
 picto:
   source: person
   status: stable
 ---
 
 <span class="picto">:lucide-person-standing:{ .person title="This content was written by a human just for this page." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
-
-??? info inline end "Page Info"
-
-    **Description:** Why providers absolutely should hire advisors and some general tips on finding them.
-    
-    **Purpose:** Folks will know they can't do this alone and stop trying.
 
 # Finding an Advisor
 
@@ -58,7 +49,7 @@ FedRAMP recommends:
 
 Ensure the advisory service has the appropriate expertise and staff who can be subject matter experts on the specific components and domain of YOUR service.
 
-- Advisors are not A2LA certified, the way FedRAMP independent assessors are. Consider their other qualifications. For example:
+- Advisors are not A2LA accredited the way FedRAMP independent assessors are. Consider their other qualifications. For example:
     - Knowledge of specific platforms, third party services, or deployment models (serverless, kubernetes, etc.).
     - Expertise in self-hosted or hybrid solutions.
     - Ability to perform code review of automated validations.

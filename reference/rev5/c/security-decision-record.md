@@ -30,6 +30,13 @@ The Security Decision Record replaced a traditional System Security Plan with a 
 
 These rules apply to providers for FedRAMP Certifications of any type.
 
+<div class="subset-applicability" role="group" aria-label="Applicability">
+<span class="subset-applicability__group subset-applicability__group--types"><span class="subset-applicability__label">Type:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Rev5</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--paths"><span class="subset-applicability__label">Path:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Program</span><span class="subset-applicability__tag">Agency</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--classes"><span class="subset-applicability__label">Class:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Class C</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--affects"><span class="subset-applicability__label">Audience:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Providers</span></span></span>
+</div>
+
 ### FedRAMP Rules
 
 ??? abstract "SDR-CSO-FRR"
@@ -46,7 +53,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 
 !!! quote ""
-    Providers MUST supply a Security Decision Record, in both human-readable and JSON formats, that includes at least all of the following information for each applicable FedRAMP Rule:
+    Providers MUST supply a Security Decision Record, in both human-readable and JSON formats, that includes at least all of the following information for each applicable FedRAMP rule:
 
     1. Explanation of how the rule is followed, or an explanation of the reason and resulting risk to customers for not following the rule.
     1. Verification that the implementation is appropriate for the rule, or that the reason for not implementing is accepted by a senior official.
@@ -83,6 +90,13 @@ These rules apply to providers for FedRAMP Certifications of any type.
 ## Rev5-Specific Provider Responsibilities {#rev5-specific-provider-responsibilities}
 
 These rules apply to providers for FedRAMP Rev5 Certifications.
+
+<div class="subset-applicability" role="group" aria-label="Applicability">
+<span class="subset-applicability__group subset-applicability__group--types"><span class="subset-applicability__label">Type:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Rev5</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--paths"><span class="subset-applicability__label">Path:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Program</span><span class="subset-applicability__tag">Agency</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--classes"><span class="subset-applicability__label">Class:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Class C</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--affects"><span class="subset-applicability__label">Audience:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Providers</span></span></span>
+</div>
 
 ### Rev5 Controls
 
@@ -123,4 +137,4 @@ These rules apply to providers for FedRAMP Rev5 Certifications.
 
 
 !!! quote ""
-    Providers MUST define all required organization-defined parameters tied to all Rev5 Controls, following FedRAMP Rules if applicable, UNLESS the parameter is assigned by FedRAMP.
+    Providers MUST define all required organization-defined parameters tied to all Rev5 Controls, following FedRAMP rules if applicable, UNLESS the parameter is assigned by FedRAMP.

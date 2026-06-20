@@ -14,6 +14,13 @@ The Collaborative Continuous Monitoring rules help agencies use shared, current 
 - [Ongoing Certification Reports](#ongoing-certification-reports)
 - [Quarterly Reviews](#quarterly-reviews)
 
+!!! info "Effective Date(s) & Overall Applicability for 20x"
+    - **Required** (Consolidated Rules for 2026)
+    - **Optional Adoption:** 2026-07-04
+    - **Obtain:** 2026-07-04
+    - **Maintain:** 2027-01-01
+    - **Grace Ends:** On the first FedRAMP independent assessment completed after 2027-01-01
+
 
 
 ---
@@ -22,6 +29,13 @@ The Collaborative Continuous Monitoring rules help agencies use shared, current 
 ## Ongoing Certification Reports {#ongoing-certification-reports}
 
 These rules for Ongoing Certification Reports apply to providers with any type of FedRAMP Certification.
+
+<div class="subset-applicability" role="group" aria-label="Applicability">
+<span class="subset-applicability__group subset-applicability__group--types"><span class="subset-applicability__label">Type:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">20x</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--paths"><span class="subset-applicability__label">Path:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Program</span><span class="subset-applicability__tag">Agency</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--classes"><span class="subset-applicability__label">Class:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Class B</span><span class="subset-applicability__tag">Class C</span><span class="subset-applicability__tag">Class D</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--affects"><span class="subset-applicability__label">Audience:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Providers</span></span></span>
+</div>
 
 ### Report Availability
 
@@ -166,6 +180,13 @@ These rules for Ongoing Certification Reports apply to providers with any type o
 ## Quarterly Reviews {#quarterly-reviews}
 
 These rules for Quarterly Reviews apply to providers with any type of FedRAMP Certification.
+
+<div class="subset-applicability" role="group" aria-label="Applicability">
+<span class="subset-applicability__group subset-applicability__group--types"><span class="subset-applicability__label">Type:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">20x</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--paths"><span class="subset-applicability__label">Path:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Program</span><span class="subset-applicability__tag">Agency</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--classes"><span class="subset-applicability__label">Class:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Class B</span><span class="subset-applicability__tag">Class C</span><span class="subset-applicability__tag">Class D</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--affects"><span class="subset-applicability__label">Audience:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Providers</span></span></span>
+</div>
 
 ### Quarterly Review Meeting
 
