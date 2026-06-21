@@ -1,6 +1,8 @@
 ---
 tags:
   - Rev5
+  - Cloud Service Providers
+  - Controls
 ---
 
 <span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
@@ -28,10 +30,10 @@ tags:
         - **1.** Policy [Assignment: organization-defined frequency] and following [Assignment: organization-defined events]; and
         - **2.** Procedures [Assignment: organization-defined frequency] and following [Assignment: organization-defined events].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all guidelines associated with FedRAMP Incident Evaluation and Reporting.
+        Follow the FedRAMP Incident Evaluation and Reporting rules.
 
 ---
 
@@ -52,10 +54,10 @@ tags:
         - **3.** [Assignment: organization-defined frequency] thereafter; and
     - **b.** Review and update incident response training content [Assignment: organization-defined frequency] and following [Assignment: organization-defined events].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all guidelines associated with FedRAMP Incident Evaluation and Reporting.
+        Follow the FedRAMP Incident Evaluation and Reporting rules.
 
 ---
 
@@ -72,10 +74,10 @@ tags:
 !!! quote ""
     Incorporate simulated events into incident response training to facilitate the required response by personnel in crisis situations.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all guidelines associated with FedRAMP Incident Evaluation and Reporting.
+        Follow the FedRAMP Incident Evaluation and Reporting rules.
 
 ---
 
@@ -92,10 +94,10 @@ tags:
 !!! quote ""
     Provide an incident response training environment using [Assignment: organization-defined automated mechanisms].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all guidelines associated with FedRAMP Incident Evaluation and Reporting.
+        Follow the FedRAMP Incident Evaluation and Reporting rules.
 
 ---
 
@@ -112,10 +114,10 @@ tags:
 !!! quote ""
     Test the effectiveness of the incident response capability for the system [Assignment: organization-defined frequency] using the following tests: [Assignment: organization-defined tests].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all guidelines associated with FedRAMP Incident Evaluation and Reporting.
+        Follow the FedRAMP Incident Evaluation and Reporting rules.
 
 ---
 
@@ -132,10 +134,10 @@ tags:
 !!! quote ""
     Coordinate incident response testing with organizational elements responsible for related plans.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all guidelines associated with FedRAMP Incident Evaluation and Reporting.
+        Follow the FedRAMP Incident Evaluation and Reporting rules.
 
 ---
 
@@ -155,10 +157,10 @@ tags:
     - **c.** Incorporate lessons learned from ongoing incident handling activities into incident response procedures, training, and testing, and implement the resulting changes accordingly; and
     - **d.** Ensure the rigor, intensity, scope, and results of incident handling activities are comparable and predictable across the organization.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all guidelines associated with FedRAMP Incident Evaluation and Reporting.
+        Follow the FedRAMP Incident Evaluation and Reporting rules.
 
 ---
 
@@ -175,10 +177,10 @@ tags:
 !!! quote ""
     Support the incident handling process using [Assignment: organization-defined automated mechanisms].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all guidelines associated with FedRAMP Incident Evaluation and Reporting.
+        Follow the FedRAMP Incident Evaluation and Reporting rules.
 
 ---
 
@@ -195,10 +197,10 @@ tags:
 !!! quote ""
     Include the following types of dynamic reconfiguration for [Assignment: organization-defined system components] as part of the incident response capability: [Assignment: organization-defined types of dynamic reconfiguration].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all guidelines associated with FedRAMP Incident Evaluation and Reporting.
+        Follow the FedRAMP Incident Evaluation and Reporting rules.
 
 ---
 
@@ -215,10 +217,10 @@ tags:
 !!! quote ""
     Correlate incident information and individual incident responses to achieve an organization-wide perspective on incident awareness and response.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all guidelines associated with FedRAMP Incident Evaluation and Reporting.
+        Follow the FedRAMP Incident Evaluation and Reporting rules.
 
 ---
 
@@ -235,10 +237,10 @@ tags:
 !!! quote ""
     Implement an incident handling capability for incidents involving insider threats.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all guidelines associated with FedRAMP Incident Evaluation and Reporting.
+        Follow the FedRAMP Incident Evaluation and Reporting rules.
 
 ---
 
@@ -255,10 +257,10 @@ tags:
 !!! quote ""
     Establish and maintain an integrated incident response team that can be deployed to any location identified by the organization in [Assignment: organization-defined time period].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all guidelines associated with FedRAMP Incident Evaluation and Reporting.
+        Follow the FedRAMP Incident Evaluation and Reporting rules.
 
 ---
 
@@ -275,10 +277,10 @@ tags:
 !!! quote ""
     Track and document incidents.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all guidelines associated with FedRAMP Incident Evaluation and Reporting.
+        Follow the FedRAMP Incident Evaluation and Reporting rules.
 
 ---
 
@@ -295,10 +297,10 @@ tags:
 !!! quote ""
     Track incidents and collect and analyze incident information using [Assignment: organization-defined automated mechanisms].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all guidelines associated with FedRAMP Incident Evaluation and Reporting.
+        Follow the FedRAMP Incident Evaluation and Reporting rules.
 
 ---
 
@@ -316,10 +318,10 @@ tags:
     - **a.** Require personnel to report suspected incidents to the organizational incident response capability within [Assignment: organization-defined time period]; and
     - **b.** Report incident information to [Assignment: organization-defined authorities].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all guidelines associated with FedRAMP Incident Evaluation and Reporting.
+        Follow the FedRAMP Incident Evaluation and Reporting rules.
 
 ---
 
@@ -336,10 +338,10 @@ tags:
 !!! quote ""
     Report incidents using [Assignment: organization-defined automated mechanisms].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all guidelines associated with FedRAMP Incident Evaluation and Reporting.
+        Follow the FedRAMP Incident Evaluation and Reporting rules.
 
 ---
 
@@ -356,10 +358,10 @@ tags:
 !!! quote ""
     Provide incident information to the provider of the product or service and other organizations involved in the supply chain or supply chain governance for systems or system components related to the incident.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all guidelines associated with FedRAMP Incident Evaluation and Reporting.
+        Follow the FedRAMP Incident Evaluation and Reporting rules.
 
 ---
 
@@ -376,10 +378,10 @@ tags:
 !!! quote ""
     Provide an incident response support resource, integral to the organizational incident response capability, that offers advice and assistance to users of the system for the handling and reporting of incidents.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all guidelines associated with FedRAMP Incident Evaluation and Reporting.
+        Follow the FedRAMP Incident Evaluation and Reporting rules.
 
 ---
 
@@ -396,10 +398,10 @@ tags:
 !!! quote ""
     Increase the availability of incident response information and support using [Assignment: organization-defined automated mechanisms].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all guidelines associated with FedRAMP Incident Evaluation and Reporting.
+        Follow the FedRAMP Incident Evaluation and Reporting rules.
 
 ---
 
@@ -430,10 +432,10 @@ tags:
     - **d.** Communicate incident response plan changes to [Assignment: organization-defined incident response personnel (identified by name and/or by role) and organizational elements]; and
     - **e.** Protect the incident response plan from unauthorized disclosure and modification.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all guidelines associated with FedRAMP Incident Evaluation and Reporting.
+        Follow the FedRAMP Incident Evaluation and Reporting rules.
 
 ---
 
@@ -458,10 +460,10 @@ tags:
     - **f.** Identifying other systems or system components that may have been subsequently contaminated; and
     - **g.** Performing the following additional actions: [Assignment: organization-defined actions].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all guidelines associated with FedRAMP Incident Evaluation and Reporting.
+        Follow the FedRAMP Incident Evaluation and Reporting rules.
 
 ---
 
@@ -478,10 +480,10 @@ tags:
 !!! quote ""
     Provide information spillage response training [Assignment: organization-defined frequency].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all guidelines associated with FedRAMP Incident Evaluation and Reporting.
+        Follow the FedRAMP Incident Evaluation and Reporting rules.
 
 ---
 
@@ -498,10 +500,10 @@ tags:
 !!! quote ""
     Implement the following procedures to ensure that organizational personnel impacted by information spills can continue to carry out assigned tasks while contaminated systems are undergoing corrective actions: [Assignment: organization-defined procedures].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all guidelines associated with FedRAMP Incident Evaluation and Reporting.
+        Follow the FedRAMP Incident Evaluation and Reporting rules.
 
 ---
 
@@ -518,9 +520,9 @@ tags:
 !!! quote ""
     Employ the following controls for personnel exposed to information not within assigned access authorizations: [Assignment: organization-defined controls].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all guidelines associated with FedRAMP Incident Evaluation and Reporting.
+        Follow the FedRAMP Incident Evaluation and Reporting rules.
 
 ---

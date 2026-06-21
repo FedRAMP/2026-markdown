@@ -1,6 +1,8 @@
 ---
 tags:
   - 20x
+  - Cloud Service Providers
+  - Key Security Indicators
 ---
 
 <span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
@@ -28,7 +30,7 @@ tags:
 
 
 
-    **Related SP 800-53 Controls:** [CM-2](https://controlfreak.risk-redux.io/controls/CM-02), [SI-3](https://controlfreak.risk-redux.io/controls/SI-03)
+    **Related SP 800-53 Controls:** [CM-02](../../../reference/controls/configuration-management.md#cm-02){ data-preview }, [SI-03](../../../reference/controls/system-and-information-integrity.md#si-03){ data-preview }
 
 ### Enforcing Intended State
 
@@ -50,7 +52,7 @@ tags:
 
 
 
-    **Related SP 800-53 Controls:** [CA-2.1](https://controlfreak.risk-redux.io/controls/CA-02(01)), [CA-7.1](https://controlfreak.risk-redux.io/controls/CA-07(01))
+    **Related SP 800-53 Controls:** [CA-02 (01)](../../../reference/controls/assessment-authorization-and-monitoring.md#ca-02-01){ data-preview }, [CA-07 (01)](../../../reference/controls/assessment-authorization-and-monitoring.md#ca-07-01){ data-preview }
 
     ---
     **Terms:** [Information Resource](../../../definitions/#information-resource){ data-preview }, [Machine-Based (Information Resources)](../../../definitions/#machine-based-information-resources){ data-preview }, [Persistently](../../../definitions/#persistently){ data-preview }
@@ -70,7 +72,7 @@ tags:
 
 
 
-    **Related SP 800-53 Controls:** [AC-17.3](https://controlfreak.risk-redux.io/controls/AC-17(03)), [CM-2](https://controlfreak.risk-redux.io/controls/CM-02), [PL-10](https://controlfreak.risk-redux.io/controls/PL-10)
+    **Related SP 800-53 Controls:** [AC-17 (03)](../../../reference/controls/access-control.md#ac-17-03){ data-preview }, [CM-02](../../../reference/controls/configuration-management.md#cm-02){ data-preview }, [PL-10](../../../reference/controls/planning.md#pl-10){ data-preview }
 
     ---
     **Terms:** [Information Resource](../../../definitions/#information-resource){ data-preview }, [Machine-Based (Information Resources)](../../../definitions/#machine-based-information-resources){ data-preview }, [Persistently](../../../definitions/#persistently){ data-preview }
@@ -90,7 +92,7 @@ tags:
 
 
 
-    **Related SP 800-53 Controls:** [AC-17.3](https://controlfreak.risk-redux.io/controls/AC-17(03)), [AC-18.1](https://controlfreak.risk-redux.io/controls/AC-18(01)), [AC-18.3](https://controlfreak.risk-redux.io/controls/AC-18(03)), [AC-20.1](https://controlfreak.risk-redux.io/controls/AC-20(01)), [CA-9](https://controlfreak.risk-redux.io/controls/CA-09), [SC-7.3](https://controlfreak.risk-redux.io/controls/SC-07(03)), [SC-7.4](https://controlfreak.risk-redux.io/controls/SC-07(04)), [SC-7.5](https://controlfreak.risk-redux.io/controls/SC-07(05)), [SC-7.8](https://controlfreak.risk-redux.io/controls/SC-07(08)), [SC-8](https://controlfreak.risk-redux.io/controls/SC-08), [SC-10](https://controlfreak.risk-redux.io/controls/SC-10), [SI-10](https://controlfreak.risk-redux.io/controls/SI-10), [SI-11](https://controlfreak.risk-redux.io/controls/SI-11), [SI-16](https://controlfreak.risk-redux.io/controls/SI-16)
+    **Related SP 800-53 Controls:** [AC-17 (03)](../../../reference/controls/access-control.md#ac-17-03){ data-preview }, [AC-18 (01)](../../../reference/controls/access-control.md#ac-18-01){ data-preview }, [AC-18 (03)](../../../reference/controls/access-control.md#ac-18-03){ data-preview }, [AC-20 (01)](../../../reference/controls/access-control.md#ac-20-01){ data-preview }, [CA-09](../../../reference/controls/assessment-authorization-and-monitoring.md#ca-09){ data-preview }, [SC-07 (03)](../../../reference/controls/system-and-communications-protection.md#sc-07-03){ data-preview }, [SC-07 (04)](../../../reference/controls/system-and-communications-protection.md#sc-07-04){ data-preview }, [SC-07 (05)](../../../reference/controls/system-and-communications-protection.md#sc-07-05){ data-preview }, [SC-07 (08)](../../../reference/controls/system-and-communications-protection.md#sc-07-08){ data-preview }, [SC-08](../../../reference/controls/system-and-communications-protection.md#sc-08){ data-preview }, [SC-10](../../../reference/controls/system-and-communications-protection.md#sc-10){ data-preview }, [SI-10](../../../reference/controls/system-and-information-integrity.md#si-10){ data-preview }, [SI-11](../../../reference/controls/system-and-information-integrity.md#si-11){ data-preview }, [SI-16](../../../reference/controls/system-and-information-integrity.md#si-16){ data-preview }
 
     ---
     **Terms:** [Information Resource](../../../definitions/#information-resource){ data-preview }, [Machine-Based (Information Resources)](../../../definitions/#machine-based-information-resources){ data-preview }, [Persistently](../../../definitions/#persistently){ data-preview }
@@ -127,7 +129,7 @@ tags:
 
 
 
-    **Related SP 800-53 Controls:** [AC-17.3](https://controlfreak.risk-redux.io/controls/AC-17(03)), [CA-9](https://controlfreak.risk-redux.io/controls/CA-09), [CM-7.1](https://controlfreak.risk-redux.io/controls/CM-07(01)), [SC-7.5](https://controlfreak.risk-redux.io/controls/SC-07(05)), [SI-8](https://controlfreak.risk-redux.io/controls/SI-08)
+    **Related SP 800-53 Controls:** [AC-17 (03)](../../../reference/controls/access-control.md#ac-17-03){ data-preview }, [CA-09](../../../reference/controls/assessment-authorization-and-monitoring.md#ca-09){ data-preview }, [CM-07 (01)](../../../reference/controls/configuration-management.md#cm-07-01){ data-preview }, [SC-07 (05)](../../../reference/controls/system-and-communications-protection.md#sc-07-05){ data-preview }, [SI-08](../../../reference/controls/system-and-information-integrity.md#si-08){ data-preview }
 
     ---
     **Terms:** [Information Resource](../../../definitions/#information-resource){ data-preview }, [Machine-Based (Information Resources)](../../../definitions/#machine-based-information-resources){ data-preview }, [Persistently](../../../definitions/#persistently){ data-preview }
@@ -147,7 +149,7 @@ tags:
 
 
 
-    **Related SP 800-53 Controls:** [SC-5](https://controlfreak.risk-redux.io/controls/SC-05), [SI-8](https://controlfreak.risk-redux.io/controls/SI-08), [SI-8.2](https://controlfreak.risk-redux.io/controls/SI-08(02))
+    **Related SP 800-53 Controls:** [SC-05](../../../reference/controls/system-and-communications-protection.md#sc-05){ data-preview }, [SI-08](../../../reference/controls/system-and-information-integrity.md#si-08){ data-preview }, [SI-08 (02)](../../../reference/controls/system-and-information-integrity.md#si-08-02){ data-preview }
 
     ---
     **Terms:** [Information Resource](../../../definitions/#information-resource){ data-preview }, [Machine-Based (Information Resources)](../../../definitions/#machine-based-information-resources){ data-preview }, [Persistently](../../../definitions/#persistently){ data-preview }
@@ -167,7 +169,7 @@ tags:
 
 
 
-    **Related SP 800-53 Controls:** [AC-12](https://controlfreak.risk-redux.io/controls/AC-12), [AC-17.3](https://controlfreak.risk-redux.io/controls/AC-17(03)), [CA-9](https://controlfreak.risk-redux.io/controls/CA-09), [SC-4](https://controlfreak.risk-redux.io/controls/SC-04), [SC-7](https://controlfreak.risk-redux.io/controls/SC-07), [SC-7.7](https://controlfreak.risk-redux.io/controls/SC-07(07)), [SC-8](https://controlfreak.risk-redux.io/controls/SC-08), [SC-10](https://controlfreak.risk-redux.io/controls/SC-10)
+    **Related SP 800-53 Controls:** [AC-12](../../../reference/controls/access-control.md#ac-12){ data-preview }, [AC-17 (03)](../../../reference/controls/access-control.md#ac-17-03){ data-preview }, [CA-09](../../../reference/controls/assessment-authorization-and-monitoring.md#ca-09){ data-preview }, [SC-04](../../../reference/controls/system-and-communications-protection.md#sc-04){ data-preview }, [SC-07](../../../reference/controls/system-and-communications-protection.md#sc-07){ data-preview }, [SC-07 (07)](../../../reference/controls/system-and-communications-protection.md#sc-07-07){ data-preview }, [SC-08](../../../reference/controls/system-and-communications-protection.md#sc-08){ data-preview }, [SC-10](../../../reference/controls/system-and-communications-protection.md#sc-10){ data-preview }
 
     ---
     **Terms:** [Persistently](../../../definitions/#persistently){ data-preview }

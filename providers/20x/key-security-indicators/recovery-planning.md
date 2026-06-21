@@ -1,6 +1,8 @@
 ---
 tags:
   - 20x
+  - Cloud Service Providers
+  - Key Security Indicators
 ---
 
 <span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
@@ -28,7 +30,7 @@ tags:
 
 
 
-    **Related SP 800-53 Controls:** [CM-2.3](https://controlfreak.risk-redux.io/controls/CM-02(03)), [CP-6](https://controlfreak.risk-redux.io/controls/CP-06), [CP-9](https://controlfreak.risk-redux.io/controls/CP-09), [CP-10](https://controlfreak.risk-redux.io/controls/CP-10), [CP-10.2](https://controlfreak.risk-redux.io/controls/CP-10(02)), [SI-12](https://controlfreak.risk-redux.io/controls/SI-12)
+    **Related SP 800-53 Controls:** [CM-02 (03)](../../../reference/controls/configuration-management.md#cm-02-03){ data-preview }, [CP-06](../../../reference/controls/contingency-planning.md#cp-06){ data-preview }, [CP-09](../../../reference/controls/contingency-planning.md#cp-09){ data-preview }, [CP-10](../../../reference/controls/contingency-planning.md#cp-10){ data-preview }, [CP-10 (02)](../../../reference/controls/contingency-planning.md#cp-10-02){ data-preview }, [SI-12](../../../reference/controls/system-and-information-integrity.md#si-12){ data-preview }
 
     ---
     **Terms:** [Information Resource](../../../definitions/#information-resource){ data-preview }, [Machine-Based (Information Resources)](../../../definitions/#machine-based-information-resources){ data-preview }, [Persistently](../../../definitions/#persistently){ data-preview }
@@ -48,7 +50,7 @@ tags:
 
 
 
-    **Related SP 800-53 Controls:** [CP-2](https://controlfreak.risk-redux.io/controls/CP-02), [CP-2.1](https://controlfreak.risk-redux.io/controls/CP-02(01)), [CP-2.3](https://controlfreak.risk-redux.io/controls/CP-02(03)), [CP-4.1](https://controlfreak.risk-redux.io/controls/CP-04(01)), [CP-6](https://controlfreak.risk-redux.io/controls/CP-06), [CP-6.1](https://controlfreak.risk-redux.io/controls/CP-06(01)), [CP-6.3](https://controlfreak.risk-redux.io/controls/CP-06(03)), [CP-7](https://controlfreak.risk-redux.io/controls/CP-07), [CP-7.1](https://controlfreak.risk-redux.io/controls/CP-07(01)), [CP-7.2](https://controlfreak.risk-redux.io/controls/CP-07(02)), [CP-7.3](https://controlfreak.risk-redux.io/controls/CP-07(03)), [CP-8](https://controlfreak.risk-redux.io/controls/CP-08), [CP-8.1](https://controlfreak.risk-redux.io/controls/CP-08(01)), [CP-8.2](https://controlfreak.risk-redux.io/controls/CP-08(02)), [CP-10](https://controlfreak.risk-redux.io/controls/CP-10), [CP-10.2](https://controlfreak.risk-redux.io/controls/CP-10(02))
+    **Related SP 800-53 Controls:** [CP-02](../../../reference/controls/contingency-planning.md#cp-02){ data-preview }, [CP-02 (01)](../../../reference/controls/contingency-planning.md#cp-02-01){ data-preview }, [CP-02 (03)](../../../reference/controls/contingency-planning.md#cp-02-03){ data-preview }, [CP-04 (01)](../../../reference/controls/contingency-planning.md#cp-04-01){ data-preview }, [CP-06](../../../reference/controls/contingency-planning.md#cp-06){ data-preview }, [CP-06 (01)](../../../reference/controls/contingency-planning.md#cp-06-01){ data-preview }, [CP-06 (03)](../../../reference/controls/contingency-planning.md#cp-06-03){ data-preview }, [CP-07](../../../reference/controls/contingency-planning.md#cp-07){ data-preview }, [CP-07 (01)](../../../reference/controls/contingency-planning.md#cp-07-01){ data-preview }, [CP-07 (02)](../../../reference/controls/contingency-planning.md#cp-07-02){ data-preview }, [CP-07 (03)](../../../reference/controls/contingency-planning.md#cp-07-03){ data-preview }, [CP-08](../../../reference/controls/contingency-planning.md#cp-08){ data-preview }, [CP-08 (01)](../../../reference/controls/contingency-planning.md#cp-08-01){ data-preview }, [CP-08 (02)](../../../reference/controls/contingency-planning.md#cp-08-02){ data-preview }, [CP-10](../../../reference/controls/contingency-planning.md#cp-10){ data-preview }, [CP-10 (02)](../../../reference/controls/contingency-planning.md#cp-10-02){ data-preview }
 
     ---
     **Terms:** [Persistently](../../../definitions/#persistently){ data-preview }
@@ -68,7 +70,7 @@ tags:
 
 
 
-    **Related SP 800-53 Controls:** [CP-2.3](https://controlfreak.risk-redux.io/controls/CP-02(03)), [CP-10](https://controlfreak.risk-redux.io/controls/CP-10)
+    **Related SP 800-53 Controls:** [CP-02 (03)](../../../reference/controls/contingency-planning.md#cp-02-03){ data-preview }, [CP-10](../../../reference/controls/contingency-planning.md#cp-10){ data-preview }
 
     ---
     **Terms:** [Persistently](../../../definitions/#persistently){ data-preview }
@@ -88,7 +90,7 @@ tags:
 
 
 
-    **Related SP 800-53 Controls:** [CP-2.1](https://controlfreak.risk-redux.io/controls/CP-02(01)), [CP-2.3](https://controlfreak.risk-redux.io/controls/CP-02(03)), [CP-4](https://controlfreak.risk-redux.io/controls/CP-04), [CP-4.1](https://controlfreak.risk-redux.io/controls/CP-04(01)), [CP-6](https://controlfreak.risk-redux.io/controls/CP-06), [CP-6.1](https://controlfreak.risk-redux.io/controls/CP-06(01)), [CP-9.1](https://controlfreak.risk-redux.io/controls/CP-09(01)), [CP-10](https://controlfreak.risk-redux.io/controls/CP-10), [IR-3](https://controlfreak.risk-redux.io/controls/IR-03), [IR-3.2](https://controlfreak.risk-redux.io/controls/IR-03(02))
+    **Related SP 800-53 Controls:** [CP-02 (01)](../../../reference/controls/contingency-planning.md#cp-02-01){ data-preview }, [CP-02 (03)](../../../reference/controls/contingency-planning.md#cp-02-03){ data-preview }, [CP-04](../../../reference/controls/contingency-planning.md#cp-04){ data-preview }, [CP-04 (01)](../../../reference/controls/contingency-planning.md#cp-04-01){ data-preview }, [CP-06](../../../reference/controls/contingency-planning.md#cp-06){ data-preview }, [CP-06 (01)](../../../reference/controls/contingency-planning.md#cp-06-01){ data-preview }, [CP-09 (01)](../../../reference/controls/contingency-planning.md#cp-09-01){ data-preview }, [CP-10](../../../reference/controls/contingency-planning.md#cp-10){ data-preview }, [IR-03](../../../reference/controls/incident-response.md#ir-03){ data-preview }, [IR-03 (02)](../../../reference/controls/incident-response.md#ir-03-02){ data-preview }
 
     ---
     **Terms:** [Incident](../../../definitions/#incident){ data-preview }, [Persistently](../../../definitions/#persistently){ data-preview }

@@ -3,6 +3,14 @@ title: "20x Ruleset Reference"
 description: "This section contains the FedRAMP 20x rulesets as standalone references."
 purpose: "This content allows folks to see the 20x rules together without them broken apart by stakeholder."
 google_doc: ""
+tags:
+  - 20x
+  - Federal Agencies
+  - Cloud Service Providers
+  - Independent Assessors
+  - Advisors
+  - FedRAMP
+  - Rules
 picto:
   source: machine
   status: stable
@@ -21,7 +29,7 @@ This section contains the FedRAMP 20x rulesets with content that applies to one 
 | CDS | Certification Data Sharing<br>[Class B](b/certification-data-sharing.md)<br>[Class C](c/certification-data-sharing.md) | Stable | Subsets: 3<br>Rules: 20 | 2026-06-23 |
 | CMU | Cryptographic Module Use<br>[Class B](b/cryptographic-module-use.md)<br>[Class C](c/cryptographic-module-use.md) | Stable | Subsets: 1<br>Rules: 3 | 2026-06-23 |
 | CPO | Certification Package Overview<br>[Class A](a/certification-package-overview.md)<br>[Class B](b/certification-package-overview.md)<br>[Class C](c/certification-package-overview.md) | Stable | Subsets: 2<br>Rules: 3 | 2026-06-23 |
-| FRC | FedRAMP Certification<br>[Class A](a/fedramp-certification.md)<br>[Class B](b/fedramp-certification.md)<br>[Class C](c/fedramp-certification.md) | Stable | Subsets: 4<br>Rules: 18 | 2026-06-23 |
+| FRC | FedRAMP Certification<br>[Class A](a/fedramp-certification.md)<br>[Class B](b/fedramp-certification.md)<br>[Class C](c/fedramp-certification.md) | Stable | Subsets: 4<br>Rules: 21 | 2026-06-23 |
 | IEC | Incident Evaluation and Communication<br>[Class B](b/incident-evaluation-and-communication.md)<br>[Class C](c/incident-evaluation-and-communication.md) | Stable | Subsets: 2<br>Rules: 8 | 2026-06-23 |
 | IVV | Independent Verification and Validation<br>[Class B](b/independent-verification-and-validation.md)<br>[Class C](c/independent-verification-and-validation.md) | Stable | Subsets: 3<br>Rules: 16 | 2026-06-23 |
 | MAS | Minimum Assessment Scope<br>[Class B](b/minimum-assessment-scope.md)<br>[Class C](c/minimum-assessment-scope.md) | Stable | Subsets: 1<br>Rules: 5 | 2026-06-23 |

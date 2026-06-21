@@ -1,6 +1,8 @@
 ---
 tags:
   - 20x
+  - Cloud Service Providers
+  - Key Security Indicators
 ---
 
 <span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
@@ -28,7 +30,7 @@ tags:
 
 
 
-    **Related SP 800-53 Controls:** [CP-3](https://controlfreak.risk-redux.io/controls/CP-03), [IR-2](https://controlfreak.risk-redux.io/controls/IR-02), [PS-6](https://controlfreak.risk-redux.io/controls/PS-06), [AT-2](https://controlfreak.risk-redux.io/controls/AT-02), [AT-2.2](https://controlfreak.risk-redux.io/controls/AT-02(02)), [AT-2.3](https://controlfreak.risk-redux.io/controls/AT-02(03)), [AT-3.5](https://controlfreak.risk-redux.io/controls/AT-03(05)), [AT-4](https://controlfreak.risk-redux.io/controls/AT-04), [IR-2.3](https://controlfreak.risk-redux.io/controls/IR-02(03)), [AT-3](https://controlfreak.risk-redux.io/controls/AT-03), [SR-11.1](https://controlfreak.risk-redux.io/controls/SR-11(01))
+    **Related SP 800-53 Controls:** [CP-03](../../../reference/controls/contingency-planning.md#cp-03){ data-preview }, [IR-02](../../../reference/controls/incident-response.md#ir-02){ data-preview }, [PS-06](../../../reference/controls/personnel-security.md#ps-06){ data-preview }, [AT-02](../../../reference/controls/awareness-and-training.md#at-02){ data-preview }, [AT-02 (02)](../../../reference/controls/awareness-and-training.md#at-02-02){ data-preview }, [AT-02 (03)](../../../reference/controls/awareness-and-training.md#at-02-03){ data-preview }, [AT-03 (05)](../../../reference/controls/awareness-and-training.md#at-03-05){ data-preview }, [AT-04](../../../reference/controls/awareness-and-training.md#at-04){ data-preview }, [IR-02 (03)](../../../reference/controls/incident-response.md#ir-02-03){ data-preview }, [AT-03](../../../reference/controls/awareness-and-training.md#at-03){ data-preview }, [SR-11 (01)](../../../reference/controls/supply-chain-risk-management.md#sr-11-01){ data-preview }
 
     ---
     **Terms:** [Incident](../../../definitions/#incident){ data-preview }, [Persistently](../../../definitions/#persistently){ data-preview }, [Vulnerability Response](../../../definitions/#vulnerability-response){ data-preview }

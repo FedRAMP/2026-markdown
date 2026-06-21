@@ -1,6 +1,8 @@
 ---
 tags:
   - Rev5
+  - Cloud Service Providers
+  - Controls
 ---
 
 <span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
@@ -22,7 +24,7 @@ tags:
     - **b.** Verify that non-escorted personnel performing maintenance on the system possess the required access authorizations; and
     - **c.** Designate organizational personnel with required access authorizations and technical competence to supervise the maintenance activities of personnel who do not possess the required access authorizations.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
         CSPs should clearly document nationality requirements (or lack of) for maintenance personnel where applicable.
@@ -45,9 +47,9 @@ tags:
         - **(2)** Prior to initiating maintenance or diagnostic activities by personnel who do not have needed access authorizations, clearances or formal access approvals, all volatile information storage components within the system are sanitized and all nonvolatile storage media are removed or physically disconnected from the system and secured; and
     - **(b)** Develop and implement [Assignment: organization-defined alternate controls] in the event a system component cannot be sanitized, removed, or disconnected from the system.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Only MA-5 (1) (a) (1) is required by FedRAMP Moderate Baseline
+        Only MA-5 (1) (a) (1) is required by FedRAMP Class C Baseline.
 
 ---

@@ -1,6 +1,8 @@
 ---
 tags:
   - Rev5
+  - Cloud Service Providers
+  - Controls
 ---
 
 <span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
@@ -23,7 +25,7 @@ tags:
     - **(a)** [Assignment: organization-defined security functions (deployed in hardware, software, and firmware)]; and
     - **(b)** [Assignment: organization-defined security-relevant information].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Parameters**
 
         | Parameter ID | NIST assignment | FedRAMP value |
@@ -46,7 +48,7 @@ tags:
 !!! quote ""
     Require that users of system accounts (or roles) with access to [Assignment: organization-defined security functions or security-relevant information] use non-privileged accounts or roles, when accessing nonsecurity functions.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Parameters**
 
         | Parameter ID | NIST assignment | FedRAMP value |
@@ -68,7 +70,7 @@ tags:
 !!! quote ""
     Prevent the following software from executing at higher privilege levels than users executing the software: [Assignment: organization-defined software].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Parameters**
 
         | Parameter ID | NIST assignment | FedRAMP value |
@@ -93,7 +95,7 @@ tags:
         - **2.** Process, store, or transmit organization-controlled information using external systems; or
     - **b.** Prohibit the use of [Assignment: organization-defined prohibited types of external systems].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
         The interrelated controls of AC-20, CA-3, and SA-9 should be differentiated as follows:

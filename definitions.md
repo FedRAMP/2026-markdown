@@ -2,6 +2,12 @@
 tags:
   - 20x
   - Rev5
+  - Federal Agencies
+  - Cloud Service Providers
+  - Independent Assessors
+  - Advisors
+  - FedRAMP
+  - Definitions
 ---
 
 <span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
@@ -448,7 +454,7 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 !!! quote ""
-    A final report after recovery from an incident that is supplied by FedRAMP Certified cloud service providers to FedRAMP and agency customers, following FedRAMP Incident Communications Procedures.
+    A final report after recovery from an incident that is supplied by FedRAMP Certified cloud service providers to FedRAMP and agency customers, following FedRAMP Incident Evaluation and Response rules.
 
 
     **Related Terms Group:** [Incident](#related-terms-group-incident)
@@ -544,7 +550,7 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 !!! quote ""
-    An initial report about an incident that is supplied by FedRAMP Certified cloud service providers to FedRAMP and agency customers, following FedRAMP Incident Communications Procedures.
+    An initial report about an incident that is supplied by FedRAMP Certified cloud service providers to FedRAMP and agency customers, following FedRAMP FedRAMP Incident Evaluation and Response rules.
 
 
     **Related Terms Group:** [Incident](#related-terms-group-incident)
@@ -710,7 +716,7 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 !!! quote ""
-    A recurring report about an ongoing incident that is supplied by FedRAMP Certified cloud service providers to FedRAMP and agency customers, aligned to the rules in the FedRAMP Incident Communications Procedures.
+    A recurring report about an ongoing incident that is supplied by FedRAMP Certified cloud service providers to FedRAMP and agency customers, following the FedRAMP Incident Evaluation and Response rules.
 
 
     **Related Terms Group:** [Incident](#related-terms-group-incident)

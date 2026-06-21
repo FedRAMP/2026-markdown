@@ -1,6 +1,8 @@
 ---
 tags:
   - 20x
+  - Cloud Service Providers
+  - Rules
 ---
 
 <span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
@@ -487,6 +489,95 @@ These rules apply to providers for FedRAMP 20x Certifications.
 <span class="subset-applicability__group subset-applicability__group--affects"><span class="subset-applicability__label">Audience:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Providers</span></span></span>
 </div>
 
+### Automated Verification and Validation of Key Security Indicators
+
+??? abstract "FRC-CSX-VVK"
+    **Changelog:**
+
+
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+
+
+
+
+!!! quote ""
+    === "Class A"
+        Providers seeking 20x Class A Certification MAY implement automated methods to persistently verify and validate the accuracy and completeness of Key Security Indicators.
+
+    === "Class B"
+        Providers seeking 20x Class B Certification SHOULD implement automated methods to persistently verify and validate the accuracy and completeness of Key Security Indicators with at least 1 automated method for each Key Security Indicator.
+
+    === "Class C"
+        Providers seeking 20x Class C Certification MUST implement automated methods to persistently verify and validate the accuracy and completeness of Key Security Indicators with at least 2 automated methods for each Key Security Indicator.
+
+    === "Class D"
+        Providers seeking 20x Class D Certification MUST implement automated methods to persistently verify and validate the accuracy and completeness of Key Security Indicators with at least 4 automated methods for each Key Security Indicator.
+
+
+    ---
+    **Terms:** [Persistently](../../../definitions/#persistently){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
+### Metrics Over Time for Key Security Indicators
+
+??? abstract "FRC-CSX-MOT"
+    **Changelog:**
+
+
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+
+
+
+
+!!! quote ""
+    === "Class A"
+        Providers seeking 20x Class A Certification MAY supply historical metrics for Key Security Indicators.
+
+    === "Class B"
+        Providers seeking 20x Class B Certification SHOULD supply historical metrics for Key Security Indicators.
+
+    === "Class C"
+        Providers seeking 20x Class C Certification MUST supply historical metrics including status from persistent validation over at least the past 6 months for all Key Security Indicators.
+
+    === "Class D"
+        Providers seeking 20x Class D Certification MUST provide historical metrics including status from persistent validation over at least the past 18 months for all Key Security Indicators.
+
+
+    ---
+
+    _**Note:** For initial FedRAMP Certification, providers will need to have mechanisms in place and agree to meet this requirement in the event the cloud service has not been operating with related metrics available for the required period prior to applying for initial certification._
+
+    ---
+    **Terms:** [Initial Certification](../../../definitions/#initial-certification){ data-preview }, [Persistently](../../../definitions/#persistently){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }
+### Automated Verification and Validation of FedRAMP Rules
+
+??? abstract "FRC-CSX-VVR"
+    **Changelog:**
+
+
+    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+
+
+
+
+!!! quote ""
+    === "Class A"
+        Providers seeking 20x Class A Certification MAY implement automated methods to persistently verify and validate the accuracy and completeness of the Security Decision Record for FedRAMP rules when applicable.
+
+    === "Class B"
+        Providers seeking 20x Class B Certification SHOULD implement automated methods to persistently verify and validate the accuracy and completeness of the Security Decision Record for FedRAMP rules when applicable.
+
+    === "Class C"
+        Providers seeking 20x Class C Certification SHOULD implement automated methods to persistently verify and validate the accuracy and completeness of the Security Decision Record for FedRAMP rules when applicable.
+
+    === "Class D"
+        Providers seeking 20x Class D Certification SHOULD implement automated methods to persistently verify and validate the accuracy and completeness of the Security Decision Record for FedRAMP rules when applicable.
+
+
+    ---
+
+    _**Note:** Different rules will be easy to automate for different providers, depending on the implementation, so FedRAMP generally leaves this implementation up to providers based on what makes the most sense for their own business and approach._
+
+    ---
+    **Terms:** [Persistently](../../../definitions/#persistently){ data-preview }, [Security Decision Record (SDR)](../../../definitions/#security-decision-record-sdr){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
 ### Application within MAS
 
 ??? abstract "FRC-CSX-MAS"

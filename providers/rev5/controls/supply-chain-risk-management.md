@@ -1,6 +1,8 @@
 ---
 tags:
   - Rev5
+  - Cloud Service Providers
+  - Controls
 ---
 
 <span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
@@ -22,7 +24,7 @@ tags:
     - **b.** Employ the following controls to protect against supply chain risks to the system, system component, or system service and to limit the harm or consequences from supply chain-related events: [Assignment: organization-defined supply chain controls]; and
     - **c.** Document the selected and implemented supply chain processes and controls in [Selection: one or more of: security and privacy plans; supply chain risk management plan].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
         CSO must document and maintain the supply chain custody, including replacement devices, to ensure the integrity of the devices before being introduced to the boundary.
@@ -42,9 +44,9 @@ tags:
 !!! quote ""
     Establish agreements and procedures with entities involved in the supply chain for the system, system component, or system service for the [Selection: one or more of: notification of supply chain compromises].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all applicable rules within the Incident Communication Procedure guidance.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
 ---

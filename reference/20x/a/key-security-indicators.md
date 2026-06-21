@@ -1,6 +1,7 @@
 ---
 tags:
   - 20x
+  - Key Security Indicators
 ---
 
 <span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
@@ -29,7 +30,7 @@ tags:
 
 
 
-    **Related SP 800-53 Controls:** [CP-3](https://controlfreak.risk-redux.io/controls/CP-03), [IR-2](https://controlfreak.risk-redux.io/controls/IR-02), [PS-6](https://controlfreak.risk-redux.io/controls/PS-06), [AT-2](https://controlfreak.risk-redux.io/controls/AT-02), [AT-2.2](https://controlfreak.risk-redux.io/controls/AT-02(02)), [AT-2.3](https://controlfreak.risk-redux.io/controls/AT-02(03)), [AT-3.5](https://controlfreak.risk-redux.io/controls/AT-03(05)), [AT-4](https://controlfreak.risk-redux.io/controls/AT-04), [IR-2.3](https://controlfreak.risk-redux.io/controls/IR-02(03)), [AT-3](https://controlfreak.risk-redux.io/controls/AT-03), [SR-11.1](https://controlfreak.risk-redux.io/controls/SR-11(01))
+    **Related SP 800-53 Controls:** [CP-03](../../controls/contingency-planning.md#cp-03){ data-preview }, [IR-02](../../controls/incident-response.md#ir-02){ data-preview }, [PS-06](../../controls/personnel-security.md#ps-06){ data-preview }, [AT-02](../../controls/awareness-and-training.md#at-02){ data-preview }, [AT-02 (02)](../../controls/awareness-and-training.md#at-02-02){ data-preview }, [AT-02 (03)](../../controls/awareness-and-training.md#at-02-03){ data-preview }, [AT-03 (05)](../../controls/awareness-and-training.md#at-03-05){ data-preview }, [AT-04](../../controls/awareness-and-training.md#at-04){ data-preview }, [IR-02 (03)](../../controls/incident-response.md#ir-02-03){ data-preview }, [AT-03](../../controls/awareness-and-training.md#at-03){ data-preview }, [SR-11 (01)](../../controls/supply-chain-risk-management.md#sr-11-01){ data-preview }
 
     ---
     **Terms:** [Incident](../../../definitions/#incident){ data-preview }, [Persistently](../../../definitions/#persistently){ data-preview }, [Vulnerability Response](../../../definitions/#vulnerability-response){ data-preview }
@@ -51,7 +52,7 @@ tags:
 
 
 
-    **Related SP 800-53 Controls:** [AU-2](https://controlfreak.risk-redux.io/controls/AU-02), [CM-3](https://controlfreak.risk-redux.io/controls/CM-03), [CM-3.2](https://controlfreak.risk-redux.io/controls/CM-03(02)), [CM-4.2](https://controlfreak.risk-redux.io/controls/CM-04(02)), [CM-6](https://controlfreak.risk-redux.io/controls/CM-06), [CM-8.3](https://controlfreak.risk-redux.io/controls/CM-08(03)), [MA-2](https://controlfreak.risk-redux.io/controls/MA-02)
+    **Related SP 800-53 Controls:** [AU-02](../../controls/audit-and-accountability.md#au-02){ data-preview }, [CM-03](../../controls/configuration-management.md#cm-03){ data-preview }, [CM-03 (02)](../../controls/configuration-management.md#cm-03-02){ data-preview }, [CM-04 (02)](../../controls/configuration-management.md#cm-04-02){ data-preview }, [CM-06](../../controls/configuration-management.md#cm-06){ data-preview }, [CM-08 (03)](../../controls/configuration-management.md#cm-08-03){ data-preview }, [MA-02](../../controls/maintenance.md#ma-02){ data-preview }
 
     ---
     **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }
@@ -73,7 +74,7 @@ tags:
 
 
 
-    **Related SP 800-53 Controls:** [AC-17.3](https://controlfreak.risk-redux.io/controls/AC-17(03)), [CA-9](https://controlfreak.risk-redux.io/controls/CA-09), [CM-7.1](https://controlfreak.risk-redux.io/controls/CM-07(01)), [SC-7.5](https://controlfreak.risk-redux.io/controls/SC-07(05)), [SI-8](https://controlfreak.risk-redux.io/controls/SI-08)
+    **Related SP 800-53 Controls:** [AC-17 (03)](../../controls/access-control.md#ac-17-03){ data-preview }, [CA-09](../../controls/assessment-authorization-and-monitoring.md#ca-09){ data-preview }, [CM-07 (01)](../../controls/configuration-management.md#cm-07-01){ data-preview }, [SC-07 (05)](../../controls/system-and-communications-protection.md#sc-07-05){ data-preview }, [SI-08](../../controls/system-and-information-integrity.md#si-08){ data-preview }
 
     ---
     **Terms:** [Information Resource](../../../definitions/#information-resource){ data-preview }, [Machine-Based (Information Resources)](../../../definitions/#machine-based-information-resources){ data-preview }, [Persistently](../../../definitions/#persistently){ data-preview }
@@ -95,7 +96,7 @@ tags:
 
 
 
-    **Related SP 800-53 Controls:** [AC-2.2](https://controlfreak.risk-redux.io/controls/AC-02(02)), [AC-2.3](https://controlfreak.risk-redux.io/controls/AC-02(03)), [AC-2.13](https://controlfreak.risk-redux.io/controls/AC-02(13)), [AC-6.7](https://controlfreak.risk-redux.io/controls/AC-06(07)), [IA-4.4](https://controlfreak.risk-redux.io/controls/IA-04(04)), [IA-12](https://controlfreak.risk-redux.io/controls/IA-12), [IA-12.2](https://controlfreak.risk-redux.io/controls/IA-12(02)), [IA-12.3](https://controlfreak.risk-redux.io/controls/IA-12(03)), [IA-12.5](https://controlfreak.risk-redux.io/controls/IA-12(05))
+    **Related SP 800-53 Controls:** [AC-02 (02)](../../controls/access-control.md#ac-02-02){ data-preview }, [AC-02 (03)](../../controls/access-control.md#ac-02-03){ data-preview }, [AC-02 (13)](../../controls/access-control.md#ac-02-13){ data-preview }, [AC-06 (07)](../../controls/access-control.md#ac-06-07){ data-preview }, [IA-04 (04)](../../controls/identification-and-authentication.md#ia-04-04){ data-preview }, [IA-12](../../controls/identification-and-authentication.md#ia-12){ data-preview }, [IA-12 (02)](../../controls/identification-and-authentication.md#ia-12-02){ data-preview }, [IA-12 (03)](../../controls/identification-and-authentication.md#ia-12-03){ data-preview }, [IA-12 (05)](../../controls/identification-and-authentication.md#ia-12-05){ data-preview }
 
 ### Adopting Passwordless Methods
 
@@ -113,7 +114,7 @@ tags:
 
 
 
-    **Related SP 800-53 Controls:** [AC-3](https://controlfreak.risk-redux.io/controls/AC-03), [IA-5.1](https://controlfreak.risk-redux.io/controls/IA-05(01)), [IA-5.2](https://controlfreak.risk-redux.io/controls/IA-05(02)), [IA-5.6](https://controlfreak.risk-redux.io/controls/IA-05(06)), [IA-6](https://controlfreak.risk-redux.io/controls/IA-06), [AC-2](https://controlfreak.risk-redux.io/controls/AC-02), [IA-2](https://controlfreak.risk-redux.io/controls/IA-02), [IA-2.1](https://controlfreak.risk-redux.io/controls/IA-02(01)), [IA-2.2](https://controlfreak.risk-redux.io/controls/IA-02(02)), [IA-2.8](https://controlfreak.risk-redux.io/controls/IA-02(08)), [IA-5](https://controlfreak.risk-redux.io/controls/IA-05), [IA-8](https://controlfreak.risk-redux.io/controls/IA-08), [SC-23](https://controlfreak.risk-redux.io/controls/SC-23)
+    **Related SP 800-53 Controls:** [AC-03](../../controls/access-control.md#ac-03){ data-preview }, [IA-05 (01)](../../controls/identification-and-authentication.md#ia-05-01){ data-preview }, [IA-05 (02)](../../controls/identification-and-authentication.md#ia-05-02){ data-preview }, [IA-05 (06)](../../controls/identification-and-authentication.md#ia-05-06){ data-preview }, [IA-06](../../controls/identification-and-authentication.md#ia-06){ data-preview }, [AC-02](../../controls/access-control.md#ac-02){ data-preview }, [IA-02](../../controls/identification-and-authentication.md#ia-02){ data-preview }, [IA-02 (01)](../../controls/identification-and-authentication.md#ia-02-01){ data-preview }, [IA-02 (02)](../../controls/identification-and-authentication.md#ia-02-02){ data-preview }, [IA-02 (08)](../../controls/identification-and-authentication.md#ia-02-08){ data-preview }, [IA-05](../../controls/identification-and-authentication.md#ia-05){ data-preview }, [IA-08](../../controls/identification-and-authentication.md#ia-08){ data-preview }, [SC-23](../../controls/system-and-communications-protection.md#sc-23){ data-preview }
 
 ## Incident Response {#incident-response}
 
@@ -133,7 +134,7 @@ tags:
 
 
 
-    **Related SP 800-53 Controls:** [IR-4](https://controlfreak.risk-redux.io/controls/IR-04), [IR-4.1](https://controlfreak.risk-redux.io/controls/IR-04(01)), [IR-6](https://controlfreak.risk-redux.io/controls/IR-06), [IR-6.1](https://controlfreak.risk-redux.io/controls/IR-06(01)), [IR-6.3](https://controlfreak.risk-redux.io/controls/IR-06(03)), [IR-7](https://controlfreak.risk-redux.io/controls/IR-07), [IR-7.1](https://controlfreak.risk-redux.io/controls/IR-07(01)), [IR-8](https://controlfreak.risk-redux.io/controls/IR-08), [IR-8.1](https://controlfreak.risk-redux.io/controls/IR-08(01)), [SI-4.5](https://controlfreak.risk-redux.io/controls/SI-04(05))
+    **Related SP 800-53 Controls:** [IR-04](../../controls/incident-response.md#ir-04){ data-preview }, [IR-04 (01)](../../controls/incident-response.md#ir-04-01){ data-preview }, [IR-06](../../controls/incident-response.md#ir-06){ data-preview }, [IR-06 (01)](../../controls/incident-response.md#ir-06-01){ data-preview }, [IR-06 (03)](../../controls/incident-response.md#ir-06-03){ data-preview }, [IR-07](../../controls/incident-response.md#ir-07){ data-preview }, [IR-07 (01)](../../controls/incident-response.md#ir-07-01){ data-preview }, [IR-08](../../controls/incident-response.md#ir-08){ data-preview }, [IR-08 (01)](../../controls/incident-response.md#ir-08-01){ data-preview }, [SI-04 (05)](../../controls/system-and-information-integrity.md#si-04-05){ data-preview }
 
     ---
     **Terms:** [Incident](../../../definitions/#incident){ data-preview }, [Persistently](../../../definitions/#persistently){ data-preview }, [Vulnerability Response](../../../definitions/#vulnerability-response){ data-preview }
@@ -155,4 +156,4 @@ tags:
 
 
 
-    **Related SP 800-53 Controls:** [AC-1](https://controlfreak.risk-redux.io/controls/AC-01), [AC-17.2](https://controlfreak.risk-redux.io/controls/AC-17(02)), [CP-9.8](https://controlfreak.risk-redux.io/controls/CP-09(08)), [SC-8](https://controlfreak.risk-redux.io/controls/SC-08), [SC-8.1](https://controlfreak.risk-redux.io/controls/SC-08(01)), [SC-13](https://controlfreak.risk-redux.io/controls/SC-13), [SC-20](https://controlfreak.risk-redux.io/controls/SC-20), [SC-21](https://controlfreak.risk-redux.io/controls/SC-21), [SC-22](https://controlfreak.risk-redux.io/controls/SC-22), [SC-23](https://controlfreak.risk-redux.io/controls/SC-23), [SC-28](https://controlfreak.risk-redux.io/controls/SC-28), [SC-28.1](https://controlfreak.risk-redux.io/controls/SC-28(01))
+    **Related SP 800-53 Controls:** [AC-01](../../controls/access-control.md#ac-01){ data-preview }, [AC-17 (02)](../../controls/access-control.md#ac-17-02){ data-preview }, [CP-09 (08)](../../controls/contingency-planning.md#cp-09-08){ data-preview }, [SC-08](../../controls/system-and-communications-protection.md#sc-08){ data-preview }, [SC-08 (01)](../../controls/system-and-communications-protection.md#sc-08-01){ data-preview }, [SC-13](../../controls/system-and-communications-protection.md#sc-13){ data-preview }, [SC-20](../../controls/system-and-communications-protection.md#sc-20){ data-preview }, [SC-21](../../controls/system-and-communications-protection.md#sc-21){ data-preview }, [SC-22](../../controls/system-and-communications-protection.md#sc-22){ data-preview }, [SC-23](../../controls/system-and-communications-protection.md#sc-23){ data-preview }, [SC-28](../../controls/system-and-communications-protection.md#sc-28){ data-preview }, [SC-28 (01)](../../controls/system-and-communications-protection.md#sc-28-01){ data-preview }

@@ -2,6 +2,8 @@
 tags:
   - 20x
   - Rev5
+  - Federal Agencies
+  - Rules
 ---
 
 <span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
@@ -56,7 +58,7 @@ These rules apply to agencies based on the FedRAMP Authorization Act, OMB M-24-1
 
 ### Notify FedRAMP After Authorization
 
-??? abstract "AGU-AGC-NAL"
+??? abstract "AGU-AGC-NAA"
     **Changelog:**
 
 
@@ -70,8 +72,8 @@ These rules apply to agencies based on the FedRAMP Authorization Act, OMB M-24-1
 !!! quote ""
     Agencies MUST notify FedRAMP upon authorizing the use of a cloud service within the scope of FedRAMP, supplying at least the following information:
 
-    1. A copy of the Authorization to Operate letter
-    1. All other supplementary information outlined in the Submit an ATO Letter form on the FedRAMP Help Center
+    1. A copy of the agency's Authorization to Operate letter for the information system leveraging the cloud service, following agency policy and templates.
+    1. All other supplemental information requested in the Submit an ATO Letter form by FedRAMP.
 
 
 ### Governance, Risk, and Compliance Tools
@@ -262,7 +264,7 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
 
 
 !!! quote ""
-    Agencies MUST collaborate with FedRAMP when discrepancies or conflicts arise between agency-specific security determinations and the baseline FedRAMP Certification Package.
+    Agencies MUST collaborate with FedRAMP when discrepancies or conflicts arise between agency-specific security determinations and the FedRAMP Certification Package.
 
 
     ---

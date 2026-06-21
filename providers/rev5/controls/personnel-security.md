@@ -1,6 +1,8 @@
 ---
 tags:
   - Rev5
+  - Cloud Service Providers
+  - Controls
 ---
 
 <span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
@@ -24,9 +26,9 @@ tags:
     - **d.** Require external providers to notify [Assignment: organization-defined personnel or roles] of any personnel transfers or terminations of external personnel who possess organizational credentials and/or badges, or who have system privileges within [Assignment: organization-defined time period]; and
     - **e.** Monitor provider compliance with personnel security requirements.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        CSPs MUST clearly document any nationality requirements for any account type within its platform.  If none exists, this must also be explicitly stated.
+        CSPs MUST clearly document any nationality requirements for any account type within its platform. If none exists, this must also be explicitly stated.
 
 ---

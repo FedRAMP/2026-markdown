@@ -1,6 +1,8 @@
 ---
 tags:
   - Rev5
+  - Cloud Service Providers
+  - Controls
 ---
 
 <span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
@@ -22,10 +24,10 @@ tags:
     - **b.** Implement subnetworks for publicly accessible system components that are [Selection: one of: physically; logically] separated from internal organizational networks; and
     - **c.** Connect to external networks or systems only through managed interfaces consisting of boundary protection devices arranged in accordance with an organizational security and privacy architecture.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        SC-7 (b) MAY be met by using any technical capability or complement of capabilities that ensures logical separation between publicly accessible components and internal networks by preventing traversal without inspection and authorization; traffic may not flow unrestricted from publicly accessible components to internal networks.
+        SC-7 (b) may be met by using any technical capability or complement of capabilities that ensures logical separation between publicly accessible components and internal networks by preventing traversal without inspection and authorization; traffic may not flow unrestricted from publicly accessible components to internal networks.
 
 ---
 
@@ -43,9 +45,9 @@ tags:
     - **a.** Determine the [Assignment: organization-defined cryptographic uses]; and
     - **b.** Implement the following types of cryptography required for each specified cryptographic use: [Assignment: organization-defined types of cryptography].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all applicable rules within the Using Cryptographics Modules  guidance.
+        Follow the FedRAMP Cryptographic Module Use rules.
 
 ---

@@ -3,6 +3,13 @@ title: "Complete Ruleset Reference"
 description: "This section contains the entire Consolidated Rules for 2026 as a standalone reference for each ruleset."
 purpose: "This content allows folks to see the full rules together without them broken apart by stakeholder."
 google_doc: ""
+tags:
+  - Federal Agencies
+  - Cloud Service Providers
+  - Independent Assessors
+  - Advisors
+  - FedRAMP
+  - Rules
 picto:
   source: machine
   status: stable
@@ -22,7 +29,7 @@ This section of the Consolidated Rules for 2026 contains each complete FedRAMP R
 | CDS | [Certification Data Sharing](../certification-data-sharing.md) | Stable | Subsets: 4<br>Rules: 21 | 2026-06-23 |
 | CMU | [Cryptographic Module Use](../cryptographic-module-use.md) | Stable | Subsets: 1<br>Rules: 3 | 2026-06-23 |
 | CPO | [Certification Package Overview](../certification-package-overview.md) | Stable | Subsets: 3<br>Rules: 4 | 2026-06-23 |
-| FRC | [FedRAMP Certification](../fedramp-certification.md) | Stable | Subsets: 7<br>Rules: 23 | 2026-06-23 |
+| FRC | [FedRAMP Certification](../fedramp-certification.md) | Stable | Subsets: 7<br>Rules: 29 | 2026-06-23 |
 | IEC | [Incident Evaluation and Communication](../incident-evaluation-and-communication.md) | Stable | Subsets: 2<br>Rules: 8 | 2026-06-23 |
 | IVV | [Independent Verification and Validation](../independent-verification-and-validation.md) | Stable | Subsets: 4<br>Rules: 20 | 2026-06-23 |
 | MAS | [Minimum Assessment Scope](../minimum-assessment-scope.md) | Stable | Subsets: 1<br>Rules: 5 | 2026-06-23 |

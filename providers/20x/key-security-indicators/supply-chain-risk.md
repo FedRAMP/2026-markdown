@@ -1,6 +1,8 @@
 ---
 tags:
   - 20x
+  - Cloud Service Providers
+  - Key Security Indicators
 ---
 
 <span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
@@ -28,7 +30,7 @@ tags:
 
 
 
-    **Related SP 800-53 Controls:** [AC-20](https://controlfreak.risk-redux.io/controls/AC-20), [RA-3.1](https://controlfreak.risk-redux.io/controls/RA-03(01)), [SA-9](https://controlfreak.risk-redux.io/controls/SA-09), [SA-10](https://controlfreak.risk-redux.io/controls/SA-10), [SA-11](https://controlfreak.risk-redux.io/controls/SA-11), [SA-15.3](https://controlfreak.risk-redux.io/controls/SA-15(03)), [SA-22](https://controlfreak.risk-redux.io/controls/SA-22), [SI-7.1](https://controlfreak.risk-redux.io/controls/SI-07(01)), [SR-5](https://controlfreak.risk-redux.io/controls/SR-05), [SR-6](https://controlfreak.risk-redux.io/controls/SR-06), [CA-7.4](https://controlfreak.risk-redux.io/controls/CA-07(04)), [SC-18](https://controlfreak.risk-redux.io/controls/SC-18)
+    **Related SP 800-53 Controls:** [AC-20](../../../reference/controls/access-control.md#ac-20){ data-preview }, [RA-03 (01)](../../../reference/controls/risk-assessment.md#ra-03-01){ data-preview }, [SA-09](../../../reference/controls/system-and-services-acquisition.md#sa-09){ data-preview }, [SA-10](../../../reference/controls/system-and-services-acquisition.md#sa-10){ data-preview }, [SA-11](../../../reference/controls/system-and-services-acquisition.md#sa-11){ data-preview }, [SA-15 (03)](../../../reference/controls/system-and-services-acquisition.md#sa-15-03){ data-preview }, [SA-22](../../../reference/controls/system-and-services-acquisition.md#sa-22){ data-preview }, [SI-07 (01)](../../../reference/controls/system-and-information-integrity.md#si-07-01){ data-preview }, [SR-05](../../../reference/controls/supply-chain-risk-management.md#sr-05){ data-preview }, [SR-06](../../../reference/controls/supply-chain-risk-management.md#sr-06){ data-preview }, [CA-07 (04)](../../../reference/controls/assessment-authorization-and-monitoring.md#ca-07-04){ data-preview }, [SC-18](../../../reference/controls/system-and-communications-protection.md#sc-18){ data-preview }
 
     ---
     **Terms:** [Persistently](../../../definitions/#persistently){ data-preview }
@@ -48,7 +50,7 @@ tags:
 
 
 
-    **Related SP 800-53 Controls:** [AC-20](https://controlfreak.risk-redux.io/controls/AC-20), [CA-3](https://controlfreak.risk-redux.io/controls/CA-03), [IR-6.3](https://controlfreak.risk-redux.io/controls/IR-06(03)), [PS-7](https://controlfreak.risk-redux.io/controls/PS-07), [RA-5](https://controlfreak.risk-redux.io/controls/RA-05), [SA-9](https://controlfreak.risk-redux.io/controls/SA-09), [SI-5](https://controlfreak.risk-redux.io/controls/SI-05), [SR-5](https://controlfreak.risk-redux.io/controls/SR-05), [SR-6](https://controlfreak.risk-redux.io/controls/SR-06), [SR-8](https://controlfreak.risk-redux.io/controls/SR-08)
+    **Related SP 800-53 Controls:** [AC-20](../../../reference/controls/access-control.md#ac-20){ data-preview }, [CA-03](../../../reference/controls/assessment-authorization-and-monitoring.md#ca-03){ data-preview }, [IR-06 (03)](../../../reference/controls/incident-response.md#ir-06-03){ data-preview }, [PS-07](../../../reference/controls/personnel-security.md#ps-07){ data-preview }, [RA-05](../../../reference/controls/risk-assessment.md#ra-05){ data-preview }, [SA-09](../../../reference/controls/system-and-services-acquisition.md#sa-09){ data-preview }, [SI-05](../../../reference/controls/system-and-information-integrity.md#si-05){ data-preview }, [SR-05](../../../reference/controls/supply-chain-risk-management.md#sr-05){ data-preview }, [SR-06](../../../reference/controls/supply-chain-risk-management.md#sr-06){ data-preview }, [SR-08](../../../reference/controls/supply-chain-risk-management.md#sr-08){ data-preview }
 
     ---
     **Terms:** [Information Resource](../../../definitions/#information-resource){ data-preview }, [Vulnerability](../../../definitions/#vulnerability){ data-preview }

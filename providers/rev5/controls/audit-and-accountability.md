@@ -1,6 +1,8 @@
 ---
 tags:
   - Rev5
+  - Cloud Service Providers
+  - Controls
 ---
 
 <span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
@@ -22,7 +24,7 @@ tags:
     - **b.** Report findings to [Assignment: organization-defined personnel or roles]; and
     - **c.** Adjust the level of audit record review, analysis, and reporting within the system when there is a change in risk based on law enforcement information, intelligence information, or other credible sources of information.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
         This activity is considered vulnerability detection and is subject to the Vulnerability Detection and Response rules.
@@ -42,7 +44,7 @@ tags:
 !!! quote ""
     Integrate analysis of audit records with analysis of [Selection: one or more of: vulnerability scanning information; performance data; system monitoring information] to further enhance the ability to identify inappropriate or unusual activity.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
         This activity is considered vulnerability detection and is subject to the Vulnerability Detection and Response rules.
@@ -62,7 +64,7 @@ tags:
 !!! quote ""
     Provide irrefutable evidence that an individual (or process acting on behalf of an individual) has performed [Assignment: organization-defined actions].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Parameters**
 
         | Parameter ID | NIST assignment | FedRAMP value |
@@ -86,7 +88,7 @@ tags:
     - **b.** Allow [Assignment: organization-defined personnel or roles] to select the event types that are to be logged by specific components of the system; and
     - **c.** Generate audit records for the event types defined in AU-2c that include the audit record content defined in AU-3.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Parameters**
 
         | Parameter ID | NIST assignment | FedRAMP value |

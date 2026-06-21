@@ -3,6 +3,14 @@ title: "Rev5 Class D Ruleset Reference"
 description: "This section contains the FedRAMP Rev5 Class D rulesets as standalone references."
 purpose: "This content allows folks to see Rev5 Class D rules together without them broken apart by stakeholder."
 google_doc: ""
+tags:
+  - Rev5
+  - Federal Agencies
+  - Cloud Service Providers
+  - Independent Assessors
+  - Advisors
+  - FedRAMP
+  - Rules
 picto:
   source: machine
   status: stable
@@ -21,7 +29,7 @@ This section contains the FedRAMP Rev5 rulesets with content that applies to Rev
 | CDS | [Certification Data Sharing](certification-data-sharing.md) | Stable | Subsets: 4<br>Rules: 21 | 2026-06-23 |
 | CMU | [Cryptographic Module Use](cryptographic-module-use.md) | Stable | Subsets: 1<br>Rules: 3 | 2026-06-23 |
 | CPO | [Certification Package Overview](certification-package-overview.md) | Stable | Subsets: 2<br>Rules: 3 | 2026-06-23 |
-| FRC | [FedRAMP Certification](fedramp-certification.md) | Stable | Subsets: 5<br>Rules: 16 | 2026-06-23 |
+| FRC | [FedRAMP Certification](fedramp-certification.md) | Stable | Subsets: 5<br>Rules: 19 | 2026-06-23 |
 | IEC | [Incident Evaluation and Communication](incident-evaluation-and-communication.md) | Stable | Subsets: 2<br>Rules: 8 | 2026-06-23 |
 | IVV | [Independent Verification and Validation](independent-verification-and-validation.md) | Stable | Subsets: 3<br>Rules: 19 | 2026-06-23 |
 | MAS | [Minimum Assessment Scope](minimum-assessment-scope.md) | Stable | Subsets: 1<br>Rules: 5 | 2026-06-23 |

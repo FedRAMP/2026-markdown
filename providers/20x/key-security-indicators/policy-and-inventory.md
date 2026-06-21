@@ -1,6 +1,8 @@
 ---
 tags:
   - 20x
+  - Cloud Service Providers
+  - Key Security Indicators
 ---
 
 <span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
@@ -28,7 +30,7 @@ tags:
 
 
 
-    **Related SP 800-53 Controls:** [CM-2.2](https://controlfreak.risk-redux.io/controls/CM-02(02)), [CM-7.5](https://controlfreak.risk-redux.io/controls/CM-07(05)), [CM-8](https://controlfreak.risk-redux.io/controls/CM-08), [CM-8.1](https://controlfreak.risk-redux.io/controls/CM-08(01)), [CM-12](https://controlfreak.risk-redux.io/controls/CM-12), [CM-12.1](https://controlfreak.risk-redux.io/controls/CM-12(01)), [CP-2.8](https://controlfreak.risk-redux.io/controls/CP-02(08))
+    **Related SP 800-53 Controls:** [CM-02 (02)](../../../reference/controls/configuration-management.md#cm-02-02){ data-preview }, [CM-07 (05)](../../../reference/controls/configuration-management.md#cm-07-05){ data-preview }, [CM-08](../../../reference/controls/configuration-management.md#cm-08){ data-preview }, [CM-08 (01)](../../../reference/controls/configuration-management.md#cm-08-01){ data-preview }, [CM-12](../../../reference/controls/configuration-management.md#cm-12){ data-preview }, [CM-12 (01)](../../../reference/controls/configuration-management.md#cm-12-01){ data-preview }, [CP-02 (08)](../../../reference/controls/contingency-planning.md#cp-02-08){ data-preview }
 
     ---
     **Terms:** [Information Resource](../../../definitions/#information-resource){ data-preview }
@@ -65,7 +67,7 @@ tags:
 
 
 
-    **Related SP 800-53 Controls:** [AC-5](https://controlfreak.risk-redux.io/controls/AC-05), [CA-2](https://controlfreak.risk-redux.io/controls/CA-02), [CP-2.1](https://controlfreak.risk-redux.io/controls/CP-02(01)), [CP-4.1](https://controlfreak.risk-redux.io/controls/CP-04(01)), [IR-3.2](https://controlfreak.risk-redux.io/controls/IR-03(02)), [PM-3](https://controlfreak.risk-redux.io/controls/PM-03), [SA-2](https://controlfreak.risk-redux.io/controls/SA-02), [SA-3](https://controlfreak.risk-redux.io/controls/SA-03), [SR-2.1](https://controlfreak.risk-redux.io/controls/SR-02(01))
+    **Related SP 800-53 Controls:** [AC-05](../../../reference/controls/access-control.md#ac-05){ data-preview }, [CA-02](../../../reference/controls/assessment-authorization-and-monitoring.md#ca-02){ data-preview }, [CP-02 (01)](../../../reference/controls/contingency-planning.md#cp-02-01){ data-preview }, [CP-04 (01)](../../../reference/controls/contingency-planning.md#cp-04-01){ data-preview }, [IR-03 (02)](../../../reference/controls/incident-response.md#ir-03-02){ data-preview }, [PM-03](../../../reference/controls/program-management.md#pm-03){ data-preview }, [SA-02](../../../reference/controls/system-and-services-acquisition.md#sa-02){ data-preview }, [SA-03](../../../reference/controls/system-and-services-acquisition.md#sa-03){ data-preview }, [SR-02 (01)](../../../reference/controls/supply-chain-risk-management.md#sr-02-01){ data-preview }
 
     ---
     **Terms:** [Persistently](../../../definitions/#persistently){ data-preview }
@@ -85,7 +87,7 @@ tags:
 
 
 
-    **Related SP 800-53 Controls:** [AC-5](https://controlfreak.risk-redux.io/controls/AC-05), [AU-3.3](https://controlfreak.risk-redux.io/controls/AU-03(03)), [CM-3.4](https://controlfreak.risk-redux.io/controls/CM-03(04)), [PL-8](https://controlfreak.risk-redux.io/controls/PL-08), [PM-7](https://controlfreak.risk-redux.io/controls/PM-07), [SA-3](https://controlfreak.risk-redux.io/controls/SA-03), [SA-8](https://controlfreak.risk-redux.io/controls/SA-08), [SC-4](https://controlfreak.risk-redux.io/controls/SC-04), [SC-18](https://controlfreak.risk-redux.io/controls/SC-18), [SI-10](https://controlfreak.risk-redux.io/controls/SI-10), [SI-11](https://controlfreak.risk-redux.io/controls/SI-11), [SI-16](https://controlfreak.risk-redux.io/controls/SI-16)
+    **Related SP 800-53 Controls:** [AC-05](../../../reference/controls/access-control.md#ac-05){ data-preview }, [AU-03 (03)](../../../reference/controls/audit-and-accountability.md#au-03-03){ data-preview }, [CM-03 (04)](../../../reference/controls/configuration-management.md#cm-03-04){ data-preview }, [PL-08](../../../reference/controls/planning.md#pl-08){ data-preview }, [PM-07](../../../reference/controls/program-management.md#pm-07){ data-preview }, [SA-03](../../../reference/controls/system-and-services-acquisition.md#sa-03){ data-preview }, [SA-08](../../../reference/controls/system-and-services-acquisition.md#sa-08){ data-preview }, [SC-04](../../../reference/controls/system-and-communications-protection.md#sc-04){ data-preview }, [SC-18](../../../reference/controls/system-and-communications-protection.md#sc-18){ data-preview }, [SI-10](../../../reference/controls/system-and-information-integrity.md#si-10){ data-preview }, [SI-11](../../../reference/controls/system-and-information-integrity.md#si-11){ data-preview }, [SI-16](../../../reference/controls/system-and-information-integrity.md#si-16){ data-preview }
 
     ---
     **Terms:** [Persistently](../../../definitions/#persistently){ data-preview }
@@ -105,7 +107,7 @@ tags:
 
 
 
-    **Related SP 800-53 Controls:** [RA-5.11](https://controlfreak.risk-redux.io/controls/RA-05(11))
+    **Related SP 800-53 Controls:** [RA-05 (11)](../../../reference/controls/risk-assessment.md#ra-05-11){ data-preview }
 
     ---
     **Terms:** [Persistently](../../../definitions/#persistently){ data-preview }, [Vulnerability](../../../definitions/#vulnerability){ data-preview }

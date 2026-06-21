@@ -1,6 +1,8 @@
 ---
 tags:
   - Rev5
+  - Cloud Service Providers
+  - Controls
 ---
 
 <span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
@@ -28,7 +30,7 @@ tags:
     - **e.** Produce a control assessment report that document the results of the assessment; and
     - **f.** Provide the results of the control assessment to [Assignment: organization-defined individuals or roles].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Parameters**
 
         | Parameter ID | NIST assignment | FedRAMP value |
@@ -50,12 +52,12 @@ tags:
 !!! quote ""
     Leverage the results of control assessments performed by [Assignment: organization-defined external organization(s)] on [Assignment: organization-defined system] when the assessment meets [Assignment: organization-defined requirements].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Parameters**
 
         | Parameter ID | NIST assignment | FedRAMP value |
         | --- | --- | --- |
-        | `ca-02.03_odp.01` | external organization(s) | any FedRAMP Recognized independent assessor |
+        | `ca-02.03_odp.01` | external organization(s) | any FedRAMP Recognized independent assessment service |
 
 ---
 
@@ -80,10 +82,10 @@ tags:
     - **f.** Response actions to address results of the analysis of control assessment and monitoring information; and
     - **g.** Reporting the security and privacy status of the system to [Assignment: organization-defined personnel or roles] [Assignment: organization-defined frequency].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow the Continuous Collaborative Monitoring, Significant Change Notification, and Vulnerability Detection and Response rules.
+        Follow the FedRAMP Continuous Collaborative Monitoring, Significant Change Notification, Vulnerability Detection and Response, and Vulnerability Evaluation and Reporting rules.
 
 ---
 
@@ -100,7 +102,7 @@ tags:
 !!! quote ""
     Conduct penetration testing [Assignment: organization-defined frequency] on [Assignment: organization-defined system(s) or system components].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
         Penetration testing is part of vulnerability detection and is subject to the Vulnerability Detection and Response rules.

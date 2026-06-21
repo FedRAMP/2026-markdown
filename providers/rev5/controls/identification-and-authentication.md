@@ -1,6 +1,8 @@
 ---
 tags:
   - Rev5
+  - Cloud Service Providers
+  - Controls
 ---
 
 <span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
@@ -20,7 +22,7 @@ tags:
 !!! quote ""
     Uniquely identify and authenticate organizational users and associate that unique identification with processes acting on behalf of those users.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
         Multi-factor authentication must be phishing-resistant. In accordance with current CISA Guidance. Current CISA guidance can be found here: [https://www.cisa.gov/sites/default/files/publications/fact-sheet-implementing-phishing-resistant-mfa-508c.pdf](https://www.cisa.gov/sites/default/files/publications/fact-sheet-implementing-phishing-resistant-mfa-508c.pdf)
@@ -40,7 +42,7 @@ tags:
 !!! quote ""
     Implement multi-factor authentication for access to privileged accounts.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
         Multi-factor authentication must be phishing-resistant. In accordance with current CISA Guidance. Current CISA guidance can be found here: [https://www.cisa.gov/sites/default/files/publications/fact-sheet-implementing-phishing-resistant-mfa-508c.pdf](https://www.cisa.gov/sites/default/files/publications/fact-sheet-implementing-phishing-resistant-mfa-508c.pdf)
@@ -60,7 +62,7 @@ tags:
 !!! quote ""
     Implement multi-factor authentication for access to non-privileged accounts.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
         Multi-factor authentication must be phishing-resistant. In accordance with current CISA Guidance. Current CISA guidance can be found here: [https://www.cisa.gov/sites/default/files/publications/fact-sheet-implementing-phishing-resistant-mfa-508c.pdf](https://www.cisa.gov/sites/default/files/publications/fact-sheet-implementing-phishing-resistant-mfa-508c.pdf)
@@ -83,7 +85,7 @@ tags:
     - **(a)** One of the factors is provided by a device separate from the system gaining access; and
     - **(b)** The device meets [Assignment: organization-defined strength of mechanism requirements].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Parameters**
 
         | Parameter ID | NIST assignment | FedRAMP value |
@@ -106,7 +108,7 @@ tags:
 !!! quote ""
     Implement replay-resistant authentication mechanisms for access to [Selection: one or more of: privileged accounts; non-privileged accounts].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Parameters**
 
         | Parameter ID | NIST assignment | FedRAMP value |
@@ -128,7 +130,7 @@ tags:
 !!! quote ""
     Manage individual identifiers by uniquely identifying each individual as [Assignment: organization-defined characteristics].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Parameters**
 
         | Parameter ID | NIST assignment | FedRAMP value |
@@ -160,7 +162,7 @@ tags:
     - **h.** Requiring individuals to take, and having devices implement, specific controls to protect authenticators; and
     - **i.** Changing authenticators for group or role accounts when membership to those accounts changes.
 
-    !!! note ""
+    !!! info ""
         === "Class B"
             Authenticators must be compliant with NIST SP 800-63-3 Digital Identity Guidelines IAL, AAL, FAL level 1. Link [https://pages.nist.gov/800-63-3](https://pages.nist.gov/800-63-3)
 

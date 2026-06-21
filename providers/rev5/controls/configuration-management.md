@@ -1,6 +1,8 @@
 ---
 tags:
   - Rev5
+  - Cloud Service Providers
+  - Controls
 ---
 
 <span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
@@ -28,7 +30,7 @@ tags:
         - **1.** Policy [Assignment: organization-defined frequency] and following [Assignment: organization-defined events]; and
         - **2.** Procedures [Assignment: organization-defined frequency] and following [Assignment: organization-defined events].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
         Follow the Significant Change Notification rules.
@@ -54,34 +56,10 @@ tags:
         - **5.** Includes the following information to achieve system component accountability: [Assignment: organization-defined information]; and
     - **b.** Review and update the system component inventory [Assignment: organization-defined frequency].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow the Continuous Collaborative Monitoring, Significant Change Notification, and Vulnerability Detection and Response rules.
-
----
-
-### Automated Unauthorized Component Detection { #cm-08-03-automated-unauthorized-component-detection }
-
-??? abstract "CM-08(03)"
-    **NIST SP 800-53 Revision 5.2.0**
-
-    - **Official NIST control ID:** `CM-08(03)`
-    - **Catalog version:** 5.2.0
-    - **OSCAL version:** 1.2.2
-    - **Catalog last modified:** May 11, 2026
-
-!!! quote ""
-    - **(a)** Detect the presence of unauthorized hardware, software, and firmware components within the system using [Assignment: organization-defined automated mechanisms] [Assignment: organization-defined frequency]; and
-    - **(b)** Take the following actions when unauthorized components are detected: [Selection: one or more of: disable network access by unauthorized components; isolate unauthorized components; notify].
-
-    !!! note ""
-        **FedRAMP Parameters**
-
-        | Parameter ID | NIST assignment | FedRAMP value |
-        | --- | --- | --- |
-        | `cm-08.03_odp.01` | automated mechanisms | automated mechanisms with a maximum five-minute delay in detection. |
-        | `cm-08.03_odp.04` | frequency | continuously |
+        Follow the FedRAMP Continuous Collaborative Monitoring, Significant Change Notification, Vulnerability Detection and Response, and Vulnerability Evaluation and Reporting rules.
 
 ---
 
@@ -100,7 +78,7 @@ tags:
     - **b.** Enforce software installation policies through the following methods: [Assignment: organization-defined methods]; and
     - **c.** Monitor policy compliance [Assignment: organization-defined frequency].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Parameters**
 
         | Parameter ID | NIST assignment | FedRAMP value |
@@ -124,10 +102,10 @@ tags:
     - **b.** Identify and document the users who have access to the system and system components where the information is processed and stored; and
     - **c.** Document changes to the location (i.e., system or system components) where the information is processed and stored.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow Minimum Assessment Scope (MAS) rules.
+        Follow the FedRAMP Minimum Assessment Scope rules.
 
 ---
 
@@ -144,10 +122,10 @@ tags:
 !!! quote ""
     Use automated tools to identify [Assignment: organization-defined information by information type] on [Assignment: organization-defined system components] to ensure controls are in place to protect organizational information and individual privacy.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow Minimum Assessment Scope (MAS) rules.
+        Follow the FedRAMP Minimum Assessment Scope rules.
 
 ---
 
@@ -164,7 +142,7 @@ tags:
 !!! quote ""
     Prevent the installation of [Assignment: organization-defined software and firmware components] without verification that the component has been digitally signed using a certificate that is recognized and approved by the organization.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
         If digital signatures/certificates are unavailable, alternative cryptographic integrity checks (hashes, self-signed certs, etc.) can be utilized.

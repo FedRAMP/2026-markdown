@@ -1,6 +1,8 @@
 ---
 tags:
   - Rev5
+  - Cloud Service Providers
+  - Controls
 ---
 
 <span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
@@ -29,10 +31,10 @@ tags:
     - **c.** Document attempts to obtain system, system component, or system service documentation when such documentation is either unavailable or nonexistent and take [Assignment: organization-defined actions] in response; and
     - **d.** Distribute documentation to [Assignment: organization-defined personnel or roles].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all applicable rules within the FedRAMP Security Configuration Guidance
+        Follow the FedRAMP Secure Configuration Guide rules.
 
 ---
 
@@ -49,7 +51,7 @@ tags:
 !!! quote ""
     Require providers of the following external system services to identify the functions, ports, protocols, and other services required for the use of such services: [Assignment: organization-defined external system services].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Parameters**
 
         | Parameter ID | NIST assignment | FedRAMP value |
@@ -71,14 +73,14 @@ tags:
 !!! quote ""
     Restrict the location of [Selection: one or more of: information processing; information or data; system services] to [Assignment: organization-defined locations] based on [Assignment: organization-defined requirements].
 
-    !!! note ""
+    !!! info ""
         === "Class C"
             **FedRAMP Parameters**
 
             | Parameter ID | NIST assignment | FedRAMP value |
             | --- | --- | --- |
             | `sa-09.05_odp.01` | one or more of: information processing; information or data; system services | information processing, information or data, AND system services |
-            | `sa-09.05_odp.03` | requirements | all Federal customer data |
+            | `sa-09.05_odp.03` | requirements | all federal customer data |
 
         === "Class D"
             **FedRAMP Parameters**
@@ -87,6 +89,6 @@ tags:
             | --- | --- | --- |
             | `sa-09.05_odp.01` | one or more of: information processing; information or data; system services | information processing, information or data, AND system services |
             | `sa-09.05_odp.02` | locations | U.S./U.S. Territories or geographic locations where there is U.S. jurisdiction |
-            | `sa-09.05_odp.03` | requirements | all Federal customer data |
+            | `sa-09.05_odp.03` | requirements | all federal customer data |
 
 ---

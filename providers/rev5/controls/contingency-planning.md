@@ -1,6 +1,8 @@
 ---
 tags:
   - Rev5
+  - Cloud Service Providers
+  - Controls
 ---
 
 <span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
@@ -20,12 +22,12 @@ tags:
 !!! quote ""
     Plan for the resumption of [Selection: one of: all; essential] mission and business functions within [Assignment: organization-defined time period] of contingency plan activation.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Parameters**
 
         | Parameter ID | NIST assignment | FedRAMP value |
         | --- | --- | --- |
-        | `cp-02.03_odp.02` | time period | time period defined in service provider and organization SLA |
+        | `cp-02.03_odp.02` | time period | time period defined in service provider and organization Service Level Agreements |
 
 ---
 
@@ -42,7 +44,7 @@ tags:
 !!! quote ""
     Identify an alternate processing site that is sufficiently separated from the primary processing site to reduce susceptibility to the same threats.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
         The service provider may determine what is considered a sufficient degree of separation between the primary and alternate processing sites, based on the types of threats that are of concern. For one particular type of threat (i.e., hostile cyber attack), the degree of separation between sites will be less relevant.
@@ -62,11 +64,11 @@ tags:
 !!! quote ""
     Provide the capability to restore system components within [Assignment: organization-defined restoration time periods] from configuration-controlled and integrity-protected information representing a known, operational state for the components.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Parameters**
 
         | Parameter ID | NIST assignment | FedRAMP value |
         | --- | --- | --- |
-        | `cp-10.04_odp` | restoration time periods | time period consistent with the restoration time-periods defined in the service provider and organization SLA |
+        | `cp-10.04_odp` | restoration time periods | time period consistent with the restoration time-periods defined in the service provider and organization Service Level Agreements |
 
 ---

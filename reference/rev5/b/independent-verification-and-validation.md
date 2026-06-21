@@ -1,6 +1,9 @@
 ---
 tags:
   - Rev5
+  - Cloud Service Providers
+  - Independent Assessors
+  - Rules
 ---
 
 <span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
@@ -379,41 +382,55 @@ These rules apply to providers for FedRAMP Rev5 Certifications.
 
         **Timeframe:** 1 year
 
-        1. AC-2
-        1. AC-3
-        1. AU-2
-        1. AU-3
-        1. AU-4
-        1. AU-5
-        1. AU-6
-        1. AU-8
-        1. AU-11
-        1. AU-12
-        1. CM-5
-        1. CM-6
-        1. CM-7
-        1. CM-8
-        1. CP-4
-        1. IA-2
-        1. IA-2 (1)
-        1. IA-2 (2)
-        1. IA-2 (8)
-        1. IA-2 (12)
-        1. IA-4
-        1. IA-5
-        1. IR-4
-        1. PE-3
-        1. RA-5
-        1. RA-5 (2)
-        1. SA-9
-        1. SC-7
-        1. SC-8
-        1. SC-12
-        1. SC-13
-        1. SC-21
-        1. SC-28
-        1. SI-3
-
+        ???+ info "Rev5 Control List"
+            - **Access Control (AC)**
+                - `AC-02` ([Account Management](../../controls/access-control.md#ac-02){ data-preview })
+                - `AC-03` ([Access Enforcement](../../controls/access-control.md#ac-03){ data-preview })
+            - **Audit and Accountability (AU)**
+                - `AU-02` ([Event Logging](../../controls/audit-and-accountability.md#au-02){ data-preview })
+                - `AU-03` ([Content of Audit Records](../../controls/audit-and-accountability.md#au-03){ data-preview })
+                - `AU-04` ([Audit Log Storage Capacity](../../controls/audit-and-accountability.md#au-04){ data-preview })
+                - `AU-05` ([Response to Audit Logging Process Failures](../../controls/audit-and-accountability.md#au-05){ data-preview })
+                - `AU-06` ([Audit Record Review, Analysis, and Reporting](../../controls/audit-and-accountability.md#au-06){ data-preview })
+                - `AU-08` ([Time Stamps](../../controls/audit-and-accountability.md#au-08){ data-preview })
+                - `AU-11` ([Audit Record Retention](../../controls/audit-and-accountability.md#au-11){ data-preview })
+                - `AU-12` ([Audit Record Generation](../../controls/audit-and-accountability.md#au-12){ data-preview })
+            - **Assessment, Authorization, and Monitoring (CA)**
+                - `CA-08` ([Penetration Testing](../../controls/assessment-authorization-and-monitoring.md#ca-08){ data-preview })
+            - **Configuration Management (CM)**
+                - `CM-05` ([Access Restrictions for Change](../../controls/configuration-management.md#cm-05){ data-preview })
+                - `CM-06` ([Configuration Settings](../../controls/configuration-management.md#cm-06){ data-preview })
+                - `CM-07` ([Least Functionality](../../controls/configuration-management.md#cm-07){ data-preview })
+                - `CM-08` ([System Component Inventory](../../controls/configuration-management.md#cm-08){ data-preview })
+            - **Contingency Planning (CP)**
+                - `CP-04` ([Contingency Plan Testing](../../controls/contingency-planning.md#cp-04){ data-preview })
+            - **Identification and Authentication (IA)**
+                - `IA-02` ([Identification and Authentication (Organizational Users)](../../controls/identification-and-authentication.md#ia-02){ data-preview })
+                - `IA-02 (01)` ([Multi-factor Authentication to Privileged Accounts](../../controls/identification-and-authentication.md#ia-02-01){ data-preview })
+                - `IA-02 (02)` ([Multi-factor Authentication to Non-privileged Accounts](../../controls/identification-and-authentication.md#ia-02-02){ data-preview })
+                - `IA-02 (08)` ([Access to Accounts — Replay Resistant](../../controls/identification-and-authentication.md#ia-02-08){ data-preview })
+                - `IA-02 (12)` ([Acceptance of PIV Credentials](../../controls/identification-and-authentication.md#ia-02-12){ data-preview })
+                - `IA-04` ([Identifier Management](../../controls/identification-and-authentication.md#ia-04){ data-preview })
+                - `IA-05` ([Authenticator Management](../../controls/identification-and-authentication.md#ia-05){ data-preview })
+            - **Incident Response (IR)**
+                - `IR-04` ([Incident Handling](../../controls/incident-response.md#ir-04){ data-preview })
+            - **Physical and Environmental Protection (PE)**
+                - `PE-03` ([Physical Access Control](../../controls/physical-and-environmental-protection.md#pe-03){ data-preview })
+            - **Risk Assessment (RA)**
+                - `RA-05` ([Vulnerability Monitoring and Scanning](../../controls/risk-assessment.md#ra-05){ data-preview })
+                - `RA-05 (02)` ([Update Vulnerabilities to Be Scanned](../../controls/risk-assessment.md#ra-05-02){ data-preview })
+            - **System and Services Acquisition (SA)**
+                - `SA-09` ([External System Services](../../controls/system-and-services-acquisition.md#sa-09){ data-preview })
+            - **System and Communications Protection (SC)**
+                - `SC-07` ([Boundary Protection](../../controls/system-and-communications-protection.md#sc-07){ data-preview })
+                - `SC-08` ([Transmission Confidentiality and Integrity](../../controls/system-and-communications-protection.md#sc-08){ data-preview })
+                - `SC-12` ([Cryptographic Key Establishment and Management](../../controls/system-and-communications-protection.md#sc-12){ data-preview })
+                - `SC-13` ([Cryptographic Protection](../../controls/system-and-communications-protection.md#sc-13){ data-preview })
+                - `SC-21` ([Secure Name/Address Resolution Service (Recursive or Caching Resolver)](../../controls/system-and-communications-protection.md#sc-21){ data-preview })
+                - `SC-28` ([Protection of Information at Rest](../../controls/system-and-communications-protection.md#sc-28){ data-preview })
+            - **System and Information Integrity (SI)**
+                - `SI-03` ([Malicious Code Protection](../../controls/system-and-information-integrity.md#si-03){ data-preview })
+        
 
     ---
     **Terms:** [FedRAMP Independent Assessment](../../../definitions/#fedramp-independent-assessment){ data-preview }

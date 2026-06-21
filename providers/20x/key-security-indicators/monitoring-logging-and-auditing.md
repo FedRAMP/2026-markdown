@@ -1,6 +1,8 @@
 ---
 tags:
   - 20x
+  - Cloud Service Providers
+  - Key Security Indicators
 ---
 
 <span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
@@ -32,7 +34,7 @@ tags:
 
 
 
-    **Related SP 800-53 Controls:** [SI-11](https://controlfreak.risk-redux.io/controls/SI-11)
+    **Related SP 800-53 Controls:** [SI-11](../../../reference/controls/system-and-information-integrity.md#si-11){ data-preview }
 
     ---
     **Terms:** [Persistently](../../../definitions/#persistently){ data-preview }
@@ -52,7 +54,7 @@ tags:
 
 
 
-    **Related SP 800-53 Controls:** [CA-7](https://controlfreak.risk-redux.io/controls/CA-07), [CM-2](https://controlfreak.risk-redux.io/controls/CM-02), [CM-6](https://controlfreak.risk-redux.io/controls/CM-06), [SI-7.7](https://controlfreak.risk-redux.io/controls/SI-07(07))
+    **Related SP 800-53 Controls:** [CA-07](../../../reference/controls/assessment-authorization-and-monitoring.md#ca-07){ data-preview }, [CM-02](../../../reference/controls/configuration-management.md#cm-02){ data-preview }, [CM-06](../../../reference/controls/configuration-management.md#cm-06){ data-preview }, [SI-07 (07)](../../../reference/controls/system-and-information-integrity.md#si-07-07){ data-preview }
 
     ---
     **Terms:** [Information Resource](../../../definitions/#information-resource){ data-preview }, [Machine-Based (Information Resources)](../../../definitions/#machine-based-information-resources){ data-preview }, [Persistently](../../../definitions/#persistently){ data-preview }
@@ -72,7 +74,7 @@ tags:
 
 
 
-    **Related SP 800-53 Controls:** [AC-2.4](https://controlfreak.risk-redux.io/controls/AC-02(04)), [AC-6.9](https://controlfreak.risk-redux.io/controls/AC-06(09)), [AC-17.1](https://controlfreak.risk-redux.io/controls/AC-17(01)), [AC-20.1](https://controlfreak.risk-redux.io/controls/AC-20(01)), [AU-2](https://controlfreak.risk-redux.io/controls/AU-02), [AU-7.1](https://controlfreak.risk-redux.io/controls/AU-07(01)), [AU-12](https://controlfreak.risk-redux.io/controls/AU-12), [SI-4.4](https://controlfreak.risk-redux.io/controls/SI-04(04)), [SI-4.5](https://controlfreak.risk-redux.io/controls/SI-04(05)), [SI-7.7](https://controlfreak.risk-redux.io/controls/SI-07(07))
+    **Related SP 800-53 Controls:** [AC-02 (04)](../../../reference/controls/access-control.md#ac-02-04){ data-preview }, [AC-06 (09)](../../../reference/controls/access-control.md#ac-06-09){ data-preview }, [AC-17 (01)](../../../reference/controls/access-control.md#ac-17-01){ data-preview }, [AC-20 (01)](../../../reference/controls/access-control.md#ac-20-01){ data-preview }, [AU-02](../../../reference/controls/audit-and-accountability.md#au-02){ data-preview }, [AU-07 (01)](../../../reference/controls/audit-and-accountability.md#au-07-01){ data-preview }, [AU-12](../../../reference/controls/audit-and-accountability.md#au-12){ data-preview }, [SI-04 (04)](../../../reference/controls/system-and-information-integrity.md#si-04-04){ data-preview }, [SI-04 (05)](../../../reference/controls/system-and-information-integrity.md#si-04-05){ data-preview }, [SI-07 (07)](../../../reference/controls/system-and-information-integrity.md#si-07-07){ data-preview }
 
     ---
     **Terms:** [Information Resource](../../../definitions/#information-resource){ data-preview }, [Persistently](../../../definitions/#persistently){ data-preview }
@@ -92,7 +94,7 @@ tags:
 
 
 
-    **Related SP 800-53 Controls:** [AC-17.1](https://controlfreak.risk-redux.io/controls/AC-17(01)), [AC-20.1](https://controlfreak.risk-redux.io/controls/AC-20(01)), [AU-2](https://controlfreak.risk-redux.io/controls/AU-02), [AU-3](https://controlfreak.risk-redux.io/controls/AU-03), [AU-3.1](https://controlfreak.risk-redux.io/controls/AU-03(01)), [AU-4](https://controlfreak.risk-redux.io/controls/AU-04), [AU-5](https://controlfreak.risk-redux.io/controls/AU-05), [AU-6.1](https://controlfreak.risk-redux.io/controls/AU-06(01)), [AU-6.3](https://controlfreak.risk-redux.io/controls/AU-06(03)), [AU-7](https://controlfreak.risk-redux.io/controls/AU-07), [AU-7.1](https://controlfreak.risk-redux.io/controls/AU-07(01)), [AU-8](https://controlfreak.risk-redux.io/controls/AU-08), [AU-9](https://controlfreak.risk-redux.io/controls/AU-09), [AU-11](https://controlfreak.risk-redux.io/controls/AU-11), [IR-4.1](https://controlfreak.risk-redux.io/controls/IR-04(01)), [SI-4.2](https://controlfreak.risk-redux.io/controls/SI-04(02)), [SI-4.4](https://controlfreak.risk-redux.io/controls/SI-04(04)), [SI-7.7](https://controlfreak.risk-redux.io/controls/SI-07(07))
+    **Related SP 800-53 Controls:** [AC-17 (01)](../../../reference/controls/access-control.md#ac-17-01){ data-preview }, [AC-20 (01)](../../../reference/controls/access-control.md#ac-20-01){ data-preview }, [AU-02](../../../reference/controls/audit-and-accountability.md#au-02){ data-preview }, [AU-03](../../../reference/controls/audit-and-accountability.md#au-03){ data-preview }, [AU-03 (01)](../../../reference/controls/audit-and-accountability.md#au-03-01){ data-preview }, [AU-04](../../../reference/controls/audit-and-accountability.md#au-04){ data-preview }, [AU-05](../../../reference/controls/audit-and-accountability.md#au-05){ data-preview }, [AU-06 (01)](../../../reference/controls/audit-and-accountability.md#au-06-01){ data-preview }, [AU-06 (03)](../../../reference/controls/audit-and-accountability.md#au-06-03){ data-preview }, [AU-07](../../../reference/controls/audit-and-accountability.md#au-07){ data-preview }, [AU-07 (01)](../../../reference/controls/audit-and-accountability.md#au-07-01){ data-preview }, [AU-08](../../../reference/controls/audit-and-accountability.md#au-08){ data-preview }, [AU-09](../../../reference/controls/audit-and-accountability.md#au-09){ data-preview }, [AU-11](../../../reference/controls/audit-and-accountability.md#au-11){ data-preview }, [IR-04 (01)](../../../reference/controls/incident-response.md#ir-04-01){ data-preview }, [SI-04 (02)](../../../reference/controls/system-and-information-integrity.md#si-04-02){ data-preview }, [SI-04 (04)](../../../reference/controls/system-and-information-integrity.md#si-04-04){ data-preview }, [SI-07 (07)](../../../reference/controls/system-and-information-integrity.md#si-07-07){ data-preview }
 
     ---
     **Terms:** [Persistently](../../../definitions/#persistently){ data-preview }
@@ -112,7 +114,7 @@ tags:
 
 
 
-    **Related SP 800-53 Controls:** [AC-2.4](https://controlfreak.risk-redux.io/controls/AC-02(04)), [AC-6.9](https://controlfreak.risk-redux.io/controls/AC-06(09)), [AU-2](https://controlfreak.risk-redux.io/controls/AU-02), [AU-6](https://controlfreak.risk-redux.io/controls/AU-06), [AU-6.1](https://controlfreak.risk-redux.io/controls/AU-06(01)), [SI-4](https://controlfreak.risk-redux.io/controls/SI-04), [SI-4.4](https://controlfreak.risk-redux.io/controls/SI-04(04))
+    **Related SP 800-53 Controls:** [AC-02 (04)](../../../reference/controls/access-control.md#ac-02-04){ data-preview }, [AC-06 (09)](../../../reference/controls/access-control.md#ac-06-09){ data-preview }, [AU-02](../../../reference/controls/audit-and-accountability.md#au-02){ data-preview }, [AU-06](../../../reference/controls/audit-and-accountability.md#au-06){ data-preview }, [AU-06 (01)](../../../reference/controls/audit-and-accountability.md#au-06-01){ data-preview }, [SI-04](../../../reference/controls/system-and-information-integrity.md#si-04){ data-preview }, [SI-04 (04)](../../../reference/controls/system-and-information-integrity.md#si-04-04){ data-preview }
 
     ---
     **Terms:** [Persistently](../../../definitions/#persistently){ data-preview }

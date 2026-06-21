@@ -3,6 +3,14 @@ title: "20x Class A Ruleset Reference"
 description: "This section contains the entire Consolidated Rules for 2026 as a standalone reference for each ruleset."
 purpose: "This content allows folks to see the full rules together without them broken apart by stakeholder."
 google_doc: ""
+tags:
+  - 20x
+  - Federal Agencies
+  - Cloud Service Providers
+  - Independent Assessors
+  - Advisors
+  - FedRAMP
+  - Rules
 picto:
   source: machine
   status: stable

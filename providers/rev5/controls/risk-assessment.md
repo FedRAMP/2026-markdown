@@ -1,6 +1,8 @@
 ---
 tags:
   - Rev5
+  - Cloud Service Providers
+  - Controls
 ---
 
 <span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
@@ -28,10 +30,10 @@ tags:
     - **e.** Share information obtained from the vulnerability monitoring process and control assessments with [Assignment: organization-defined personnel or roles] to help eliminate similar vulnerabilities in other systems; and
     - **f.** Employ vulnerability monitoring tools that include the capability to readily update the vulnerabilities to be scanned.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all applicable rules within the Vulnerability and Detection Response guidance.
+        Follow the FedRAMP Vulnerability Detection and Response and Vulnerability Evaluation and Reporting rules.
 
 ---
 
@@ -48,16 +50,10 @@ tags:
 !!! quote ""
     Update the system vulnerabilities to be scanned [Selection: one or more of: prior to a new scan; when new vulnerabilities are identified and reported].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all applicable rules within the Vulnerability and Detection Response guidance.
-
-        **FedRAMP Parameters**
-
-        | Parameter ID | NIST assignment | FedRAMP value |
-        | --- | --- | --- |
-        | `ra-05.02_odp.02` | frequency | prior to a new scan |
+        Follow the FedRAMP Vulnerability Detection and Response and Vulnerability Evaluation and Reporting rules.
 
 ---
 
@@ -74,10 +70,10 @@ tags:
 !!! quote ""
     Define the breadth and depth of vulnerability scanning coverage.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all applicable rules within the Vulnerability and Detection Response guidance.
+        Follow the FedRAMP Vulnerability Detection and Response and Vulnerability Evaluation and Reporting rules.
 
 ---
 
@@ -94,10 +90,10 @@ tags:
 !!! quote ""
     Determine information about the system that is discoverable and take [Assignment: organization-defined corrective actions].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all applicable rules within the Vulnerability and Detection Response guidance.
+        Follow the FedRAMP Vulnerability Detection and Response and Vulnerability Evaluation and Reporting rules.
 
 ---
 
@@ -114,10 +110,10 @@ tags:
 !!! quote ""
     Implement privileged access authorization to [Assignment: organization-defined system components] for [Assignment: organization-defined vulnerability scanning activities].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all applicable rules within the Vulnerability and Detection Response guidance.
+        Follow the FedRAMP Vulnerability Detection and Response and Vulnerability Evaluation and Reporting rules.
 
 ---
 
@@ -134,10 +130,10 @@ tags:
 !!! quote ""
     Review historic audit logs to determine if a vulnerability identified in a [Assignment: organization-defined system] has been previously exploited within an [Assignment: organization-defined time period].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all applicable rules within the Vulnerability and Detection Response guidance.
+        Follow the FedRAMP Vulnerability Detection and Response and Vulnerability Evaluation and Reporting rules.
 
 ---
 
@@ -154,10 +150,10 @@ tags:
 !!! quote ""
     Establish a public reporting channel for receiving reports of vulnerabilities in organizational systems and system components.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all applicable rules within the Vulnerability and Detection Response guidance.
+        Follow the FedRAMP Vulnerability Detection and Response and Vulnerability Evaluation and Reporting rules.
 
 ---
 
@@ -174,9 +170,9 @@ tags:
 !!! quote ""
     Respond to findings from security and privacy assessments, monitoring, and audits in accordance with organizational risk tolerance.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all applicable rules within the Vulnerability and Detection Response guidance.
+        Follow the FedRAMP Vulnerability Detection and Response and Vulnerability Evaluation and Reporting rules.
 
 ---

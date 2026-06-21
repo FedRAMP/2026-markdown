@@ -1,6 +1,8 @@
 ---
 tags:
   - Rev5
+  - Cloud Service Providers
+  - Controls
 ---
 
 <span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
@@ -23,10 +25,10 @@ tags:
     - **c.** Install security-relevant software and firmware updates within [Assignment: organization-defined time period] of the release of the updates; and
     - **d.** Incorporate flaw remediation into the organizational configuration management process.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all applicable rules within the Vulnerability and Detection Response guidance.
+        Follow the FedRAMP Vulnerability Detection and Response and Vulnerability Evaluation and Reporting rules.
 
 ---
 
@@ -43,10 +45,10 @@ tags:
 !!! quote ""
     Determine if system components have applicable security-relevant software and firmware updates installed using [Assignment: organization-defined automated mechanisms] [Assignment: organization-defined frequency].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all applicable rules within the Vulnerability and Detection Response guidance.
+        Follow the FedRAMP Vulnerability Detection and Response and Vulnerability Evaluation and Reporting rules.
 
 ---
 
@@ -73,7 +75,7 @@ tags:
     - **f.** Obtain legal opinion regarding system monitoring activities; and
     - **g.** Provide [Assignment: organization-defined system monitoring information] to [Assignment: organization-defined personnel or roles] [Selection: one or more of: as needed].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
         Follow all applicable rules within the Vulnerability and Detection Response and Incident Communication Procedure guidance.
@@ -93,10 +95,10 @@ tags:
 !!! quote ""
     Connect and configure individual intrusion detection tools into a system-wide intrusion detection system.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all applicable rules within the Vulnerability and Detection Response guidance.
+        Follow the FedRAMP Vulnerability Detection and Response and Vulnerability Evaluation and Reporting rules.
 
 ---
 
@@ -113,10 +115,10 @@ tags:
 !!! quote ""
     Employ automated tools and mechanisms to support near real-time analysis of events.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all applicable rules within the Vulnerability and Detection Response guidance.
+        Follow the FedRAMP Vulnerability Detection and Response and Vulnerability Evaluation and Reporting rules.
 
 ---
 
@@ -134,10 +136,10 @@ tags:
     - **(a)** Determine criteria for unusual or unauthorized activities or conditions for inbound and outbound communications traffic;
     - **(b)** Monitor inbound and outbound communications traffic [Assignment: organization-defined frequency] for [Assignment: organization-defined unusual or unauthorized activities or conditions].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all applicable rules within the Vulnerability and Detection Response guidance.
+        Follow the FedRAMP Vulnerability Detection and Response and Vulnerability Evaluation and Reporting rules.
 
 ---
 
@@ -154,10 +156,10 @@ tags:
 !!! quote ""
     Alert [Assignment: organization-defined personnel or roles] when the following system-generated indications of compromise or potential compromise occur: [Assignment: organization-defined compromise indicators].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all applicable rules within the Vulnerability and Detection Response guidance.
+        Follow the FedRAMP Vulnerability Detection and Response and Vulnerability Evaluation and Reporting rules.
 
 ---
 
@@ -177,10 +179,10 @@ tags:
     - **c.** Disseminate security alerts, advisories, and directives to: [Assignment: si-05_odp.02]; and
     - **d.** Implement security directives in accordance with established time frames, or notify the issuing organization of the degree of noncompliance.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all applicable rules within the FedRAMP Secure Inbox (FSI) guidance.
+        Follow the FedRAMP Addressing FedRAMP Communication rules.
 
 ---
 
@@ -198,7 +200,7 @@ tags:
     - **a.** Employ spam protection mechanisms at system entry and exit points to detect and act on unsolicited messages; and
     - **b.** Update spam protection mechanisms when new releases are available in accordance with organizational configuration management policy and procedures.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
         When CSO sends email on behalf of the government as part of the business offering, Control Description should include implementation of Domain-based Message Authentication, Reporting & Conformance (DMARC) on the sending domain for outgoing messages as described in DHS Binding Operational Directive (BOD) 18-01. [https://www.cisa.gov/news-events/directives](https://www.cisa.gov/news-events/directives)

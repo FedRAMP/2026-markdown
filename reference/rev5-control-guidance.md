@@ -1,13 +1,14 @@
 ---
 tags:
   - Rev5
+  - Controls
 ---
 
 <span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
 
-# Rev5 Controls
+# Rev5 Control Guidance
 
-This reference contains the NIST SP 800-53 Revision 5 controls for which the FedRAMP Consolidated Rules define additional guidance or organization-assigned parameter values.
+This reference contains FedRAMP guidance and organization-assigned parameter values for NIST SP 800-53 Revision 5 controls.
 
 !!! info "Official NIST OSCAL source"
     **Electronic (OSCAL) Version of NIST SP 800-53 Rev 5.2.0 Controls and SP 800-53A Rev 5.2.0 Assessment Procedures**
@@ -53,7 +54,7 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
     - **(a)** [Assignment: organization-defined security functions (deployed in hardware, software, and firmware)]; and
     - **(b)** [Assignment: organization-defined security-relevant information].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Parameters**
 
         | Parameter ID | NIST assignment | FedRAMP value |
@@ -76,7 +77,7 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
 !!! quote ""
     Require that users of system accounts (or roles) with access to [Assignment: organization-defined security functions or security-relevant information] use non-privileged accounts or roles, when accessing nonsecurity functions.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Parameters**
 
         | Parameter ID | NIST assignment | FedRAMP value |
@@ -98,7 +99,7 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
 !!! quote ""
     Prevent the following software from executing at higher privilege levels than users executing the software: [Assignment: organization-defined software].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Parameters**
 
         | Parameter ID | NIST assignment | FedRAMP value |
@@ -123,7 +124,7 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
         - **2.** Process, store, or transmit organization-controlled information using external systems; or
     - **b.** Prohibit the use of [Assignment: organization-defined prohibited types of external systems].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
         The interrelated controls of AC-20, CA-3, and SA-9 should be differentiated as follows:
@@ -153,7 +154,7 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
     - **b.** Report findings to [Assignment: organization-defined personnel or roles]; and
     - **c.** Adjust the level of audit record review, analysis, and reporting within the system when there is a change in risk based on law enforcement information, intelligence information, or other credible sources of information.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
         This activity is considered vulnerability detection and is subject to the Vulnerability Detection and Response rules.
@@ -173,7 +174,7 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
 !!! quote ""
     Integrate analysis of audit records with analysis of [Selection: one or more of: vulnerability scanning information; performance data; system monitoring information] to further enhance the ability to identify inappropriate or unusual activity.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
         This activity is considered vulnerability detection and is subject to the Vulnerability Detection and Response rules.
@@ -193,7 +194,7 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
 !!! quote ""
     Provide irrefutable evidence that an individual (or process acting on behalf of an individual) has performed [Assignment: organization-defined actions].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Parameters**
 
         | Parameter ID | NIST assignment | FedRAMP value |
@@ -217,7 +218,7 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
     - **b.** Allow [Assignment: organization-defined personnel or roles] to select the event types that are to be logged by specific components of the system; and
     - **c.** Generate audit records for the event types defined in AU-2c that include the audit record content defined in AU-3.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Parameters**
 
         | Parameter ID | NIST assignment | FedRAMP value |
@@ -249,7 +250,7 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
     - **e.** Produce a control assessment report that document the results of the assessment; and
     - **f.** Provide the results of the control assessment to [Assignment: organization-defined individuals or roles].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Parameters**
 
         | Parameter ID | NIST assignment | FedRAMP value |
@@ -271,12 +272,12 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
 !!! quote ""
     Leverage the results of control assessments performed by [Assignment: organization-defined external organization(s)] on [Assignment: organization-defined system] when the assessment meets [Assignment: organization-defined requirements].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Parameters**
 
         | Parameter ID | NIST assignment | FedRAMP value |
         | --- | --- | --- |
-        | `ca-02.03_odp.01` | external organization(s) | any FedRAMP Recognized independent assessor |
+        | `ca-02.03_odp.01` | external organization(s) | any FedRAMP Recognized independent assessment service |
 
 ---
 
@@ -301,10 +302,10 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
     - **f.** Response actions to address results of the analysis of control assessment and monitoring information; and
     - **g.** Reporting the security and privacy status of the system to [Assignment: organization-defined personnel or roles] [Assignment: organization-defined frequency].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow the Continuous Collaborative Monitoring, Significant Change Notification, and Vulnerability Detection and Response rules.
+        Follow the FedRAMP Continuous Collaborative Monitoring, Significant Change Notification, Vulnerability Detection and Response, and Vulnerability Evaluation and Reporting rules.
 
 ---
 
@@ -321,7 +322,7 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
 !!! quote ""
     Conduct penetration testing [Assignment: organization-defined frequency] on [Assignment: organization-defined system(s) or system components].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
         Penetration testing is part of vulnerability detection and is subject to the Vulnerability Detection and Response rules.
@@ -351,7 +352,7 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
         - **1.** Policy [Assignment: organization-defined frequency] and following [Assignment: organization-defined events]; and
         - **2.** Procedures [Assignment: organization-defined frequency] and following [Assignment: organization-defined events].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
         Follow the Significant Change Notification rules.
@@ -377,34 +378,10 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
         - **5.** Includes the following information to achieve system component accountability: [Assignment: organization-defined information]; and
     - **b.** Review and update the system component inventory [Assignment: organization-defined frequency].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow the Continuous Collaborative Monitoring, Significant Change Notification, and Vulnerability Detection and Response rules.
-
----
-
-### Automated Unauthorized Component Detection { #cm-08-03-automated-unauthorized-component-detection }
-
-??? abstract "CM-08(03)"
-    **NIST SP 800-53 Revision 5.2.0**
-
-    - **Official NIST control ID:** `CM-08(03)`
-    - **Catalog version:** 5.2.0
-    - **OSCAL version:** 1.2.2
-    - **Catalog last modified:** May 11, 2026
-
-!!! quote ""
-    - **(a)** Detect the presence of unauthorized hardware, software, and firmware components within the system using [Assignment: organization-defined automated mechanisms] [Assignment: organization-defined frequency]; and
-    - **(b)** Take the following actions when unauthorized components are detected: [Selection: one or more of: disable network access by unauthorized components; isolate unauthorized components; notify].
-
-    !!! note ""
-        **FedRAMP Parameters**
-
-        | Parameter ID | NIST assignment | FedRAMP value |
-        | --- | --- | --- |
-        | `cm-08.03_odp.01` | automated mechanisms | automated mechanisms with a maximum five-minute delay in detection. |
-        | `cm-08.03_odp.04` | frequency | continuously |
+        Follow the FedRAMP Continuous Collaborative Monitoring, Significant Change Notification, Vulnerability Detection and Response, and Vulnerability Evaluation and Reporting rules.
 
 ---
 
@@ -423,7 +400,7 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
     - **b.** Enforce software installation policies through the following methods: [Assignment: organization-defined methods]; and
     - **c.** Monitor policy compliance [Assignment: organization-defined frequency].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Parameters**
 
         | Parameter ID | NIST assignment | FedRAMP value |
@@ -447,10 +424,10 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
     - **b.** Identify and document the users who have access to the system and system components where the information is processed and stored; and
     - **c.** Document changes to the location (i.e., system or system components) where the information is processed and stored.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow Minimum Assessment Scope (MAS) rules.
+        Follow the FedRAMP Minimum Assessment Scope rules.
 
 ---
 
@@ -467,10 +444,10 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
 !!! quote ""
     Use automated tools to identify [Assignment: organization-defined information by information type] on [Assignment: organization-defined system components] to ensure controls are in place to protect organizational information and individual privacy.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow Minimum Assessment Scope (MAS) rules.
+        Follow the FedRAMP Minimum Assessment Scope rules.
 
 ---
 
@@ -487,7 +464,7 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
 !!! quote ""
     Prevent the installation of [Assignment: organization-defined software and firmware components] without verification that the component has been digitally signed using a certificate that is recognized and approved by the organization.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
         If digital signatures/certificates are unavailable, alternative cryptographic integrity checks (hashes, self-signed certs, etc.) can be utilized.
@@ -509,12 +486,12 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
 !!! quote ""
     Plan for the resumption of [Selection: one of: all; essential] mission and business functions within [Assignment: organization-defined time period] of contingency plan activation.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Parameters**
 
         | Parameter ID | NIST assignment | FedRAMP value |
         | --- | --- | --- |
-        | `cp-02.03_odp.02` | time period | time period defined in service provider and organization SLA |
+        | `cp-02.03_odp.02` | time period | time period defined in service provider and organization Service Level Agreements |
 
 ---
 
@@ -531,7 +508,7 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
 !!! quote ""
     Identify an alternate processing site that is sufficiently separated from the primary processing site to reduce susceptibility to the same threats.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
         The service provider may determine what is considered a sufficient degree of separation between the primary and alternate processing sites, based on the types of threats that are of concern. For one particular type of threat (i.e., hostile cyber attack), the degree of separation between sites will be less relevant.
@@ -551,12 +528,12 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
 !!! quote ""
     Provide the capability to restore system components within [Assignment: organization-defined restoration time periods] from configuration-controlled and integrity-protected information representing a known, operational state for the components.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Parameters**
 
         | Parameter ID | NIST assignment | FedRAMP value |
         | --- | --- | --- |
-        | `cp-10.04_odp` | restoration time periods | time period consistent with the restoration time-periods defined in the service provider and organization SLA |
+        | `cp-10.04_odp` | restoration time periods | time period consistent with the restoration time-periods defined in the service provider and organization Service Level Agreements |
 
 ---
 
@@ -575,7 +552,7 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
 !!! quote ""
     Uniquely identify and authenticate organizational users and associate that unique identification with processes acting on behalf of those users.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
         Multi-factor authentication must be phishing-resistant. In accordance with current CISA Guidance. Current CISA guidance can be found here: [https://www.cisa.gov/sites/default/files/publications/fact-sheet-implementing-phishing-resistant-mfa-508c.pdf](https://www.cisa.gov/sites/default/files/publications/fact-sheet-implementing-phishing-resistant-mfa-508c.pdf)
@@ -595,7 +572,7 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
 !!! quote ""
     Implement multi-factor authentication for access to privileged accounts.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
         Multi-factor authentication must be phishing-resistant. In accordance with current CISA Guidance. Current CISA guidance can be found here: [https://www.cisa.gov/sites/default/files/publications/fact-sheet-implementing-phishing-resistant-mfa-508c.pdf](https://www.cisa.gov/sites/default/files/publications/fact-sheet-implementing-phishing-resistant-mfa-508c.pdf)
@@ -615,7 +592,7 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
 !!! quote ""
     Implement multi-factor authentication for access to non-privileged accounts.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
         Multi-factor authentication must be phishing-resistant. In accordance with current CISA Guidance. Current CISA guidance can be found here: [https://www.cisa.gov/sites/default/files/publications/fact-sheet-implementing-phishing-resistant-mfa-508c.pdf](https://www.cisa.gov/sites/default/files/publications/fact-sheet-implementing-phishing-resistant-mfa-508c.pdf)
@@ -638,7 +615,7 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
     - **(a)** One of the factors is provided by a device separate from the system gaining access; and
     - **(b)** The device meets [Assignment: organization-defined strength of mechanism requirements].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Parameters**
 
         | Parameter ID | NIST assignment | FedRAMP value |
@@ -661,7 +638,7 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
 !!! quote ""
     Implement replay-resistant authentication mechanisms for access to [Selection: one or more of: privileged accounts; non-privileged accounts].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Parameters**
 
         | Parameter ID | NIST assignment | FedRAMP value |
@@ -683,7 +660,7 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
 !!! quote ""
     Manage individual identifiers by uniquely identifying each individual as [Assignment: organization-defined characteristics].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Parameters**
 
         | Parameter ID | NIST assignment | FedRAMP value |
@@ -715,7 +692,7 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
     - **h.** Requiring individuals to take, and having devices implement, specific controls to protect authenticators; and
     - **i.** Changing authenticators for group or role accounts when membership to those accounts changes.
 
-    !!! note ""
+    !!! info ""
         === "Class B"
             Authenticators must be compliant with NIST SP 800-63-3 Digital Identity Guidelines IAL, AAL, FAL level 1. Link [https://pages.nist.gov/800-63-3](https://pages.nist.gov/800-63-3)
 
@@ -756,10 +733,10 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
         - **1.** Policy [Assignment: organization-defined frequency] and following [Assignment: organization-defined events]; and
         - **2.** Procedures [Assignment: organization-defined frequency] and following [Assignment: organization-defined events].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all guidelines associated with FedRAMP Incident Evaluation and Reporting.
+        Follow the FedRAMP Incident Evaluation and Reporting rules.
 
 ---
 
@@ -780,10 +757,10 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
         - **3.** [Assignment: organization-defined frequency] thereafter; and
     - **b.** Review and update incident response training content [Assignment: organization-defined frequency] and following [Assignment: organization-defined events].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all guidelines associated with FedRAMP Incident Evaluation and Reporting.
+        Follow the FedRAMP Incident Evaluation and Reporting rules.
 
 ---
 
@@ -800,10 +777,10 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
 !!! quote ""
     Incorporate simulated events into incident response training to facilitate the required response by personnel in crisis situations.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all guidelines associated with FedRAMP Incident Evaluation and Reporting.
+        Follow the FedRAMP Incident Evaluation and Reporting rules.
 
 ---
 
@@ -820,10 +797,10 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
 !!! quote ""
     Provide an incident response training environment using [Assignment: organization-defined automated mechanisms].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all guidelines associated with FedRAMP Incident Evaluation and Reporting.
+        Follow the FedRAMP Incident Evaluation and Reporting rules.
 
 ---
 
@@ -840,10 +817,10 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
 !!! quote ""
     Test the effectiveness of the incident response capability for the system [Assignment: organization-defined frequency] using the following tests: [Assignment: organization-defined tests].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all guidelines associated with FedRAMP Incident Evaluation and Reporting.
+        Follow the FedRAMP Incident Evaluation and Reporting rules.
 
 ---
 
@@ -860,10 +837,10 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
 !!! quote ""
     Coordinate incident response testing with organizational elements responsible for related plans.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all guidelines associated with FedRAMP Incident Evaluation and Reporting.
+        Follow the FedRAMP Incident Evaluation and Reporting rules.
 
 ---
 
@@ -883,10 +860,10 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
     - **c.** Incorporate lessons learned from ongoing incident handling activities into incident response procedures, training, and testing, and implement the resulting changes accordingly; and
     - **d.** Ensure the rigor, intensity, scope, and results of incident handling activities are comparable and predictable across the organization.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all guidelines associated with FedRAMP Incident Evaluation and Reporting.
+        Follow the FedRAMP Incident Evaluation and Reporting rules.
 
 ---
 
@@ -903,10 +880,10 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
 !!! quote ""
     Support the incident handling process using [Assignment: organization-defined automated mechanisms].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all guidelines associated with FedRAMP Incident Evaluation and Reporting.
+        Follow the FedRAMP Incident Evaluation and Reporting rules.
 
 ---
 
@@ -923,10 +900,10 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
 !!! quote ""
     Include the following types of dynamic reconfiguration for [Assignment: organization-defined system components] as part of the incident response capability: [Assignment: organization-defined types of dynamic reconfiguration].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all guidelines associated with FedRAMP Incident Evaluation and Reporting.
+        Follow the FedRAMP Incident Evaluation and Reporting rules.
 
 ---
 
@@ -943,10 +920,10 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
 !!! quote ""
     Correlate incident information and individual incident responses to achieve an organization-wide perspective on incident awareness and response.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all guidelines associated with FedRAMP Incident Evaluation and Reporting.
+        Follow the FedRAMP Incident Evaluation and Reporting rules.
 
 ---
 
@@ -963,10 +940,10 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
 !!! quote ""
     Implement an incident handling capability for incidents involving insider threats.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all guidelines associated with FedRAMP Incident Evaluation and Reporting.
+        Follow the FedRAMP Incident Evaluation and Reporting rules.
 
 ---
 
@@ -983,10 +960,10 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
 !!! quote ""
     Establish and maintain an integrated incident response team that can be deployed to any location identified by the organization in [Assignment: organization-defined time period].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all guidelines associated with FedRAMP Incident Evaluation and Reporting.
+        Follow the FedRAMP Incident Evaluation and Reporting rules.
 
 ---
 
@@ -1003,10 +980,10 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
 !!! quote ""
     Track and document incidents.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all guidelines associated with FedRAMP Incident Evaluation and Reporting.
+        Follow the FedRAMP Incident Evaluation and Reporting rules.
 
 ---
 
@@ -1023,10 +1000,10 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
 !!! quote ""
     Track incidents and collect and analyze incident information using [Assignment: organization-defined automated mechanisms].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all guidelines associated with FedRAMP Incident Evaluation and Reporting.
+        Follow the FedRAMP Incident Evaluation and Reporting rules.
 
 ---
 
@@ -1044,10 +1021,10 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
     - **a.** Require personnel to report suspected incidents to the organizational incident response capability within [Assignment: organization-defined time period]; and
     - **b.** Report incident information to [Assignment: organization-defined authorities].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all guidelines associated with FedRAMP Incident Evaluation and Reporting.
+        Follow the FedRAMP Incident Evaluation and Reporting rules.
 
 ---
 
@@ -1064,10 +1041,10 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
 !!! quote ""
     Report incidents using [Assignment: organization-defined automated mechanisms].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all guidelines associated with FedRAMP Incident Evaluation and Reporting.
+        Follow the FedRAMP Incident Evaluation and Reporting rules.
 
 ---
 
@@ -1084,10 +1061,10 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
 !!! quote ""
     Provide incident information to the provider of the product or service and other organizations involved in the supply chain or supply chain governance for systems or system components related to the incident.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all guidelines associated with FedRAMP Incident Evaluation and Reporting.
+        Follow the FedRAMP Incident Evaluation and Reporting rules.
 
 ---
 
@@ -1104,10 +1081,10 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
 !!! quote ""
     Provide an incident response support resource, integral to the organizational incident response capability, that offers advice and assistance to users of the system for the handling and reporting of incidents.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all guidelines associated with FedRAMP Incident Evaluation and Reporting.
+        Follow the FedRAMP Incident Evaluation and Reporting rules.
 
 ---
 
@@ -1124,10 +1101,10 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
 !!! quote ""
     Increase the availability of incident response information and support using [Assignment: organization-defined automated mechanisms].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all guidelines associated with FedRAMP Incident Evaluation and Reporting.
+        Follow the FedRAMP Incident Evaluation and Reporting rules.
 
 ---
 
@@ -1158,10 +1135,10 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
     - **d.** Communicate incident response plan changes to [Assignment: organization-defined incident response personnel (identified by name and/or by role) and organizational elements]; and
     - **e.** Protect the incident response plan from unauthorized disclosure and modification.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all guidelines associated with FedRAMP Incident Evaluation and Reporting.
+        Follow the FedRAMP Incident Evaluation and Reporting rules.
 
 ---
 
@@ -1186,10 +1163,10 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
     - **f.** Identifying other systems or system components that may have been subsequently contaminated; and
     - **g.** Performing the following additional actions: [Assignment: organization-defined actions].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all guidelines associated with FedRAMP Incident Evaluation and Reporting.
+        Follow the FedRAMP Incident Evaluation and Reporting rules.
 
 ---
 
@@ -1206,10 +1183,10 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
 !!! quote ""
     Provide information spillage response training [Assignment: organization-defined frequency].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all guidelines associated with FedRAMP Incident Evaluation and Reporting.
+        Follow the FedRAMP Incident Evaluation and Reporting rules.
 
 ---
 
@@ -1226,10 +1203,10 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
 !!! quote ""
     Implement the following procedures to ensure that organizational personnel impacted by information spills can continue to carry out assigned tasks while contaminated systems are undergoing corrective actions: [Assignment: organization-defined procedures].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all guidelines associated with FedRAMP Incident Evaluation and Reporting.
+        Follow the FedRAMP Incident Evaluation and Reporting rules.
 
 ---
 
@@ -1246,10 +1223,10 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
 !!! quote ""
     Employ the following controls for personnel exposed to information not within assigned access authorizations: [Assignment: organization-defined controls].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all guidelines associated with FedRAMP Incident Evaluation and Reporting.
+        Follow the FedRAMP Incident Evaluation and Reporting rules.
 
 ---
 
@@ -1270,7 +1247,7 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
     - **b.** Verify that non-escorted personnel performing maintenance on the system possess the required access authorizations; and
     - **c.** Designate organizational personnel with required access authorizations and technical competence to supervise the maintenance activities of personnel who do not possess the required access authorizations.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
         CSPs should clearly document nationality requirements (or lack of) for maintenance personnel where applicable.
@@ -1293,10 +1270,10 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
         - **(2)** Prior to initiating maintenance or diagnostic activities by personnel who do not have needed access authorizations, clearances or formal access approvals, all volatile information storage components within the system are sanitized and all nonvolatile storage media are removed or physically disconnected from the system and secured; and
     - **(b)** Develop and implement [Assignment: organization-defined alternate controls] in the event a system component cannot be sanitized, removed, or disconnected from the system.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Only MA-5 (1) (a) (1) is required by FedRAMP Moderate Baseline
+        Only MA-5 (1) (a) (1) is required by FedRAMP Class C Baseline.
 
 ---
 
@@ -1319,10 +1296,10 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
     - **d.** Require external providers to notify [Assignment: organization-defined personnel or roles] of any personnel transfers or terminations of external personnel who possess organizational credentials and/or badges, or who have system privileges within [Assignment: organization-defined time period]; and
     - **e.** Monitor provider compliance with personnel security requirements.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        CSPs MUST clearly document any nationality requirements for any account type within its platform.  If none exists, this must also be explicitly stated.
+        CSPs MUST clearly document any nationality requirements for any account type within its platform. If none exists, this must also be explicitly stated.
 
 ---
 
@@ -1349,10 +1326,10 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
     - **e.** Share information obtained from the vulnerability monitoring process and control assessments with [Assignment: organization-defined personnel or roles] to help eliminate similar vulnerabilities in other systems; and
     - **f.** Employ vulnerability monitoring tools that include the capability to readily update the vulnerabilities to be scanned.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all applicable rules within the Vulnerability and Detection Response guidance.
+        Follow the FedRAMP Vulnerability Detection and Response and Vulnerability Evaluation and Reporting rules.
 
 ---
 
@@ -1369,16 +1346,10 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
 !!! quote ""
     Update the system vulnerabilities to be scanned [Selection: one or more of: prior to a new scan; when new vulnerabilities are identified and reported].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all applicable rules within the Vulnerability and Detection Response guidance.
-
-        **FedRAMP Parameters**
-
-        | Parameter ID | NIST assignment | FedRAMP value |
-        | --- | --- | --- |
-        | `ra-05.02_odp.02` | frequency | prior to a new scan |
+        Follow the FedRAMP Vulnerability Detection and Response and Vulnerability Evaluation and Reporting rules.
 
 ---
 
@@ -1395,10 +1366,10 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
 !!! quote ""
     Define the breadth and depth of vulnerability scanning coverage.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all applicable rules within the Vulnerability and Detection Response guidance.
+        Follow the FedRAMP Vulnerability Detection and Response and Vulnerability Evaluation and Reporting rules.
 
 ---
 
@@ -1415,10 +1386,10 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
 !!! quote ""
     Determine information about the system that is discoverable and take [Assignment: organization-defined corrective actions].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all applicable rules within the Vulnerability and Detection Response guidance.
+        Follow the FedRAMP Vulnerability Detection and Response and Vulnerability Evaluation and Reporting rules.
 
 ---
 
@@ -1435,10 +1406,10 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
 !!! quote ""
     Implement privileged access authorization to [Assignment: organization-defined system components] for [Assignment: organization-defined vulnerability scanning activities].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all applicable rules within the Vulnerability and Detection Response guidance.
+        Follow the FedRAMP Vulnerability Detection and Response and Vulnerability Evaluation and Reporting rules.
 
 ---
 
@@ -1455,10 +1426,10 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
 !!! quote ""
     Review historic audit logs to determine if a vulnerability identified in a [Assignment: organization-defined system] has been previously exploited within an [Assignment: organization-defined time period].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all applicable rules within the Vulnerability and Detection Response guidance.
+        Follow the FedRAMP Vulnerability Detection and Response and Vulnerability Evaluation and Reporting rules.
 
 ---
 
@@ -1475,10 +1446,10 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
 !!! quote ""
     Establish a public reporting channel for receiving reports of vulnerabilities in organizational systems and system components.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all applicable rules within the Vulnerability and Detection Response guidance.
+        Follow the FedRAMP Vulnerability Detection and Response and Vulnerability Evaluation and Reporting rules.
 
 ---
 
@@ -1495,10 +1466,10 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
 !!! quote ""
     Respond to findings from security and privacy assessments, monitoring, and audits in accordance with organizational risk tolerance.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all applicable rules within the Vulnerability and Detection Response guidance.
+        Follow the FedRAMP Vulnerability Detection and Response and Vulnerability Evaluation and Reporting rules.
 
 ---
 
@@ -1526,10 +1497,10 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
     - **c.** Document attempts to obtain system, system component, or system service documentation when such documentation is either unavailable or nonexistent and take [Assignment: organization-defined actions] in response; and
     - **d.** Distribute documentation to [Assignment: organization-defined personnel or roles].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all applicable rules within the FedRAMP Security Configuration Guidance
+        Follow the FedRAMP Secure Configuration Guide rules.
 
 ---
 
@@ -1546,7 +1517,7 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
 !!! quote ""
     Require providers of the following external system services to identify the functions, ports, protocols, and other services required for the use of such services: [Assignment: organization-defined external system services].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Parameters**
 
         | Parameter ID | NIST assignment | FedRAMP value |
@@ -1568,14 +1539,14 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
 !!! quote ""
     Restrict the location of [Selection: one or more of: information processing; information or data; system services] to [Assignment: organization-defined locations] based on [Assignment: organization-defined requirements].
 
-    !!! note ""
+    !!! info ""
         === "Class C"
             **FedRAMP Parameters**
 
             | Parameter ID | NIST assignment | FedRAMP value |
             | --- | --- | --- |
             | `sa-09.05_odp.01` | one or more of: information processing; information or data; system services | information processing, information or data, AND system services |
-            | `sa-09.05_odp.03` | requirements | all Federal customer data |
+            | `sa-09.05_odp.03` | requirements | all federal customer data |
 
         === "Class D"
             **FedRAMP Parameters**
@@ -1584,7 +1555,7 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
             | --- | --- | --- |
             | `sa-09.05_odp.01` | one or more of: information processing; information or data; system services | information processing, information or data, AND system services |
             | `sa-09.05_odp.02` | locations | U.S./U.S. Territories or geographic locations where there is U.S. jurisdiction |
-            | `sa-09.05_odp.03` | requirements | all Federal customer data |
+            | `sa-09.05_odp.03` | requirements | all federal customer data |
 
 ---
 
@@ -1605,10 +1576,10 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
     - **b.** Implement subnetworks for publicly accessible system components that are [Selection: one of: physically; logically] separated from internal organizational networks; and
     - **c.** Connect to external networks or systems only through managed interfaces consisting of boundary protection devices arranged in accordance with an organizational security and privacy architecture.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        SC-7 (b) MAY be met by using any technical capability or complement of capabilities that ensures logical separation between publicly accessible components and internal networks by preventing traversal without inspection and authorization; traffic may not flow unrestricted from publicly accessible components to internal networks.
+        SC-7 (b) may be met by using any technical capability or complement of capabilities that ensures logical separation between publicly accessible components and internal networks by preventing traversal without inspection and authorization; traffic may not flow unrestricted from publicly accessible components to internal networks.
 
 ---
 
@@ -1626,10 +1597,10 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
     - **a.** Determine the [Assignment: organization-defined cryptographic uses]; and
     - **b.** Implement the following types of cryptography required for each specified cryptographic use: [Assignment: organization-defined types of cryptography].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all applicable rules within the Using Cryptographics Modules  guidance.
+        Follow the FedRAMP Cryptographic Module Use rules.
 
 ---
 
@@ -1651,10 +1622,10 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
     - **c.** Install security-relevant software and firmware updates within [Assignment: organization-defined time period] of the release of the updates; and
     - **d.** Incorporate flaw remediation into the organizational configuration management process.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all applicable rules within the Vulnerability and Detection Response guidance.
+        Follow the FedRAMP Vulnerability Detection and Response and Vulnerability Evaluation and Reporting rules.
 
 ---
 
@@ -1671,10 +1642,10 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
 !!! quote ""
     Determine if system components have applicable security-relevant software and firmware updates installed using [Assignment: organization-defined automated mechanisms] [Assignment: organization-defined frequency].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all applicable rules within the Vulnerability and Detection Response guidance.
+        Follow the FedRAMP Vulnerability Detection and Response and Vulnerability Evaluation and Reporting rules.
 
 ---
 
@@ -1701,7 +1672,7 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
     - **f.** Obtain legal opinion regarding system monitoring activities; and
     - **g.** Provide [Assignment: organization-defined system monitoring information] to [Assignment: organization-defined personnel or roles] [Selection: one or more of: as needed].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
         Follow all applicable rules within the Vulnerability and Detection Response and Incident Communication Procedure guidance.
@@ -1721,10 +1692,10 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
 !!! quote ""
     Connect and configure individual intrusion detection tools into a system-wide intrusion detection system.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all applicable rules within the Vulnerability and Detection Response guidance.
+        Follow the FedRAMP Vulnerability Detection and Response and Vulnerability Evaluation and Reporting rules.
 
 ---
 
@@ -1741,10 +1712,10 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
 !!! quote ""
     Employ automated tools and mechanisms to support near real-time analysis of events.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all applicable rules within the Vulnerability and Detection Response guidance.
+        Follow the FedRAMP Vulnerability Detection and Response and Vulnerability Evaluation and Reporting rules.
 
 ---
 
@@ -1762,10 +1733,10 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
     - **(a)** Determine criteria for unusual or unauthorized activities or conditions for inbound and outbound communications traffic;
     - **(b)** Monitor inbound and outbound communications traffic [Assignment: organization-defined frequency] for [Assignment: organization-defined unusual or unauthorized activities or conditions].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all applicable rules within the Vulnerability and Detection Response guidance.
+        Follow the FedRAMP Vulnerability Detection and Response and Vulnerability Evaluation and Reporting rules.
 
 ---
 
@@ -1782,10 +1753,10 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
 !!! quote ""
     Alert [Assignment: organization-defined personnel or roles] when the following system-generated indications of compromise or potential compromise occur: [Assignment: organization-defined compromise indicators].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all applicable rules within the Vulnerability and Detection Response guidance.
+        Follow the FedRAMP Vulnerability Detection and Response and Vulnerability Evaluation and Reporting rules.
 
 ---
 
@@ -1805,10 +1776,10 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
     - **c.** Disseminate security alerts, advisories, and directives to: [Assignment: si-05_odp.02]; and
     - **d.** Implement security directives in accordance with established time frames, or notify the issuing organization of the degree of noncompliance.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all applicable rules within the FedRAMP Secure Inbox (FSI) guidance.
+        Follow the FedRAMP Addressing FedRAMP Communication rules.
 
 ---
 
@@ -1826,7 +1797,7 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
     - **a.** Employ spam protection mechanisms at system entry and exit points to detect and act on unsolicited messages; and
     - **b.** Update spam protection mechanisms when new releases are available in accordance with organizational configuration management policy and procedures.
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
         When CSO sends email on behalf of the government as part of the business offering, Control Description should include implementation of Domain-based Message Authentication, Reporting & Conformance (DMARC) on the sending domain for outgoing messages as described in DHS Binding Operational Directive (BOD) 18-01. [https://www.cisa.gov/news-events/directives](https://www.cisa.gov/news-events/directives)
@@ -1852,7 +1823,7 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
     - **b.** Employ the following controls to protect against supply chain risks to the system, system component, or system service and to limit the harm or consequences from supply chain-related events: [Assignment: organization-defined supply chain controls]; and
     - **c.** Document the selected and implemented supply chain processes and controls in [Selection: one or more of: security and privacy plans; supply chain risk management plan].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
         CSO must document and maintain the supply chain custody, including replacement devices, to ensure the integrity of the devices before being introduced to the boundary.
@@ -1872,9 +1843,9 @@ This reference contains the NIST SP 800-53 Revision 5 controls for which the Fed
 !!! quote ""
     Establish agreements and procedures with entities involved in the supply chain for the system, system component, or system service for the [Selection: one or more of: notification of supply chain compromises].
 
-    !!! note ""
+    !!! info ""
         **FedRAMP Guidance**
 
-        Follow all applicable rules within the Incident Communication Procedure guidance.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
 ---

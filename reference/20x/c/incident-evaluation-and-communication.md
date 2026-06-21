@@ -1,6 +1,9 @@
 ---
 tags:
   - 20x
+  - FedRAMP
+  - Cloud Service Providers
+  - Rules
 ---
 
 <span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
@@ -81,7 +84,7 @@ These rules apply to FedRAMP.
 
 
 !!! quote ""
-    FedRAMP MUST periodically review Incident Communications Procedures implementation with providers based on lack of reporting or other information.
+    FedRAMP MUST periodically review FedRAMP Incident Evaluation and Response implementation with providers based on lack of reporting or other information.
 
     !!! warning "Corrective Actions"
         - FedRAMP will request a Corrective Action Plan when a provider is unaware of the rules or has failed to implement proper procedures.
@@ -89,7 +92,7 @@ These rules apply to FedRAMP.
 
 
     ---
-    **Terms:** [Incident](../../../definitions/#incident){ data-preview }
+    **Terms:** [Incident](../../../definitions/#incident){ data-preview }, [Vulnerability Response](../../../definitions/#vulnerability-response){ data-preview }
 ## General Provider Responsibilities {#general-provider-responsibilities}
 
 These rules apply to providers with FedRAMP Certifications of any type.
@@ -113,11 +116,11 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 
 !!! quote ""
-    Providers MUST promptly evaluate incidents to determine if they affect confidentiality or integrity of federal customer data or are likely to affect confidentiality or integrity of federal customer data; such incidents are FedRAMP Reportable Incidents and must be reported following the FedRAMP Incident Communications Procedures.
+    Providers MUST promptly evaluate incidents to determine if they affect confidentiality or integrity of federal customer data or are likely to affect confidentiality or integrity of federal customer data; such incidents are FedRAMP Reportable Incidents and must be reported following the FedRAMP Incident Evaluation and Response rules.
 
 
     ---
-    **Terms:** [FedRAMP Reportable Incident](../../../definitions/#fedramp-reportable-incident){ data-preview }, [Federal Customer Data](../../../definitions/#federal-customer-data){ data-preview }, [Incident](../../../definitions/#incident){ data-preview }, [Likely](../../../definitions/#likely){ data-preview }, [Promptly](../../../definitions/#promptly){ data-preview }
+    **Terms:** [FedRAMP Reportable Incident](../../../definitions/#fedramp-reportable-incident){ data-preview }, [Federal Customer Data](../../../definitions/#federal-customer-data){ data-preview }, [Incident](../../../definitions/#incident){ data-preview }, [Likely](../../../definitions/#likely){ data-preview }, [Promptly](../../../definitions/#promptly){ data-preview }, [Vulnerability Response](../../../definitions/#vulnerability-response){ data-preview }
 ### Default PAIN Rating
 
 ??? abstract "IEC-CSO-DPR"
