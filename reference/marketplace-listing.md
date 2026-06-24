@@ -9,7 +9,7 @@ tags:
   - Rules
 ---
 
-<span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
+<span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." }</span>
 
 # Marketplace Listing
 
@@ -52,7 +52,7 @@ These rules apply to FedRAMP activities related to the FedRAMP Marketplace.
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -62,7 +62,7 @@ These rules apply to FedRAMP activities related to the FedRAMP Marketplace.
 
 
 
-    **Reference:** [Scope of FedRAMP](https://fedramp.gov/docs/authority/scope)
+    **Reference:** [Scope of FedRAMP](https://fedramp.gov/scope)
 
     ---
     **Terms:** [Cloud Service Offering](../definitions/#cloud-service-offering){ data-preview }
@@ -83,7 +83,7 @@ These rules apply to providers seeking a listing in the FedRAMP Marketplace.
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -102,7 +102,7 @@ These rules apply to providers seeking a listing in the FedRAMP Marketplace.
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -131,7 +131,7 @@ These rules apply to independent assessment services seeking a listing in the Fe
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -148,13 +148,11 @@ These rules apply to independent assessment services seeking a listing in the Fe
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
 !!! schema "Related JSON Schema: [FedRAMP Assessor Information Schema](https://fedramp.gov/schemas/fedramp-assessor-information-schema-v2026.06.06.01.json)"
-
-    _Note: This is a placeholder, the URL will not work yet._
 
 
 !!! quote ""
@@ -172,13 +170,15 @@ These rules apply to independent assessment services seeking a listing in the Fe
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
+!!! warning "This FRR includes a notification requirement!"
+    - Notify FedRAMP via form: [\[For Assessors/Advisors\] Marketplace Listing Form](https://help.fedramp.gov/hc/en-us/requests/new?ticket_form_id=52060327520795).
 
 
 !!! quote ""
-    Assessors MUST complete the Assessor Listing Request Form at https://fedramp.gov/forms/assessor-listing-request/ to request listing in the FedRAMP Marketplace.
+    Assessors MUST complete the Assessor Listing Request Form to request listing in the FedRAMP Marketplace.
 
 
 ## General Advisor Responsibilities {#general-advisor-responsibilities}
@@ -195,13 +195,11 @@ These rules apply to consulting and advisory services seeking a listing in the F
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
 !!! schema "Related JSON Schema: [FedRAMP Advisory Service Information Schema](https://fedramp.gov/schemas/fedramp-advisor-information-schema-v2026.06.06.01.json)"
-
-    _Note: This is a placeholder, the URL will not work yet._
 
 
 !!! quote ""
@@ -221,13 +219,15 @@ These rules apply to consulting and advisory services seeking a listing in the F
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
+!!! warning "This FRR includes a notification requirement!"
+    - Notify FedRAMP via form: [\[For Assessors/Advisors\] Marketplace Listing Form](https://help.fedramp.gov/hc/en-us/requests/new?ticket_form_id=52060327520795).
 
 
 !!! quote ""
-    Advisors MUST complete the Advisor Listing Request Form at https://fedramp.gov/forms/advisor-listing-request/ to request listing in the FedRAMP Marketplace.
+    Advisors MUST complete the Advisor Listing Request Form to request listing in the FedRAMP Marketplace.
 
 
 ### Advisor Responses to FedRAMP
@@ -236,7 +236,7 @@ These rules apply to consulting and advisory services seeking a listing in the F
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -266,7 +266,7 @@ FedRAMP allows cloud service providers that are actively preparing to obtain a F
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -292,7 +292,7 @@ FedRAMP allows cloud service providers that are actively preparing to obtain a F
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -313,7 +313,7 @@ FedRAMP allows cloud service providers that are actively preparing to obtain a F
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 

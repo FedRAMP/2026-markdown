@@ -6,7 +6,7 @@ tags:
   - Rules
 ---
 
-<span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
+<span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." }</span>
 
 # Minimum Assessment Scope
 
@@ -48,7 +48,7 @@ These rules apply to providers for any type of FedRAMP Certification.
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -62,7 +62,7 @@ These rules apply to providers for any type of FedRAMP Certification.
     _**Notes:**_
 
     - _Certain categories of cloud computing products and services are specified as entirely outside the scope of FedRAMP by the Director of the Office of Management and Budget. All such products and services are therefore not included in the cloud service offering for FedRAMP. For more, see https://fedramp.gov/scope._
-    - _Software produced by cloud service providers that is delivered separately for installation on agency systems and not operated in a shared responsibility model (typically including agents, application clients, mobile applications, etc. that are not fully managed by the cloud service provider) is not a cloud computing product or service and is entirely outside the scope of FedRAMP under the FedRAMP Certification Act. All such software is therefore not included in the cloud service offering for FedRAMP. For more, see fedramp.gov/scope._
+    - _Software produced by cloud service providers that is delivered separately for installation on agency systems and not operated in a shared responsibility model (typically including agents, application clients, mobile applications, etc. that are not fully managed by the cloud service provider) is not a cloud computing product or service and is entirely outside the scope of FedRAMP under the FedRAMP Certification Act. All such software is therefore not included in the cloud service offering for FedRAMP. For more, see https://fedramp.gov/scope._
     - _All aspects of the cloud service offering are determined and maintained by the cloud service provider in accordance with related FedRAMP Certification rules and documented by the cloud service provider in their FedRAMP Certification Package._
     ---
     **Terms:** [Certification Package](../definitions/#certification-package){ data-preview }, [Cloud Service Offering](../definitions/#cloud-service-offering){ data-preview }, [Federal Customer Data](../definitions/#federal-customer-data){ data-preview }, [Handle](../definitions/#handle){ data-preview }, [Information Resource](../definitions/#information-resource){ data-preview }, [Likely](../definitions/#likely){ data-preview }
@@ -72,7 +72,7 @@ These rules apply to providers for any type of FedRAMP Certification.
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -93,9 +93,11 @@ These rules apply to providers for any type of FedRAMP Certification.
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
+
+!!! schema "Related JSON Schema: [FedRAMP Certification Overview Package (FRC-CSO-PKG)](https://fedramp.gov/schemas/fedramp-certification-overview-package-schema-2026-06-24.json)"
 
 
 !!! quote ""
@@ -115,7 +117,7 @@ These rules apply to providers for any type of FedRAMP Certification.
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -132,7 +134,7 @@ These rules apply to providers for any type of FedRAMP Certification.
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 

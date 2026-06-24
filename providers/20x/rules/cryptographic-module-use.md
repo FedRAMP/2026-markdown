@@ -5,7 +5,7 @@ tags:
   - Rules
 ---
 
-<span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
+<span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." }</span>
 
 # Cryptographic Module Use
 
@@ -40,7 +40,7 @@ These rules apply to providers for FedRAMP Certifications.
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -57,7 +57,7 @@ These rules apply to providers for FedRAMP Certifications.
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -84,7 +84,7 @@ These rules apply to providers for FedRAMP Certifications.
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 

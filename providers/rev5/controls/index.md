@@ -5,12 +5,11 @@ tags:
   - Controls
 picto:
   source: person
-  status: stable
 ---
 
-<span class="picto">:lucide-person-standing:{ .person title="This content was written by a human just for this page." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
+<span class="picto">:lucide-person-standing:{ .person title="This content was written by a human just for this page." }</span>
 
-# Rev5 Controls
+# Rev5 Control Guidance
 
 FedRAMP Rev5 uses controls from [NIST Special Publication 800-53 Revision 5](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final)
 as the detailed security and privacy requirements for cloud service offerings. A control is a named safeguard or

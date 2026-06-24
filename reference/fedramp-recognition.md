@@ -7,7 +7,7 @@ tags:
   - Rules
 ---
 
-<span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
+<span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." }</span>
 
 # FedRAMP Recognition of Independent Assessment Services
 
@@ -44,7 +44,7 @@ These rules apply to FedRAMP when evaluating independent assessment services for
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -61,7 +61,7 @@ These rules apply to FedRAMP when evaluating independent assessment services for
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -78,7 +78,7 @@ These rules apply to FedRAMP when evaluating independent assessment services for
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -103,7 +103,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -124,7 +124,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -151,7 +151,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -171,7 +171,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -193,7 +193,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -215,7 +215,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -236,7 +236,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -254,11 +254,11 @@ These rules apply to independent assessment services seeking to obtain or mainta
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 !!! warning "This FRR includes a notification requirement!"
-    - Notify FedRAMP via form: [FedRAMP Foreign Ownership, Control, or Influence Declaration Form](https://help.fedramp.gov/forms/assessors/foci-declaration).
+    - Notify FedRAMP via form: [FedRAMP Foreign Ownership, Control, or Influence Declaration Form](https://help.fedramp.gov/hc/en-us/requests/new?ticket_form_id=52006681154587).
 
 
 !!! quote ""
@@ -273,11 +273,11 @@ These rules apply to independent assessment services seeking to obtain or mainta
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 !!! warning "This FRR includes a notification requirement!"
-    - Notify FedRAMP via form: [FedRAMP Foreign Ownership, Control, or Influence Declaration Form](https://help.fedramp.gov/forms/assessors/foci-declaration).
+    - Notify FedRAMP via form: [FedRAMP Foreign Ownership, Control, or Influence Declaration Form](https://help.fedramp.gov/hc/en-us/requests/new?ticket_form_id=52006681154587).
 
 
 !!! quote ""
@@ -292,7 +292,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -302,7 +302,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
 
     1. Complete Assessment Packages: Supplies complete and thoroughly prepared documents on the first submission.
     1. Deliverable Quality: Ensures documentation content is clear, complete, concise, and consistent.
-    1. Deliverable Format: Uses current FedRAMP templates, procedures, and required formats for assessor-authored deliverables unless FedRAMP publishes an alternate format for a specific path, pilot, or process, and does not alter or delete required template content.
+    1. Deliverable Format: Follows applicable FedRAMP rules.
     1. Timeliness and Responsiveness: Delivers documents on time according to the schedule agreed to by the federal government, provider, and assessor.
     1. Testing Accuracy and Completeness: Ensures accurate and complete testing of a cloud service offering in accordance with ISO 17020 and FedRAMP security rules.
     1. Assessment Integrity: Submits independent assessments of provider security implementations that are not influenced by provider demands.
@@ -317,7 +317,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -332,7 +332,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -347,7 +347,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 

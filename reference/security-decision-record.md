@@ -6,7 +6,7 @@ tags:
   - Rules
 ---
 
-<span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
+<span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." }</span>
 
 # Security Decision Record
 
@@ -54,13 +54,11 @@ These rules apply to providers for FedRAMP Certifications of any type.
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
 !!! schema "Related JSON Schema: [FedRAMP Security Decision Record Schema](https://fedramp.gov/schemas/fedramp-security-decision-record-schema-v2026.06.06.01.json)"
-
-    _Note: This is a placeholder, the URL will not work yet._
 
 
 !!! quote ""
@@ -83,7 +81,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -115,13 +113,11 @@ These rules apply to providers for FedRAMP 20x Certifications.
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
 !!! schema "Related JSON Schema: [FedRAMP Security Decision Record Schema](https://fedramp.gov/schemas/fedramp-security-decision-record-schema-v2026.06.06.01.json)"
-
-    _Note: This is a placeholder, the URL will not work yet._
 
 
 !!! quote ""
@@ -142,13 +138,11 @@ These rules apply to providers for FedRAMP 20x Certifications.
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
 !!! schema "Related JSON Schema: [FedRAMP Security Decision Record Schema](https://fedramp.gov/schemas/fedramp-security-decision-record-schema-v2026.06.06.01.json)"
-
-    _Note: This is a placeholder, the URL will not work yet._
 
 
 !!! quote ""
@@ -191,7 +185,7 @@ These rules apply to providers for FedRAMP Rev5 Certifications.
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -212,16 +206,3 @@ These rules apply to providers for FedRAMP Rev5 Certifications.
 
     ---
     **Terms:** [Artifacts](../definitions/#artifacts){ data-preview }, [Cloud Service Offering](../definitions/#cloud-service-offering){ data-preview }, [Validation](../definitions/#validation){ data-preview }, [Verification](../definitions/#verification){ data-preview }
-### Organization-Defined Parameters
-
-??? abstract "SDR-CSF-ODP"
-    **Changelog:**
-
-
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
-
-
-
-
-!!! quote ""
-    Providers MUST define all required organization-defined parameters tied to all Rev5 Controls, following FedRAMP rules if applicable, UNLESS the parameter is assigned by FedRAMP.

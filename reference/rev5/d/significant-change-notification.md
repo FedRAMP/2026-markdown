@@ -6,7 +6,7 @@ tags:
   - Rules
 ---
 
-<span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
+<span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." }</span>
 
 # Significant Change Notification
 
@@ -49,7 +49,7 @@ These rules apply to FedRAMP.
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -81,9 +81,11 @@ These rules apply to providers with FedRAMP Certifications of any type.
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
+
+!!! schema "Related JSON Schema: [FedRAMP Significant Change Notification (SCN-CSO-INF)](https://fedramp.gov/schemas/fedramp-significant-change-notification-schema-2026-06-24.json)"
 
 
 !!! quote ""
@@ -104,7 +106,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -125,9 +127,11 @@ These rules apply to providers with FedRAMP Certifications of any type.
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
+
+!!! schema "Related JSON Schema: [FedRAMP Significant Change Notification (SCN-CSO-INF)](https://fedramp.gov/schemas/fedramp-significant-change-notification-schema-2026-06-24.json)"
 
 
 !!! quote ""
@@ -157,7 +161,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -174,13 +178,11 @@ These rules apply to providers with FedRAMP Certifications of any type.
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
 !!! schema "Related JSON Schema: [FedRAMP Significant Change Notifications Schema](https://fedramp.gov/schemas/fedramp-significant-change-notifications-schema-v2026.06.06.01.json)"
-
-    _Note: This is a placeholder, the URL will not work yet._
 
 
 !!! quote ""
@@ -195,7 +197,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -216,7 +218,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -239,7 +241,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -271,7 +273,7 @@ These rules apply to all adaptive significant changes.
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -342,7 +344,7 @@ These rules apply to all routine recurring significant changes.
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -433,7 +435,7 @@ These rules apply to all transformative significant changes.
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -454,7 +456,7 @@ These rules apply to all transformative significant changes.
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -475,7 +477,7 @@ These rules apply to all transformative significant changes.
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -496,7 +498,7 @@ These rules apply to all transformative significant changes.
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -521,7 +523,7 @@ These rules apply to all transformative significant changes.
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -544,7 +546,7 @@ These rules apply to all transformative significant changes.
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 

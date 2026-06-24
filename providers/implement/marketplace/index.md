@@ -4,10 +4,9 @@ tags:
   - Guidance
 picto:
   source: person
-  status: stable
 ---
 
-<span class="picto">:lucide-person-standing:{ .person title="This content was written by a human just for this page." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
+<span class="picto">:lucide-person-standing:{ .person title="This content was written by a human just for this page." }</span>
 
 # Getting Listed
 
@@ -35,8 +34,6 @@ be listed in the FedRAMP Marketplace in the Implementation Phase:
    need to make some of that information available on the site in a special JSON file for FedRAMP.
 
 2. You will need to be able to prove that your cloud service offering is eligible for a FedRAMP Certification
-   - many cloud service offerings, especially those used by private businesses in the Defense Industrial
-     Base, are not eligible by default for a FedRAMP Certification.
 
 3. You will need a basic FedRAMP-compatible Trust Center.
 

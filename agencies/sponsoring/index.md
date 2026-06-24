@@ -5,10 +5,9 @@ tags:
   - Guidance
 picto:
   source: person
-  status: stable
 ---
 
-<span class="picto">:lucide-person-standing:{ .person title="This content was written by a human just for this page." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
+<span class="picto">:lucide-person-standing:{ .person title="This content was written by a human just for this page." }</span>
 
 # Sponsoring a FedRAMP Certification
 

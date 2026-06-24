@@ -5,7 +5,7 @@ tags:
   - Rules
 ---
 
-<span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
+<span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." }</span>
 
 # 20x Class A Related Rules
 
@@ -26,7 +26,7 @@ The Addressing FedRAMP Communication rules (formerly FedRAMP Security Inbox) ens
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -47,7 +47,7 @@ The Addressing FedRAMP Communication rules (formerly FedRAMP Security Inbox) ens
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -73,7 +73,7 @@ The Addressing FedRAMP Communication rules (formerly FedRAMP Security Inbox) ens
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -96,7 +96,7 @@ The Certification Data Sharing rules allow providers to store and share FedRAMP 
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -118,13 +118,11 @@ The Certification Data Sharing rules allow providers to store and share FedRAMP 
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
-!!! schema "Related JSON Schema: [FedRAMP Public Marketplace Information Schema](https://fedramp.gov/schemas/fedramp-public-marketplace-information-schema-v2026.06.06.01.json)"
-
-    _Note: This is a placeholder, the URL will not work yet._
+!!! schema "Related JSON Schema: [FedRAMP Certification Overview Package (FRC-CSO-PKG)](https://fedramp.gov/schemas/fedramp-certification-overview-package-schema-2026-06-24.json)"
 
 
 !!! quote ""
@@ -160,9 +158,11 @@ The Certification Data Sharing rules allow providers to store and share FedRAMP 
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
+
+!!! schema "Related JSON Schema: [FedRAMP Certification Overview Package (FRC-CSO-PKG)](https://fedramp.gov/schemas/fedramp-certification-overview-package-schema-2026-06-24.json)"
 
 
 !!! quote ""
@@ -181,7 +181,7 @@ The Certification Data Sharing rules allow providers to store and share FedRAMP 
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -206,9 +206,11 @@ The Collaborative Continuous Monitoring rules help agencies use shared, current 
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
+
+!!! schema "Related JSON Schema: [FedRAMP Ongoing Certification Report (CCM-OCR-AVL)](https://fedramp.gov/schemas/fedramp-ongoing-certification-report-schema-2026-06-24.json)"
 
 
 !!! quote ""
@@ -232,7 +234,7 @@ The Collaborative Continuous Monitoring rules help agencies use shared, current 
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -253,7 +255,7 @@ The Incident Evaluation and Communication rules explain how providers must commu
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -270,13 +272,15 @@ The Incident Evaluation and Communication rules explain how providers must commu
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 !!! warning "This FRR includes a notification requirement!"
     - Notify FedRAMP via email: [FedRAMP Security Team](mailto:fedramp_security@fedramp.gov).
     - Notify Agency Customers via the appropriate recipient-specific method: Follow agency-specific incident reporting procedures (varies by agency).
     - Notify All Necessary Parties via an update: Provider's Trust Center or USDA Connect (trust center).
+
+!!! schema "Related JSON Schema: [FedRAMP Incident Report (IEC-CSO-IIR / IEC-CSO-OIR / IEC-CSO-FIR)](https://fedramp.gov/schemas/fedramp-incident-report-schema-2026-06-24.json)"
 
 
 !!! quote ""
@@ -309,7 +313,7 @@ This ruleset explains the expectations for independent verification and validati
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -324,7 +328,7 @@ This ruleset explains the expectations for independent verification and validati
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -346,7 +350,7 @@ The Minimum Assessment Scope rules help providers define assessment boundaries n
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -360,7 +364,7 @@ The Minimum Assessment Scope rules help providers define assessment boundaries n
     _**Notes:**_
 
     - _Certain categories of cloud computing products and services are specified as entirely outside the scope of FedRAMP by the Director of the Office of Management and Budget. All such products and services are therefore not included in the cloud service offering for FedRAMP. For more, see https://fedramp.gov/scope._
-    - _Software produced by cloud service providers that is delivered separately for installation on agency systems and not operated in a shared responsibility model (typically including agents, application clients, mobile applications, etc. that are not fully managed by the cloud service provider) is not a cloud computing product or service and is entirely outside the scope of FedRAMP under the FedRAMP Certification Act. All such software is therefore not included in the cloud service offering for FedRAMP. For more, see fedramp.gov/scope._
+    - _Software produced by cloud service providers that is delivered separately for installation on agency systems and not operated in a shared responsibility model (typically including agents, application clients, mobile applications, etc. that are not fully managed by the cloud service provider) is not a cloud computing product or service and is entirely outside the scope of FedRAMP under the FedRAMP Certification Act. All such software is therefore not included in the cloud service offering for FedRAMP. For more, see https://fedramp.gov/scope._
     - _All aspects of the cloud service offering are determined and maintained by the cloud service provider in accordance with related FedRAMP Certification rules and documented by the cloud service provider in their FedRAMP Certification Package._
     ---
     **Terms:** [Certification Package](../../../definitions/#certification-package){ data-preview }, [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Federal Customer Data](../../../definitions/#federal-customer-data){ data-preview }, [Handle](../../../definitions/#handle){ data-preview }, [Information Resource](../../../definitions/#information-resource){ data-preview }, [Likely](../../../definitions/#likely){ data-preview }
@@ -374,7 +378,7 @@ The Vulnerability Detection and Response rules require providers to continuously
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -404,7 +408,7 @@ The Certification Package Overview rules outline the expectations for a simple o
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -434,13 +438,15 @@ The Incident Evaluation and Communication rules explain how providers must commu
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 !!! warning "This FRR includes a notification requirement!"
     - Notify FedRAMP via email: [FedRAMP Security Team](mailto:fedramp_security@fedramp.gov).
     - Notify Agency Customers via the appropriate recipient-specific method: Follow agency-specific incident reporting procedures (varies by agency).
     - Notify All Necessary Parties via an update: Provider's Trust Center or USDA Connect (trust center).
+
+!!! schema "Related JSON Schema: [FedRAMP Incident Report (IEC-CSO-IIR / IEC-CSO-OIR / IEC-CSO-FIR)](https://fedramp.gov/schemas/fedramp-incident-report-schema-2026-06-24.json)"
 
 
 !!! quote ""
@@ -478,13 +484,15 @@ The Incident Evaluation and Communication rules explain how providers must commu
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 !!! warning "This FRR includes a notification requirement!"
     - Notify FedRAMP via email: [FedRAMP Security Team](mailto:fedramp_security@fedramp.gov).
     - Notify Agency Customers via the appropriate recipient-specific method: Follow agency-specific incident reporting procedures (varies by agency).
     - Notify All Necessary Parties via an update: Provider's Trust Center or USDA Connect (trust center).
+
+!!! schema "Related JSON Schema: [FedRAMP Incident Report (IEC-CSO-IIR / IEC-CSO-OIR / IEC-CSO-FIR)](https://fedramp.gov/schemas/fedramp-incident-report-schema-2026-06-24.json)"
 
 
 !!! quote ""
@@ -523,7 +531,7 @@ The Vulnerability Detection and Response rules require providers to continuously
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -543,7 +551,7 @@ The Vulnerability Detection and Response rules require providers to continuously
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -563,7 +571,7 @@ The Vulnerability Detection and Response rules require providers to continuously
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -583,7 +591,7 @@ The Vulnerability Detection and Response rules require providers to continuously
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -603,7 +611,7 @@ The Vulnerability Detection and Response rules require providers to continuously
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -637,7 +645,7 @@ The Vulnerability Evaluation and Reporting rules require cloud service providers
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -661,7 +669,7 @@ The Certification Data Sharing rules allow providers to store and share FedRAMP 
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -687,7 +695,7 @@ The Collaborative Continuous Monitoring rules help agencies use shared, current 
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -711,7 +719,7 @@ The Cryptographic Module Use rules clarify how providers should select and use c
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -733,7 +741,7 @@ This ruleset explains the expectations for independent verification and validati
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -765,13 +773,11 @@ The Security Decision Record replaced a traditional System Security Plan with a 
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
 !!! schema "Related JSON Schema: [FedRAMP Security Decision Record Schema](https://fedramp.gov/schemas/fedramp-security-decision-record-schema-v2026.06.06.01.json)"
-
-    _Note: This is a placeholder, the URL will not work yet._
 
 
 !!! quote ""
@@ -791,7 +797,7 @@ The Vulnerability Evaluation and Reporting rules require cloud service providers
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -809,13 +815,11 @@ The Vulnerability Evaluation and Reporting rules require cloud service providers
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
-!!! schema "Related JSON Schema: [FedRAMP Historical VDR Activity Schema](https://fedramp.gov/schemas/fedramp-historical-VER-activity-schema-v2026.06.06.01.json)"
-
-    _Note: This is a placeholder, the URL will not work yet._
+!!! schema "Related JSON Schema: [FedRAMP Historical Vulnerability Evaluation and Reporting Activity (VER-TFR-MRH)](https://fedramp.gov/schemas/fedramp-historical-ver-activity-schema-2026-06-24.json)"
 
 
 !!! quote ""
@@ -833,7 +837,7 @@ The Vulnerability Evaluation and Reporting rules require cloud service providers
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 

@@ -8,10 +8,9 @@ hide:
   - toc
 picto:
   source: person
-  status: stable
 ---
 
-<span class="picto">:lucide-person-standing:{ .person title="This content was written by a human just for this page." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
+<span class="picto">:lucide-person-standing:{ .person title="This content was written by a human just for this page." }</span>
 
 # Cloud Service Providers
 
@@ -23,12 +22,12 @@ To be listed in the FedRAMP Marketplace and qualify for FedRAMP Certification, c
 
 2. **Indirect Government-Wide Use:** The service will be used as a third-party information resource in other cloud services that have direct government-wide use.
 
-??? danger "FedRAMP does not apply to services used by the Defense Industrial Base."
+!!! danger "FedRAMP does not support or provide 'equivalency.'"
 
     The Department of War established the [Cybersecurity Maturity Model Certification](https://dodcio.defense.gov/CMMC/) (CMMC) to enhance cybersecurity protections for sensitive unclassified information within the Defense Industrial Base (DIB).
     CMMC requirements apply to private companies that do business with the Department of War and establishes requirements that are only relevant to the Department of War.
 
-    All questions about "FedRAMP Equivalency" or the application of FedRAMP Certification requirements for CMMC should be directed to the Department of War. FedRAMP does not support the Certification of services for this use case in any way.
+    All questions about "FedRAMP Equivalency" or the application of FedRAMP Certification requirements for CMMC should be directed to the Department of War. FedRAMP is only able to support Certification for cloud services with direct or indirect government-wide use.
 
 ---
 

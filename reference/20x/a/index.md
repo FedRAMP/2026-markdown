@@ -13,10 +13,9 @@ tags:
   - Rules
 picto:
   source: machine
-  status: stable
 ---
 
-<span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
+<span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." }</span>
 
 # 20x Class A Ruleset Reference
 
@@ -24,6 +23,6 @@ This section of the Consolidated Rules for 2026 contains each complete FedRAMP R
 
 | Acronym | Ruleset | Status | Counts | Most Recently Updated |
 | --- | --- | --- | --- | --- |
-| CPO | [Certification Package Overview](certification-package-overview.md) | Stable | Subsets: 1<br>Rules: 1 | 2026-06-23 |
-| FRC | [FedRAMP Certification](fedramp-certification.md) | Stable | Subsets: 3<br>Rules: 17 | 2026-06-23 |
-| MKT | [Marketplace Listing](marketplace-listing.md) | Stable | Subsets: 5<br>Rules: 12 | 2026-06-23 |
+| CPO | [Certification Package Overview](certification-package-overview.md) | Stable | Subsets: 1<br>Rules: 1 | 2026-06-24 |
+| FRC | [FedRAMP Certification](fedramp-certification.md) | Stable | Subsets: 3<br>Rules: 17 | 2026-06-24 |
+| MKT | [Marketplace Listing](marketplace-listing.md) | Stable | Subsets: 5<br>Rules: 12 | 2026-06-24 |

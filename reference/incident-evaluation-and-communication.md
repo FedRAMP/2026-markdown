@@ -7,7 +7,7 @@ tags:
   - Rules
 ---
 
-<span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." } :lucide-book-open-check:{ .stable title="This content is relatively stable and only minor changes are expected." }</span>
+<span class="picto">:lucide-computer:{ .machine title="This content is machine-generated from FedRAMP Machine-Readable Rules." }</span>
 
 # Incident Evaluation and Communication
 
@@ -86,7 +86,7 @@ These rules apply to FedRAMP.
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -118,7 +118,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -135,7 +135,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
@@ -152,13 +152,15 @@ These rules apply to providers with FedRAMP Certifications of any type.
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 !!! warning "This FRR includes a notification requirement!"
     - Notify FedRAMP via email: [FedRAMP Security Team](mailto:fedramp_security@fedramp.gov).
     - Notify Agency Customers via the appropriate recipient-specific method: Follow agency-specific incident reporting procedures (varies by agency).
     - Notify All Necessary Parties via an update: Provider's Trust Center or USDA Connect (trust center).
+
+!!! schema "Related JSON Schema: [FedRAMP Incident Report (IEC-CSO-IIR / IEC-CSO-OIR / IEC-CSO-FIR)](https://fedramp.gov/schemas/fedramp-incident-report-schema-2026-06-24.json)"
 
 
 !!! quote ""
@@ -271,13 +273,15 @@ These rules apply to providers with FedRAMP Certifications of any type.
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 !!! warning "This FRR includes a notification requirement!"
     - Notify FedRAMP via email: [FedRAMP Security Team](mailto:fedramp_security@fedramp.gov).
     - Notify Agency Customers via the appropriate recipient-specific method: Follow agency-specific incident reporting procedures (varies by agency).
     - Notify All Necessary Parties via an update: Provider's Trust Center or USDA Connect (trust center).
+
+!!! schema "Related JSON Schema: [FedRAMP Incident Report (IEC-CSO-IIR / IEC-CSO-OIR / IEC-CSO-FIR)](https://fedramp.gov/schemas/fedramp-incident-report-schema-2026-06-24.json)"
 
 
 !!! quote ""
@@ -378,13 +382,15 @@ These rules apply to providers with FedRAMP Certifications of any type.
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 !!! warning "This FRR includes a notification requirement!"
     - Notify FedRAMP via email: [FedRAMP Security Team](mailto:fedramp_security@fedramp.gov).
     - Notify Agency Customers via the appropriate recipient-specific method: Follow agency-specific incident reporting procedures (varies by agency).
     - Notify All Necessary Parties via an update: Provider's Trust Center or USDA Connect (trust center).
+
+!!! schema "Related JSON Schema: [FedRAMP Incident Report (IEC-CSO-IIR / IEC-CSO-OIR / IEC-CSO-FIR)](https://fedramp.gov/schemas/fedramp-incident-report-schema-2026-06-24.json)"
 
 
 !!! quote ""
@@ -461,9 +467,11 @@ These rules apply to providers with FedRAMP Certifications of any type.
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
+
+!!! schema "Related JSON Schema: [FedRAMP Incident Report (IEC-CSO-IIR / IEC-CSO-OIR / IEC-CSO-FIR)](https://fedramp.gov/schemas/fedramp-incident-report-schema-2026-06-24.json)"
 
 
 !!! quote ""
@@ -488,7 +496,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
     **Changelog:**
 
 
-    - **2026-06-23:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
