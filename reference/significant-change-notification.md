@@ -190,7 +190,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 
 
-!!! schema "Related JSON Schema: [FedRAMP Significant Change Notifications Schema](https://fedramp.gov/schemas/fedramp-significant-change-notifications-schema-v2026.06.06.01.json)"
+!!! schema "Related JSON Schema: [FedRAMP Significant Change Notifications Schema](https://fedramp.gov/schemas/fedramp-significant-change-notifications-schema-2026-06-24.json)"
 
 
 !!! quote ""
