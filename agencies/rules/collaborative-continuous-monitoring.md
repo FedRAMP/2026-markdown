@@ -17,7 +17,7 @@ The Collaborative Continuous Monitoring rules help agencies use shared, current 
     - **Optional Adoption:** 2026-07-04
     - **Obtain:** 2026-07-04
     - **Maintain:** 2027-01-01
-    - **Grace Ends:** On the first FedRAMP independent assessment completed after 2027-01-01
+    - **Grace Ends:** On the first FedRAMP independent assessment started after 2027-01-01
 
 !!! info "Effective Date(s) & Overall Applicability for Rev5"
     - **Required** (Consolidated Rules for 2026)

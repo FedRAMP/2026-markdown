@@ -21,7 +21,7 @@ The Certification Package Overview rules outline the expectations for a simple o
     - **Optional Adoption:** 2026-07-04
     - **Obtain:** 2027-01-01
     - **Maintain:** 2027-07-01
-    - **Grace Ends:** On the first FedRAMP independent assessment completed after 2027-01-01
+    - **Grace Ends:** On the first FedRAMP independent assessment started after 2027-01-01
 
 
 

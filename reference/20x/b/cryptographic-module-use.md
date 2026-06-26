@@ -16,7 +16,7 @@ The Cryptographic Module Use rules clarify how providers should select and use c
     - **Optional Adoption:** 2026-07-04
     - **Obtain:** 2026-07-04
     - **Maintain:** 2027-01-01
-    - **Grace Ends:** On the first FedRAMP independent assessment completed after 2027-01-01
+    - **Grace Ends:** On the first FedRAMP independent assessment started after 2027-01-01
 
 
 

@@ -22,7 +22,7 @@ The Certification Data Sharing rules allow providers to store and share FedRAMP 
     - **Optional Adoption:** 2026-07-04
     - **Obtain:** 2026-07-04
     - **Maintain:** 2027-01-01
-    - **Grace Ends:** On the first FedRAMP independent assessment completed after 2027-01-01
+    - **Grace Ends:** On the first FedRAMP independent assessment started after 2027-01-01
 
 
 
