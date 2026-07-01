@@ -36,5 +36,5 @@ This section of the Consolidated Rules for 2026 contains each complete FedRAMP R
 | SCG | [Secure Configuration Guide](secure-configuration-guide.md) | Stable | Subsets: 2<br>Rules: 9 | 2026-06-24 |
 | SCN | [Significant Change Notification](significant-change-notification.md) | Stable | Subsets: 5<br>Rules: 17 | 2026-06-24 |
 | SDR | [Security Decision Record](security-decision-record.md) | Stable | Subsets: 2<br>Rules: 4 | 2026-06-24 |
-| VDR | [Vulnerability Detection and Response](vulnerability-detection-and-response.md) | Stable | Subsets: 2<br>Rules: 17 | 2026-06-24 |
+| VDR | [Vulnerability Detection and Response](vulnerability-detection-and-response.md) | Stable | Subsets: 2<br>Rules: 17 | 2026-07-01 |
 | VER | [Vulnerability Evaluation and Reporting](vulnerability-evaluation-and-reporting.md) | Stable | Subsets: 5<br>Rules: 25 | 2026-06-24 |

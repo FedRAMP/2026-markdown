@@ -90,28 +90,6 @@ The Addressing FedRAMP Communication rules (formerly FedRAMP Security Inbox) ens
 
 The Certification Data Sharing rules allow providers to store and share FedRAMP Certification Data through the platform they choose as long as it follows FedRAMP rules for access, accuracy, and transparency. This helps customers and the public review consistent, current security and compliance information while recognizing that the information usually remains the provider's intellectual property and is not federal information.
 
-### Availability Reporting
-
-??? abstract "CDS-CSO-AVR"
-    **Changelog:**
-
-
-    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
-
-
-
-
-!!! quote ""
-    === "Class A"
-        Providers with Class A Certifications SHOULD maintain a web service, available to all necessary parties, that indicates current and historical availability of core services within the cloud service offering over at least the past 30 days, including availability incidents, in both human-readable and machine-readable formats; this service SHOULD be available even if the primary cloud service offering is unavailable.
-
-        ---
-
-        _**Note:** This service may be separate from the trust center._
-
-
-    ---
-    **Terms:** [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Incident](../../../definitions/#incident){ data-preview }, [Machine-Readable](../../../definitions/#machine-readable){ data-preview }
 ### Public Information
 
 ??? abstract "CDS-CSO-PUB"
@@ -307,21 +285,6 @@ The Incident Evaluation and Communication rules explain how providers must commu
 
 This ruleset explains the expectations for independent verification and validation assessments.
 
-### Annual Independent Assessments for Rev5
-
-??? abstract "IVV-CSF-AIA"
-    **Changelog:**
-
-
-    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
-
-
-
-
-!!! quote ""
-
-    ---
-    **Terms:** [FedRAMP Independent Assessment](../../../definitions/#fedramp-independent-assessment){ data-preview }
 ### Annual Independent Assessments for 20x
 
 ??? abstract "IVV-CSX-AIA"
@@ -398,6 +361,32 @@ The Vulnerability Detection and Response rules require providers to continuously
     - _Providers are encouraged to leverage their existing holistic security review, architecture review, and similar processes to meet these requirements. FedRAMP strongly discourages providers from implementing separate vulnerability detection and response processes for FedRAMP reporting that are operated by independent compliance branches unless these processes are consuming data directly from the areas of the cloud service that actively maintain it._
     ---
     **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [FedRAMP Practices](../../../definitions/#fedramp-practices){ data-preview }, [Incident](../../../definitions/#incident){ data-preview }, [Information Resource](../../../definitions/#information-resource){ data-preview }, [Persistently](../../../definitions/#persistently){ data-preview }, [Promptly](../../../definitions/#promptly){ data-preview }, [Vulnerability](../../../definitions/#vulnerability){ data-preview }, [Vulnerability Detection](../../../definitions/#vulnerability-detection){ data-preview }, [Vulnerability Response](../../../definitions/#vulnerability-response){ data-preview }
+## Recommended Class A Rules: Certification Data Sharing (CDS) {#recommended-class-a-rules-certification-data-sharing-cds}
+
+The Certification Data Sharing rules allow providers to store and share FedRAMP Certification Data through the platform they choose as long as it follows FedRAMP rules for access, accuracy, and transparency. This helps customers and the public review consistent, current security and compliance information while recognizing that the information usually remains the provider's intellectual property and is not federal information.
+
+### Availability Reporting
+
+??? abstract "CDS-CSO-AVR"
+    **Changelog:**
+
+
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+
+
+
+
+!!! quote ""
+    === "Class A"
+        Providers with Class A Certifications SHOULD maintain a web service, available to all necessary parties, that indicates current and historical availability of core services within the cloud service offering over at least the past 30 days, including availability incidents, in both human-readable and machine-readable formats; this service SHOULD be available even if the primary cloud service offering is unavailable.
+
+        ---
+
+        _**Note:** This service may be separate from the trust center._
+
+
+    ---
+    **Terms:** [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Incident](../../../definitions/#incident){ data-preview }, [Machine-Readable](../../../definitions/#machine-readable){ data-preview }
 ## Recommended Class A Rules: Certification Package Overview (CPO) {#recommended-class-a-rules-certification-package-overview-cpo}
 
 The Certification Package Overview rules outline the expectations for a simple overview of the cloud service offering that must be included within a FedRAMP Certification Package. This overview replaces the historically required base System Security Plan for FedRAMP Rev5 and is intended to provide a clear, concise, and consistent summary of the offering and the information included in the package to help customers understand the offering at a high level.
@@ -611,6 +600,9 @@ The Vulnerability Detection and Response rules require providers to continuously
     **Changelog:**
 
 
+    - **2026-07-01:** Added relevent terms and related controls. No change to the requirement.
+
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
@@ -618,7 +610,7 @@ The Vulnerability Detection and Response rules require providers to continuously
 
 !!! quote ""
     === "Class A"
-        Providers with Class A Certifications SHOULD partially mitigate vulnerabilities, fully mitigate vulnerabilities, or remediate vulnerabilities to a lower potential agency impact within the timeframes from evaluation shown below, factoring for the current Potential Agency Impact N-rating, internet reachability, and likely exploitability.
+        Providers with Class A Certifications SHOULD partially mitigate vulnerabilities, fully mitigate vulnerabilities, or remediate vulnerabilities to a lower potential agency impact within the timeframes from evaluation shown below, factoring for the current Potential Agency Impact N-rating as defined in [VER-EVA-EPA (Estimate Potential Agency Impact)](../../../providers/20x/rules/vulnerability-evaluation-and-reporting.md#estimate-potential-agency-impact){ data-preview }, internet reachability, and likely exploitability.
 
 
         ---

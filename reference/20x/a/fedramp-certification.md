@@ -75,7 +75,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 
 
 !!! quote ""
-    Providers seeking a Class B Certification MUST supply a complete FedRAMP Certification Package to FedRAMP for initial certification; the FedRAMP Certification Package MUST include at least the following information:
+    Providers seeking a Certification MUST supply a complete FedRAMP Certification Package to FedRAMP for initial certification; the FedRAMP Certification Package MUST include at least the following information:
 
     1. A Certification Package Overview
     1. A Security Decision Record
@@ -202,13 +202,16 @@ These are specific rules that apply to providers seeking FedRAMP Class A Certifi
     **Changelog:**
 
 
+    - **2026-07-01:** Removed reference to Independent Verification and Validation: IVV-CSF-AIA (Annual Independent Assessments for Rev5); Removed CDS-CSO-AVR (Availability Reporting) since this rule is defined as SHOULD and included in FRC-CLA-RFR (Recommended FedRAMP Rules for Class A)
+
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
 
 !!! quote ""
-    Providers seeking a Class A FedRAMP Certification MUST address all rules in this FedRAMP Class A Certification subset (FRC-CLA) AND the following additional FedRAMP Class Arules; the appropriate artifacts or information mapping for all rules MUST be supplied in the FedRAMP Certification Package.
+    Providers seeking a Class A FedRAMP Certification MUST address all rules in this FedRAMP Class A Certification subset (FRC-CLA) AND the following additional FedRAMP Class A rules; the appropriate artifacts or information mapping for all rules MUST be supplied in the FedRAMP Certification Package.
 
     1. FedRAMP Certification: [FRC-CSO-PKG (FedRAMP Certification Package)](#fedramp-certification-package){ data-preview }
     1. FedRAMP Certification: [FRC-CSO-JSN (FedRAMP JSON Schemas)](#fedramp-json-schemas){ data-preview }
@@ -217,7 +220,6 @@ These are specific rules that apply to providers seeking FedRAMP Class A Certifi
     1. Certification Data Sharing: [CDS-CSO-PUB (Public Information)](related.md#public-information){ data-preview }
     1. Certification Data Sharing: [CDS-CSO-UTC (Use Trust Centers)](related.md#use-trust-centers){ data-preview }
     1. Certification Data Sharing: [CDS-UTC-AAD (Agency Access Denial)](related.md#agency-access-denial){ data-preview }
-    1. Certification Data Sharing: [CDS-CSO-AVR (Availability Reporting)](related.md#availability-reporting){ data-preview }
     1. Addressing FedRAMP Communication: [AFC-CSO-INB (Maintain a FedRAMP Security Inbox)](related.md#maintain-a-fedramp-security-inbox){ data-preview }
     1. Addressing FedRAMP Communication: [AFC-CSO-RCV (Receive Email Without Disruption)](related.md#receive-email-without-disruption){ data-preview }
     1. Addressing FedRAMP Communication: [AFC-CSO-CRA (Complete Required Actions)](related.md#complete-required-actions){ data-preview }
@@ -227,7 +229,6 @@ These are specific rules that apply to providers seeking FedRAMP Class A Certifi
     1. Collaborative Continuous Monitoring: [CCM-OCR-AVL (Report Availability)](related.md#report-availability){ data-preview }
     1. Collaborative Continuous Monitoring: [CCM-OCR-NRD (Next Report Date)](related.md#next-report-date){ data-preview }
     1. Independent Verification and Validation: [IVV-CSX-AIA (Annual Independent Assessments for 20x)](related.md#annual-independent-assessments-for-20x){ data-preview }
-    1. Independent Verification and Validation: [IVV-CSF-AIA (Annual Independent Assessments for Rev5)](related.md#annual-independent-assessments-for-rev5){ data-preview }
     1. Key Security Indicators: [KSI-CMT-LMC (Logging Changes)](key-security-indicators.md#logging-changes){ data-preview }
     1. Key Security Indicators: [KSI-CNA-RNT (Restricting Network Traffic)](key-security-indicators.md#restricting-network-traffic){ data-preview }
     1. Key Security Indicators: [KSI-CED-RAT (Reviewing All Training)](key-security-indicators.md#reviewing-all-training){ data-preview }

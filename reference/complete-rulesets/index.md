@@ -28,7 +28,7 @@ This section of the Consolidated Rules for 2026 contains each complete FedRAMP R
 | CDS | [Certification Data Sharing](../certification-data-sharing.md) | Stable | Subsets: 4<br>Rules: 21 | 2026-06-24 |
 | CMU | [Cryptographic Module Use](../cryptographic-module-use.md) | Stable | Subsets: 1<br>Rules: 3 | 2026-06-24 |
 | CPO | [Certification Package Overview](../certification-package-overview.md) | Stable | Subsets: 3<br>Rules: 4 | 2026-06-24 |
-| FRC | [FedRAMP Certification](../fedramp-certification.md) | Stable | Subsets: 7<br>Rules: 29 | 2026-06-24 |
+| FRC | [FedRAMP Certification](../fedramp-certification.md) | Stable | Subsets: 7<br>Rules: 29 | 2026-07-01 |
 | IEC | [Incident Evaluation and Communication](../incident-evaluation-and-communication.md) | Stable | Subsets: 2<br>Rules: 8 | 2026-06-24 |
 | IVV | [Independent Verification and Validation](../independent-verification-and-validation.md) | Stable | Subsets: 4<br>Rules: 20 | 2026-06-24 |
 | MAS | [Minimum Assessment Scope](../minimum-assessment-scope.md) | Stable | Subsets: 1<br>Rules: 5 | 2026-06-24 |
@@ -37,5 +37,5 @@ This section of the Consolidated Rules for 2026 contains each complete FedRAMP R
 | SCG | [Secure Configuration Guide](../secure-configuration-guide.md) | Stable | Subsets: 2<br>Rules: 9 | 2026-06-24 |
 | SCN | [Significant Change Notification](../significant-change-notification.md) | Stable | Subsets: 5<br>Rules: 17 | 2026-06-24 |
 | SDR | [Security Decision Record](../security-decision-record.md) | Stable | Subsets: 3<br>Rules: 5 | 2026-06-24 |
-| VDR | [Vulnerability Detection and Response](../vulnerability-detection-and-response.md) | Stable | Subsets: 2<br>Rules: 18 | 2026-06-24 |
+| VDR | [Vulnerability Detection and Response](../vulnerability-detection-and-response.md) | Stable | Subsets: 2<br>Rules: 18 | 2026-07-01 |
 | VER | [Vulnerability Evaluation and Reporting](../vulnerability-evaluation-and-reporting.md) | Stable | Subsets: 5<br>Rules: 25 | 2026-06-24 |
