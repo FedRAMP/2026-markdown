@@ -37,7 +37,7 @@ This page contains all **40** controls and control enhancements in the Incident 
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
     ---
 
@@ -63,7 +63,7 @@ This page contains all **40** controls and control enhancements in the Incident 
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
     ---
 
@@ -85,7 +85,7 @@ This page contains all **40** controls and control enhancements in the Incident 
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
     ---
 
@@ -107,7 +107,7 @@ This page contains all **40** controls and control enhancements in the Incident 
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
     ---
 
@@ -144,7 +144,7 @@ This page contains all **40** controls and control enhancements in the Incident 
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
     ---
 
@@ -181,7 +181,7 @@ This page contains all **40** controls and control enhancements in the Incident 
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
     ---
 
@@ -225,7 +225,7 @@ This page contains all **40** controls and control enhancements in the Incident 
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
     ---
 
@@ -247,7 +247,7 @@ This page contains all **40** controls and control enhancements in the Incident 
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
     ---
 
@@ -269,7 +269,7 @@ This page contains all **40** controls and control enhancements in the Incident 
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
     ---
 
@@ -306,7 +306,7 @@ This page contains all **40** controls and control enhancements in the Incident 
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
     ---
 
@@ -343,7 +343,7 @@ This page contains all **40** controls and control enhancements in the Incident 
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
     ---
 
@@ -425,7 +425,7 @@ This page contains all **40** controls and control enhancements in the Incident 
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
     ---
 
@@ -508,7 +508,7 @@ This page contains all **40** controls and control enhancements in the Incident 
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
     ---
 
@@ -530,7 +530,7 @@ This page contains all **40** controls and control enhancements in the Incident 
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
     ---
 
@@ -553,7 +553,7 @@ This page contains all **40** controls and control enhancements in the Incident 
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
     ---
 
@@ -575,7 +575,7 @@ This page contains all **40** controls and control enhancements in the Incident 
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
     ---
 
@@ -612,7 +612,7 @@ This page contains all **40** controls and control enhancements in the Incident 
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
     ---
 
@@ -634,7 +634,7 @@ This page contains all **40** controls and control enhancements in the Incident 
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
     ---
 
@@ -656,7 +656,7 @@ This page contains all **40** controls and control enhancements in the Incident 
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
     ---
 
@@ -708,7 +708,7 @@ This page contains all **40** controls and control enhancements in the Incident 
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
     ---
 
@@ -757,7 +757,7 @@ This page contains all **40** controls and control enhancements in the Incident 
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
     ---
 
@@ -779,7 +779,7 @@ This page contains all **40** controls and control enhancements in the Incident 
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
     ---
 
@@ -801,7 +801,7 @@ This page contains all **40** controls and control enhancements in the Incident 
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
     ---
 
@@ -823,7 +823,7 @@ This page contains all **40** controls and control enhancements in the Incident 
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
     ---
 

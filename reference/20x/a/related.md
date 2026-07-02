@@ -270,7 +270,7 @@ The Incident Evaluation and Communication rules explain how providers must commu
 
         **Potential Agency Impact N-rating (PAIN) Timeframes:**
 
-        | PAIN Rating | Final Incident Report |
+        | <abbr title="Potential Agency Impact N-rating">PAIN</abbr> Rating | Final Incident Report |
         |--------------------------|---|
         | PAIN-5 | 3 business days |
         | PAIN-4 | 3 business days |
@@ -456,7 +456,7 @@ The Incident Evaluation and Communication rules explain how providers must commu
 
         **Potential Agency Impact N-rating (PAIN) Timeframes:**
 
-        | PAIN Rating | Initial Incident Report |
+        | <abbr title="Potential Agency Impact N-rating">PAIN</abbr> Rating | Initial Incident Report |
         |--------------------------|---|
         | PAIN-5 | 6 hours |
         | PAIN-4 | 6 hours |
@@ -499,7 +499,7 @@ The Incident Evaluation and Communication rules explain how providers must commu
 
         **Potential Agency Impact N-rating (PAIN) Timeframes:**
 
-        | PAIN Rating | Ongoing Incident Report |
+        | <abbr title="Potential Agency Impact N-rating">PAIN</abbr> Rating | Ongoing Incident Report |
         |--------------------------|---|
         | PAIN-5 | 1 business day |
         | PAIN-4 | 1 business day |
@@ -617,7 +617,7 @@ The Vulnerability Detection and Response rules require providers to continuously
 
         **Potential Agency Impact N-rating (PAIN) Timeframes:**
 
-        | PAIN Rating | LEV + IRV | LEV + NIRV | NLEV |
+        | <abbr title="Potential Agency Impact N-rating">PAIN</abbr> Rating | <abbr title="Likely Exploitable Vulnerability (LEV) + Internet-Reachable Vulnerability (IRV)">LEV + IRV</abbr> | <abbr title="Likely Exploitable Vulnerability (LEV) + Not Internet-Reachable Vulnerability (NIRV)">LEV + NIRV</abbr> | <abbr title="Not Likely Exploitable Vulnerability (NLEV)">NLEV</abbr> |
         |--------------------------|---|---|---|
         | PAIN-5 | 4 days | 8 days | 32 days |
         | PAIN-4 | 8 days | 32 days | 64 days |

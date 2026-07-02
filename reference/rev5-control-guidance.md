@@ -736,7 +736,7 @@ This reference contains FedRAMP guidance and organization-assigned parameter val
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
 ---
 
@@ -760,7 +760,7 @@ This reference contains FedRAMP guidance and organization-assigned parameter val
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
 ---
 
@@ -780,7 +780,7 @@ This reference contains FedRAMP guidance and organization-assigned parameter val
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
 ---
 
@@ -800,7 +800,7 @@ This reference contains FedRAMP guidance and organization-assigned parameter val
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
 ---
 
@@ -820,7 +820,7 @@ This reference contains FedRAMP guidance and organization-assigned parameter val
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
 ---
 
@@ -840,7 +840,7 @@ This reference contains FedRAMP guidance and organization-assigned parameter val
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
 ---
 
@@ -863,7 +863,7 @@ This reference contains FedRAMP guidance and organization-assigned parameter val
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
 ---
 
@@ -883,7 +883,7 @@ This reference contains FedRAMP guidance and organization-assigned parameter val
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
 ---
 
@@ -903,7 +903,7 @@ This reference contains FedRAMP guidance and organization-assigned parameter val
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
 ---
 
@@ -923,7 +923,7 @@ This reference contains FedRAMP guidance and organization-assigned parameter val
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
 ---
 
@@ -943,7 +943,7 @@ This reference contains FedRAMP guidance and organization-assigned parameter val
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
 ---
 
@@ -963,7 +963,7 @@ This reference contains FedRAMP guidance and organization-assigned parameter val
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
 ---
 
@@ -983,7 +983,7 @@ This reference contains FedRAMP guidance and organization-assigned parameter val
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
 ---
 
@@ -1003,7 +1003,7 @@ This reference contains FedRAMP guidance and organization-assigned parameter val
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
 ---
 
@@ -1024,7 +1024,7 @@ This reference contains FedRAMP guidance and organization-assigned parameter val
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
 ---
 
@@ -1044,7 +1044,7 @@ This reference contains FedRAMP guidance and organization-assigned parameter val
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
 ---
 
@@ -1064,7 +1064,7 @@ This reference contains FedRAMP guidance and organization-assigned parameter val
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
 ---
 
@@ -1084,7 +1084,7 @@ This reference contains FedRAMP guidance and organization-assigned parameter val
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
 ---
 
@@ -1104,7 +1104,7 @@ This reference contains FedRAMP guidance and organization-assigned parameter val
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
 ---
 
@@ -1138,7 +1138,7 @@ This reference contains FedRAMP guidance and organization-assigned parameter val
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
 ---
 
@@ -1166,7 +1166,7 @@ This reference contains FedRAMP guidance and organization-assigned parameter val
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
 ---
 
@@ -1186,7 +1186,7 @@ This reference contains FedRAMP guidance and organization-assigned parameter val
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
 ---
 
@@ -1206,7 +1206,7 @@ This reference contains FedRAMP guidance and organization-assigned parameter val
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
 ---
 
@@ -1226,7 +1226,7 @@ This reference contains FedRAMP guidance and organization-assigned parameter val
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
 ---
 

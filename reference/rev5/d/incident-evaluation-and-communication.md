@@ -33,22 +33,22 @@ This workflow illustrates the process for evaluating incidents and persistently 
 flowchart TD
   node_an_incident_is_identified(["An incident is identified."])
   node_iec_cso_efr{"IEC-CSO-EFR<br/>Evaluate FedRAMP Reportability"}
-  node_incident_evaluation_and_reporting_is_complete(["Incident Evaluation and Reporting is complete."])
+  node_incident_evaluation_and_communication_is_complete(["Incident Evaluation and Communication is complete."])
   node_iec_cso_efi{"IEC-CSO-EFI<br/>Estimate Federal Impact"}
   node_iec_cso_dpr("IEC-CSO-DPR<br/>Default PAIN Rating")
   node_iec_cso_iir("IEC-CSO-IIR<br/>Initial Incident Report")
   node_iec_cso_oir("IEC-CSO-OIR<br/>Ongoing Incident Reports")
   node_iec_cso_fir("IEC-CSO-FIR<br/>Final Incident Report")
-  node_incident_evaluation_and_reporting_are_complete(["Incident Evaluation and Reporting are complete."])
+  node_incident_evaluation_and_communication_are_complete(["Incident Evaluation and Communication are complete."])
   node_an_incident_is_identified --> node_iec_cso_efr
-  node_iec_cso_efr -->|"No"| node_incident_evaluation_and_reporting_is_complete
+  node_iec_cso_efr -->|"No"| node_incident_evaluation_and_communication_is_complete
   node_iec_cso_efr -->|"Yes, and the PAIN will be estimated."| node_iec_cso_efi
   node_iec_cso_efr -->|"Yes, but the PAIN will not be estimated."| node_iec_cso_dpr
   node_iec_cso_dpr -->|"Reporting clock starts, using default PAIN-5 timeframes for reporting."| node_iec_cso_iir
   node_iec_cso_efi -->|"Reporting clock starts, using estimated PAIN timeframes for reporting."| node_iec_cso_iir
   node_iec_cso_iir -->|"Ongoing persistent reporting until incident is resolved."| node_iec_cso_oir
   node_iec_cso_oir -->|"Incident is resolved."| node_iec_cso_fir
-  node_iec_cso_fir --> node_incident_evaluation_and_reporting_are_complete
+  node_iec_cso_fir --> node_incident_evaluation_and_communication_are_complete
   click node_iec_cso_efr href "#evaluate-fedramp-reportability" "Jump to IEC-CSO-EFR"
   click node_iec_cso_dpr href "#default-pain-rating" "Jump to IEC-CSO-DPR"
   click node_iec_cso_iir href "#initial-incident-report" "Jump to IEC-CSO-IIR"
@@ -173,7 +173,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
         **Potential Agency Impact N-rating (PAIN) Timeframes:**
 
-        | PAIN Rating | Initial Incident Report |
+        | <abbr title="Potential Agency Impact N-rating">PAIN</abbr> Rating | Initial Incident Report |
         |--------------------------|---|
         | PAIN-5 | 0.25 hours |
         | PAIN-4 | 0.25 hours |
@@ -216,7 +216,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
         **Potential Agency Impact N-rating (PAIN) Timeframes:**
 
-        | PAIN Rating | Ongoing Incident Report |
+        | <abbr title="Potential Agency Impact N-rating">PAIN</abbr> Rating | Ongoing Incident Report |
         |--------------------------|---|
         | PAIN-5 | 3 hours |
         | PAIN-4 | 3 hours |
@@ -253,7 +253,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
         **Potential Agency Impact N-rating (PAIN) Timeframes:**
 
-        | PAIN Rating | Final Incident Report |
+        | <abbr title="Potential Agency Impact N-rating">PAIN</abbr> Rating | Final Incident Report |
         |--------------------------|---|
         | PAIN-5 | 3 hours |
         | PAIN-4 | 3 hours |

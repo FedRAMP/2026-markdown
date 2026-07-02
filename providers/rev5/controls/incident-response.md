@@ -33,7 +33,7 @@ tags:
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
 ---
 
@@ -57,7 +57,7 @@ tags:
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
 ---
 
@@ -77,7 +77,7 @@ tags:
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
 ---
 
@@ -97,7 +97,7 @@ tags:
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
 ---
 
@@ -117,7 +117,7 @@ tags:
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
 ---
 
@@ -137,7 +137,7 @@ tags:
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
 ---
 
@@ -160,7 +160,7 @@ tags:
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
 ---
 
@@ -180,7 +180,7 @@ tags:
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
 ---
 
@@ -200,7 +200,7 @@ tags:
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
 ---
 
@@ -220,7 +220,7 @@ tags:
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
 ---
 
@@ -240,7 +240,7 @@ tags:
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
 ---
 
@@ -260,7 +260,7 @@ tags:
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
 ---
 
@@ -280,7 +280,7 @@ tags:
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
 ---
 
@@ -300,7 +300,7 @@ tags:
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
 ---
 
@@ -321,7 +321,7 @@ tags:
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
 ---
 
@@ -341,7 +341,7 @@ tags:
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
 ---
 
@@ -361,7 +361,7 @@ tags:
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
 ---
 
@@ -381,7 +381,7 @@ tags:
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
 ---
 
@@ -401,7 +401,7 @@ tags:
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
 ---
 
@@ -435,7 +435,7 @@ tags:
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
 ---
 
@@ -463,7 +463,7 @@ tags:
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
 ---
 
@@ -483,7 +483,7 @@ tags:
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
 ---
 
@@ -503,7 +503,7 @@ tags:
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
 ---
 
@@ -523,6 +523,6 @@ tags:
     !!! info ""
         **FedRAMP Guidance**
 
-        Follow the FedRAMP Incident Evaluation and Reporting rules.
+        Follow the FedRAMP Incident Evaluation and Communication rules.
 
 ---
