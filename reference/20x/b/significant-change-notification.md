@@ -85,7 +85,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 
 
-!!! schema "Related JSON Schema: [FedRAMP Significant Change Notification (SCN-CSO-INF)](https://fedramp.gov/schemas/fedramp-significant-change-notification-schema-2026-06-24.json)"
+!!! schema "Related JSON Schema: [FedRAMP Significant Change Notification (SCN-CSO-INF)](https://fedramp.gov/schemas/fedramp-significant-change-notifications-schema-2026-06-24.json)"
 
 
 !!! quote ""
@@ -131,7 +131,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 
 
-!!! schema "Related JSON Schema: [FedRAMP Significant Change Notification (SCN-CSO-INF)](https://fedramp.gov/schemas/fedramp-significant-change-notification-schema-2026-06-24.json)"
+!!! schema "Related JSON Schema: [FedRAMP Significant Change Notification (SCN-CSO-INF)](https://fedramp.gov/schemas/fedramp-significant-change-notifications-schema-2026-06-24.json)"
 
 
 !!! quote ""

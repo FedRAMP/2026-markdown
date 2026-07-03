@@ -451,10 +451,11 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
 
 ??? abstract "**ID:** FRD-FIR"
     **Changelog:**
+    - **2026-07-02:** Update terminology from "Response" to "Communication" in FedRAMP Incident Evaluation rules.
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 !!! quote ""
-    A final report after recovery from an incident that is supplied by FedRAMP Certified cloud service providers to FedRAMP and agency customers, following FedRAMP Incident Evaluation and Response rules.
+    A final report after recovery from an incident that is supplied by FedRAMP Certified cloud service providers to FedRAMP and agency customers, following FedRAMP Incident Evaluation and Communication rules.
 
 
     **Related Terms Group:** [Incident](#related-terms-group-incident)
@@ -547,10 +548,11 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
 
 ??? abstract "**ID:** FRD-IIR"
     **Changelog:**
+    - **2026-07-02:** Update terminology from "Response" to "Communication" in FedRAMP Incident Evaluation rules.
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 !!! quote ""
-    An initial report about an incident that is supplied by FedRAMP Certified cloud service providers to FedRAMP and agency customers, following FedRAMP FedRAMP Incident Evaluation and Response rules.
+    An initial report about an incident that is supplied by FedRAMP Certified cloud service providers to FedRAMP and agency customers, following FedRAMP FedRAMP Incident Evaluation and Communication rules.
 
 
     **Related Terms Group:** [Incident](#related-terms-group-incident)
@@ -713,10 +715,11 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
 
 ??? abstract "**ID:** FRD-OIR"
     **Changelog:**
+    - **2026-07-02:** Update terminology from "Response" to "Communication" in FedRAMP Incident Evaluation rules.
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 !!! quote ""
-    A recurring report about an ongoing incident that is supplied by FedRAMP Certified cloud service providers to FedRAMP and agency customers, following the FedRAMP Incident Evaluation and Response rules.
+    A recurring report about an ongoing incident that is supplied by FedRAMP Certified cloud service providers to FedRAMP and agency customers, following the FedRAMP Incident Evaluation and Communication rules.
 
 
     **Related Terms Group:** [Incident](#related-terms-group-incident)

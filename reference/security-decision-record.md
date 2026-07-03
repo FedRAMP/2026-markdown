@@ -117,7 +117,7 @@ These rules apply to providers for FedRAMP 20x Certifications.
 
 
 
-!!! schema "Related JSON Schema: [FedRAMP Security Decision Record Schema](https://fedramp.gov/schemas/fedramp-security-decision-record-schema-v2026.06.06.01.json)"
+!!! schema "Related JSON Schema: [FedRAMP Security Decision Record Schema](https://fedramp.gov/schemas/fedramp-security-decision-record-schema-2026-06-24.json)"
 
 
 !!! quote ""
@@ -142,7 +142,7 @@ These rules apply to providers for FedRAMP 20x Certifications.
 
 
 
-!!! schema "Related JSON Schema: [FedRAMP Security Decision Record Schema](https://fedramp.gov/schemas/fedramp-security-decision-record-schema-v2026.06.06.01.json)"
+!!! schema "Related JSON Schema: [FedRAMP Security Decision Record Schema](https://fedramp.gov/schemas/fedramp-security-decision-record-schema-2026-06-24.json)"
 
 
 !!! quote ""

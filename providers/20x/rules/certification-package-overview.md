@@ -49,7 +49,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 
 
-!!! schema "Related JSON Schema: [FedRAMP Certification Package Overview Schema](https://fedramp.gov/schemas/fedramp-certification-overview-package-schema-2026-06-24.json)"
+!!! schema "Related JSON Schema: [FedRAMP Certification Package Overview Schema](https://fedramp.gov/schemas/fedramp-certification-package-overview-schema-2026-06-24.json)"
 
 
 !!! quote ""

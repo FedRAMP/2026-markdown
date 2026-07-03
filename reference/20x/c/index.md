@@ -29,7 +29,7 @@ This section of the Consolidated Rules for 2026 contains each complete FedRAMP R
 | CMU | [Cryptographic Module Use](cryptographic-module-use.md) | Stable | Subsets: 1<br>Rules: 3 | 2026-06-24 |
 | CPO | [Certification Package Overview](certification-package-overview.md) | Stable | Subsets: 2<br>Rules: 3 | 2026-06-24 |
 | FRC | [FedRAMP Certification](fedramp-certification.md) | Stable | Subsets: 3<br>Rules: 15 | 2026-06-24 |
-| IEC | [Incident Evaluation and Communication](incident-evaluation-and-communication.md) | Stable | Subsets: 2<br>Rules: 8 | 2026-06-24 |
+| IEC | [Incident Evaluation and Communication](incident-evaluation-and-communication.md) | Stable | Subsets: 2<br>Rules: 8 | 2026-07-02 |
 | IVV | [Independent Verification and Validation](independent-verification-and-validation.md) | Stable | Subsets: 3<br>Rules: 16 | 2026-06-24 |
 | MAS | [Minimum Assessment Scope](minimum-assessment-scope.md) | Stable | Subsets: 1<br>Rules: 5 | 2026-06-24 |
 | MKT | [Marketplace Listing](marketplace-listing.md) | Stable | Subsets: 5<br>Rules: 12 | 2026-06-24 |

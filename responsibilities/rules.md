@@ -204,13 +204,16 @@ These rules apply to FedRAMP.
     **Changelog:**
 
 
+    - **2026-07-02:** Update terminology from "Response" to "Communication" in FedRAMP Incident Evaluation rules.
+
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
 
 !!! quote ""
-    FedRAMP MUST periodically review FedRAMP Incident Evaluation and Response implementation with providers based on lack of reporting or other information.
+    FedRAMP MUST periodically review FedRAMP Incident Evaluation and Communication implementation with providers based on lack of reporting or other information.
 
     !!! warning "Corrective Actions"
         - FedRAMP will request a Corrective Action Plan when a provider is unaware of the rules or has failed to implement proper procedures.
@@ -218,7 +221,7 @@ These rules apply to FedRAMP.
 
 
     ---
-    **Terms:** [Incident](../definitions/#incident){ data-preview }, [Vulnerability Response](../definitions/#vulnerability-response){ data-preview }
+    **Terms:** [Incident](../definitions/#incident){ data-preview }
 ## Marketplace Listing {#marketplace-listing}
 
 The Marketplace Listing rules define how FedRAMP decides which cloud service offerings, assessors, and advisors may be listed in the FedRAMP Marketplace. These rules help agencies and other customers rely on the Marketplace as a consistent source of eligible services and supporting organizations, while requiring listed organizations to supply accurate, accessible, and machine-readable information.

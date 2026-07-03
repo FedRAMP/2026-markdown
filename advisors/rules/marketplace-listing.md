@@ -42,7 +42,7 @@ These rules apply to consulting and advisory services seeking a listing in the F
 
 
 
-!!! schema "Related JSON Schema: [FedRAMP Advisory Service Information Schema](https://fedramp.gov/schemas/fedramp-advisor-information-schema-v2026.06.06.01.json)"
+!!! schema "Related JSON Schema: [FedRAMP Advisory Service Information Schema](https://fedramp.gov/schemas/fedramp-advisor-information-schema-2026-06-24.json)"
 
 
 !!! quote ""
