@@ -70,50 +70,6 @@ These rules for agencies apply to all agencies using a FedRAMP Certification.
 
     ---
     **Terms:** [Cloud Service Offering](../definitions/#cloud-service-offering){ data-preview }, [FedRAMP Certification Report](../definitions/#fedramp-certification-report){ data-preview }, [Ongoing Certification](../definitions/#ongoing-certification){ data-preview }, [Ongoing Certification Report (OCR)](../definitions/#ongoing-certification-report-ocr){ data-preview }
-### Notify FedRAMP After Requests
-
-??? abstract "CCM-AGM-NFA"
-    **Changelog:**
-
-
-    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
-
-
-!!! warning "This FRR includes a notification requirement!"
-    - Notify FedRAMP via form: [\[For Agencies\] Additional Information, Security Requirements, or Certification Change, or After Request Form](https://help.fedramp.gov/hc/en-us/requests/new?ticket_form_id=51822364715035).
-
-
-!!! quote ""
-    Agencies MUST notify FedRAMP after requesting any additional information or materials from a cloud service provider beyond those FedRAMP requires by sending an email to info@fedramp.gov.
-
-
-    ---
-
-    _**Note:** Agencies are required to notify FedRAMP by OMB Memorandum M-24-15 section IV (a)._
-
-### No Additional Requirements
-
-??? abstract "CCM-AGM-NAR"
-    **Changelog:**
-
-
-    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
-
-
-!!! warning "This FRR includes a notification requirement!"
-    - Notify FedRAMP via form: [\[For Agencies\] Additional Information, Security Requirements, or Certification Change, or After Request Form](https://help.fedramp.gov/hc/en-us/requests/new?ticket_form_id=51822364715035).
-
-
-!!! quote ""
-    Agencies MUST NOT place additional security requirements on cloud service providers beyond those required by FedRAMP UNLESS the head of the agency or an authorized delegate makes a determination that there is a demonstrable need for such; this does not apply to seeking clarification or asking general questions about FedRAMP Certification Data.
-
-
-    ---
-
-    _**Note:** This is a statutory requirement in 44 USC § 3613 (e) related to the Presumption of Adequacy for a FedRAMP Certification._
-
-    ---
-    **Terms:** [Certification Data](../definitions/#certification-data){ data-preview }, [FedRAMP Certified](../definitions/#fedramp-certified){ data-preview }
 ### Consider Security Category
 
 ??? abstract "CCM-AGM-CSC"

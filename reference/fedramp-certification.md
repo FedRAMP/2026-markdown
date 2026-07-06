@@ -79,6 +79,9 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
     **Changelog:**
 
 
+    - **2026-06-25:** Removed dangling mention of Class B from a last-minute merger of rules; apologies for confusion, this rule applies to all classes.
+
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
@@ -160,8 +163,8 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 These are specific rules that apply to providers seeking FedRAMP Class A Certifications.
 
 <div class="subset-applicability" role="group" aria-label="Applicability">
-<span class="subset-applicability__group subset-applicability__group--types"><span class="subset-applicability__label">Type:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">20x</span><span class="subset-applicability__tag">Rev5</span></span></span><br>
-<span class="subset-applicability__group subset-applicability__group--paths"><span class="subset-applicability__label">Path:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Program</span><span class="subset-applicability__tag">Agency</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--types"><span class="subset-applicability__label">Type:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">20x</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--paths"><span class="subset-applicability__label">Path:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Program</span></span></span><br>
 <span class="subset-applicability__group subset-applicability__group--classes"><span class="subset-applicability__label">Class:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Class A</span></span></span><br>
 <span class="subset-applicability__group subset-applicability__group--affects"><span class="subset-applicability__label">Audience:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Providers</span></span></span>
 </div>

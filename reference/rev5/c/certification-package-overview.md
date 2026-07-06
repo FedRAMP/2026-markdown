@@ -96,6 +96,24 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
     ---
     **Terms:** [Certification Package](../../../definitions/#certification-package){ data-preview }
+### Overall Summary of Assessment in Certification Package
+
+??? abstract "CPO-CSO-OSA"
+    **Changelog:**
+
+
+    - **2026-06-25:** Added after official launch to clarify that the provider is required to supply this artifact.
+
+
+
+
+!!! quote ""
+    === "Class C"
+        Providers seeking Class C Certification MUST also include the overall summary of their FedRAMP independent assessment, supplied by the assessor per [IVV-IAS-OSA (Overall Summary of Assessment)](independent-verification-and-validation.md#overall-summary-of-assessment){ data-preview }, in their Certification Package Overview.
+
+
+    ---
+    **Terms:** [Certification Package](../../../definitions/#certification-package){ data-preview }, [FedRAMP Independent Assessment](../../../definitions/#fedramp-independent-assessment){ data-preview }
 ## Rev5-Specific Provider Responsibilities {#rev5-specific-provider-responsibilities}
 
 These rules apply to providers for FedRAMP Rev5 Certifications.

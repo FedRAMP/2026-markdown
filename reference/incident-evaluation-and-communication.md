@@ -162,7 +162,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 
 !!! warning "This FRR includes a notification requirement!"
-    - Notify FedRAMP via email: [FedRAMP Security Team](mailto:fedramp_security@fedramp.gov).
+    - Notify FedRAMP via email: [fedramp_security@fedramp.gov](mailto:fedramp_security@fedramp.gov).
     - Notify Agency Customers via the appropriate recipient-specific method: Follow agency-specific incident reporting procedures (varies by agency).
     - Notify All Necessary Parties via an update: Provider's Trust Center or USDA Connect (trust center).
 
@@ -283,7 +283,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 
 !!! warning "This FRR includes a notification requirement!"
-    - Notify FedRAMP via email: [FedRAMP Security Team](mailto:fedramp_security@fedramp.gov).
+    - Notify FedRAMP via email: [fedramp_security@fedramp.gov](mailto:fedramp_security@fedramp.gov).
     - Notify Agency Customers via the appropriate recipient-specific method: Follow agency-specific incident reporting procedures (varies by agency).
     - Notify All Necessary Parties via an update: Provider's Trust Center or USDA Connect (trust center).
 
@@ -392,7 +392,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 
 !!! warning "This FRR includes a notification requirement!"
-    - Notify FedRAMP via email: [FedRAMP Security Team](mailto:fedramp_security@fedramp.gov).
+    - Notify FedRAMP via email: [fedramp_security@fedramp.gov](mailto:fedramp_security@fedramp.gov).
     - Notify Agency Customers via the appropriate recipient-specific method: Follow agency-specific incident reporting procedures (varies by agency).
     - Notify All Necessary Parties via an update: Provider's Trust Center or USDA Connect (trust center).
 

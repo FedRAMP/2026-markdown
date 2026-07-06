@@ -69,6 +69,9 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
     **Changelog:**
 
 
+    - **2026-06-25:** Removed dangling mention of Class B from a last-minute merger of rules; apologies for confusion, this rule applies to all classes.
+
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
