@@ -91,7 +91,10 @@ jobs:
 
       - name: Install Python dependencies
         if: steps.sources.outputs.changed == 'true'
-        run: pip install zensical mkdocs-ultralytics-plugin
+        working-directory: site/tools
+        run: |
+          python -m venv .venv
+          .venv/bin/pip install zensical mkdocs-ultralytics-plugin
 
       - name: Install tool dependencies
         if: steps.sources.outputs.changed == 'true'
