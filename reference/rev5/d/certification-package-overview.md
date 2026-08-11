@@ -131,6 +131,9 @@ These rules apply to providers for FedRAMP Rev5 Certifications.
     **Changelog:**
 
 
+    - **2026-07-14:** Removed reference to class A. All class A certifications are 20x.
+
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 

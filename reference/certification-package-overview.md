@@ -201,17 +201,15 @@ These rules apply to providers for FedRAMP Rev5 Certifications.
     **Changelog:**
 
 
+    - **2026-07-14:** Removed reference to class A. All class A certifications are 20x.
+
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
 
 !!! quote ""
-    === "Class A"
-        Providers with Rev5 Class A Certifications SHOULD persistently maintain their FedRAMP Certification Package to ensure it is up to date and complete at least once every year.
-
-        **Timeframe:** 1 year
-
     === "Class B"
         Providers with Rev5 Class B Certifications MUST persistently maintain their FedRAMP Certification Package to ensure it is up to date and complete at least once every year.
 

@@ -100,7 +100,7 @@ The Certification Data Sharing rules allow providers to store and share FedRAMP 
 
 
 
-!!! schema "Related JSON Schema: [FedRAMP Certification Overview Package (FRC-CSO-PKG)](https://fedramp.gov/schemas/fedramp-certification-package-overview-schema-2026-06-24.json)"
+!!! schema "Related JSON Schema: [FedRAMP Certification Package Overview (FRC-CSO-PKG)](https://fedramp.gov/schemas/fedramp-certification-package-overview-schema-2026-06-24.json)"
 
 
 !!! quote ""
@@ -140,7 +140,7 @@ The Certification Data Sharing rules allow providers to store and share FedRAMP 
 
 
 
-!!! schema "Related JSON Schema: [FedRAMP Certification Overview Package (FRC-CSO-PKG)](https://fedramp.gov/schemas/fedramp-certification-package-overview-schema-2026-06-24.json)"
+!!! schema "Related JSON Schema: [FedRAMP Certification Package Overview (FRC-CSO-PKG)](https://fedramp.gov/schemas/fedramp-certification-package-overview-schema-2026-06-24.json)"
 
 
 !!! quote ""
@@ -400,17 +400,15 @@ The Certification Package Overview rules outline the expectations for a simple o
     **Changelog:**
 
 
+    - **2026-07-14:** Removed reference to class A. All class A certifications are 20x.
+
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
 
 !!! quote ""
-    === "Class A"
-        Providers with Rev5 Class A Certifications SHOULD persistently maintain their FedRAMP Certification Package to ensure it is up to date and complete at least once every year.
-
-        **Timeframe:** 1 year
-
 
     ---
 
@@ -844,3 +842,73 @@ The Vulnerability Evaluation and Reporting rules require cloud service providers
 
     ---
     **Terms:** [FedRAMP Reportable Incident](../../../definitions/#fedramp-reportable-incident){ data-preview }, [Incident](../../../definitions/#incident){ data-preview }, [Likely](../../../definitions/#likely){ data-preview }, [Likely Exploitable Vulnerability (LEV)](../../../definitions/#likely-exploitable-vulnerability-lev){ data-preview }, [Partially Mitigated Vulnerability](../../../definitions/#partially-mitigated-vulnerability){ data-preview }, [Potential Agency Impact](../../../definitions/#potential-agency-impact){ data-preview }, [Vulnerability](../../../definitions/#vulnerability){ data-preview }
+## Other Related Rules: Certification Package Overview (CPO) {#other-related-rules-certification-package-overview-cpo}
+
+The Certification Package Overview rules outline the expectations for a simple overview of the cloud service offering that must be included within a FedRAMP Certification Package. This overview replaces the historically required base System Security Plan for FedRAMP Rev5 and is intended to provide a clear, concise, and consistent summary of the offering and the information included in the package to help customers understand the offering at a high level.
+
+### Overview of the Cloud Service Offering
+
+??? abstract "CPO-CSO-OVR"
+    **Changelog:**
+
+
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+
+
+
+!!! schema "Related JSON Schema: [FedRAMP Certification Package Overview Schema](https://fedramp.gov/schemas/fedramp-certification-package-overview-schema-2026-06-24.json)"
+
+
+!!! quote ""
+    Providers MUST supply a Certification Package Overview within their FedRAMP Certification Package, in both human-readable and JSON formats, that includes at least all of the information required by the following rules:
+
+    1. Certification Package Overview: [CPO-CSO-MTD (Certification Package Overview Metadata)](../../../providers/20x/rules/certification-package-overview.md#certification-package-overview-metadata){ data-preview }
+    1. Certification Data Sharing: [CDS-CSO-PUB (Public Information)](#public-information){ data-preview }
+    1. Certification Data Sharing: [CDS-CSO-SVC (Public Service List)](../../../providers/20x/rules/certification-data-sharing.md#public-service-list){ data-preview }
+    1. Certification Data Sharing: [CDS-CSO-IRP (Include Relevant Policies)](../../../providers/20x/rules/certification-data-sharing.md#include-relevant-policies){ data-preview }
+    1. Minimum Assessment Scope: [MAS-CSO-IIR (Identify Information Resources)](#identify-information-resources){ data-preview }
+    1. Minimum Assessment Scope: [MAS-CSO-FLO (Information Flows and Security Categories)](../../../providers/20x/rules/minimum-assessment-scope.md#information-flows-and-security-categories){ data-preview }
+    1. Minimum Assessment Scope: [MAS-CSO-TPR (Third-Party Information Resources)](../../../providers/20x/rules/minimum-assessment-scope.md#third-party-information-resources){ data-preview }
+    1. Using Cryptographic Modules: [CMU-CSO-CMD (Cryptographic Module Documentation)](../../../providers/20x/rules/cryptographic-module-use.md#cryptographic-module-documentation){ data-preview }
+    1. Independent Verification and Validation: [IVV-CSO-ICP (Inclusion in Certification Package)](../../../providers/20x/rules/independent-verification-and-validation.md#inclusion-in-certification-package){ data-preview }
+
+
+    ---
+
+    _**Notes:**_
+
+    - _For FedRAMP Rev5, the Certification Package Overview replaces the historically required System Security Plan (not including appendices)._
+    - _This list of rules may not apply to all FedRAMP Certification Classes or Types - if a rule does not apply then the information is not required._
+    ---
+    **Terms:** [Certification Class](../../../definitions/#certification-class){ data-preview }, [Certification Data](../../../definitions/#certification-data){ data-preview }, [Certification Package](../../../definitions/#certification-package){ data-preview }, [Information Resource](../../../definitions/#information-resource){ data-preview }, [Initial Incident Report (IIR)](../../../definitions/#initial-incident-report-iir){ data-preview }, [Security Category](../../../definitions/#security-category){ data-preview }, [Third-Party Information Resource](../../../definitions/#third-party-information-resource){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
+## Other Related Rules: Security Decision Record (SDR) {#other-related-rules-security-decision-record-sdr}
+
+The Security Decision Record replaced a traditional System Security Plan with a persistently maintained, verified, and validated record of the security decisions made by the cloud service provider over the lifecycle of their cloud service offering.
+
+### FedRAMP Rules
+
+??? abstract "SDR-CSO-FRR"
+    **Changelog:**
+
+
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+
+
+
+!!! schema "Related JSON Schema: [FedRAMP Security Decision Record Schema](https://fedramp.gov/schemas/fedramp-security-decision-record-schema-2026-06-24.json)"
+
+
+!!! quote ""
+    Providers MUST supply a Security Decision Record, in both human-readable and JSON formats, that includes at least all of the following information for each applicable FedRAMP rule:
+
+    1. Explanation of how the rule is followed, or an explanation of the reason and resulting risk to customers for not following the rule.
+    1. Verification that the implementation is appropriate for the rule, or that the reason for not implementing is accepted by a senior official.
+    1. Validation that the implementation is in place and working as intended, or that the reason for not implementing is accepted by a senior official.
+    1. Independent verification.
+    1. Independent validation.
+    1. Any responses or clarifications to the comments in the independent verification or validation.
+    1. Rule-specific artifacts (if applicable).
+
+
+    ---
+    **Terms:** [Artifacts](../../../definitions/#artifacts){ data-preview }, [Security Decision Record (SDR)](../../../definitions/#security-decision-record-sdr){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }

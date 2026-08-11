@@ -787,6 +787,9 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
 !!! quote ""
     The estimated cumulative effect of unauthorized access, disruption, harm, or other adverse impacts to all agencies using the cloud service that are likely to result from security incidents or the exploitation of vulnerabilities in the cloud service offering; as estimated following appropriate FedRAMP rules to calculate the Potential Agency Impact N-rating (PAIN).
 
+    ---
+
+    _**Note:** Potential Agency Impact N-rating (PAIN) levels are defined in VER-EVA-EPA (Estimate Potential Agency Impact)_
 
     **Also:** potential agency impact, potential agency impacts, PAIN, Potential Agency Impact N-rating
 ## Privileged Account

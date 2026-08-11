@@ -27,8 +27,8 @@ This section of the Consolidated Rules for 2026 contains each complete FedRAMP R
 | CCM | [Collaborative Continuous Monitoring](../collaborative-continuous-monitoring.md) | Stable | Subsets: 3<br>Rules: 19 | 2026-06-24 |
 | CDS | [Certification Data Sharing](../certification-data-sharing.md) | Stable | Subsets: 4<br>Rules: 21 | 2026-06-24 |
 | CMU | [Cryptographic Module Use](../cryptographic-module-use.md) | Stable | Subsets: 1<br>Rules: 3 | 2026-06-24 |
-| CPO | [Certification Package Overview](../certification-package-overview.md) | Stable | Subsets: 3<br>Rules: 5 | 2026-06-25 |
-| FRC | [FedRAMP Certification](../fedramp-certification.md) | Stable | Subsets: 7<br>Rules: 29 | 2026-07-01 |
+| CPO | [Certification Package Overview](../certification-package-overview.md) | Stable | Subsets: 3<br>Rules: 5 | 2026-07-14 |
+| FRC | [FedRAMP Certification](../fedramp-certification.md) | Stable | Subsets: 7<br>Rules: 29 | 2026-07-14 |
 | IEC | [Incident Evaluation and Communication](../incident-evaluation-and-communication.md) | Stable | Subsets: 2<br>Rules: 8 | 2026-07-02 |
 | IVV | [Independent Verification and Validation](../independent-verification-and-validation.md) | Stable | Subsets: 4<br>Rules: 20 | 2026-06-24 |
 | MAS | [Minimum Assessment Scope](../minimum-assessment-scope.md) | Stable | Subsets: 1<br>Rules: 5 | 2026-06-24 |

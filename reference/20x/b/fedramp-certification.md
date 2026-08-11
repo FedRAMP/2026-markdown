@@ -74,19 +74,19 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 
 
 
-!!! schema "Related JSON Schema: [FedRAMP Certification Overview Package (FRC-CSO-PKG)](https://fedramp.gov/schemas/fedramp-certification-package-overview-schema-2026-06-24.json)"
+!!! schema "Related JSON Schema: [FedRAMP Certification Package Overview (FRC-CSO-PKG)](https://fedramp.gov/schemas/fedramp-certification-package-overview-schema-2026-06-24.json)"
 
 
 !!! quote ""
     Providers seeking a Certification MUST supply a complete FedRAMP Certification Package to FedRAMP for initial certification; the FedRAMP Certification Package MUST include at least the following information:
 
-    1. A Certification Package Overview
-    1. A Security Decision Record
+    1. Information about the Cloud Service Offering following [CPO-CSO-OVR (Overview of the Cloud Service Offering)](certification-package-overview.md#overview-of-the-cloud-service-offering){ data-preview }
+    1. Implementation, Validation, and Assessment information for each relevant FedRAMP requirement/control/ksi as defined in [SDR-CSO-FRR (FedRAMP Rules)](security-decision-record.md#fedramp-rules){ data-preview }
     1. A real or example Ongoing Certification Report following [CCM-OCR-AVL (Report Availability)](collaborative-continuous-monitoring.md#report-availability){ data-preview }
 
 
     ---
-    **Terms:** [Certification Package](../../../definitions/#certification-package){ data-preview }, [FedRAMP Certification Report](../../../definitions/#fedramp-certification-report){ data-preview }, [Initial Certification](../../../definitions/#initial-certification){ data-preview }, [Ongoing Certification](../../../definitions/#ongoing-certification){ data-preview }, [Ongoing Certification Report (OCR)](../../../definitions/#ongoing-certification-report-ocr){ data-preview }, [Security Decision Record (SDR)](../../../definitions/#security-decision-record-sdr){ data-preview }
+    **Terms:** [Certification Package](../../../definitions/#certification-package){ data-preview }, [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [FedRAMP Certification Report](../../../definitions/#fedramp-certification-report){ data-preview }, [Initial Certification](../../../definitions/#initial-certification){ data-preview }, [Ongoing Certification](../../../definitions/#ongoing-certification){ data-preview }, [Ongoing Certification Report (OCR)](../../../definitions/#ongoing-certification-report-ocr){ data-preview }, [Security Decision Record (SDR)](../../../definitions/#security-decision-record-sdr){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }
 ### FedRAMP JSON Schemas
 
 ??? abstract "FRC-CSO-JSN"
