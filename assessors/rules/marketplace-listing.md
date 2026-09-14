@@ -44,7 +44,7 @@ These rules apply to independent assessment services seeking a listing in the Fe
 
 
 !!! quote ""
-    Assessors MUST obtain and maintain FedRAMP Recognition to be listed in the FedRAMP Marketplace.
+    Assessors [MUST](../../definitions/#must){ data-preview } obtain and maintain FedRAMP Recognition to be listed in the FedRAMP Marketplace.
 
 
     ---
@@ -63,7 +63,7 @@ These rules apply to independent assessment services seeking a listing in the Fe
 
 
 !!! quote ""
-    Assessors MUST have an appropriate web site that publicly supplies at least the following information in human-readable and JSON formats:
+    Assessors [MUST](../../definitions/#must){ data-preview } have an appropriate web site that publicly supplies at least the following information in human-readable and JSON formats:
 
     1. General description of the independent assessment service
     1. Contact information
@@ -85,4 +85,4 @@ These rules apply to independent assessment services seeking a listing in the Fe
 
 
 !!! quote ""
-    Assessors MUST complete the Assessor Listing Request Form to request listing in the FedRAMP Marketplace.
+    Assessors [MUST](../../definitions/#must){ data-preview } complete the Assessor Listing Request Form to request listing in the FedRAMP Marketplace.

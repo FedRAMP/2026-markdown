@@ -24,6 +24,6 @@ tags:
 | [Minimum Assessment Scope (MAS)](../../rev5/rules/minimum-assessment-scope.md) | 2026-07-04 | 2027-01-01 | 2027-01-01 | On the first FedRAMP independent assessment started after 2027-01-01 |
 | [Significant Change Notification (SCN)](../../rev5/rules/significant-change-notification.md) | 2026-07-04 | 2027-01-01 | 2027-01-01 | 2027-06-01 |
 | [Collaborative Continuous Monitoring (CCM)](../../rev5/rules/collaborative-continuous-monitoring.md) | 2026-07-04 | 2027-01-01 | 2027-04-02 | 2027-10-01 |
-| [Certification Package Overview (CPO)](../../rev5/rules/certification-package-overview.md) | 2026-07-04 | 2027-01-01 | 2027-07-01 | On the first FedRAMP independent assessment started after 2027-01-01 |
+| [Certification Package Overview (CPO)](../../rev5/rules/certification-package-overview.md) | 2026-07-04 | 2027-01-01 | 2027-07-01 | On the first FedRAMP independent assessment started after 2027-07-01 |
 | [Certification Data Sharing (CDS)](../../rev5/rules/certification-data-sharing.md) | 2026-07-04 | 2027-01-01 | 2027-08-01 | 2028-02-01 |
 | [Security Decision Record (SDR)](../../rev5/rules/security-decision-record.md) | 2026-07-04 | 2027-01-01 | 2027-08-01 | On the first FedRAMP independent assessment started after 2027-08-01 |

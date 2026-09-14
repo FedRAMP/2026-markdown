@@ -58,7 +58,7 @@ These rules apply to FedRAMP activities related to the FedRAMP Marketplace.
 
 
 !!! quote ""
-    FedRAMP MUST NOT list cloud service offerings in the Marketplace or perform any FedRAMP Certification activities unless it determines the cloud service offering is within the scope of FedRAMP.
+    FedRAMP [MUST NOT](../definitions/#must-not){ data-preview } list cloud service offerings in the Marketplace or perform any FedRAMP Certification activities unless it determines the cloud service offering is within the scope of FedRAMP.
 
 
 
@@ -89,7 +89,7 @@ These rules apply to providers seeking a listing in the FedRAMP Marketplace.
 
 
 !!! quote ""
-    Providers MUST address at least these FedRAMP rules to apply for a new FedRAMP Marketplace listing OR to request updates to an existing listing:
+    Providers [MUST](../definitions/#must){ data-preview } address at least these FedRAMP rules to apply for a new FedRAMP Marketplace listing OR to request updates to an existing listing:
 
     1. Certification Data Sharing: [CDS-CSO-PUB (Public Information)](certification-data-sharing.md#public-information){ data-preview }
 
@@ -110,7 +110,7 @@ These rules apply to providers seeking a listing in the FedRAMP Marketplace.
 
 
 !!! quote ""
-    Providers MUST notify FedRAMP using the FedRAMP Marketplace Providing Listing Request Form to request a listing in the FedRAMP Marketplace.
+    Providers [MUST](../definitions/#must){ data-preview } notify FedRAMP using the FedRAMP Marketplace Providing Listing Request Form to request a listing in the FedRAMP Marketplace.
 
 
     ---
@@ -137,7 +137,7 @@ These rules apply to independent assessment services seeking a listing in the Fe
 
 
 !!! quote ""
-    Assessors MUST obtain and maintain FedRAMP Recognition to be listed in the FedRAMP Marketplace.
+    Assessors [MUST](../definitions/#must){ data-preview } obtain and maintain FedRAMP Recognition to be listed in the FedRAMP Marketplace.
 
 
     ---
@@ -156,7 +156,7 @@ These rules apply to independent assessment services seeking a listing in the Fe
 
 
 !!! quote ""
-    Assessors MUST have an appropriate web site that publicly supplies at least the following information in human-readable and JSON formats:
+    Assessors [MUST](../definitions/#must){ data-preview } have an appropriate web site that publicly supplies at least the following information in human-readable and JSON formats:
 
     1. General description of the independent assessment service
     1. Contact information
@@ -178,7 +178,7 @@ These rules apply to independent assessment services seeking a listing in the Fe
 
 
 !!! quote ""
-    Assessors MUST complete the Assessor Listing Request Form to request listing in the FedRAMP Marketplace.
+    Assessors [MUST](../definitions/#must){ data-preview } complete the Assessor Listing Request Form to request listing in the FedRAMP Marketplace.
 
 
 ## General Advisor Responsibilities {#general-advisor-responsibilities}
@@ -203,7 +203,7 @@ These rules apply to consulting and advisory services seeking a listing in the F
 
 
 !!! quote ""
-    Advisors MUST have an appropriate web site that publicly supplies at least the following information in consistent machine-readable and human-readable formats:
+    Advisors [MUST](../definitions/#must){ data-preview } have an appropriate web site that publicly supplies at least the following information in consistent machine-readable and human-readable formats:
 
     1. General description of the consulting or advisory service
     1. Contact information
@@ -227,7 +227,7 @@ These rules apply to consulting and advisory services seeking a listing in the F
 
 
 !!! quote ""
-    Advisors MUST complete the Advisor Listing Request Form to request listing in the FedRAMP Marketplace.
+    Advisors [MUST](../definitions/#must){ data-preview } complete the Advisor Listing Request Form to request listing in the FedRAMP Marketplace.
 
 
 ### Advisor Responses to FedRAMP
@@ -242,7 +242,9 @@ These rules apply to consulting and advisory services seeking a listing in the F
 
 
 !!! quote ""
-    Advisors MUST reply to all requests from @fedramp.gov or @gsa.gov email addresses sent to the contact information provided in their advisor listing within 5 business days.
+    Advisors [MUST](../definitions/#must){ data-preview } reply to all requests from @fedramp.gov or @gsa.gov email addresses sent to the contact information provided in their advisor listing within 5 business days.
+
+    **Timeframe:** 5 business days
 
     !!! warning "Corrective Actions"
         - If an advisor fails to respond to a request within 5 business days, FedRAMP will send a follow-up email.
@@ -272,7 +274,7 @@ FedRAMP allows cloud service providers that are actively preparing to obtain a F
 
 
 !!! quote ""
-    Providers MUST demonstrate that a cloud service offering is intended for one of the following use cases:
+    Providers [MUST](../definitions/#must){ data-preview } demonstrate that a cloud service offering is intended for one of the following use cases:
 
     1. Direct Use: The product will be used directly by agency customers for integration into a federal information system that falls within the scope of 44 USC § 3506 and will receive an agency Authorization to Operate.
     1. Indirect Use: The product will be included as a third-party information resource in other cloud service offerings that are directly used by agency customers.
@@ -298,7 +300,7 @@ FedRAMP allows cloud service providers that are actively preparing to obtain a F
 
 
 !!! quote ""
-    Providers MUST demonstrate continuous progress towards a FedRAMP Certification, documented in their Trust Center or website and updated at least quarterly; progress is measured by the provider against documented goals and milestones.
+    Providers [MUST](../definitions/#must){ data-preview } demonstrate continuous progress towards a FedRAMP Certification, documented in their Trust Center or website and updated at least quarterly; progress is measured by the provider against documented goals and milestones.
 
 
     ---
@@ -319,7 +321,9 @@ FedRAMP allows cloud service providers that are actively preparing to obtain a F
 
 
 !!! quote ""
-    Providers MUST demonstrate that an assessment for a FedRAMP Certification Class B, C, or D has been scheduled within 2 years of initial listing in the Initial Implementation Phase.
+    Providers [MUST](../definitions/#must){ data-preview } demonstrate that an assessment for a FedRAMP Certification Class B, C, or D has been scheduled within 2 years of initial listing in the Initial Implementation Phase.
+
+    **Timeframe:** 2 years
 
     !!! warning "Corrective Actions"
         - If a provider fails to schedule an assessment for a FedRAMP Certification Class B, C, or D within 2 years of initial listing in the Initial Implementation Phase, FedRAMP will remove their listing from the Marketplace until they provide evidence of a scheduled assessment.

@@ -55,7 +55,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 
 !!! quote ""
-    Providers MUST publicly share up-to-date information about the cloud service offering in both human-readable and JSON formats, including at least the following information that is available and applicable:
+    Providers [MUST](../../../definitions/#must){ data-preview } publicly share up-to-date information about the cloud service offering in both human-readable and JSON formats, including at least the following information that is available and applicable:
 
     1. FedRAMP ID
     1. Service Model
@@ -95,7 +95,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 
 !!! quote ""
-    Providers MUST publicly share a detailed list of specific services and their security categories that are included in the cloud service offering using clear feature or service names that align with standard public marketing materials; this list MUST be complete enough for a potential customer to determine which services are and are not included in the FedRAMP Minimum Assessment Scope without requesting access to underlying FedRAMP Certification Data.
+    Providers [MUST](../../../definitions/#must){ data-preview } publicly share a detailed list of specific services and their security categories that are included in the cloud service offering using clear feature or service names that align with standard public marketing materials; this list [MUST](../../../definitions/#must){ data-preview } be complete enough for a potential customer to determine which services are and are not included in the FedRAMP Minimum Assessment Scope without requesting access to underlying FedRAMP Certification Data.
 
 
     ---
@@ -112,7 +112,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 
 !!! quote ""
-    Providers MUST always include the FedRAMP ID of the related cloud service offering in all FedRAMP Certification Data once assigned, including all reports, notifications, and other communication that results from FedRAMP rules.
+    Providers [MUST](../../../definitions/#must){ data-preview } always include the FedRAMP ID of the related cloud service offering in all FedRAMP Certification Data once assigned, including all reports, notifications, and other communication that results from FedRAMP rules.
 
 
     ---
@@ -135,7 +135,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 
 !!! quote ""
-    Providers MUST include FedRAMP Certification Reports with their FedRAMP Certification Data without inappropriate modifications, and make such reports available within 2 weeks of receiving the materials from FedRAMP.
+    Providers [MUST](../../../definitions/#must){ data-preview } include FedRAMP Certification Reports with their FedRAMP Certification Data without inappropriate modifications, and make such reports available within 2 weeks of receiving the materials from FedRAMP.
 
     **Timeframe:** 2 weeks
 
@@ -159,28 +159,28 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 !!! quote ""
     === "Class A"
-        Providers with Class A Certifications SHOULD maintain a web service, available to all necessary parties, that indicates current and historical availability of core services within the cloud service offering over at least the past 30 days, including availability incidents, in both human-readable and machine-readable formats; this service SHOULD be available even if the primary cloud service offering is unavailable.
+        Providers with Class A Certifications [SHOULD](../../../definitions/#should){ data-preview } maintain a web service, available to all necessary parties, that indicates current and historical availability of core services within the cloud service offering over at least the past 30 days, including availability incidents, in both human-readable and machine-readable formats; this service [SHOULD](../../../definitions/#should){ data-preview } be available even if the primary cloud service offering is unavailable.
 
         ---
 
         _**Note:** This service may be separate from the trust center._
 
     === "Class B"
-        Providers with Class B Certifications MUST maintain a web service, available to all necessary parties, that indicates current and historical availability of core services within the cloud service offering over at least the past 30 days, including availability incidents, in both human-readable and machine-readable formats; this service MUST be available even if the primary cloud service offering is unavailable.
+        Providers with Class B Certifications [MUST](../../../definitions/#must){ data-preview } maintain a web service, available to all necessary parties, that indicates current and historical availability of core services within the cloud service offering over at least the past 30 days, including availability incidents, in both human-readable and machine-readable formats; this service [MUST](../../../definitions/#must){ data-preview } be available even if the primary cloud service offering is unavailable.
 
         ---
 
         _**Note:** This service may be separate from the trust center._
 
     === "Class C"
-        Providers with Class C Certifications MUST maintain a web service, available to all necessary parties, that indicates current and historical availability of core services within the cloud service offering over at least the past 30 days, including availability incidents, in both human-readable and machine-readable formats; this service MUST be available even if the primary cloud service offering is unavailable.
+        Providers with Class C Certifications [MUST](../../../definitions/#must){ data-preview } maintain a web service, available to all necessary parties, that indicates current and historical availability of core services within the cloud service offering over at least the past 30 days, including availability incidents, in both human-readable and machine-readable formats; this service [MUST](../../../definitions/#must){ data-preview } be available even if the primary cloud service offering is unavailable.
 
         ---
 
         _**Note:** This service may be separate from the trust center._
 
     === "Class D"
-        Providers with Class D Certifications MUST maintain a web service, available to all necessary parties, that indicates current and historical availability of core services within the cloud service offering over at least the past 30 days, including availability incidents, in both human-readable and machine-readable formats; this service MUST be available even if the primary cloud service offering is unavailable.
+        Providers with Class D Certifications [MUST](../../../definitions/#must){ data-preview } maintain a web service, available to all necessary parties, that indicates current and historical availability of core services within the cloud service offering over at least the past 30 days, including availability incidents, in both human-readable and machine-readable formats; this service [MUST](../../../definitions/#must){ data-preview } be available even if the primary cloud service offering is unavailable.
 
         ---
 
@@ -203,7 +203,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 
 !!! quote ""
-    Providers MUST use a FedRAMP-compatible trust center to store and share FedRAMP Certification Data with all necessary parties.
+    Providers [MUST](../../../definitions/#must){ data-preview } use a FedRAMP-compatible trust center to store and share FedRAMP Certification Data with all necessary parties.
 
 
     ---
@@ -224,7 +224,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 
 !!! quote ""
-    Providers MUST use automation to ensure information remains consistent between human-readable and machine-readable formats when FedRAMP Certification Data is provided in both formats.
+    Providers [MUST](../../../definitions/#must){ data-preview } use automation to ensure information remains consistent between human-readable and machine-readable formats when FedRAMP Certification Data is provided in both formats.
 
 
     ---
@@ -241,7 +241,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 
 !!! quote ""
-    Providers MUST provide sufficient information in FedRAMP Certification Data to support agency authorization decisions but SHOULD NOT include sensitive information that would likely enable a threat actor to gain unauthorized access, cause harm, disrupt operations, or otherwise have a negative adverse impact on the cloud service offering.
+    Providers [MUST](../../../definitions/#must){ data-preview } provide sufficient information in FedRAMP Certification Data to support agency authorization decisions but [SHOULD NOT](../../../definitions/#should-not){ data-preview } include sensitive information that would likely enable a threat actor to gain unauthorized access, cause harm, disrupt operations, or otherwise have a negative adverse impact on the cloud service offering.
 
 
     ---
@@ -296,7 +296,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 
 !!! quote ""
-    Providers MUST supply all relevant policies and procedures in the FedRAMP Certification Data, including a human-readable and machine-readable reference that explains at least the following about each included policy and procedure:
+    Providers [MUST](../../../definitions/#must){ data-preview } supply all relevant policies and procedures in the FedRAMP Certification Data, including a human-readable and machine-readable reference that explains at least the following about each included policy and procedure:
 
     1. Name of policy or procedure
     1. Name of file, document, web page, etc.
@@ -321,7 +321,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 
 !!! quote ""
-    Providers MUST supply snapshots of FedRAMP Certification Data aligned to Ongoing Certification Reports to all necessary parties; these snapshots MUST be available for the duration of FedRAMP Certification.
+    Providers [MUST](../../../definitions/#must){ data-preview } supply snapshots of FedRAMP Certification Data aligned to Ongoing Certification Reports to all necessary parties; these snapshots [MUST](../../../definitions/#must){ data-preview } be available for the duration of FedRAMP Certification.
 
 
     ---
@@ -343,16 +343,16 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 !!! quote ""
     === "Class A"
-        Providers with Class A Certifications MAY supply per-service FedRAMP Certification materials.
+        Providers with Class A Certifications [MAY](../../../definitions/#may){ data-preview } supply per-service FedRAMP Certification materials.
 
     === "Class B"
-        Providers with Class B Certifications MAY supply per-service FedRAMP Certification materials.
+        Providers with Class B Certifications [MAY](../../../definitions/#may){ data-preview } supply per-service FedRAMP Certification materials.
 
     === "Class C"
-        Providers with Class C Certifications MAY supply per-service FedRAMP Certification materials.
+        Providers with Class C Certifications [MAY](../../../definitions/#may){ data-preview } supply per-service FedRAMP Certification materials.
 
     === "Class D"
-        Providers with Class D Certifications MUST supply per-service FedRAMP Certification materials.
+        Providers with Class D Certifications [MUST](../../../definitions/#must){ data-preview } supply per-service FedRAMP Certification materials.
 
 
     ---
@@ -373,7 +373,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 
 !!! quote ""
-    Providers MAY responsibly share some or all of the information in a FedRAMP Certification Package publicly or with other parties if the provider determines doing so will NOT likely have an adverse effect on the cloud service offering.
+    Providers [MAY](../../../definitions/#may){ data-preview } responsibly share some or all of the information in a FedRAMP Certification Package publicly or with other parties if the provider determines doing so will NOT likely have an adverse effect on the cloud service offering.
 
 
     ---
@@ -401,7 +401,7 @@ These rules apply to trust centers that are FedRAMP-compatible.
 
 
 !!! quote ""
-    Trust centers MUST share FedRAMP Certification Data with all necessary parties without interruption.
+    Trust centers [MUST](../../../definitions/#must){ data-preview } share FedRAMP Certification Data with all necessary parties without interruption.
 
 
     ---
@@ -422,7 +422,7 @@ These rules apply to trust centers that are FedRAMP-compatible.
 
 
 !!! quote ""
-    Trust centers MUST provide documented programmatic access to all FedRAMP Certification Data, including programmatic access to human-readable materials.
+    Trust centers [MUST](../../../definitions/#must){ data-preview } provide documented programmatic access to all FedRAMP Certification Data, including programmatic access to human-readable materials.
 
 
     ---
@@ -439,7 +439,7 @@ These rules apply to trust centers that are FedRAMP-compatible.
 
 
 !!! quote ""
-    Trust centers MUST maintain an inventory and history of federal agency users or systems with access to FedRAMP Certification Data and MUST make this information available to FedRAMP upon request.
+    Trust centers [MUST](../../../definitions/#must){ data-preview } maintain an inventory and history of federal agency users or systems with access to FedRAMP Certification Data and [MUST](../../../definitions/#must){ data-preview } make this information available to FedRAMP upon request.
 
 
     ---
@@ -456,7 +456,7 @@ These rules apply to trust centers that are FedRAMP-compatible.
 
 
 !!! quote ""
-    Trust centers MUST log access to FedRAMP Certification Data and store summaries of access for at least six months; such information, as it pertains to specific parties, SHOULD be made available upon request by those parties.
+    Trust centers [MUST](../../../definitions/#must){ data-preview } log access to FedRAMP Certification Data and store summaries of access for at least six months; such information, as it pertains to specific parties, [SHOULD](../../../definitions/#should){ data-preview } be made available upon request by those parties.
 
 
     ---
@@ -473,7 +473,7 @@ These rules apply to trust centers that are FedRAMP-compatible.
 
 
 !!! quote ""
-    Trust centers SHOULD make FedRAMP Certification Data available to view and download in both human-readable and machine-readable formats.
+    Trust centers [SHOULD](../../../definitions/#should){ data-preview } make FedRAMP Certification Data available to view and download in both human-readable and machine-readable formats.
 
 
     ---
@@ -490,7 +490,7 @@ These rules apply to trust centers that are FedRAMP-compatible.
 
 
 !!! quote ""
-    Trust centers SHOULD include features that encourage all necessary parties to provision and manage access to FedRAMP Certification Data for their users and services directly.
+    Trust centers [SHOULD](../../../definitions/#should){ data-preview } include features that encourage all necessary parties to provision and manage access to FedRAMP Certification Data for their users and services directly.
 
 
     ---
@@ -520,7 +520,7 @@ These rules apply to providers that are using a FedRAMP-compatible trust center 
 
 
 !!! quote ""
-    Providers MUST notify FedRAMP within 5 business days of denying an agency access request for FedRAMP Certification Data.
+    Providers [MUST](../../../definitions/#must){ data-preview } notify FedRAMP within 5 business days of denying an agency access request for FedRAMP Certification Data.
 
     **Timeframe:** 5 business days
 
@@ -539,7 +539,7 @@ These rules apply to providers that are using a FedRAMP-compatible trust center 
 
 
 !!! quote ""
-    Providers SHOULD supply access to the FedRAMP Certification Package with agencies upon request.
+    Providers [SHOULD](../../../definitions/#should){ data-preview } supply access to the FedRAMP Certification Package with agencies upon request.
 
 
     ---
@@ -570,7 +570,7 @@ These rules apply to providers for FedRAMP Rev5 Certifications.
 
 
 !!! quote ""
-    Providers MUST notify all necessary parties when migrating to a trust center and MUST provide information in their existing USDA Connect Community Portal secure folders explaining how to use the trust center to obtain FedRAMP Certification Data.
+    Providers [MUST](../../../definitions/#must){ data-preview } notify all necessary parties when migrating to a trust center and [MUST](../../../definitions/#must){ data-preview } provide information in their existing USDA Connect Community Portal secure folders explaining how to use the trust center to obtain FedRAMP Certification Data.
 
 
     ---

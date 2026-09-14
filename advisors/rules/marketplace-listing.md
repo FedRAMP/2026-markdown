@@ -46,7 +46,7 @@ These rules apply to consulting and advisory services seeking a listing in the F
 
 
 !!! quote ""
-    Advisors MUST have an appropriate web site that publicly supplies at least the following information in consistent machine-readable and human-readable formats:
+    Advisors [MUST](../../definitions/#must){ data-preview } have an appropriate web site that publicly supplies at least the following information in consistent machine-readable and human-readable formats:
 
     1. General description of the consulting or advisory service
     1. Contact information
@@ -70,7 +70,7 @@ These rules apply to consulting and advisory services seeking a listing in the F
 
 
 !!! quote ""
-    Advisors MUST complete the Advisor Listing Request Form to request listing in the FedRAMP Marketplace.
+    Advisors [MUST](../../definitions/#must){ data-preview } complete the Advisor Listing Request Form to request listing in the FedRAMP Marketplace.
 
 
 ### Advisor Responses to FedRAMP
@@ -85,7 +85,9 @@ These rules apply to consulting and advisory services seeking a listing in the F
 
 
 !!! quote ""
-    Advisors MUST reply to all requests from @fedramp.gov or @gsa.gov email addresses sent to the contact information provided in their advisor listing within 5 business days.
+    Advisors [MUST](../../definitions/#must){ data-preview } reply to all requests from @fedramp.gov or @gsa.gov email addresses sent to the contact information provided in their advisor listing within 5 business days.
+
+    **Timeframe:** 5 business days
 
     !!! warning "Corrective Actions"
         - If an advisor fails to respond to a request within 5 business days, FedRAMP will send a follow-up email.

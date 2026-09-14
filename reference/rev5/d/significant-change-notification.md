@@ -55,7 +55,7 @@ These rules apply to FedRAMP.
 
 
 !!! quote ""
-    FedRAMP MAY require providers to delay significant changes beyond the standard Significant Change Notification period and/or submit significant changes for approval in advance as a condition of a formal FedRAMP Corrective Action Plan or other agreement.
+    FedRAMP [MAY](../../../definitions/#may){ data-preview } require providers to delay significant changes beyond the standard Significant Change Notification period and/or submit significant changes for approval in advance as a condition of a formal FedRAMP Corrective Action Plan or other agreement.
 
 
     ---
@@ -89,7 +89,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 
 !!! quote ""
-    Providers MUST evaluate all potential significant changes to determine the type of significant change and follow the appropriate Significant Change Notification rules.
+    Providers [MUST](../../../definitions/#must){ data-preview } evaluate all potential significant changes to determine the type of significant change and follow the appropriate Significant Change Notification rules.
 
     1. Is it a significant change? --> Continue evaluation and follow the Significant Change Notification rules.
     1. If it is, is it an FedRAMP Certification class change?  --> This requires a new assessment and cannot be done under the Significant Change Notification rules.
@@ -112,7 +112,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 
 !!! quote ""
-    Providers MUST maintain auditable records of the significant change evaluation activities required by [SCN-CSO-EVA (Evaluate Changes)](#evaluate-changes){ data-preview } and make them available to FedRAMP as requested.
+    Providers [MUST](../../../definitions/#must){ data-preview } maintain auditable records of the significant change evaluation activities required by [SCN-CSO-EVA (Evaluate Changes)](#evaluate-changes){ data-preview } and make them available to FedRAMP as requested.
 
 
     ---
@@ -135,7 +135,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 
 !!! quote ""
-    Providers MUST include at least the following information in Significant Change Notifications:
+    Providers [MUST](../../../definitions/#must){ data-preview } include at least the following information in Significant Change Notifications:
 
     1. Service Offering FedRAMP ID
     1. Assessor Name (if applicable)
@@ -167,7 +167,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 
 !!! quote ""
-    Providers MUST keep 12 months of historical Significant Change Notifications available with their FedRAMP Certification Data.
+    Providers [MUST](../../../definitions/#must){ data-preview } keep 12 months of historical Significant Change Notifications available with their FedRAMP Certification Data.
 
 
     ---
@@ -186,7 +186,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 
 !!! quote ""
-    Providers MUST make ALL Significant Change Notifications and related audit records available in human-readable and JSON formats.
+    Providers [MUST](../../../definitions/#must){ data-preview } make ALL Significant Change Notifications and related audit records available in human-readable and JSON formats.
 
 
     ---
@@ -203,7 +203,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 
 !!! quote ""
-    Providers MAY include additional relevant information in Significant Change Notifications.
+    Providers [MAY](../../../definitions/#may){ data-preview } include additional relevant information in Significant Change Notifications.
 
 
     ---
@@ -224,7 +224,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 
 !!! quote ""
-    Providers MAY notify necessary parties in a variety of ways as long as the mechanism for notification is clearly documented in the FedRAMP Certification Package and easily accessible.
+    Providers [MAY](../../../definitions/#may){ data-preview } notify necessary parties in a variety of ways as long as the mechanism for notification is clearly documented in the FedRAMP Certification Package and easily accessible.
 
 
     ---
@@ -247,7 +247,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 
 !!! quote ""
-    Providers MAY execute significant changes (including transformative changes) during an emergency or incident without following the Significant Change Notification rules in advance. In such emergencies, providers MUST follow all relevant procedures, notify all necessary parties, retroactively provide all Significant Change Notification materials, and complete appropriate assessment after the incident.
+    Providers [MAY](../../../definitions/#may){ data-preview } execute significant changes (including transformative changes) during an emergency or incident without following the Significant Change Notification rules in advance. In such emergencies, providers [MUST](../../../definitions/#must){ data-preview } follow all relevant procedures, notify all necessary parties, retroactively provide all Significant Change Notification materials, and complete appropriate assessment after the incident.
 
 
     ---
@@ -281,7 +281,7 @@ These rules apply to all adaptive significant changes.
 
 
 !!! quote ""
-    Providers MUST notify all necessary parties within 10 business days after finishing adaptive changes, also including the following information:
+    Providers [MUST](../../../definitions/#must){ data-preview } notify all necessary parties within 10 business days after finishing adaptive changes, also including the following information:
 
     **Timeframe:** 10 business days
 
@@ -350,7 +350,7 @@ These rules apply to all routine recurring significant changes.
 
 
 !!! quote ""
-    Providers SHOULD NOT make formal Significant Change Notifications for routine recurring changes; this type of change is exempted from notification requirements.
+    Providers [SHOULD NOT](../../../definitions/#should-not){ data-preview } make formal Significant Change Notifications for routine recurring changes; this type of change is exempted from notification requirements.
 
 
     ---
@@ -443,7 +443,7 @@ These rules apply to all transformative significant changes.
 
 
 !!! quote ""
-    Providers MUST notify all necessary parties of initial plans for transformative changes at least 30 business days before starting transformative changes, including a summary of any likely security impacts or changes in risk.
+    Providers [MUST](../../../definitions/#must){ data-preview } notify all necessary parties of initial plans for transformative changes at least 30 business days before starting transformative changes, including a summary of any likely security impacts or changes in risk.
 
     **Timeframe:** 30 business days
 
@@ -464,7 +464,7 @@ These rules apply to all transformative significant changes.
 
 
 !!! quote ""
-    Providers MUST notify all necessary parties of final plans for transformative changes at least 10 business days before starting transformative changes, including updates to all previously sent information.
+    Providers [MUST](../../../definitions/#must){ data-preview } notify all necessary parties of final plans for transformative changes at least 10 business days before starting transformative changes, including updates to all previously sent information.
 
     **Timeframe:** 10 business days
 
@@ -485,7 +485,7 @@ These rules apply to all transformative significant changes.
 
 
 !!! quote ""
-    Providers MUST notify all necessary parties within 5 business days after finishing transformative changes, including updates to all previously sent information.
+    Providers [MUST](../../../definitions/#must){ data-preview } notify all necessary parties within 5 business days after finishing transformative changes, including updates to all previously sent information.
 
     **Timeframe:** 5 business days
 
@@ -506,7 +506,7 @@ These rules apply to all transformative significant changes.
 
 
 !!! quote ""
-    Providers MUST notify all necessary parties within 5 business days after completing the verification, assessment, and/or validation of transformative changes, also including the following information:
+    Providers [MUST](../../../definitions/#must){ data-preview } notify all necessary parties within 5 business days after completing the verification, assessment, and/or validation of transformative changes, also including the following information:
 
     **Timeframe:** 5 business days
 
@@ -529,7 +529,7 @@ These rules apply to all transformative significant changes.
 
 
 !!! quote ""
-    Providers MUST publish updated service documentation and other materials to reflect transformative changes within 30 business days after finishing transformative changes.
+    Providers [MUST](../../../definitions/#must){ data-preview } publish updated service documentation and other materials to reflect transformative changes within 30 business days after finishing transformative changes.
 
     **Timeframe:** 30 business days
 
@@ -552,7 +552,7 @@ These rules apply to all transformative significant changes.
 
 
 !!! quote ""
-    Providers SHOULD engage a third-party assessor to review the scope and impact of the planned change before starting transformative changes if human validation is necessary; such reviews SHOULD be limited to security decisions that require human validation.
+    Providers [SHOULD](../../../definitions/#should){ data-preview } engage a third-party assessor to review the scope and impact of the planned change before starting transformative changes if human validation is necessary; such reviews [SHOULD](../../../definitions/#should){ data-preview } be limited to security decisions that require human validation.
 
 
     ---

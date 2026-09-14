@@ -40,7 +40,7 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 
 !!! quote ""
-    FedRAMP MUST send messages to cloud service providers using an official @fedramp.gov or @gsa.gov email address with properly configured Sender Policy Framework (SPF), DomainKeys Identified Mail (DKIM), and Domain-based Message Authentication Reporting and Conformance (DMARC) email authentication.
+    FedRAMP [MUST](../definitions/#must){ data-preview } send messages to cloud service providers using an official @fedramp.gov or @gsa.gov email address with properly configured Sender Policy Framework (SPF), DomainKeys Identified Mail (DKIM), and Domain-based Message Authentication Reporting and Conformance (DMARC) email authentication.
 
 
     ---
@@ -59,7 +59,7 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 
 !!! quote ""
-    FedRAMP MUST convey the criticality of the message in the subject line, IF the message requires an elevated reaction, using one of the following designators:
+    FedRAMP [MUST](../definitions/#must){ data-preview } convey the criticality of the message in the subject line, IF the message requires an elevated reaction, using one of the following designators:
 
     1. **Emergency:** There is a potential incident or crisis such that FedRAMP requires an extremely urgent reaction; emergency messages will contain aggressive timeframes for reaction and failure to meet these timeframes will result in corrective action.
     1. **Emergency Test:** FedRAMP requires an extremely urgent reaction to confirm the functionality and effectiveness of the FedRAMP Security Inbox; emergency test messages will contain aggressive timeframes for reaction and failure to meet these timeframes will result in corrective action.
@@ -84,7 +84,7 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 
 !!! quote ""
-    FedRAMP MUST send Emergency and Emergency Test designated messages from fedramp_security@gsa.gov OR fedramp_security@fedramp.gov.
+    FedRAMP [MUST](../definitions/#must){ data-preview } send Emergency and Emergency Test designated messages from fedramp_security@gsa.gov OR fedramp_security@fedramp.gov.
 
 
 ### Public Notice of Emergency Tests
@@ -101,7 +101,7 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 
 !!! quote ""
-    FedRAMP MUST post a public notice at least 10 business days in advance of sending an Emergency Test message; such notices MUST include explanation of the likely expected actions and timeframes for the Emergency Test message.
+    FedRAMP [MUST](../definitions/#must){ data-preview } post a public notice at least 10 business days in advance of sending an Emergency Test message; such notices [MUST](../definitions/#must){ data-preview } include explanation of the likely expected actions and timeframes for the Emergency Test message.
 
     **Timeframe:** 10 business days
 
@@ -126,7 +126,7 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 
 !!! quote ""
-    FedRAMP MUST clearly specify the required actions in the body of messages that require an elevated reaction.
+    FedRAMP [MUST](../definitions/#must){ data-preview } clearly specify the required actions in the body of messages that require an elevated reaction.
 
 
 ### Elevated Reaction Timeframes
@@ -141,7 +141,7 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 
 !!! quote ""
-    FedRAMP MUST clearly specify the expected timeframe for completing required actions in the body of messages that require an elevated reaction; timeframes for actions will vary depending on the situation but the default timeframes to provide an estimated resolution time for Emergency and Emergency Test designated messages will be as follows:
+    FedRAMP [MUST](../definitions/#must){ data-preview } clearly specify the expected timeframe for completing required actions in the body of messages that require an elevated reaction; timeframes for actions will vary depending on the situation but the default timeframes to provide an estimated resolution time for Emergency and Emergency Test designated messages will be as follows:
 
     1. **Class D:** within 12 hours
     1. **Class C:** by 3:00 p.m. Eastern Time on the 2nd business day
@@ -167,7 +167,7 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 
 !!! quote ""
-    FedRAMP MUST clearly specify the corrective actions that will result from failure to complete the required actions in the body of messages that require an elevated reaction; such actions may vary from negative ratings in the FedRAMP Marketplace to suspension of FedRAMP Certification depending on the severity of the event.
+    FedRAMP [MUST](../definitions/#must){ data-preview } clearly specify the corrective actions that will result from failure to complete the required actions in the body of messages that require an elevated reaction; such actions may vary from negative ratings in the FedRAMP Marketplace to suspension of FedRAMP Certification depending on the severity of the event.
 
 
 ### Reaction Metrics
@@ -182,7 +182,7 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 
 !!! quote ""
-    FedRAMP MAY track and publicly share the time required by cloud service providers to take the actions specified in messages that require an elevated reaction.
+    FedRAMP [MAY](../definitions/#may){ data-preview } track and publicly share the time required by cloud service providers to take the actions specified in messages that require an elevated reaction.
 
 
 ## Incident Evaluation and Communication {#incident-evaluation-and-communication}
@@ -213,7 +213,7 @@ These rules apply to FedRAMP.
 
 
 !!! quote ""
-    FedRAMP MUST periodically review FedRAMP Incident Evaluation and Communication implementation with providers based on lack of reporting or other information.
+    FedRAMP [MUST](../definitions/#must){ data-preview } periodically review FedRAMP Incident Evaluation and Communication implementation with providers based on lack of reporting or other information.
 
     !!! warning "Corrective Actions"
         - FedRAMP will request a Corrective Action Plan when a provider is unaware of the rules or has failed to implement proper procedures.
@@ -247,7 +247,7 @@ These rules apply to FedRAMP activities related to the FedRAMP Marketplace.
 
 
 !!! quote ""
-    FedRAMP MUST NOT list cloud service offerings in the Marketplace or perform any FedRAMP Certification activities unless it determines the cloud service offering is within the scope of FedRAMP.
+    FedRAMP [MUST NOT](../definitions/#must-not){ data-preview } list cloud service offerings in the Marketplace or perform any FedRAMP Certification activities unless it determines the cloud service offering is within the scope of FedRAMP.
 
 
 
@@ -277,7 +277,7 @@ These rules apply to FedRAMP when evaluating independent assessment services for
 
 
 !!! quote ""
-    FedRAMP MUST maintain a process to collect foreign ownership, control, or influence declarations from FedRAMP Recognized assessors and updates to those declarations.
+    FedRAMP [MUST](../definitions/#must){ data-preview } maintain a process to collect foreign ownership, control, or influence declarations from FedRAMP Recognized assessors and updates to those declarations.
 
 
     ---
@@ -294,7 +294,7 @@ These rules apply to FedRAMP when evaluating independent assessment services for
 
 
 !!! quote ""
-    FedRAMP MUST NOT accept verification, validation, or other attestations from independent assessors who are not FedRAMP Recognized.
+    FedRAMP [MUST NOT](../definitions/#must-not){ data-preview } accept verification, validation, or other attestations from independent assessors who are not FedRAMP Recognized.
 
 
     ---
@@ -311,7 +311,7 @@ These rules apply to FedRAMP when evaluating independent assessment services for
 
 
 !!! quote ""
-    FedRAMP MUST NOT restore FedRAMP Recognition for an assessor after FedRAMP has revoked that assessor's FedRAMP Recognition 2 times.
+    FedRAMP [MUST NOT](../definitions/#must-not){ data-preview } restore FedRAMP Recognition for an assessor after FedRAMP has revoked that assessor's FedRAMP Recognition 2 times.
 
 
     ---
@@ -341,7 +341,7 @@ These rules apply to FedRAMP.
 
 
 !!! quote ""
-    FedRAMP MAY require providers to delay significant changes beyond the standard Significant Change Notification period and/or submit significant changes for approval in advance as a condition of a formal FedRAMP Corrective Action Plan or other agreement.
+    FedRAMP [MAY](../definitions/#may){ data-preview } require providers to delay significant changes beyond the standard Significant Change Notification period and/or submit significant changes for approval in advance as a condition of a formal FedRAMP Corrective Action Plan or other agreement.
 
 
     ---
@@ -375,7 +375,7 @@ These rules apply to FedRAMP when setting expectations for specific cloud servic
 
 
 !!! quote ""
-    FedRAMP MAY require providers to share additional vulnerability information, alternative reports, or to report at an alternative frequency as a condition of a FedRAMP Corrective Action Plan or other agreements with federal agencies.
+    FedRAMP [MAY](../definitions/#may){ data-preview } require providers to share additional vulnerability information, alternative reports, or to report at an alternative frequency as a condition of a FedRAMP Corrective Action Plan or other agreements with federal agencies.
 
 
     ---
@@ -392,7 +392,7 @@ These rules apply to FedRAMP when setting expectations for specific cloud servic
 
 
 !!! quote ""
-    FedRAMP MAY require providers to share additional information or details about vulnerabilities, including sensitive information that would likely lead to exploitation, as part of review, response or investigation by necessary parties.
+    FedRAMP [MAY](../definitions/#may){ data-preview } require providers to share additional information or details about vulnerabilities, including sensitive information that would likely lead to exploitation, as part of review, response or investigation by necessary parties.
 
 
     ---

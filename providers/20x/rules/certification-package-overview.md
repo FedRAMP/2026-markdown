@@ -53,7 +53,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 
 !!! quote ""
-    Providers MUST supply a Certification Package Overview within their FedRAMP Certification Package, in both human-readable and JSON formats, that includes at least all of the information required by the following rules:
+    Providers [MUST](../../../definitions/#must){ data-preview } supply a Certification Package Overview within their FedRAMP Certification Package, in both human-readable and JSON formats, that includes at least all of the information required by the following rules:
 
     1. Certification Package Overview: [CPO-CSO-MTD (Certification Package Overview Metadata)](#certification-package-overview-metadata){ data-preview }
     1. Certification Data Sharing: [CDS-CSO-PUB (Public Information)](certification-data-sharing.md#public-information){ data-preview }
@@ -86,7 +86,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 
 !!! quote ""
-    Providers MUST also include the following basic metadata in their Certification Package Overview:
+    Providers [MUST](../../../definitions/#must){ data-preview } also include the following basic metadata in their Certification Package Overview:
 
     1. Name, title, and contact information of official that is responsible and accountable for the FedRAMP Certification Package
     1. Version
@@ -109,16 +109,16 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 !!! quote ""
     === "Class A"
-        Providers seeking Class A Certification MAY also include an overall summary of their FedRAMP independent assessment in their Certification Package Overview.
+        Providers seeking Class A Certification [MAY](../../../definitions/#may){ data-preview } also include an overall summary of their FedRAMP independent assessment in their Certification Package Overview.
 
     === "Class B"
-        Providers seeking Class B Certification MUST also include the overall summary of their FedRAMP independent assessment, supplied by the assessor per [IVV-IAS-OSA (Overall Summary of Assessment)](../../../assessors/rules/independent-verification-and-validation.md#overall-summary-of-assessment){ data-preview }, in their Certification Package Overview.
+        Providers seeking Class B Certification [MUST](../../../definitions/#must){ data-preview } also include the overall summary of their FedRAMP independent assessment, supplied by the assessor per [IVV-IAS-OSA (Overall Summary of Assessment)](../../../assessors/rules/independent-verification-and-validation.md#overall-summary-of-assessment){ data-preview }, in their Certification Package Overview.
 
     === "Class C"
-        Providers seeking Class C Certification MUST also include the overall summary of their FedRAMP independent assessment, supplied by the assessor per [IVV-IAS-OSA (Overall Summary of Assessment)](../../../assessors/rules/independent-verification-and-validation.md#overall-summary-of-assessment){ data-preview }, in their Certification Package Overview.
+        Providers seeking Class C Certification [MUST](../../../definitions/#must){ data-preview } also include the overall summary of their FedRAMP independent assessment, supplied by the assessor per [IVV-IAS-OSA (Overall Summary of Assessment)](../../../assessors/rules/independent-verification-and-validation.md#overall-summary-of-assessment){ data-preview }, in their Certification Package Overview.
 
     === "Class D"
-        Providers seeking Class D Certification MUST also include the overall summary of their FedRAMP independent assessment, supplied by the assessor per [IVV-IAS-OSA (Overall Summary of Assessment)](../../../assessors/rules/independent-verification-and-validation.md#overall-summary-of-assessment){ data-preview }, in their Certification Package Overview.
+        Providers seeking Class D Certification [MUST](../../../definitions/#must){ data-preview } also include the overall summary of their FedRAMP independent assessment, supplied by the assessor per [IVV-IAS-OSA (Overall Summary of Assessment)](../../../assessors/rules/independent-verification-and-validation.md#overall-summary-of-assessment){ data-preview }, in their Certification Package Overview.
 
 
     ---
@@ -147,22 +147,22 @@ These rules apply to providers for FedRAMP 20x Certifications.
 
 !!! quote ""
     === "Class A"
-        Providers with 20x Class A Certifications SHOULD persistently maintain their FedRAMP Certification Package to ensure it is up to date and complete at least once every 3 months.
+        Providers with 20x Class A Certifications [SHOULD](../../../definitions/#should){ data-preview } persistently maintain their FedRAMP Certification Package to ensure it is up to date and complete at least once every 3 months.
 
         **Timeframe:** 3 months
 
     === "Class B"
-        Providers with 20x Class B Certifications MUST persistently maintain their FedRAMP Certification Package to ensure it is up to date and complete at least once every month.
+        Providers with 20x Class B Certifications [MUST](../../../definitions/#must){ data-preview } persistently maintain their FedRAMP Certification Package to ensure it is up to date and complete at least once every month.
 
         **Timeframe:** 1 month
 
     === "Class C"
-        Providers with 20x Class C Certifications MUST persistently maintain their FedRAMP Certification Package to ensure it is up to date and complete at least once every 2 weeks.
+        Providers with 20x Class C Certifications [MUST](../../../definitions/#must){ data-preview } persistently maintain their FedRAMP Certification Package to ensure it is up to date and complete at least once every 2 weeks.
 
         **Timeframe:** 2 weeks
 
     === "Class D"
-        Providers with 20x Class D Certifications MUST persistently maintain their FedRAMP Certification Package to ensure it is up to date and complete at least once every week.
+        Providers with 20x Class D Certifications [MUST](../../../definitions/#must){ data-preview } persistently maintain their FedRAMP Certification Package to ensure it is up to date and complete at least once every week.
 
         **Timeframe:** 1 week
 

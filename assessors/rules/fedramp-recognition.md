@@ -44,7 +44,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
 
 
 !!! quote ""
-    Assessors MUST obtain and maintain accreditation through the American Association for Laboratory Accreditation (A2LA) Cybersecurity Inspection Body Program to qualify for FedRAMP Recognition.
+    Assessors [MUST](../../definitions/#must){ data-preview } obtain and maintain accreditation through the American Association for Laboratory Accreditation (A2LA) Cybersecurity Inspection Body Program to qualify for FedRAMP Recognition.
 
 
     ---
@@ -65,7 +65,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
 
 
 !!! quote ""
-    Assessors MUST complete at least 2 initial or ongoing assessments for Class B, C, or D FedRAMP Certifications every 2 years to maintain FedRAMP Recognition.
+    Assessors [MUST](../../definitions/#must){ data-preview } complete at least 2 initial or ongoing assessments for Class B, C, or D FedRAMP Certifications every 2 years to maintain FedRAMP Recognition.
 
     **Timeframe:** 2 years
 
@@ -92,7 +92,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
 
 
 !!! quote ""
-    Assessors MUST maintain compliance with the latest American Association for Laboratory Accreditation (A2LA) R311 - Specific Requirements - Federal Risk and Authorization Management Program to maintain FedRAMP Recognition.
+    Assessors [MUST](../../definitions/#must){ data-preview } maintain compliance with the latest American Association for Laboratory Accreditation (A2LA) R311 - Specific Requirements - Federal Risk and Authorization Management Program to maintain FedRAMP Recognition.
 
 
 
@@ -112,7 +112,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
 
 
 !!! quote ""
-    Assessors MUST achieve a favorable annual surveillance assessment by the American Association for Laboratory Accreditation (A2LA) to maintain FedRAMP Recognition.
+    Assessors [MUST](../../definitions/#must){ data-preview } achieve a favorable annual surveillance assessment by the American Association for Laboratory Accreditation (A2LA) to maintain FedRAMP Recognition.
 
     **Timeframe:** 1 year
 
@@ -134,7 +134,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
 
 
 !!! quote ""
-    Assessors MUST achieve a favorable full reassessment by the American Association for Laboratory Accreditation (A2LA) at least once every 2 years to maintain FedRAMP Recognition.
+    Assessors [MUST](../../definitions/#must){ data-preview } achieve a favorable full reassessment by the American Association for Laboratory Accreditation (A2LA) at least once every 2 years to maintain FedRAMP Recognition.
 
     **Timeframe:** 2 years
 
@@ -156,7 +156,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
 
 
 !!! quote ""
-    Assessors MUST satisfy all American Association for Laboratory Accreditation (A2LA) re-entry conditions before regaining FedRAMP Recognition after revocation.
+    Assessors [MUST](../../definitions/#must){ data-preview } satisfy all American Association for Laboratory Accreditation (A2LA) re-entry conditions before regaining FedRAMP Recognition after revocation.
 
 
     ---
@@ -177,7 +177,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
 
 
 !!! quote ""
-    Assessors MUST staff FedRAMP assessments with all roles required by the American Association for Laboratory Accreditation (A2LA) R311, including personnel who meet the qualifications for each role, unless FedRAMP publishes a specific exception for a limited pilot or other explicitly scoped process.
+    Assessors [MUST](../../definitions/#must){ data-preview } staff FedRAMP assessments with all roles required by the American Association for Laboratory Accreditation (A2LA) R311, including personnel who meet the qualifications for each role, unless FedRAMP publishes a specific exception for a limited pilot or other explicitly scoped process.
 
     !!! warning "Corrective Actions"
         - FedRAMP may require a consultation meeting, corrective action plan, or revocation for failure to comply.
@@ -197,7 +197,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
 
 
 !!! quote ""
-    Assessors MUST report information relating to any foreign interest, foreign influence, or foreign control of the independent assessment service to FedRAMP annually.
+    Assessors [MUST](../../definitions/#must){ data-preview } report information relating to any foreign interest, foreign influence, or foreign control of the independent assessment service to FedRAMP annually.
 
     **Timeframe:** 1 year
 
@@ -216,7 +216,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
 
 
 !!! quote ""
-    Assessors MUST report updated information relating to any foreign interest, foreign influence, or foreign control of the independent assessment service within 48 hours of any change in foreign ownership or control.
+    Assessors [MUST](../../definitions/#must){ data-preview } report updated information relating to any foreign interest, foreign influence, or foreign control of the independent assessment service within 48 hours of any change in foreign ownership or control.
 
     **Timeframe:** 48 hours
 
@@ -233,7 +233,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
 
 
 !!! quote ""
-    Assessors MUST meet FedRAMP performance standards for assessor deliverables to support independent, risk-based reviews by FedRAMP and federal agencies, including at least:
+    Assessors [MUST](../../definitions/#must){ data-preview } meet FedRAMP performance standards for assessor deliverables to support independent, risk-based reviews by FedRAMP and federal agencies, including at least:
 
     1. Complete Assessment Packages: Supplies complete and thoroughly prepared documents on the first submission.
     1. Deliverable Quality: Ensures documentation content is clear, complete, concise, and consistent.
@@ -258,7 +258,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
 
 
 !!! quote ""
-    Assessors MUST supply a corrective action plan when FedRAMP requires one for performance standards deficiencies or organizational risks.
+    Assessors [MUST](../../definitions/#must){ data-preview } supply a corrective action plan when FedRAMP requires one for performance standards deficiencies or organizational risks.
 
 
 ### Invalid Deliverables
@@ -273,7 +273,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
 
 
 !!! quote ""
-    Assessors MUST treat deliverables prepared, performed, or submitted by personnel who do not meet required role qualifications as invalid for FedRAMP purposes.
+    Assessors [MUST](../../definitions/#must){ data-preview } treat deliverables prepared, performed, or submitted by personnel who do not meet required role qualifications as invalid for FedRAMP purposes.
 
 
 ### Advisory Separation
@@ -288,7 +288,7 @@ These rules apply to independent assessment services seeking to obtain or mainta
 
 
 !!! quote ""
-    Assessors MUST NOT perform a FedRAMP independent assessment of the same cloud service offering within 2 years after supplying advisory or consulting services for that offering, unless FedRAMP publishes a specific exception for a limited pilot or other explicitly scoped process.
+    Assessors [MUST NOT](../../definitions/#must-not){ data-preview } perform a FedRAMP independent assessment of the same cloud service offering within 2 years after supplying advisory or consulting services for that offering, unless FedRAMP publishes a specific exception for a limited pilot or other explicitly scoped process.
 
     **Timeframe:** 2 years
 

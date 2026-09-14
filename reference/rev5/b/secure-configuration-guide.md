@@ -52,7 +52,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 
 !!! quote ""
-    Providers MUST create, maintain, and make available recommendations for securely configuring their cloud services (the Secure Configuration Guide) that includes at least the following information:
+    Providers [MUST](../../../definitions/#must){ data-preview } create, maintain, and make available recommendations for securely configuring their cloud services (the Secure Configuration Guide) that includes at least the following information:
 
     1. Required: Instructions on how to securely access, configure, operate, and decommission top-level administrative accounts that control enterprise access to the entire cloud service offering.
     1. Required: Explanations of security-related settings that can be operated only by top-level administrative accounts and their security implications.
@@ -79,7 +79,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 
 !!! quote ""
-    Providers MUST include instructions in the FedRAMP Certification Package that explain how to obtain and use the Secure Configuration Guide.
+    Providers [MUST](../../../definitions/#must){ data-preview } include instructions in the FedRAMP Certification Package that explain how to obtain and use the Secure Configuration Guide.
 
 
     ---
@@ -100,7 +100,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 
 !!! quote ""
-    Providers SHOULD make the Secure Configuration Guide available publicly.
+    Providers [SHOULD](../../../definitions/#should){ data-preview } make the Secure Configuration Guide available publicly.
 
 
 ### Secure Defaults
@@ -115,7 +115,7 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 
 !!! quote ""
-    Providers SHOULD set all settings to their recommended secure defaults for top-level administrative accounts and privileged accounts when initially provisioned.
+    Providers [SHOULD](../../../definitions/#should){ data-preview } set all settings to their recommended secure defaults for top-level administrative accounts and privileged accounts when initially provisioned.
 
 
     ---
@@ -143,7 +143,7 @@ These recommendations apply to providers with FedRAMP Certifications of any type
 
 
 !!! quote ""
-    Providers SHOULD offer the capability to compare all current settings for top-level administrative accounts and privileged accounts to the recommended secure defaults.
+    Providers [SHOULD](../../../definitions/#should){ data-preview } offer the capability to compare all current settings for top-level administrative accounts and privileged accounts to the recommended secure defaults.
 
 
     ---
@@ -160,7 +160,7 @@ These recommendations apply to providers with FedRAMP Certifications of any type
 
 
 !!! quote ""
-    Providers SHOULD offer the capability to export all security settings in a machine-readable format.
+    Providers [SHOULD](../../../definitions/#should){ data-preview } offer the capability to export all security settings in a machine-readable format.
 
 
     ---
@@ -177,7 +177,7 @@ These recommendations apply to providers with FedRAMP Certifications of any type
 
 
 !!! quote ""
-    Providers SHOULD offer the capability to view and adjust security settings via an API or similar capability.
+    Providers [SHOULD](../../../definitions/#should){ data-preview } offer the capability to view and adjust security settings via an API or similar capability.
 
 
 ### Machine-Readable Guidance
@@ -192,7 +192,7 @@ These recommendations apply to providers with FedRAMP Certifications of any type
 
 
 !!! quote ""
-    Providers SHOULD also provide the Secure Configuration Guide in a machine-readable format that can be used by customers or third-party tools to compare against current settings.
+    Providers [SHOULD](../../../definitions/#should){ data-preview } also provide the Secure Configuration Guide in a machine-readable format that can be used by customers or third-party tools to compare against current settings.
 
 
     ---
@@ -209,7 +209,7 @@ These recommendations apply to providers with FedRAMP Certifications of any type
 
 
 !!! quote ""
-    Providers SHOULD provide versioning and a release history for recommended secure default settings for top-level administrative accounts and privileged accounts as they are adjusted over time.
+    Providers [SHOULD](../../../definitions/#should){ data-preview } provide versioning and a release history for recommended secure default settings for top-level administrative accounts and privileged accounts as they are adjusted over time.
 
 
     ---

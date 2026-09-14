@@ -54,7 +54,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 
 !!! quote ""
     === "Class B"
-        Providers with Class B Certifications MUST persistently complete an independent verification and validation assessment of all applicable FedRAMP rules with a FedRAMP Recognized independent assessment service OR FedRAMP at least once per year; this is a FedRAMP independent assessment.
+        Providers with Class B Certifications [MUST](../../../definitions/#must){ data-preview } persistently complete an independent verification and validation assessment of all applicable FedRAMP rules with a FedRAMP Recognized independent assessment service OR FedRAMP at least once per year; this is a FedRAMP independent assessment.
 
         **Timeframe:** 1 year
 
@@ -81,7 +81,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 
 
 !!! quote ""
-    Providers MUST supply evidence to all necessary assessors of the implementation of the measures that have been documented to meet FedRAMP Practices; this evidence is the result of verification.
+    Providers [MUST](../../../definitions/#must){ data-preview } supply evidence to all necessary assessors of the implementation of the measures that have been documented to meet FedRAMP Practices; this evidence is the result of verification.
 
 
     ---
@@ -102,7 +102,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 
 
 !!! quote ""
-    Providers MUST supply evidence to all necessary assessors of the effectiveness of the measures that have been implemented to meet FedRAMP Practices; this evidence is the result of validation.
+    Providers [MUST](../../../definitions/#must){ data-preview } supply evidence to all necessary assessors of the effectiveness of the measures that have been implemented to meet FedRAMP Practices; this evidence is the result of validation.
 
 
     ---
@@ -123,7 +123,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 
 
 !!! quote ""
-    Providers MUST supply the results of FedRAMP independent assessments in their FedRAMP Certification Package without inappropriate modification.
+    Providers [MUST](../../../definitions/#must){ data-preview } supply the results of FedRAMP independent assessments in their FedRAMP Certification Package without inappropriate modification.
 
 
     ---
@@ -146,7 +146,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 
 
 !!! quote ""
-    Providers MUST document and explain the use of representative samples during verification and validation when using representative samples as allowed by [IVV-CSO-USR (Use Representative Samples)](#use-representative-samples){ data-preview }.
+    Providers [MUST](../../../definitions/#must){ data-preview } document and explain the use of representative samples during verification and validation when using representative samples as allowed by [IVV-CSO-USR (Use Representative Samples)](#use-representative-samples){ data-preview }.
 
 
     ---
@@ -163,7 +163,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 
 
 !!! quote ""
-    Providers SHOULD supply all necessary assessors with technical explanations, demonstrations, and other relevant supporting information about the technical capabilities they employ to address FedRAMP rules; this SHOULD be supplied as necessary to ensure the assessor can effectively complete verification and validation.
+    Providers [SHOULD](../../../definitions/#should){ data-preview } supply all necessary assessors with technical explanations, demonstrations, and other relevant supporting information about the technical capabilities they employ to address FedRAMP rules; this [SHOULD](../../../definitions/#should){ data-preview } be supplied as necessary to ensure the assessor can effectively complete verification and validation.
 
 
     ---
@@ -180,7 +180,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 
 
 !!! quote ""
-    Providers MAY use representative samples as appropriate during verification and validation.
+    Providers [MAY](../../../definitions/#may){ data-preview } use representative samples as appropriate during verification and validation.
 
 
     ---
@@ -201,7 +201,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 
 
 !!! quote ""
-    Providers MAY ask for and accept advice from their assessor during assessment regarding techniques and procedures that will improve their security posture or the effectiveness, clarity, and accuracy of their verification, validation and reporting procedures, UNLESS doing so is likely to compromise the objectivity and integrity of the assessment.
+    Providers [MAY](../../../definitions/#may){ data-preview } ask for and accept advice from their assessor during assessment regarding techniques and procedures that will improve their security posture or the effectiveness, clarity, and accuracy of their verification, validation and reporting procedures, UNLESS doing so is likely to compromise the objectivity and integrity of the assessment.
 
 
     ---
@@ -229,7 +229,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 
 !!! quote ""
-    Assessors MUST verify that the measures implemented by the cloud service offering matches the measures they documented to meet FedRAMP Practices.
+    Assessors [MUST](../../../definitions/#must){ data-preview } verify that the measures implemented by the cloud service offering matches the measures they documented to meet FedRAMP Practices.
 
 
     ---
@@ -250,7 +250,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 
 !!! quote ""
-    Assessors MUST validate the effectiveness of the implemented measures to ensure they have the intended outcome for meeting FedRAMP Practices.
+    Assessors [MUST](../../../definitions/#must){ data-preview } validate the effectiveness of the implemented measures to ensure they have the intended outcome for meeting FedRAMP Practices.
 
 
     ---
@@ -271,7 +271,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 
 !!! quote ""
-    Assessors MUST supply the provider with a high-level summary of their assessment process and findings for each FedRAMP Practice; this summary will be included by the provider in the FedRAMP Security Decision Record for the cloud service offering.
+    Assessors [MUST](../../../definitions/#must){ data-preview } supply the provider with a high-level summary of their assessment process and findings for each FedRAMP Practice; this summary will be included by the provider in the FedRAMP Security Decision Record for the cloud service offering.
 
 
     ---
@@ -292,7 +292,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 
 !!! quote ""
-    Assessors MUST supply the provider with an overall summary of the verification and validation assessment results, including any resulting failures or areas of dispute; this summary will be included by the provider in the FedRAMP Certification Package Overview for the cloud service offering.
+    Assessors [MUST](../../../definitions/#must){ data-preview } supply the provider with an overall summary of the verification and validation assessment results, including any resulting failures or areas of dispute; this summary will be included by the provider in the FedRAMP Certification Package Overview for the cloud service offering.
 
 
     ---
@@ -313,7 +313,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 
 !!! quote ""
-    Assessors MUST verify that information supplied during a FedRAMP independent assessment is included in the FedRAMP Certification Package by the provider without inappropriate modification.
+    Assessors [MUST](../../../definitions/#must){ data-preview } verify that information supplied during a FedRAMP independent assessment is included in the FedRAMP Certification Package by the provider without inappropriate modification.
 
 
     ---
@@ -334,7 +334,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 
 !!! quote ""
-    Assessors SHOULD engage provider experts in discussion to understand the decisions made by the provider and inform expert qualitative assessment, and SHOULD perform independent research to test such information as part of the expert qualitative assessment process.
+    Assessors [SHOULD](../../../definitions/#should){ data-preview } engage provider experts in discussion to understand the decisions made by the provider and inform expert qualitative assessment, and [SHOULD](../../../definitions/#should){ data-preview } perform independent research to test such information as part of the expert qualitative assessment process.
 
 
 ### Sharing Advice
@@ -349,7 +349,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 
 !!! quote ""
-    Assessors MAY share advice with providers they are assessing about techniques and procedures that will improve the provider's security posture or the effectiveness, clarity, and accuracy of their verification, validation and reporting procedures, UNLESS doing so is likely to compromise the objectivity and integrity of the assessment.
+    Assessors [MAY](../../../definitions/#may){ data-preview } share advice with providers they are assessing about techniques and procedures that will improve the provider's security posture or the effectiveness, clarity, and accuracy of their verification, validation and reporting procedures, UNLESS doing so is likely to compromise the objectivity and integrity of the assessment.
 
 
     ---
@@ -378,7 +378,7 @@ These rules apply to providers for FedRAMP 20x Certifications.
 
 !!! quote ""
     === "Class B"
-        Providers with 20x Class B Certifications MUST include all Key Security Indicators in a FedRAMP independent assessment at least once per year.
+        Providers with 20x Class B Certifications [MUST](../../../definitions/#must){ data-preview } include all Key Security Indicators in a FedRAMP independent assessment at least once per year.
 
         **Timeframe:** 1 year
 

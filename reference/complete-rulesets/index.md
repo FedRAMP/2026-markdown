@@ -23,13 +23,13 @@ This section of the Consolidated Rules for 2026 contains each complete FedRAMP R
 | Acronym | Ruleset | Status | Counts | Most Recently Updated |
 | --- | --- | --- | --- | --- |
 | AFC | [Addressing FedRAMP Communication](../addressing-fedramp-communication.md) | Stable | Subsets: 2<br>Rules: 16 | 2026-06-24 |
-| AGU | [Agency Use of FedRAMP Certified Cloud Services](../agency-use.md) | Placeholder | Subsets: 3<br>Rules: 20 | 2026-06-24 |
-| CCM | [Collaborative Continuous Monitoring](../collaborative-continuous-monitoring.md) | Stable | Subsets: 3<br>Rules: 19 | 2026-06-24 |
+| AGU | [Agency Use of FedRAMP Certified Cloud Services](../agency-use.md) | Placeholder | Subsets: 3<br>Rules: 20 | 2026-09-13 |
+| CCM | [Collaborative Continuous Monitoring](../collaborative-continuous-monitoring.md) | Stable | Subsets: 3<br>Rules: 19 | 2026-09-13 |
 | CDS | [Certification Data Sharing](../certification-data-sharing.md) | Stable | Subsets: 4<br>Rules: 21 | 2026-06-24 |
 | CMU | [Cryptographic Module Use](../cryptographic-module-use.md) | Stable | Subsets: 1<br>Rules: 3 | 2026-06-24 |
 | CPO | [Certification Package Overview](../certification-package-overview.md) | Stable | Subsets: 3<br>Rules: 5 | 2026-07-14 |
 | FRC | [FedRAMP Certification](../fedramp-certification.md) | Stable | Subsets: 7<br>Rules: 29 | 2026-07-14 |
-| IEC | [Incident Evaluation and Communication](../incident-evaluation-and-communication.md) | Stable | Subsets: 2<br>Rules: 8 | 2026-07-02 |
+| IEC | [Incident Evaluation and Communication](../incident-evaluation-and-communication.md) | Stable | Subsets: 2<br>Rules: 8 | 2026-09-13 |
 | IVV | [Independent Verification and Validation](../independent-verification-and-validation.md) | Stable | Subsets: 4<br>Rules: 20 | 2026-06-24 |
 | MAS | [Minimum Assessment Scope](../minimum-assessment-scope.md) | Stable | Subsets: 1<br>Rules: 5 | 2026-06-24 |
 | MKT | [Marketplace Listing](../marketplace-listing.md) | Stable | Subsets: 5<br>Rules: 12 | 2026-06-24 |

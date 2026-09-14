@@ -61,7 +61,7 @@ These rules for agencies apply to all agencies using a FedRAMP Certification.
 
 
 !!! quote ""
-    Agencies MUST review each Ongoing Certification Report to understand how changes to the cloud service offering may impact the previously agreed-upon risk tolerance documented in the agency's Authorization to Operate of a federal information system that includes the cloud service offering in its boundary.
+    Agencies [MUST](../definitions/#must){ data-preview } review each Ongoing Certification Report to understand how changes to the cloud service offering may impact the previously agreed-upon risk tolerance documented in the agency's Authorization to Operate of a federal information system that includes the cloud service offering in its boundary.
 
 
     ---
@@ -82,7 +82,7 @@ These rules for agencies apply to all agencies using a FedRAMP Certification.
 
 
 !!! quote ""
-    Agencies SHOULD consider the Security Category noted in their Authorization to Operate of the federal information system that includes the cloud service offering in its boundary and assign appropriate information security resources for reviewing Ongoing Certification Reports, attending Quarterly Reviews, and other ongoing FedRAMP Certification Data.
+    Agencies [SHOULD](../definitions/#should){ data-preview } consider the Security Category noted in their Authorization to Operate of the federal information system that includes the cloud service offering in its boundary and assign appropriate information security resources for reviewing Ongoing Certification Reports, attending Quarterly Reviews, and other ongoing FedRAMP Certification Data.
 
 
     ---
@@ -104,6 +104,9 @@ These rules for Ongoing Certification Reports apply to providers with any type o
     **Changelog:**
 
 
+    - **2026-09-13:** Added (if applicable) to clarify that some of these items are not always required depending on the FedRAMP Certification Type or Class.
+
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
@@ -112,7 +115,9 @@ These rules for Ongoing Certification Reports apply to providers with any type o
 
 
 !!! quote ""
-    Providers MUST supply an Ongoing Certification Report to all necessary parties every 3 months, covering the entire period since the previous summary, in a consistent format that is human readable; this report MUST include high-level summaries of at least the following information:
+    Providers [MUST](../definitions/#must){ data-preview } supply an Ongoing Certification Report to all necessary parties every 3 months, covering the entire period since the previous summary, in a consistent format that is human readable; this report [MUST](../definitions/#must){ data-preview } include high-level summaries of at least the following information (if applicable):
+
+    **Timeframe:** 3 months
 
     1. Changes to FedRAMP Certification Data
     1. Planned changes to FedRAMP Certification Data during at least the next 3 months
@@ -138,7 +143,7 @@ These rules for Ongoing Certification Reports apply to providers with any type o
 
 
 !!! quote ""
-    Providers MUST supply the target date for their next Ongoing Certification Report with other public FedRAMP Certification Data.
+    Providers [MUST](../definitions/#must){ data-preview } supply the target date for their next Ongoing Certification Report with other public FedRAMP Certification Data.
 
 
     ---
@@ -155,7 +160,7 @@ These rules for Ongoing Certification Reports apply to providers with any type o
 
 
 !!! quote ""
-    Providers MUST supply an asynchronous mechanism for all necessary parties to provide feedback or ask questions about each Ongoing Certification Report.
+    Providers [MUST](../definitions/#must){ data-preview } supply an asynchronous mechanism for all necessary parties to provide feedback or ask questions about each Ongoing Certification Report.
 
 
     ---
@@ -176,7 +181,7 @@ These rules for Ongoing Certification Reports apply to providers with any type o
 
 
 !!! quote ""
-    Providers MUST supply an anonymized and desensitized summary of the feedback, questions, and answers about each Ongoing Certification Report as an addendum to the Ongoing Certification Report OR in the next Ongoing Certification Report.
+    Providers [MUST](../definitions/#must){ data-preview } supply an anonymized and desensitized summary of the feedback, questions, and answers about each Ongoing Certification Report as an addendum to the Ongoing Certification Report OR in the next Ongoing Certification Report.
 
 
     ---
@@ -197,7 +202,7 @@ These rules for Ongoing Certification Reports apply to providers with any type o
 
 
 !!! quote ""
-    Providers MUST NOT irresponsibly disclose sensitive information in an Ongoing Certification Report that would likely have an adverse effect on the cloud service offering.
+    Providers [MUST NOT](../definitions/#must-not){ data-preview } irresponsibly disclose sensitive information in an Ongoing Certification Report that would likely have an adverse effect on the cloud service offering.
 
 
     ---
@@ -214,7 +219,7 @@ These rules for Ongoing Certification Reports apply to providers with any type o
 
 
 !!! quote ""
-    Providers SHOULD establish a regular 3 month cycle for Ongoing Certification Reports that is spread out from the beginning, middle, or end of each quarter.
+    Providers [SHOULD](../definitions/#should){ data-preview } establish a regular 3 month cycle for Ongoing Certification Reports that is spread out from the beginning, middle, or end of each quarter.
 
 
     ---
@@ -235,7 +240,7 @@ These rules for Ongoing Certification Reports apply to providers with any type o
 
 
 !!! quote ""
-    Providers MAY responsibly supply some or all of the information an Ongoing Certification Report to the public or other parties if the provider determines doing so will NOT likely have an adverse effect on the cloud service offering.
+    Providers [MAY](../definitions/#may){ data-preview } responsibly supply some or all of the information an Ongoing Certification Report to the public or other parties if the provider determines doing so will NOT likely have an adverse effect on the cloud service offering.
 
 
     ---
@@ -264,22 +269,22 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
 
 !!! quote ""
     === "Class A"
-        Providers with Class A Certifications MAY host a synchronous Quarterly Review every 3 months, open to all necessary parties, to review aspects of the most recent Ongoing Certification Reports that the provider determines are of the most relevance to agencies.
+        Providers with Class A Certifications [MAY](../definitions/#may){ data-preview } host a synchronous Quarterly Review every 3 months, open to all necessary parties, to review aspects of the most recent Ongoing Certification Reports that the provider determines are of the most relevance to agencies.
 
         **Timeframe:** 3 months
 
     === "Class B"
-        Providers with Class B Certifications SHOULD host a synchronous Quarterly Review every 3 months, open to all necessary parties, to review aspects of the most recent Ongoing Certification Reports that the provider determines are of the most relevance to agencies.
+        Providers with Class B Certifications [SHOULD](../definitions/#should){ data-preview } host a synchronous Quarterly Review every 3 months, open to all necessary parties, to review aspects of the most recent Ongoing Certification Reports that the provider determines are of the most relevance to agencies.
 
         **Timeframe:** 3 months
 
     === "Class C"
-        Providers with Class C Certifications MUST host a synchronous Quarterly Review every 3 months, open to all necessary parties, to review aspects of the most recent Ongoing Certification Reports that the provider determines are of the most relevance to agencies.
+        Providers with Class C Certifications [MUST](../definitions/#must){ data-preview } host a synchronous Quarterly Review every 3 months, open to all necessary parties, to review aspects of the most recent Ongoing Certification Reports that the provider determines are of the most relevance to agencies.
 
         **Timeframe:** 3 months
 
     === "Class D"
-        Providers with Class D Certifications MUST host a synchronous Quarterly Review every 3 months, open to all necessary parties, to review aspects of the most recent Ongoing Certification Reports that the provider determines are of the most relevance to agencies.
+        Providers with Class D Certifications [MUST](../definitions/#must){ data-preview } host a synchronous Quarterly Review every 3 months, open to all necessary parties, to review aspects of the most recent Ongoing Certification Reports that the provider determines are of the most relevance to agencies.
 
         **Timeframe:** 3 months
 
@@ -298,7 +303,7 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
 
 
 !!! quote ""
-    Providers MUST supply either a registration link or a downloadable calendar file with meeting information for Quarterly Reviews to all necessary parties.
+    Providers [MUST](../definitions/#must){ data-preview } supply either a registration link or a downloadable calendar file with meeting information for Quarterly Reviews to all necessary parties.
 
 
     ---
@@ -315,7 +320,7 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
 
 
 !!! quote ""
-    Providers MUST publicly supply the target date for their next Quarterly Review with other public FedRAMP Certification Data.
+    Providers [MUST](../definitions/#must){ data-preview } publicly supply the target date for their next Quarterly Review with other public FedRAMP Certification Data.
 
 
     ---
@@ -332,7 +337,7 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
 
 
 !!! quote ""
-    Providers MUST NOT irresponsibly disclose sensitive information in a Quarterly Review that would likely have an adverse effect on the cloud service offering.
+    Providers [MUST NOT](../definitions/#must-not){ data-preview } irresponsibly disclose sensitive information in a Quarterly Review that would likely have an adverse effect on the cloud service offering.
 
 
     ---
@@ -349,7 +354,7 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
 
 
 !!! quote ""
-    Providers SHOULD regularly schedule Quarterly Reviews to occur at least 3 business days after releasing an Ongoing Certification Report AND within 10 business days of such release.
+    Providers [SHOULD](../definitions/#should){ data-preview } regularly schedule Quarterly Reviews to occur at least 3 business days after releasing an Ongoing Certification Report AND within 10 business days of such release.
 
 
     ---
@@ -366,7 +371,7 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
 
 
 !!! quote ""
-    Providers SHOULD supply additional information in Quarterly Reviews that the provider determines is of interest, use, or otherwise relevant to agencies.
+    Providers [SHOULD](../definitions/#should){ data-preview } supply additional information in Quarterly Reviews that the provider determines is of interest, use, or otherwise relevant to agencies.
 
 
     ---
@@ -383,7 +388,7 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
 
 
 !!! quote ""
-    Providers SHOULD record or transcribe Quarterly Reviews and supply them to all necessary parties.
+    Providers [SHOULD](../definitions/#should){ data-preview } record or transcribe Quarterly Reviews and supply them to all necessary parties.
 
 
     ---
@@ -400,7 +405,7 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
 
 
 !!! quote ""
-    Providers SHOULD NOT invite third parties to attend Quarterly Reviews intended for agencies unless they have specific relevance.
+    Providers [SHOULD NOT](../definitions/#should-not){ data-preview } invite third parties to attend Quarterly Reviews intended for agencies unless they have specific relevance.
 
 
     ---
@@ -421,7 +426,7 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
 
 
 !!! quote ""
-    Providers MAY responsibly supply recordings or transcriptions of Quarterly Reviews to the public or other parties ONLY if the provider removes all agency information (comments, questions, names, etc.) AND determines doing so will NOT likely have an adverse effect on the cloud service offering.
+    Providers [MAY](../definitions/#may){ data-preview } responsibly supply recordings or transcriptions of Quarterly Reviews to the public or other parties ONLY if the provider removes all agency information (comments, questions, names, etc.) AND determines doing so will NOT likely have an adverse effect on the cloud service offering.
 
 
     ---
@@ -438,7 +443,7 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
 
 
 !!! quote ""
-    Providers MAY responsibly supply content prepared for a Quarterly Review to the public or other parties if the provider determines doing so will NOT likely have an adverse effect on the cloud service offering.
+    Providers [MAY](../definitions/#may){ data-preview } responsibly supply content prepared for a Quarterly Review to the public or other parties if the provider determines doing so will NOT likely have an adverse effect on the cloud service offering.
 
 
     ---

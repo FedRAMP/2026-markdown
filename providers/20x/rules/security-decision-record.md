@@ -53,7 +53,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 
 !!! quote ""
-    Providers MUST supply a Security Decision Record, in both human-readable and JSON formats, that includes at least all of the following information for each applicable FedRAMP rule:
+    Providers [MUST](../../../definitions/#must){ data-preview } supply a Security Decision Record, in both human-readable and JSON formats, that includes at least all of the following information for each applicable FedRAMP rule:
 
     1. Explanation of how the rule is followed, or an explanation of the reason and resulting risk to customers for not following the rule.
     1. Verification that the implementation is appropriate for the rule, or that the reason for not implementing is accepted by a senior official.
@@ -78,7 +78,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 
 !!! quote ""
-    Providers MUST also include the following basic metadata in their Security Decision Record:
+    Providers [MUST](../../../definitions/#must){ data-preview } also include the following basic metadata in their Security Decision Record:
 
     1. Version
     1. Date and time of last update
@@ -112,7 +112,7 @@ These rules apply to providers for FedRAMP 20x Certifications.
 
 
 !!! quote ""
-    Providers MUST also include short and simple high-level summaries of at least the following for each applicable Key Security Indicator:
+    Providers [MUST](../../../definitions/#must){ data-preview } also include short and simple high-level summaries of at least the following for each applicable Key Security Indicator:
 
     1. Explanation of measures (and their objectives) that demonstrate the Key Security Indicator, or an explanation of the reason and resulting risk to customers for not having measures available for that Key Security Indicator.
     1. Explanation of the cycle for any measures that are implemented persistently (if applicable).
@@ -138,23 +138,23 @@ These rules apply to providers for FedRAMP 20x Certifications.
 
 !!! quote ""
     === "Class A"
-        Providers with 20x Class A Certifications MAY also include historical metrics in their Security Decision Record.
+        Providers with 20x Class A Certifications [MAY](../../../definitions/#may){ data-preview } also include historical metrics in their Security Decision Record.
 
     === "Class B"
-        Providers with 20x Class B Certifications MUST also include historical metrics in their Security Decision Record, supplying at least the following information for each applicable Key Security Indicator:
+        Providers with 20x Class B Certifications [MUST](../../../definitions/#must){ data-preview } also include historical metrics in their Security Decision Record, supplying at least the following information for each applicable Key Security Indicator:
 
         1. Summary of each metric over the past 30 days
         1. Summary of metric up to the past year (where available)
 
     === "Class C"
-        Providers with 20x Class C Certifications MUST also include historical metrics in their Security Decision Record, supplying at least the following information for each applicable Key Security Indicator:
+        Providers with 20x Class C Certifications [MUST](../../../definitions/#must){ data-preview } also include historical metrics in their Security Decision Record, supplying at least the following information for each applicable Key Security Indicator:
 
         1. Summary of each metric over the past 30 days
         1. Summary of metric up to the past year (where available)
         1. All daily metric data up to the past year (where available)
 
     === "Class D"
-        Providers with 20x Class D Certifications MUST significantly supersede the minimum requirements for lower Classes, with specifics to be set during the 20x Phase 4 Pilot.
+        Providers with 20x Class D Certifications [MUST](../../../definitions/#must){ data-preview } significantly supersede the minimum requirements for lower Classes, with specifics to be set during the 20x Phase 4 Pilot.
 
 
     ---

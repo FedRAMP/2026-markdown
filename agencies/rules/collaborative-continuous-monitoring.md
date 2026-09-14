@@ -54,7 +54,7 @@ These rules for agencies apply to all agencies using a FedRAMP Certification.
 
 
 !!! quote ""
-    Agencies MUST review each Ongoing Certification Report to understand how changes to the cloud service offering may impact the previously agreed-upon risk tolerance documented in the agency's Authorization to Operate of a federal information system that includes the cloud service offering in its boundary.
+    Agencies [MUST](../../definitions/#must){ data-preview } review each Ongoing Certification Report to understand how changes to the cloud service offering may impact the previously agreed-upon risk tolerance documented in the agency's Authorization to Operate of a federal information system that includes the cloud service offering in its boundary.
 
 
     ---
@@ -75,7 +75,7 @@ These rules for agencies apply to all agencies using a FedRAMP Certification.
 
 
 !!! quote ""
-    Agencies SHOULD consider the Security Category noted in their Authorization to Operate of the federal information system that includes the cloud service offering in its boundary and assign appropriate information security resources for reviewing Ongoing Certification Reports, attending Quarterly Reviews, and other ongoing FedRAMP Certification Data.
+    Agencies [SHOULD](../../definitions/#should){ data-preview } consider the Security Category noted in their Authorization to Operate of the federal information system that includes the cloud service offering in its boundary and assign appropriate information security resources for reviewing Ongoing Certification Reports, attending Quarterly Reviews, and other ongoing FedRAMP Certification Data.
 
 
     ---

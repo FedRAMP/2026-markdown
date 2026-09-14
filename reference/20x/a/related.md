@@ -32,7 +32,7 @@ The Addressing FedRAMP Communication rules (formerly FedRAMP Security Inbox) ens
 
 
 !!! quote ""
-    Providers MUST complete the required actions in Emergency or Emergency Test designated messages sent by FedRAMP within the timeframe included in the message.
+    Providers [MUST](../../../definitions/#must){ data-preview } complete the required actions in Emergency or Emergency Test designated messages sent by FedRAMP within the timeframe included in the message.
 
 
     ---
@@ -53,7 +53,7 @@ The Addressing FedRAMP Communication rules (formerly FedRAMP Security Inbox) ens
 
 
 !!! quote ""
-    Providers MUST establish and maintain an email address to receive messages from FedRAMP; this inbox is a FedRAMP Security Inbox (FSI).
+    Providers [MUST](../../../definitions/#must){ data-preview } establish and maintain an email address to receive messages from FedRAMP; this inbox is a FedRAMP Security Inbox (FSI).
 
     ---
 
@@ -79,7 +79,7 @@ The Addressing FedRAMP Communication rules (formerly FedRAMP Security Inbox) ens
 
 
 !!! quote ""
-    Providers MUST receive and react to email messages from FedRAMP without disruption and without requiring additional actions from FedRAMP.
+    Providers [MUST](../../../definitions/#must){ data-preview } receive and react to email messages from FedRAMP without disruption and without requiring additional actions from FedRAMP.
 
 
     ---
@@ -104,7 +104,7 @@ The Certification Data Sharing rules allow providers to store and share FedRAMP 
 
 
 !!! quote ""
-    Providers MUST publicly share up-to-date information about the cloud service offering in both human-readable and JSON formats, including at least the following information that is available and applicable:
+    Providers [MUST](../../../definitions/#must){ data-preview } publicly share up-to-date information about the cloud service offering in both human-readable and JSON formats, including at least the following information that is available and applicable:
 
     1. FedRAMP ID
     1. Service Model
@@ -144,7 +144,7 @@ The Certification Data Sharing rules allow providers to store and share FedRAMP 
 
 
 !!! quote ""
-    Providers MUST use a FedRAMP-compatible trust center to store and share FedRAMP Certification Data with all necessary parties.
+    Providers [MUST](../../../definitions/#must){ data-preview } use a FedRAMP-compatible trust center to store and share FedRAMP Certification Data with all necessary parties.
 
 
     ---
@@ -167,7 +167,7 @@ The Certification Data Sharing rules allow providers to store and share FedRAMP 
 
 
 !!! quote ""
-    Providers MUST notify FedRAMP within 5 business days of denying an agency access request for FedRAMP Certification Data.
+    Providers [MUST](../../../definitions/#must){ data-preview } notify FedRAMP within 5 business days of denying an agency access request for FedRAMP Certification Data.
 
     **Timeframe:** 5 business days
 
@@ -184,6 +184,9 @@ The Collaborative Continuous Monitoring rules help agencies use shared, current 
     **Changelog:**
 
 
+    - **2026-09-13:** Added (if applicable) to clarify that some of these items are not always required depending on the FedRAMP Certification Type or Class.
+
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
@@ -192,7 +195,9 @@ The Collaborative Continuous Monitoring rules help agencies use shared, current 
 
 
 !!! quote ""
-    Providers MUST supply an Ongoing Certification Report to all necessary parties every 3 months, covering the entire period since the previous summary, in a consistent format that is human readable; this report MUST include high-level summaries of at least the following information:
+    Providers [MUST](../../../definitions/#must){ data-preview } supply an Ongoing Certification Report to all necessary parties every 3 months, covering the entire period since the previous summary, in a consistent format that is human readable; this report [MUST](../../../definitions/#must){ data-preview } include high-level summaries of at least the following information (if applicable):
+
+    **Timeframe:** 3 months
 
     1. Changes to FedRAMP Certification Data
     1. Planned changes to FedRAMP Certification Data during at least the next 3 months
@@ -218,7 +223,7 @@ The Collaborative Continuous Monitoring rules help agencies use shared, current 
 
 
 !!! quote ""
-    Providers MUST supply the target date for their next Ongoing Certification Report with other public FedRAMP Certification Data.
+    Providers [MUST](../../../definitions/#must){ data-preview } supply the target date for their next Ongoing Certification Report with other public FedRAMP Certification Data.
 
 
     ---
@@ -242,7 +247,7 @@ The Incident Evaluation and Communication rules explain how providers must commu
 
 
 !!! quote ""
-    Providers MUST promptly evaluate incidents to determine if they affect confidentiality or integrity of federal customer data or are likely to affect confidentiality or integrity of federal customer data; such incidents are FedRAMP Reportable Incidents and must be reported following the FedRAMP Incident Evaluation and Communication rules.
+    Providers [MUST](../../../definitions/#must){ data-preview } promptly evaluate incidents to determine if they affect confidentiality or integrity of federal customer data or are likely to affect confidentiality or integrity of federal customer data; such incidents are FedRAMP Reportable Incidents and must be reported following the FedRAMP Incident Evaluation and Communication rules.
 
 
     ---
@@ -266,7 +271,7 @@ The Incident Evaluation and Communication rules explain how providers must commu
 
 !!! quote ""
     === "Class A"
-        Providers with Class A Certifications MUST responsibly notify all affected parties by providing a Final Incident Report once the incident has been resolved and recovery is complete, including final updates to all previously reported information.
+        Providers with Class A Certifications [MUST](../../../definitions/#must){ data-preview } responsibly notify all affected parties by providing a Final Incident Report once the incident has been resolved and recovery is complete, including final updates to all previously reported information.
 
 
         ---
@@ -301,7 +306,7 @@ This ruleset explains the expectations for independent verification and validati
 
 !!! quote ""
     === "Class A"
-        Providers with 20x Class A Certifications MUST meet the expectations of their underlying alternative security framework as part of their persistent independent verification and validation assessment.
+        Providers with 20x Class A Certifications [MUST](../../../definitions/#must){ data-preview } meet the expectations of their underlying alternative security framework as part of their persistent independent verification and validation assessment.
 
 
     ---
@@ -322,7 +327,7 @@ The Minimum Assessment Scope rules help providers define assessment boundaries n
 
 
 !!! quote ""
-    Providers MUST identify a set of information resources to assess for FedRAMP Certification that includes all information resources that are likely to handle federal customer data or likely to impact the confidentiality, integrity, or availability of federal customer data handled by the cloud service offering; this set of information resources is the cloud service offering.
+    Providers [MUST](../../../definitions/#must){ data-preview } identify a set of information resources to assess for FedRAMP Certification that includes all information resources that are likely to handle federal customer data or likely to impact the confidentiality, integrity, or availability of federal customer data handled by the cloud service offering; this set of information resources is the cloud service offering.
 
 
     ---
@@ -350,7 +355,7 @@ The Vulnerability Detection and Response rules require providers to continuously
 
 
 !!! quote ""
-    Providers MUST systematically, persistently, and promptly discover and identify vulnerabilities within their cloud service offering using appropriate techniques such as assessment, scanning, threat intelligence, vulnerability disclosure mechanisms, bug bounties, penetration testing, incident response, automated control testing, supply chain monitoring, and other relevant capabilities; this process is called vulnerability detection. Vulnerability detection includes persistently verifying and validating that information resources and processes are operating as intended and documented for FedRAMP Practices.
+    Providers [MUST](../../../definitions/#must){ data-preview } systematically, persistently, and promptly discover and identify vulnerabilities within their cloud service offering using appropriate techniques such as assessment, scanning, threat intelligence, vulnerability disclosure mechanisms, bug bounties, penetration testing, incident response, automated control testing, supply chain monitoring, and other relevant capabilities; this process is called vulnerability detection. Vulnerability detection includes persistently verifying and validating that information resources and processes are operating as intended and documented for FedRAMP Practices.
 
     ---
 
@@ -381,7 +386,7 @@ The Certification Data Sharing rules allow providers to store and share FedRAMP 
 
 !!! quote ""
     === "Class A"
-        Providers with Class A Certifications SHOULD maintain a web service, available to all necessary parties, that indicates current and historical availability of core services within the cloud service offering over at least the past 30 days, including availability incidents, in both human-readable and machine-readable formats; this service SHOULD be available even if the primary cloud service offering is unavailable.
+        Providers with Class A Certifications [SHOULD](../../../definitions/#should){ data-preview } maintain a web service, available to all necessary parties, that indicates current and historical availability of core services within the cloud service offering over at least the past 30 days, including availability incidents, in both human-readable and machine-readable formats; this service [SHOULD](../../../definitions/#should){ data-preview } be available even if the primary cloud service offering is unavailable.
 
         ---
 
@@ -441,7 +446,7 @@ The Incident Evaluation and Communication rules explain how providers must commu
 
 !!! quote ""
     === "Class A"
-        Providers with Class A Certifications SHOULD responsibly notify all affected parties after identifying FedRAMP Reportable Incidents by providing an Initial Incident Report with as much of the following information that is available at the time of reporting and/or the current relevant status for each item:
+        Providers with Class A Certifications [SHOULD](../../../definitions/#should){ data-preview } responsibly notify all affected parties after identifying FedRAMP Reportable Incidents by providing an Initial Incident Report with as much of the following information that is available at the time of reporting and/or the current relevant status for each item:
 
         1. Contact information for the federal incident response coordinator
         1. Provider's internally assigned tracking identifier
@@ -474,6 +479,9 @@ The Incident Evaluation and Communication rules explain how providers must commu
     **Changelog:**
 
 
+    - **2026-09-13:** Removed the extra the in all statements.
+
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
@@ -487,7 +495,7 @@ The Incident Evaluation and Communication rules explain how providers must commu
 
 !!! quote ""
     === "Class A"
-        Providers with Class A Certifications SHOULD responsibly notify all affected parties of ongoing activity as new information becomes available during incident response for FedRAMP Reportable Incidents, including updates (or lack of updates) to all previously reported information and as much of the the following additional information that is available and/or the current relevant status for each item:
+        Providers with Class A Certifications [SHOULD](../../../definitions/#should){ data-preview } responsibly notify all affected parties of ongoing activity as new information becomes available during incident response for FedRAMP Reportable Incidents, including updates (or lack of updates) to all previously reported information and as much of the following additional information that is available and/or the current relevant status for each item:
 
         1. Observed incident activity
         1. Indicators of compromise
@@ -528,7 +536,7 @@ The Vulnerability Detection and Response rules require providers to continuously
 
 !!! quote ""
     === "Class A"
-        Providers of FedRAMP 20x Class A offerings SHOULD verify and validate the status of machine-based information resources at least once every month.
+        Providers of FedRAMP 20x Class A offerings [SHOULD](../../../definitions/#should){ data-preview } verify and validate the status of machine-based information resources at least once every month.
 
         **Timeframe:** 1 month
 
@@ -548,7 +556,7 @@ The Vulnerability Detection and Response rules require providers to continuously
 
 !!! quote ""
     === "Class A"
-        Providers with Class A Certifications SHOULD persistently perform vulnerability detection on all information resources that are NOT likely to drift, at least once every 6 months.
+        Providers with Class A Certifications [SHOULD](../../../definitions/#should){ data-preview } persistently perform vulnerability detection on all information resources that are NOT likely to drift, at least once every 6 months.
 
         **Timeframe:** 6 months
 
@@ -568,7 +576,7 @@ The Vulnerability Detection and Response rules require providers to continuously
 
 !!! quote ""
     === "Class A"
-        Providers with Class A Certifications SHOULD persistently perform vulnerability detection on all information resources that are likely to drift, at least once every 3 months.
+        Providers with Class A Certifications [SHOULD](../../../definitions/#should){ data-preview } persistently perform vulnerability detection on all information resources that are likely to drift, at least once every 3 months.
 
         **Timeframe:** 3 months
 
@@ -588,7 +596,7 @@ The Vulnerability Detection and Response rules require providers to continuously
 
 !!! quote ""
     === "Class A"
-        Providers with Class A Certifications SHOULD persistently perform vulnerability detection on representative samples of similar machine-based information resources, at least once every 14 days.
+        Providers with Class A Certifications [SHOULD](../../../definitions/#should){ data-preview } persistently perform vulnerability detection on representative samples of similar machine-based information resources, at least once every 14 days.
 
         **Timeframe:** 14 days
 
@@ -611,7 +619,7 @@ The Vulnerability Detection and Response rules require providers to continuously
 
 !!! quote ""
     === "Class A"
-        Providers with Class A Certifications SHOULD partially mitigate vulnerabilities, fully mitigate vulnerabilities, or remediate vulnerabilities to a lower potential agency impact within the timeframes from evaluation shown below, factoring for the current Potential Agency Impact N-rating as defined in [VER-EVA-EPA (Estimate Potential Agency Impact)](../../../providers/20x/rules/vulnerability-evaluation-and-reporting.md#estimate-potential-agency-impact){ data-preview }, internet reachability, and likely exploitability.
+        Providers with Class A Certifications [SHOULD](../../../definitions/#should){ data-preview } partially mitigate vulnerabilities, fully mitigate vulnerabilities, or remediate vulnerabilities to a lower potential agency impact within the timeframes from evaluation shown below, factoring for the current Potential Agency Impact N-rating as defined in [VER-EVA-EPA (Estimate Potential Agency Impact)](../../../providers/20x/rules/vulnerability-evaluation-and-reporting.md#estimate-potential-agency-impact){ data-preview }, internet reachability, and likely exploitability.
 
 
         ---
@@ -645,7 +653,7 @@ The Vulnerability Evaluation and Reporting rules require cloud service providers
 
 !!! quote ""
     === "Class A"
-        Providers with Class A Certifications SHOULD evaluate ALL vulnerabilities as required by VER-EVA (Evaluation) within 14 days of detection.
+        Providers with Class A Certifications [SHOULD](../../../definitions/#should){ data-preview } evaluate ALL vulnerabilities as required by VER-EVA (Evaluation) within 14 days of detection.
 
         **Timeframe:** 14 days
 
@@ -669,7 +677,7 @@ The Certification Data Sharing rules allow providers to store and share FedRAMP 
 
 !!! quote ""
     === "Class A"
-        Providers with Class A Certifications MAY supply per-service FedRAMP Certification materials.
+        Providers with Class A Certifications [MAY](../../../definitions/#may){ data-preview } supply per-service FedRAMP Certification materials.
 
 
     ---
@@ -695,7 +703,7 @@ The Collaborative Continuous Monitoring rules help agencies use shared, current 
 
 !!! quote ""
     === "Class A"
-        Providers with Class A Certifications MAY host a synchronous Quarterly Review every 3 months, open to all necessary parties, to review aspects of the most recent Ongoing Certification Reports that the provider determines are of the most relevance to agencies.
+        Providers with Class A Certifications [MAY](../../../definitions/#may){ data-preview } host a synchronous Quarterly Review every 3 months, open to all necessary parties, to review aspects of the most recent Ongoing Certification Reports that the provider determines are of the most relevance to agencies.
 
         **Timeframe:** 3 months
 
@@ -719,7 +727,7 @@ The Cryptographic Module Use rules clarify how providers should select and use c
 
 !!! quote ""
     === "Class A"
-        Providers with Class A Certifications MAY use cryptographic modules or update streams of cryptographic modules with active validations under the NIST Cryptographic Module Validation Program when using cryptographic services to protect federal customer data.
+        Providers with Class A Certifications [MAY](../../../definitions/#may){ data-preview } use cryptographic modules or update streams of cryptographic modules with active validations under the NIST Cryptographic Module Validation Program when using cryptographic services to protect federal customer data.
 
 
     ---
@@ -741,7 +749,7 @@ This ruleset explains the expectations for independent verification and validati
 
 !!! quote ""
     === "Class A"
-        Providers with Class A Certifications MAY persistently complete an independent verification and validation assessment of all applicable FedRAMP rules with a FedRAMP Recognized independent assessment service OR FedRAMP at least once per year; this is a FedRAMP independent assessment.
+        Providers with Class A Certifications [MAY](../../../definitions/#may){ data-preview } persistently complete an independent verification and validation assessment of all applicable FedRAMP rules with a FedRAMP Recognized independent assessment service OR FedRAMP at least once per year; this is a FedRAMP independent assessment.
 
         **Timeframe:** 1 year
 
@@ -775,7 +783,7 @@ The Security Decision Record replaced a traditional System Security Plan with a 
 
 !!! quote ""
     === "Class A"
-        Providers with 20x Class A Certifications MAY also include historical metrics in their Security Decision Record.
+        Providers with 20x Class A Certifications [MAY](../../../definitions/#may){ data-preview } also include historical metrics in their Security Decision Record.
 
 
     ---
@@ -797,7 +805,7 @@ The Vulnerability Evaluation and Reporting rules require cloud service providers
 
 !!! quote ""
     === "Class A"
-        Providers with Class A Certifications MAY treat internet-reachable likely exploitable vulnerabilities where Potential Agency Impact N-rating > 3 as a FedRAMP Reportable Incident until they are partially mitigated vulnerabilities at N3 or below.
+        Providers with Class A Certifications [MAY](../../../definitions/#may){ data-preview } treat internet-reachable likely exploitable vulnerabilities where Potential Agency Impact N-rating > 3 as a FedRAMP Reportable Incident until they are partially mitigated vulnerabilities at N3 or below.
 
 
     ---
@@ -817,7 +825,7 @@ The Vulnerability Evaluation and Reporting rules require cloud service providers
 
 !!! quote ""
     === "Class A"
-        Providers with Class A Certifications MAY make all recent historical vulnerability detection and response activity available in JSON format for automated retrieval by all necessary parties (e.g. using an API service or similar); this information MAY be updated persistently, at least once every month.
+        Providers with Class A Certifications [MAY](../../../definitions/#may){ data-preview } make all recent historical vulnerability detection and response activity available in JSON format for automated retrieval by all necessary parties (e.g. using an API service or similar); this information [MAY](../../../definitions/#may){ data-preview } be updated persistently, at least once every month.
 
         **Timeframe:** 1 month
 
@@ -837,7 +845,7 @@ The Vulnerability Evaluation and Reporting rules require cloud service providers
 
 !!! quote ""
     === "Class A"
-        Providers with Class A Certifications MAY treat likely exploitable vulnerabilities that are NOT internet-reachable where Potential Agency Impact N-rating = 5 as a FedRAMP Reportable Incident until they are partially mitigated vulnerabilities at N4 or below.
+        Providers with Class A Certifications [MAY](../../../definitions/#may){ data-preview } treat likely exploitable vulnerabilities that are NOT internet-reachable where Potential Agency Impact N-rating = 5 as a FedRAMP Reportable Incident until they are partially mitigated vulnerabilities at N4 or below.
 
 
     ---
@@ -860,7 +868,7 @@ The Certification Package Overview rules outline the expectations for a simple o
 
 
 !!! quote ""
-    Providers MUST supply a Certification Package Overview within their FedRAMP Certification Package, in both human-readable and JSON formats, that includes at least all of the information required by the following rules:
+    Providers [MUST](../../../definitions/#must){ data-preview } supply a Certification Package Overview within their FedRAMP Certification Package, in both human-readable and JSON formats, that includes at least all of the information required by the following rules:
 
     1. Certification Package Overview: [CPO-CSO-MTD (Certification Package Overview Metadata)](../../../providers/20x/rules/certification-package-overview.md#certification-package-overview-metadata){ data-preview }
     1. Certification Data Sharing: [CDS-CSO-PUB (Public Information)](#public-information){ data-preview }
@@ -899,7 +907,7 @@ The Security Decision Record replaced a traditional System Security Plan with a 
 
 
 !!! quote ""
-    Providers MUST supply a Security Decision Record, in both human-readable and JSON formats, that includes at least all of the following information for each applicable FedRAMP rule:
+    Providers [MUST](../../../definitions/#must){ data-preview } supply a Security Decision Record, in both human-readable and JSON formats, that includes at least all of the following information for each applicable FedRAMP rule:
 
     1. Explanation of how the rule is followed, or an explanation of the reason and resulting risk to customers for not following the rule.
     1. Verification that the implementation is appropriate for the rule, or that the reason for not implementing is accepted by a senior official.

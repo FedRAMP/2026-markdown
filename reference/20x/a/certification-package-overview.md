@@ -47,7 +47,7 @@ These rules apply to providers for FedRAMP 20x Certifications.
 
 !!! quote ""
     === "Class A"
-        Providers with 20x Class A Certifications SHOULD persistently maintain their FedRAMP Certification Package to ensure it is up to date and complete at least once every 3 months.
+        Providers with 20x Class A Certifications [SHOULD](../../../definitions/#should){ data-preview } persistently maintain their FedRAMP Certification Package to ensure it is up to date and complete at least once every 3 months.
 
         **Timeframe:** 3 months
 

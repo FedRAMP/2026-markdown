@@ -46,7 +46,7 @@ These rules apply to providers for any type of FedRAMP Certification.
 
 
 !!! quote ""
-    Providers MUST identify a set of information resources to assess for FedRAMP Certification that includes all information resources that are likely to handle federal customer data or likely to impact the confidentiality, integrity, or availability of federal customer data handled by the cloud service offering; this set of information resources is the cloud service offering.
+    Providers [MUST](../../../definitions/#must){ data-preview } identify a set of information resources to assess for FedRAMP Certification that includes all information resources that are likely to handle federal customer data or likely to impact the confidentiality, integrity, or availability of federal customer data handled by the cloud service offering; this set of information resources is the cloud service offering.
 
 
     ---
@@ -70,7 +70,7 @@ These rules apply to providers for any type of FedRAMP Certification.
 
 
 !!! quote ""
-    Providers MUST clearly identify, document, and explain information flows and security categories for ALL information resources or sets of information resources in the cloud service offering.
+    Providers [MUST](../../../definitions/#must){ data-preview } clearly identify, document, and explain information flows and security categories for ALL information resources or sets of information resources in the cloud service offering.
 
 
     ---
@@ -93,7 +93,7 @@ These rules apply to providers for any type of FedRAMP Certification.
 
 
 !!! quote ""
-    Providers MUST address the potential impact to federal customer data from third-party information resources used by the cloud service offering, ONLY IF [MAS-CSO-IIR (Identify Information Resources)](#identify-information-resources){ data-preview } APPLIES, by documenting the following information about each applicable third-party information resource:
+    Providers [MUST](../../../definitions/#must){ data-preview } address the potential impact to federal customer data from third-party information resources used by the cloud service offering, ONLY IF [MAS-CSO-IIR (Identify Information Resources)](#identify-information-resources){ data-preview } APPLIES, by documenting the following information about each applicable third-party information resource:
 
     1. General usage and configuration
     1. Explanation or justification for use
@@ -115,7 +115,7 @@ These rules apply to providers for any type of FedRAMP Certification.
 
 
 !!! quote ""
-    Providers MUST include metadata (including metadata about federal customer data) in the Minimum Assessment Scope ONLY IF [MAS-CSO-IIR (Identify Information Resources)](#identify-information-resources){ data-preview } APPLIES.
+    Providers [MUST](../../../definitions/#must){ data-preview } include metadata (including metadata about federal customer data) in the Minimum Assessment Scope ONLY IF [MAS-CSO-IIR (Identify Information Resources)](#identify-information-resources){ data-preview } APPLIES.
 
 
     ---
@@ -132,7 +132,7 @@ These rules apply to providers for any type of FedRAMP Certification.
 
 
 !!! quote ""
-    Providers MAY include additional materials about other information resources that are not part of the cloud service offering in a FedRAMP Certification Package supplement; these resources will not be FedRAMP Certified and MUST be clearly marked and separated from the cloud service offering.
+    Providers [MAY](../../../definitions/#may){ data-preview } include additional materials about other information resources that are not part of the cloud service offering in a FedRAMP Certification Package supplement; these resources will not be FedRAMP Certified and [MUST](../../../definitions/#must){ data-preview } be clearly marked and separated from the cloud service offering.
 
 
     ---

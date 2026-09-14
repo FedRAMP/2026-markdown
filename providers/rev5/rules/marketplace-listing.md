@@ -51,7 +51,7 @@ These rules apply to providers seeking a listing in the FedRAMP Marketplace.
 
 
 !!! quote ""
-    Providers MUST address at least these FedRAMP rules to apply for a new FedRAMP Marketplace listing OR to request updates to an existing listing:
+    Providers [MUST](../../../definitions/#must){ data-preview } address at least these FedRAMP rules to apply for a new FedRAMP Marketplace listing OR to request updates to an existing listing:
 
     1. Certification Data Sharing: [CDS-CSO-PUB (Public Information)](certification-data-sharing.md#public-information){ data-preview }
 
@@ -72,7 +72,7 @@ These rules apply to providers seeking a listing in the FedRAMP Marketplace.
 
 
 !!! quote ""
-    Providers MUST notify FedRAMP using the FedRAMP Marketplace Providing Listing Request Form to request a listing in the FedRAMP Marketplace.
+    Providers [MUST](../../../definitions/#must){ data-preview } notify FedRAMP using the FedRAMP Marketplace Providing Listing Request Form to request a listing in the FedRAMP Marketplace.
 
 
     ---
@@ -101,7 +101,7 @@ FedRAMP allows cloud service providers that are actively preparing to obtain a F
 
 
 !!! quote ""
-    Providers MUST demonstrate that a cloud service offering is intended for one of the following use cases:
+    Providers [MUST](../../../definitions/#must){ data-preview } demonstrate that a cloud service offering is intended for one of the following use cases:
 
     1. Direct Use: The product will be used directly by agency customers for integration into a federal information system that falls within the scope of 44 USC § 3506 and will receive an agency Authorization to Operate.
     1. Indirect Use: The product will be included as a third-party information resource in other cloud service offerings that are directly used by agency customers.
@@ -127,7 +127,7 @@ FedRAMP allows cloud service providers that are actively preparing to obtain a F
 
 
 !!! quote ""
-    Providers MUST demonstrate continuous progress towards a FedRAMP Certification, documented in their Trust Center or website and updated at least quarterly; progress is measured by the provider against documented goals and milestones.
+    Providers [MUST](../../../definitions/#must){ data-preview } demonstrate continuous progress towards a FedRAMP Certification, documented in their Trust Center or website and updated at least quarterly; progress is measured by the provider against documented goals and milestones.
 
 
     ---
@@ -148,7 +148,9 @@ FedRAMP allows cloud service providers that are actively preparing to obtain a F
 
 
 !!! quote ""
-    Providers MUST demonstrate that an assessment for a FedRAMP Certification Class B, C, or D has been scheduled within 2 years of initial listing in the Initial Implementation Phase.
+    Providers [MUST](../../../definitions/#must){ data-preview } demonstrate that an assessment for a FedRAMP Certification Class B, C, or D has been scheduled within 2 years of initial listing in the Initial Implementation Phase.
+
+    **Timeframe:** 2 years
 
     !!! warning "Corrective Actions"
         - If a provider fails to schedule an assessment for a FedRAMP Certification Class B, C, or D within 2 years of initial listing in the Initial Implementation Phase, FedRAMP will remove their listing from the Marketplace until they provide evidence of a scheduled assessment.

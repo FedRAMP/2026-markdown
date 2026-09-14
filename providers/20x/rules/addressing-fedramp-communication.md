@@ -45,7 +45,7 @@ These rules apply to providers with any type of FedRAMP Certification.
 
 
 !!! quote ""
-    Providers MUST establish and maintain an email address to receive messages from FedRAMP; this inbox is a FedRAMP Security Inbox (FSI).
+    Providers [MUST](../../../definitions/#must){ data-preview } establish and maintain an email address to receive messages from FedRAMP; this inbox is a FedRAMP Security Inbox (FSI).
 
     ---
 
@@ -73,7 +73,7 @@ These rules apply to providers with any type of FedRAMP Certification.
 
 
 !!! quote ""
-    Providers MUST immediately notify FedRAMP of any changes to the email address for their FedRAMP Security Inbox.
+    Providers [MUST](../../../definitions/#must){ data-preview } immediately notify FedRAMP of any changes to the email address for their FedRAMP Security Inbox.
 
 
     ---
@@ -90,7 +90,7 @@ These rules apply to providers with any type of FedRAMP Certification.
 
 
 !!! quote ""
-    Providers MUST treat any email originating from an @fedramp.gov or @gsa.gov email address as if it was sent from FedRAMP by default; if such a message is confirmed to originate from someone other than FedRAMP then the FedRAMP Security Inbox rules no longer apply.
+    Providers [MUST](../../../definitions/#must){ data-preview } treat any email originating from an @fedramp.gov or @gsa.gov email address as if it was sent from FedRAMP by default; if such a message is confirmed to originate from someone other than FedRAMP then the FedRAMP Security Inbox rules no longer apply.
 
 
     ---
@@ -107,7 +107,7 @@ These rules apply to providers with any type of FedRAMP Certification.
 
 
 !!! quote ""
-    Providers MUST receive and react to email messages from FedRAMP without disruption and without requiring additional actions from FedRAMP.
+    Providers [MUST](../../../definitions/#must){ data-preview } receive and react to email messages from FedRAMP without disruption and without requiring additional actions from FedRAMP.
 
 
     ---
@@ -126,7 +126,7 @@ These rules apply to providers with any type of FedRAMP Certification.
 
 
 !!! quote ""
-    Providers MUST complete the required actions in Emergency or Emergency Test designated messages sent by FedRAMP within the timeframe included in the message.
+    Providers [MUST](../../../definitions/#must){ data-preview } complete the required actions in Emergency or Emergency Test designated messages sent by FedRAMP within the timeframe included in the message.
 
 
     ---
@@ -147,7 +147,7 @@ These rules apply to providers with any type of FedRAMP Certification.
 
 
 !!! quote ""
-    Providers MUST route Emergency designated messages sent by FedRAMP to a senior security official for their awareness.
+    Providers [MUST](../../../definitions/#must){ data-preview } route Emergency designated messages sent by FedRAMP to a senior security official for their awareness.
 
 
     ---
@@ -166,7 +166,7 @@ These rules apply to providers with any type of FedRAMP Certification.
 
 
 !!! quote ""
-    Providers SHOULD complete the required actions in Important designated messages sent by FedRAMP within the timeframe specified in the message.
+    Providers [SHOULD](../../../definitions/#should){ data-preview } complete the required actions in Important designated messages sent by FedRAMP within the timeframe specified in the message.
 
 
     ---
@@ -187,7 +187,7 @@ These rules apply to providers with any type of FedRAMP Certification.
 
 
 !!! quote ""
-    Providers SHOULD promptly and automatically acknowledge the receipt of messages received from FedRAMP in their FedRAMP Security Inbox.
+    Providers [SHOULD](../../../definitions/#should){ data-preview } promptly and automatically acknowledge the receipt of messages received from FedRAMP in their FedRAMP Security Inbox.
 
 
     ---

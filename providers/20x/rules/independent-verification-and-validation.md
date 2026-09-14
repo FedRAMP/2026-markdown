@@ -52,22 +52,22 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 
 !!! quote ""
     === "Class A"
-        Providers with Class A Certifications MAY persistently complete an independent verification and validation assessment of all applicable FedRAMP rules with a FedRAMP Recognized independent assessment service OR FedRAMP at least once per year; this is a FedRAMP independent assessment.
+        Providers with Class A Certifications [MAY](../../../definitions/#may){ data-preview } persistently complete an independent verification and validation assessment of all applicable FedRAMP rules with a FedRAMP Recognized independent assessment service OR FedRAMP at least once per year; this is a FedRAMP independent assessment.
 
         **Timeframe:** 1 year
 
     === "Class B"
-        Providers with Class B Certifications MUST persistently complete an independent verification and validation assessment of all applicable FedRAMP rules with a FedRAMP Recognized independent assessment service OR FedRAMP at least once per year; this is a FedRAMP independent assessment.
+        Providers with Class B Certifications [MUST](../../../definitions/#must){ data-preview } persistently complete an independent verification and validation assessment of all applicable FedRAMP rules with a FedRAMP Recognized independent assessment service OR FedRAMP at least once per year; this is a FedRAMP independent assessment.
 
         **Timeframe:** 1 year
 
     === "Class C"
-        Providers with Class C Certifications MUST persistently complete an independent verification and validation assessment of all applicable FedRAMP rules with a FedRAMP Recognized independent assessment service OR FedRAMP at least once per year; this is a FedRAMP independent assessment.
+        Providers with Class C Certifications [MUST](../../../definitions/#must){ data-preview } persistently complete an independent verification and validation assessment of all applicable FedRAMP rules with a FedRAMP Recognized independent assessment service OR FedRAMP at least once per year; this is a FedRAMP independent assessment.
 
         **Timeframe:** 1 year
 
     === "Class D"
-        Providers with Class D Certifications MUST persistently complete an independent verification and validation assessment of all applicable FedRAMP rules with a FedRAMP Recognized independent assessment service OR FedRAMP at least once per year; this is a FedRAMP independent assessment.
+        Providers with Class D Certifications [MUST](../../../definitions/#must){ data-preview } persistently complete an independent verification and validation assessment of all applicable FedRAMP rules with a FedRAMP Recognized independent assessment service OR FedRAMP at least once per year; this is a FedRAMP independent assessment.
 
         **Timeframe:** 1 year
 
@@ -94,7 +94,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 
 
 !!! quote ""
-    Providers MUST supply evidence to all necessary assessors of the implementation of the measures that have been documented to meet FedRAMP Practices; this evidence is the result of verification.
+    Providers [MUST](../../../definitions/#must){ data-preview } supply evidence to all necessary assessors of the implementation of the measures that have been documented to meet FedRAMP Practices; this evidence is the result of verification.
 
 
     ---
@@ -115,7 +115,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 
 
 !!! quote ""
-    Providers MUST supply evidence to all necessary assessors of the effectiveness of the measures that have been implemented to meet FedRAMP Practices; this evidence is the result of validation.
+    Providers [MUST](../../../definitions/#must){ data-preview } supply evidence to all necessary assessors of the effectiveness of the measures that have been implemented to meet FedRAMP Practices; this evidence is the result of validation.
 
 
     ---
@@ -136,7 +136,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 
 
 !!! quote ""
-    Providers MUST supply the results of FedRAMP independent assessments in their FedRAMP Certification Package without inappropriate modification.
+    Providers [MUST](../../../definitions/#must){ data-preview } supply the results of FedRAMP independent assessments in their FedRAMP Certification Package without inappropriate modification.
 
 
     ---
@@ -159,7 +159,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 
 
 !!! quote ""
-    Providers MUST document and explain the use of representative samples during verification and validation when using representative samples as allowed by [IVV-CSO-USR (Use Representative Samples)](#use-representative-samples){ data-preview }.
+    Providers [MUST](../../../definitions/#must){ data-preview } document and explain the use of representative samples during verification and validation when using representative samples as allowed by [IVV-CSO-USR (Use Representative Samples)](#use-representative-samples){ data-preview }.
 
 
     ---
@@ -176,7 +176,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 
 
 !!! quote ""
-    Providers SHOULD supply all necessary assessors with technical explanations, demonstrations, and other relevant supporting information about the technical capabilities they employ to address FedRAMP rules; this SHOULD be supplied as necessary to ensure the assessor can effectively complete verification and validation.
+    Providers [SHOULD](../../../definitions/#should){ data-preview } supply all necessary assessors with technical explanations, demonstrations, and other relevant supporting information about the technical capabilities they employ to address FedRAMP rules; this [SHOULD](../../../definitions/#should){ data-preview } be supplied as necessary to ensure the assessor can effectively complete verification and validation.
 
 
     ---
@@ -193,7 +193,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 
 
 !!! quote ""
-    Providers MAY use representative samples as appropriate during verification and validation.
+    Providers [MAY](../../../definitions/#may){ data-preview } use representative samples as appropriate during verification and validation.
 
 
     ---
@@ -214,7 +214,7 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 
 
 !!! quote ""
-    Providers MAY ask for and accept advice from their assessor during assessment regarding techniques and procedures that will improve their security posture or the effectiveness, clarity, and accuracy of their verification, validation and reporting procedures, UNLESS doing so is likely to compromise the objectivity and integrity of the assessment.
+    Providers [MAY](../../../definitions/#may){ data-preview } ask for and accept advice from their assessor during assessment regarding techniques and procedures that will improve their security posture or the effectiveness, clarity, and accuracy of their verification, validation and reporting procedures, UNLESS doing so is likely to compromise the objectivity and integrity of the assessment.
 
 
     ---
@@ -243,20 +243,20 @@ These rules apply to providers for FedRAMP 20x Certifications.
 
 !!! quote ""
     === "Class A"
-        Providers with 20x Class A Certifications MUST meet the expectations of their underlying alternative security framework as part of their persistent independent verification and validation assessment.
+        Providers with 20x Class A Certifications [MUST](../../../definitions/#must){ data-preview } meet the expectations of their underlying alternative security framework as part of their persistent independent verification and validation assessment.
 
     === "Class B"
-        Providers with 20x Class B Certifications MUST include all Key Security Indicators in a FedRAMP independent assessment at least once per year.
+        Providers with 20x Class B Certifications [MUST](../../../definitions/#must){ data-preview } include all Key Security Indicators in a FedRAMP independent assessment at least once per year.
 
         **Timeframe:** 1 year
 
     === "Class C"
-        Providers with 20x Class C Certifications MUST include all Key Security Indicators in a FedRAMP independent assessment at least once per year.
+        Providers with 20x Class C Certifications [MUST](../../../definitions/#must){ data-preview } include all Key Security Indicators in a FedRAMP independent assessment at least once per year.
 
         **Timeframe:** 1 year
 
     === "Class D"
-        Providers with 20x Class D Certifications MUST include all Key Security Indicators in a FedRAMP independent assessment at least once per year.
+        Providers with 20x Class D Certifications [MUST](../../../definitions/#must){ data-preview } include all Key Security Indicators in a FedRAMP independent assessment at least once per year.
 
         **Timeframe:** 1 year
 

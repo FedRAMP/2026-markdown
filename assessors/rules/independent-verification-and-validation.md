@@ -54,7 +54,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 
 !!! quote ""
-    Assessors MUST verify that the measures implemented by the cloud service offering matches the measures they documented to meet FedRAMP Practices.
+    Assessors [MUST](../../definitions/#must){ data-preview } verify that the measures implemented by the cloud service offering matches the measures they documented to meet FedRAMP Practices.
 
 
     ---
@@ -75,7 +75,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 
 !!! quote ""
-    Assessors MUST validate the effectiveness of the implemented measures to ensure they have the intended outcome for meeting FedRAMP Practices.
+    Assessors [MUST](../../definitions/#must){ data-preview } validate the effectiveness of the implemented measures to ensure they have the intended outcome for meeting FedRAMP Practices.
 
 
     ---
@@ -96,7 +96,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 
 !!! quote ""
-    Assessors MUST supply the provider with a high-level summary of their assessment process and findings for each FedRAMP Practice; this summary will be included by the provider in the FedRAMP Security Decision Record for the cloud service offering.
+    Assessors [MUST](../../definitions/#must){ data-preview } supply the provider with a high-level summary of their assessment process and findings for each FedRAMP Practice; this summary will be included by the provider in the FedRAMP Security Decision Record for the cloud service offering.
 
 
     ---
@@ -117,7 +117,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 
 !!! quote ""
-    Assessors MUST supply the provider with an overall summary of the verification and validation assessment results, including any resulting failures or areas of dispute; this summary will be included by the provider in the FedRAMP Certification Package Overview for the cloud service offering.
+    Assessors [MUST](../../definitions/#must){ data-preview } supply the provider with an overall summary of the verification and validation assessment results, including any resulting failures or areas of dispute; this summary will be included by the provider in the FedRAMP Certification Package Overview for the cloud service offering.
 
 
     ---
@@ -138,7 +138,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 
 !!! quote ""
-    Assessors MUST verify that information supplied during a FedRAMP independent assessment is included in the FedRAMP Certification Package by the provider without inappropriate modification.
+    Assessors [MUST](../../definitions/#must){ data-preview } verify that information supplied during a FedRAMP independent assessment is included in the FedRAMP Certification Package by the provider without inappropriate modification.
 
 
     ---
@@ -159,7 +159,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 
 !!! quote ""
-    Assessors SHOULD engage provider experts in discussion to understand the decisions made by the provider and inform expert qualitative assessment, and SHOULD perform independent research to test such information as part of the expert qualitative assessment process.
+    Assessors [SHOULD](../../definitions/#should){ data-preview } engage provider experts in discussion to understand the decisions made by the provider and inform expert qualitative assessment, and [SHOULD](../../definitions/#should){ data-preview } perform independent research to test such information as part of the expert qualitative assessment process.
 
 
 ### Sharing Advice
@@ -174,7 +174,7 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 
 !!! quote ""
-    Assessors MAY share advice with providers they are assessing about techniques and procedures that will improve the provider's security posture or the effectiveness, clarity, and accuracy of their verification, validation and reporting procedures, UNLESS doing so is likely to compromise the objectivity and integrity of the assessment.
+    Assessors [MAY](../../definitions/#may){ data-preview } share advice with providers they are assessing about techniques and procedures that will improve the provider's security posture or the effectiveness, clarity, and accuracy of their verification, validation and reporting procedures, UNLESS doing so is likely to compromise the objectivity and integrity of the assessment.
 
 
     ---

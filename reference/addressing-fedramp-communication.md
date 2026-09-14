@@ -52,7 +52,7 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 
 !!! quote ""
-    FedRAMP MUST send messages to cloud service providers using an official @fedramp.gov or @gsa.gov email address with properly configured Sender Policy Framework (SPF), DomainKeys Identified Mail (DKIM), and Domain-based Message Authentication Reporting and Conformance (DMARC) email authentication.
+    FedRAMP [MUST](../definitions/#must){ data-preview } send messages to cloud service providers using an official @fedramp.gov or @gsa.gov email address with properly configured Sender Policy Framework (SPF), DomainKeys Identified Mail (DKIM), and Domain-based Message Authentication Reporting and Conformance (DMARC) email authentication.
 
 
     ---
@@ -71,7 +71,7 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 
 !!! quote ""
-    FedRAMP MUST convey the criticality of the message in the subject line, IF the message requires an elevated reaction, using one of the following designators:
+    FedRAMP [MUST](../definitions/#must){ data-preview } convey the criticality of the message in the subject line, IF the message requires an elevated reaction, using one of the following designators:
 
     1. **Emergency:** There is a potential incident or crisis such that FedRAMP requires an extremely urgent reaction; emergency messages will contain aggressive timeframes for reaction and failure to meet these timeframes will result in corrective action.
     1. **Emergency Test:** FedRAMP requires an extremely urgent reaction to confirm the functionality and effectiveness of the FedRAMP Security Inbox; emergency test messages will contain aggressive timeframes for reaction and failure to meet these timeframes will result in corrective action.
@@ -96,7 +96,7 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 
 !!! quote ""
-    FedRAMP MUST send Emergency and Emergency Test designated messages from fedramp_security@gsa.gov OR fedramp_security@fedramp.gov.
+    FedRAMP [MUST](../definitions/#must){ data-preview } send Emergency and Emergency Test designated messages from fedramp_security@gsa.gov OR fedramp_security@fedramp.gov.
 
 
 ### Public Notice of Emergency Tests
@@ -113,7 +113,7 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 
 !!! quote ""
-    FedRAMP MUST post a public notice at least 10 business days in advance of sending an Emergency Test message; such notices MUST include explanation of the likely expected actions and timeframes for the Emergency Test message.
+    FedRAMP [MUST](../definitions/#must){ data-preview } post a public notice at least 10 business days in advance of sending an Emergency Test message; such notices [MUST](../definitions/#must){ data-preview } include explanation of the likely expected actions and timeframes for the Emergency Test message.
 
     **Timeframe:** 10 business days
 
@@ -138,7 +138,7 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 
 !!! quote ""
-    FedRAMP MUST clearly specify the required actions in the body of messages that require an elevated reaction.
+    FedRAMP [MUST](../definitions/#must){ data-preview } clearly specify the required actions in the body of messages that require an elevated reaction.
 
 
 ### Elevated Reaction Timeframes
@@ -153,7 +153,7 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 
 !!! quote ""
-    FedRAMP MUST clearly specify the expected timeframe for completing required actions in the body of messages that require an elevated reaction; timeframes for actions will vary depending on the situation but the default timeframes to provide an estimated resolution time for Emergency and Emergency Test designated messages will be as follows:
+    FedRAMP [MUST](../definitions/#must){ data-preview } clearly specify the expected timeframe for completing required actions in the body of messages that require an elevated reaction; timeframes for actions will vary depending on the situation but the default timeframes to provide an estimated resolution time for Emergency and Emergency Test designated messages will be as follows:
 
     1. **Class D:** within 12 hours
     1. **Class C:** by 3:00 p.m. Eastern Time on the 2nd business day
@@ -179,7 +179,7 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 
 !!! quote ""
-    FedRAMP MUST clearly specify the corrective actions that will result from failure to complete the required actions in the body of messages that require an elevated reaction; such actions may vary from negative ratings in the FedRAMP Marketplace to suspension of FedRAMP Certification depending on the severity of the event.
+    FedRAMP [MUST](../definitions/#must){ data-preview } clearly specify the corrective actions that will result from failure to complete the required actions in the body of messages that require an elevated reaction; such actions may vary from negative ratings in the FedRAMP Marketplace to suspension of FedRAMP Certification depending on the severity of the event.
 
 
 ### Reaction Metrics
@@ -194,7 +194,7 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 
 !!! quote ""
-    FedRAMP MAY track and publicly share the time required by cloud service providers to take the actions specified in messages that require an elevated reaction.
+    FedRAMP [MAY](../definitions/#may){ data-preview } track and publicly share the time required by cloud service providers to take the actions specified in messages that require an elevated reaction.
 
 
 ## General Provider Responsibilities {#general-provider-responsibilities}
@@ -220,7 +220,7 @@ These rules apply to providers with any type of FedRAMP Certification.
 
 
 !!! quote ""
-    Providers MUST establish and maintain an email address to receive messages from FedRAMP; this inbox is a FedRAMP Security Inbox (FSI).
+    Providers [MUST](../definitions/#must){ data-preview } establish and maintain an email address to receive messages from FedRAMP; this inbox is a FedRAMP Security Inbox (FSI).
 
     ---
 
@@ -248,7 +248,7 @@ These rules apply to providers with any type of FedRAMP Certification.
 
 
 !!! quote ""
-    Providers MUST immediately notify FedRAMP of any changes to the email address for their FedRAMP Security Inbox.
+    Providers [MUST](../definitions/#must){ data-preview } immediately notify FedRAMP of any changes to the email address for their FedRAMP Security Inbox.
 
 
     ---
@@ -265,7 +265,7 @@ These rules apply to providers with any type of FedRAMP Certification.
 
 
 !!! quote ""
-    Providers MUST treat any email originating from an @fedramp.gov or @gsa.gov email address as if it was sent from FedRAMP by default; if such a message is confirmed to originate from someone other than FedRAMP then the FedRAMP Security Inbox rules no longer apply.
+    Providers [MUST](../definitions/#must){ data-preview } treat any email originating from an @fedramp.gov or @gsa.gov email address as if it was sent from FedRAMP by default; if such a message is confirmed to originate from someone other than FedRAMP then the FedRAMP Security Inbox rules no longer apply.
 
 
     ---
@@ -282,7 +282,7 @@ These rules apply to providers with any type of FedRAMP Certification.
 
 
 !!! quote ""
-    Providers MUST receive and react to email messages from FedRAMP without disruption and without requiring additional actions from FedRAMP.
+    Providers [MUST](../definitions/#must){ data-preview } receive and react to email messages from FedRAMP without disruption and without requiring additional actions from FedRAMP.
 
 
     ---
@@ -301,7 +301,7 @@ These rules apply to providers with any type of FedRAMP Certification.
 
 
 !!! quote ""
-    Providers MUST complete the required actions in Emergency or Emergency Test designated messages sent by FedRAMP within the timeframe included in the message.
+    Providers [MUST](../definitions/#must){ data-preview } complete the required actions in Emergency or Emergency Test designated messages sent by FedRAMP within the timeframe included in the message.
 
 
     ---
@@ -322,7 +322,7 @@ These rules apply to providers with any type of FedRAMP Certification.
 
 
 !!! quote ""
-    Providers MUST route Emergency designated messages sent by FedRAMP to a senior security official for their awareness.
+    Providers [MUST](../definitions/#must){ data-preview } route Emergency designated messages sent by FedRAMP to a senior security official for their awareness.
 
 
     ---
@@ -341,7 +341,7 @@ These rules apply to providers with any type of FedRAMP Certification.
 
 
 !!! quote ""
-    Providers SHOULD complete the required actions in Important designated messages sent by FedRAMP within the timeframe specified in the message.
+    Providers [SHOULD](../definitions/#should){ data-preview } complete the required actions in Important designated messages sent by FedRAMP within the timeframe specified in the message.
 
 
     ---
@@ -362,7 +362,7 @@ These rules apply to providers with any type of FedRAMP Certification.
 
 
 !!! quote ""
-    Providers SHOULD promptly and automatically acknowledge the receipt of messages received from FedRAMP in their FedRAMP Security Inbox.
+    Providers [SHOULD](../definitions/#should){ data-preview } promptly and automatically acknowledge the receipt of messages received from FedRAMP in their FedRAMP Security Inbox.
 
 
     ---

@@ -53,7 +53,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 
 !!! quote ""
-    Providers MUST supply a Security Decision Record, in both human-readable and JSON formats, that includes at least all of the following information for each applicable FedRAMP rule:
+    Providers [MUST](../../../definitions/#must){ data-preview } supply a Security Decision Record, in both human-readable and JSON formats, that includes at least all of the following information for each applicable FedRAMP rule:
 
     1. Explanation of how the rule is followed, or an explanation of the reason and resulting risk to customers for not following the rule.
     1. Verification that the implementation is appropriate for the rule, or that the reason for not implementing is accepted by a senior official.
@@ -78,7 +78,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 
 !!! quote ""
-    Providers MUST also include the following basic metadata in their Security Decision Record:
+    Providers [MUST](../../../definitions/#must){ data-preview } also include the following basic metadata in their Security Decision Record:
 
     1. Version
     1. Date and time of last update
@@ -110,7 +110,7 @@ These rules apply to providers for FedRAMP Rev5 Certifications.
 
 
 !!! quote ""
-    Providers MUST also include short and simple high-level summaries of at least the following for each applicable Rev5 Control:
+    Providers [MUST](../../../definitions/#must){ data-preview } also include short and simple high-level summaries of at least the following for each applicable Rev5 Control:
 
     1. Any organization-defined parameter values.
     1. Implementation status, one of Implemented, Partially Implemented, Planned, Alternative Implementation, or Not Applicable.

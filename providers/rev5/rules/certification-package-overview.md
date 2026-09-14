@@ -21,7 +21,7 @@ The Certification Package Overview rules outline the expectations for a simple o
     - **Optional Adoption:** 2026-07-04
     - **Obtain:** 2027-01-01
     - **Maintain:** 2027-07-01
-    - **Grace Ends:** On the first FedRAMP independent assessment started after 2027-01-01
+    - **Grace Ends:** On the first FedRAMP independent assessment started after 2027-07-01
 
 
 
@@ -53,7 +53,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 
 !!! quote ""
-    Providers MUST supply a Certification Package Overview within their FedRAMP Certification Package, in both human-readable and JSON formats, that includes at least all of the information required by the following rules:
+    Providers [MUST](../../../definitions/#must){ data-preview } supply a Certification Package Overview within their FedRAMP Certification Package, in both human-readable and JSON formats, that includes at least all of the information required by the following rules:
 
     1. Certification Package Overview: [CPO-CSO-MTD (Certification Package Overview Metadata)](#certification-package-overview-metadata){ data-preview }
     1. Certification Data Sharing: [CDS-CSO-PUB (Public Information)](certification-data-sharing.md#public-information){ data-preview }
@@ -86,7 +86,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 
 !!! quote ""
-    Providers MUST also include the following basic metadata in their Certification Package Overview:
+    Providers [MUST](../../../definitions/#must){ data-preview } also include the following basic metadata in their Certification Package Overview:
 
     1. Name, title, and contact information of official that is responsible and accountable for the FedRAMP Certification Package
     1. Version
@@ -109,16 +109,16 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 !!! quote ""
     === "Class A"
-        Providers seeking Class A Certification MAY also include an overall summary of their FedRAMP independent assessment in their Certification Package Overview.
+        Providers seeking Class A Certification [MAY](../../../definitions/#may){ data-preview } also include an overall summary of their FedRAMP independent assessment in their Certification Package Overview.
 
     === "Class B"
-        Providers seeking Class B Certification MUST also include the overall summary of their FedRAMP independent assessment, supplied by the assessor per [IVV-IAS-OSA (Overall Summary of Assessment)](../../../assessors/rules/independent-verification-and-validation.md#overall-summary-of-assessment){ data-preview }, in their Certification Package Overview.
+        Providers seeking Class B Certification [MUST](../../../definitions/#must){ data-preview } also include the overall summary of their FedRAMP independent assessment, supplied by the assessor per [IVV-IAS-OSA (Overall Summary of Assessment)](../../../assessors/rules/independent-verification-and-validation.md#overall-summary-of-assessment){ data-preview }, in their Certification Package Overview.
 
     === "Class C"
-        Providers seeking Class C Certification MUST also include the overall summary of their FedRAMP independent assessment, supplied by the assessor per [IVV-IAS-OSA (Overall Summary of Assessment)](../../../assessors/rules/independent-verification-and-validation.md#overall-summary-of-assessment){ data-preview }, in their Certification Package Overview.
+        Providers seeking Class C Certification [MUST](../../../definitions/#must){ data-preview } also include the overall summary of their FedRAMP independent assessment, supplied by the assessor per [IVV-IAS-OSA (Overall Summary of Assessment)](../../../assessors/rules/independent-verification-and-validation.md#overall-summary-of-assessment){ data-preview }, in their Certification Package Overview.
 
     === "Class D"
-        Providers seeking Class D Certification MUST also include the overall summary of their FedRAMP independent assessment, supplied by the assessor per [IVV-IAS-OSA (Overall Summary of Assessment)](../../../assessors/rules/independent-verification-and-validation.md#overall-summary-of-assessment){ data-preview }, in their Certification Package Overview.
+        Providers seeking Class D Certification [MUST](../../../definitions/#must){ data-preview } also include the overall summary of their FedRAMP independent assessment, supplied by the assessor per [IVV-IAS-OSA (Overall Summary of Assessment)](../../../assessors/rules/independent-verification-and-validation.md#overall-summary-of-assessment){ data-preview }, in their Certification Package Overview.
 
 
     ---
@@ -130,7 +130,7 @@ These rules apply to providers for FedRAMP Rev5 Certifications.
 <div class="subset-applicability" role="group" aria-label="Applicability">
 <span class="subset-applicability__group subset-applicability__group--types"><span class="subset-applicability__label">Type:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Rev5</span></span></span><br>
 <span class="subset-applicability__group subset-applicability__group--paths"><span class="subset-applicability__label">Path:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Program</span><span class="subset-applicability__tag">Agency</span></span></span><br>
-<span class="subset-applicability__group subset-applicability__group--classes"><span class="subset-applicability__label">Class:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Class A</span><span class="subset-applicability__tag">Class B</span><span class="subset-applicability__tag">Class C</span><span class="subset-applicability__tag">Class D</span></span></span><br>
+<span class="subset-applicability__group subset-applicability__group--classes"><span class="subset-applicability__label">Class:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Class B</span><span class="subset-applicability__tag">Class C</span><span class="subset-applicability__tag">Class D</span></span></span><br>
 <span class="subset-applicability__group subset-applicability__group--affects"><span class="subset-applicability__label">Audience:</span> <span class="subset-applicability__values"><span class="subset-applicability__tag">Providers</span></span></span>
 </div>
 
@@ -150,17 +150,17 @@ These rules apply to providers for FedRAMP Rev5 Certifications.
 
 !!! quote ""
     === "Class B"
-        Providers with Rev5 Class B Certifications MUST persistently maintain their FedRAMP Certification Package to ensure it is up to date and complete at least once every year.
+        Providers with Rev5 Class B Certifications [MUST](../../../definitions/#must){ data-preview } persistently maintain their FedRAMP Certification Package to ensure it is up to date and complete at least once every year.
 
         **Timeframe:** 1 year
 
     === "Class C"
-        Providers with Rev5 Class C Certifications MUST persistently maintain their FedRAMP Certification Package to ensure it is up to date and complete at least once every year.
+        Providers with Rev5 Class C Certifications [MUST](../../../definitions/#must){ data-preview } persistently maintain their FedRAMP Certification Package to ensure it is up to date and complete at least once every year.
 
         **Timeframe:** 1 year
 
     === "Class D"
-        Providers with Rev5 Class D Certifications MUST persistently maintain their FedRAMP Certification Package to ensure it is up to date and complete at least once every six months.
+        Providers with Rev5 Class D Certifications [MUST](../../../definitions/#must){ data-preview } persistently maintain their FedRAMP Certification Package to ensure it is up to date and complete at least once every six months.
 
         **Timeframe:** 6 months
 

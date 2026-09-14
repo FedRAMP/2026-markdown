@@ -28,6 +28,7 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
 | <span id="related-terms-group-assessment"></span>Assessment | [Initial FedRAMP Assessment](#initial-fedramp-assessment){ data-preview }<br>[Persistent FedRAMP Assessment](#persistent-fedramp-assessment){ data-preview } |
 | <span id="related-terms-group-certification"></span>Certification | [Artifacts](#artifacts){ data-preview }<br>[Certification Class](#certification-class){ data-preview }<br>[Certification Data](#certification-data){ data-preview }<br>[Certification Package](#certification-package){ data-preview }<br>[Certification Path](#certification-path){ data-preview }<br>[Certification Profile](#certification-profile){ data-preview }<br>[Certification Type](#certification-type){ data-preview }<br>[FedRAMP Certification Report](#fedramp-certification-report){ data-preview }<br>[FedRAMP Certified](#fedramp-certified){ data-preview }<br>[Initial Certification](#initial-certification){ data-preview }<br>[Ongoing Certification](#ongoing-certification){ data-preview }<br>[Quarterly Review](#quarterly-review){ data-preview } |
 | <span id="related-terms-group-customer-effect"></span>Customer Effect | [Debilitating Customer Effect](#debilitating-customer-effect){ data-preview }<br>[Disruptive Customer Effect](#disruptive-customer-effect){ data-preview }<br>[Minimal Customer Effect](#minimal-customer-effect){ data-preview }<br>[Narrow Customer Effect](#narrow-customer-effect){ data-preview } |
+| <span id="related-terms-group-force-of-the-rule"></span>Force of the Rule | [MAY](#may){ data-preview }<br>[MUST](#must){ data-preview }<br>[MUST NOT](#must-not){ data-preview }<br>[SHOULD](#should){ data-preview }<br>[SHOULD NOT](#should-not){ data-preview } |
 | <span id="related-terms-group-incident"></span>Incident | [FedRAMP Reportable Incident](#fedramp-reportable-incident){ data-preview }<br>[Final Incident Report (FIR)](#final-incident-report-fir){ data-preview }<br>[Incident](#incident){ data-preview }<br>[Initial Incident Report (IIR)](#initial-incident-report-iir){ data-preview }<br>[Ongoing Incident Report (OIR)](#ongoing-incident-report-oir){ data-preview } |
 | <span id="related-terms-group-information-resource"></span>Information Resource | [Information Resource](#information-resource){ data-preview }<br>[Machine-Based (Information Resources)](#machine-based-information-resources){ data-preview }<br>[Third-Party Information Resource](#third-party-information-resource){ data-preview } |
 | <span id="related-terms-group-significant-changes"></span>Significant Changes | [Adaptive Change](#adaptive-change){ data-preview }<br>[Certification Class Change](#certification-class-change){ data-preview }<br>[Routine Recurring Change](#routine-recurring-change){ data-preview }<br>[Significant Change](#significant-change){ data-preview }<br>[Transformative Change](#transformative-change){ data-preview } |
@@ -661,6 +662,20 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Reference:** [44 U.S. Code § 3502 (18)](https://www.govinfo.gov/app/details/USCODE-2023-title44/USCODE-2023-title44-chap35-subchapI-sec3502)
 
     **Also:** machine-readable
+## MAY
+
+??? abstract "**ID:** FRD-MAY"
+    **Changelog:**
+    - **2026-09-13:** Added force to FedRAMP Definitions for clarity.
+
+!!! quote ""
+    The rule is truly optional. Parties SHOULD address such rules in their security documentation by explaining their decisions about how they handle such rules.
+
+    ---
+
+    _**Note:** This definition only applies when the term is used in all capital letters in FedRAMP materials, otherwise the plain language meaning applies._
+
+    **Related Terms Group:** [Force of the Rule](#related-terms-group-force-of-the-rule)
 ## Minimal Customer Effect
 
 ??? abstract "**ID:** FRD-MCE"
@@ -674,6 +689,34 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Related Terms Group:** [Customer Effect](#related-terms-group-customer-effect)
 
     **Also:** minimal customer effect, minimal customer effects
+## MUST
+
+??? abstract "**ID:** FRD-MST"
+    **Changelog:**
+    - **2026-09-13:** Added force to FedRAMP Definitions for clarity.
+
+!!! quote ""
+    The rule is an absolute requirement. Parties MUST meet such rules and address them in their security documentation. Failure to follow the rule is a vulnerability likely requiring corrective action and/or the denial of initial or ongoing FedRAMP Certification.
+
+    ---
+
+    _**Note:** This definition only applies when the term is used in all capital letters in FedRAMP materials, otherwise the plain language meaning applies._
+
+    **Related Terms Group:** [Force of the Rule](#related-terms-group-force-of-the-rule)
+## MUST NOT
+
+??? abstract "**ID:** FRD-MNT"
+    **Changelog:**
+    - **2026-09-13:** Added force to FedRAMP Definitions for clarity.
+
+!!! quote ""
+    The rule is an absolute prohibition. Parties MUST meet such rules and address them in their security documentation. Failure to follow the rule is a vulnerability likely requiring corrective action and/or the denial of initial or ongoing FedRAMP Certification.
+
+    ---
+
+    _**Note:** This definition only applies when the term is used in all capital letters in FedRAMP materials, otherwise the plain language meaning applies._
+
+    **Related Terms Group:** [Force of the Rule](#related-terms-group-force-of-the-rule)
 ## Narrow Customer Effect
 
 ??? abstract "**ID:** FRD-NCE"
@@ -926,6 +969,34 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
 
 
     **Also:** security decision record, security decision records, SDR
+## SHOULD
+
+??? abstract "**ID:** FRD-SHD"
+    **Changelog:**
+    - **2026-09-13:** Added force to FedRAMP Definitions for clarity.
+
+!!! quote ""
+    There may exist valid reasons in particular circumstances to ignore this rule, but the full implications must be understood and carefully weighed. Parties MUST address such rules in their security documentation by explaining their decisions about how they handle such rules.
+
+    ---
+
+    _**Note:** This definition only applies when the term is used in all capital letters in FedRAMP materials, otherwise the plain language meaning applies._
+
+    **Related Terms Group:** [Force of the Rule](#related-terms-group-force-of-the-rule)
+## SHOULD NOT
+
+??? abstract "**ID:** FRD-SNT"
+    **Changelog:**
+    - **2026-09-13:** Added force to FedRAMP Definitions for clarity.
+
+!!! quote ""
+    There may exist valid reasons in particular circumstances when the particular action is acceptable or even useful, but the full implications must be understand and carefully weighed. Parties MUST address such rules in their security documentation by explaining their decisions about how they handle such rules.
+
+    ---
+
+    _**Note:** This definition only applies when the term is used in all capital letters in FedRAMP materials, otherwise the plain language meaning applies._
+
+    **Related Terms Group:** [Force of the Rule](#related-terms-group-force-of-the-rule)
 ## Significant Change
 
 ??? abstract "**ID:** FRD-SGC"
