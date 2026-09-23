@@ -18,10 +18,10 @@ The Security Decision Record replaced a traditional System Security Plan with a 
 
 !!! info "Effective Date(s) & Overall Applicability for Rev5"
     - **Required** (Consolidated Rules for 2026)
-    - **Optional Adoption:** 2026-07-04
-    - **Obtain:** 2027-01-01
-    - **Maintain:** 2027-08-01
-    - **Grace Ends:** On the first FedRAMP independent assessment started after 2027-08-01
+    - **Optional Adoption Allowed:** 2026-07-04
+    - **Obtaining Initial Certification:** 2027-01-01
+    - **Maintaining Ongoing Certification:** 2027-08-01
+    - **Grace Period Ends:** On the first FedRAMP independent assessment started after 2027-08-01
 
 
 

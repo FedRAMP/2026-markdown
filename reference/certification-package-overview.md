@@ -20,17 +20,17 @@ The Certification Package Overview rules outline the expectations for a simple o
 
 !!! info "Effective Date(s) & Overall Applicability for 20x"
     - **Required** (Consolidated Rules for 2026)
-    - **Optional Adoption:** 2026-07-04
-    - **Obtain:** 2026-07-04
-    - **Maintain:** 2027-01-01
-    - **Grace Ends:** On the first FedRAMP independent assessment started after 2027-01-01
+    - **Optional Adoption Allowed:** 2026-07-04
+    - **Obtaining Initial Certification:** 2026-07-04
+    - **Maintaining Ongoing Certification:** 2027-01-01
+    - **Grace Period Ends:** On the first FedRAMP independent assessment started after 2027-01-01
 
 !!! info "Effective Date(s) & Overall Applicability for Rev5"
     - **Required** (Consolidated Rules for 2026)
-    - **Optional Adoption:** 2026-07-04
-    - **Obtain:** 2027-01-01
-    - **Maintain:** 2027-07-01
-    - **Grace Ends:** On the first FedRAMP independent assessment started after 2027-07-01
+    - **Optional Adoption Allowed:** 2026-07-04
+    - **Obtaining Initial Certification:** 2027-01-01
+    - **Maintaining Ongoing Certification:** 2027-07-01
+    - **Grace Period Ends:** On the first FedRAMP independent assessment started after 2027-07-01
 
 
 

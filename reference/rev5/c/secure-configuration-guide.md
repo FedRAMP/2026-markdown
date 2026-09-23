@@ -18,9 +18,9 @@ The Secure Configuration Guide rules help agencies and other customers understan
 
 !!! info "Effective Date(s) & Overall Applicability for Rev5"
     - **Required** (Consolidated Rules for 2026)
-    - **Obtain:** 2026-03-01
-    - **Maintain:** 2026-03-01
-    - **Grace Ends:** 2026-07-01
+    - **Obtaining Initial Certification:** 2026-03-01
+    - **Maintaining Ongoing Certification:** 2026-03-01
+    - **Grace Period Ends:** 2026-07-01
 
 
 

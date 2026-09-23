@@ -20,10 +20,10 @@ The Agency Use rules summarize the many demands made on agencies by the FedRAMP 
 
 !!! info "Effective Date(s) & Overall Applicability for 20x and Rev5"
     - **Required** (Consolidated Rules for 2026)
-    - **Optional Adoption:** 2026-07-04
-    - **Obtain:** 2026-07-04
-    - **Maintain:** 2026-07-04
-    - **Grace Ends:** 2026-07-04
+    - **Optional Adoption Allowed:** 2026-07-04
+    - **Obtaining Initial Certification:** 2026-07-04
+    - **Maintaining Ongoing Certification:** 2026-07-04
+    - **Grace Period Ends:** 2026-07-04
 
 
 

@@ -13,10 +13,10 @@ The Incident Evaluation and Communication rules explain how providers must commu
 
 !!! info "Effective Date(s) & Overall Applicability for 20x"
     - **Required** (Consolidated Rules for 2026)
-    - **Optional Adoption:** 2026-07-04
-    - **Obtain:** 2026-07-04
-    - **Maintain:** 2027-01-01
-    - **Grace Ends:** On the first FedRAMP independent assessment started after 2027-01-01
+    - **Optional Adoption Allowed:** 2026-07-04
+    - **Obtaining Initial Certification:** 2026-07-04
+    - **Maintaining Ongoing Certification:** 2027-01-01
+    - **Grace Period Ends:** On the first FedRAMP independent assessment started after 2027-01-01
 
 
 ## Activity Workflow: Incident Evaluation and Communication

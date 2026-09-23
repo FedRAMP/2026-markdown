@@ -18,10 +18,10 @@ The Collaborative Continuous Monitoring rules help agencies use shared, current 
 
 !!! info "Effective Date(s) & Overall Applicability for Rev5"
     - **Required** (Consolidated Rules for 2026)
-    - **Optional Adoption:** 2026-07-04
-    - **Obtain:** 2027-01-01
-    - **Maintain:** 2027-04-02
-    - **Grace Ends:** 2027-10-01
+    - **Optional Adoption Allowed:** 2026-07-04
+    - **Obtaining Initial Certification:** 2027-01-01
+    - **Maintaining Ongoing Certification:** 2027-04-02
+    - **Grace Period Ends:** 2027-10-01
 
 
 

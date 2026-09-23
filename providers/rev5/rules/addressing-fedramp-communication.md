@@ -13,9 +13,9 @@ The Addressing FedRAMP Communication rules (formerly FedRAMP Security Inbox) ens
 
 !!! info "Effective Date(s) & Overall Applicability for Rev5"
     - **Required** (Consolidated Rules for 2026)
-    - **Obtain:** 2026-01-05
-    - **Maintain:** 2026-01-05
-    - **Grace Ends:** 2026-07-01
+    - **Obtaining Initial Certification:** 2026-01-05
+    - **Maintaining Ongoing Certification:** 2026-01-05
+    - **Grace Period Ends:** 2026-07-01
 
 
 
