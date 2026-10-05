@@ -57,6 +57,9 @@ These rules apply to providers for FedRAMP Certifications.
     **Changelog:**
 
 
+    - **2026-10-10:** Added a note clarifying that new algorithms in update streams of modules are not included in the scope of updates to  validated cryptographic modules.
+
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
@@ -66,6 +69,10 @@ These rules apply to providers for FedRAMP Certifications.
     === "Class B"
         Providers with Class B Certifications [MAY](../../../definitions/#may){ data-preview } use cryptographic modules or update streams of cryptographic modules with active validations under the NIST Cryptographic Module Validation Program when using cryptographic services to protect federal customer data.
 
+
+    ---
+
+    _**Note:** Cryptographic modules include specific algorithms by definition; if an update stream of a cryptographic module adds new algorithms that were not previously validated then those algorithms can not be considered within the scope of update stream usage under these rules as they are new algorithms within the module that have never been validated._
 
     ---
     **Terms:** [Federal Customer Data](../../../definitions/#federal-customer-data){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }

@@ -77,11 +77,14 @@ These rules apply to independent assessment services seeking a listing in the Fe
     **Changelog:**
 
 
+    - **2026-10-10:** Updated form name and URL.
+
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 !!! warning "This FRR includes a notification requirement!"
-    - Notify FedRAMP via form: [\[For Assessors/Advisors\] Marketplace Listing Form](https://help.fedramp.gov/hc/en-us/requests/new?ticket_form_id=52060327520795).
+    - Notify FedRAMP via form: [\[For Assessors\] Marketplace Listing Request Form](https://help.fedramp.gov/hc/en-us/requests/new?ticket_form_id=54220455254427).
 
 
 !!! quote ""

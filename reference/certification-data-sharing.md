@@ -55,6 +55,9 @@ These rules apply to providers for FedRAMP Certifications of any type.
     **Changelog:**
 
 
+    - **2026-10-05:** Clarified that logo link must be a viewable web image. Added note recommending the involvement of web-based application engineers.
+
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
@@ -73,7 +76,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
     1. Sales Contact Information
     1. Security Contact Information
     1. Product Website Link
-    1. Link to Product Logo
+    1. Link to Product Logo (must be a valid image link, properly named, that will display in a browser without processing - transparent PNG preferred)
     1. Overall Service Description
     1. Detailed list of specific services and their security categories (see [CDS-CSO-SVC (Public Service List)](#public-service-list){ data-preview } (Service List))
     1. Link to Secure Configuration Guidance
@@ -85,8 +88,10 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
     ---
 
-    _**Note:** Generally, this information should be available on a public webpage or publicly shared in a FedRAMP-compatible trust center._
+    _**Notes:**_
 
+    - _Generally, this information should be available on a public webpage or publicly shared in a FedRAMP-compatible trust center._
+    - _The JSON data for this rule will be consumed by FedRAMP and agency GRC tools using automation with web-based tools. Do not expect FedRAMP or your customers to download this data directly, it should be accessible for common web frameworks. FedRAMP strongly recommends that application engineering experts be involved in making public JSON data and the related information available in a way that can work with web-based applications._
     ---
     **Terms:** [Cloud Service Offering](../definitions/#cloud-service-offering){ data-preview }, [FedRAMP Certification Report](../definitions/#fedramp-certification-report){ data-preview }, [FedRAMP Recognized](../definitions/#fedramp-recognized){ data-preview }, [Ongoing Certification](../definitions/#ongoing-certification){ data-preview }, [Ongoing Certification Report (OCR)](../definitions/#ongoing-certification-report-ocr){ data-preview }, [Security Category](../definitions/#security-category){ data-preview }, [Trust Center](../definitions/#trust-center){ data-preview }
 ### Public Service List

@@ -96,6 +96,9 @@ The Certification Data Sharing rules allow providers to store and share FedRAMP 
     **Changelog:**
 
 
+    - **2026-10-05:** Clarified that logo link must be a viewable web image. Added note recommending the involvement of web-based application engineers.
+
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
@@ -114,7 +117,7 @@ The Certification Data Sharing rules allow providers to store and share FedRAMP 
     1. Sales Contact Information
     1. Security Contact Information
     1. Product Website Link
-    1. Link to Product Logo
+    1. Link to Product Logo (must be a valid image link, properly named, that will display in a browser without processing - transparent PNG preferred)
     1. Overall Service Description
     1. Detailed list of specific services and their security categories (see [CDS-CSO-SVC (Public Service List)](../../../providers/20x/rules/certification-data-sharing.md#public-service-list){ data-preview } (Service List))
     1. Link to Secure Configuration Guidance
@@ -126,8 +129,10 @@ The Certification Data Sharing rules allow providers to store and share FedRAMP 
 
     ---
 
-    _**Note:** Generally, this information should be available on a public webpage or publicly shared in a FedRAMP-compatible trust center._
+    _**Notes:**_
 
+    - _Generally, this information should be available on a public webpage or publicly shared in a FedRAMP-compatible trust center._
+    - _The JSON data for this rule will be consumed by FedRAMP and agency GRC tools using automation with web-based tools. Do not expect FedRAMP or your customers to download this data directly, it should be accessible for common web frameworks. FedRAMP strongly recommends that application engineering experts be involved in making public JSON data and the related information available in a way that can work with web-based applications._
     ---
     **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [FedRAMP Certification Report](../../../definitions/#fedramp-certification-report){ data-preview }, [FedRAMP Recognized](../../../definitions/#fedramp-recognized){ data-preview }, [Ongoing Certification](../../../definitions/#ongoing-certification){ data-preview }, [Ongoing Certification Report (OCR)](../../../definitions/#ongoing-certification-report-ocr){ data-preview }, [Security Category](../../../definitions/#security-category){ data-preview }, [Trust Center](../../../definitions/#trust-center){ data-preview }
 ### Use Trust Centers
@@ -720,6 +725,9 @@ The Cryptographic Module Use rules clarify how providers should select and use c
     **Changelog:**
 
 
+    - **2026-10-10:** Added a note clarifying that new algorithms in update streams of modules are not included in the scope of updates to  validated cryptographic modules.
+
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
@@ -729,6 +737,10 @@ The Cryptographic Module Use rules clarify how providers should select and use c
     === "Class A"
         Providers with Class A Certifications [MAY](../../../definitions/#may){ data-preview } use cryptographic modules or update streams of cryptographic modules with active validations under the NIST Cryptographic Module Validation Program when using cryptographic services to protect federal customer data.
 
+
+    ---
+
+    _**Note:** Cryptographic modules include specific algorithms by definition; if an update stream of a cryptographic module adds new algorithms that were not previously validated then those algorithms can not be considered within the scope of update stream usage under these rules as they are new algorithms within the module that have never been validated._
 
     ---
     **Terms:** [Federal Customer Data](../../../definitions/#federal-customer-data){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }

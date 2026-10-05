@@ -62,11 +62,14 @@ These rules apply to consulting and advisory services seeking a listing in the F
     **Changelog:**
 
 
+    - **2026-10-05:** Updated form name.
+
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 !!! warning "This FRR includes a notification requirement!"
-    - Notify FedRAMP via form: [\[For Assessors/Advisors\] Marketplace Listing Form](https://help.fedramp.gov/hc/en-us/requests/new?ticket_form_id=52060327520795).
+    - Notify FedRAMP via form: [\[For Advisors\] Marketplace Listing Request Form](https://help.fedramp.gov/hc/en-us/requests/new?ticket_form_id=52060327520795).
 
 
 !!! quote ""

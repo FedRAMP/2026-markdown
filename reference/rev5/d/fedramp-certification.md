@@ -95,21 +95,30 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
     **Changelog:**
 
 
+    - **2026-10-05:** Clarified expectations for public JSON data to be compatible with standard web frameworks.
+
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
 
 !!! quote ""
-    Providers [MUST](../../../definitions/#must){ data-preview } supply machine-readable information in JSON documents that are valid against the corresponding JSON schema when a rule contains a FedRAMP JSON schema, UNLESS otherwise specified in the rule.
+    Providers [MUST](../../../definitions/#must){ data-preview } supply machine-readable information in JSON documents that are valid against the corresponding JSON schema when a rule contains a FedRAMP JSON schema, UNLESS otherwise specified in the rule; public JSON data [MUST](../../../definitions/#must){ data-preview } be supplied in a manner compatible with modern web frameworks, including:
+
+    1. Cross-Origin Resource Sharing (CORS) should allow web applications running on a different domain to access the public JSON data directly.
+    1. Proper web application headers should be supplied for public JSON data, including at least setting Content-Type to application/json and X-Content-Type-Options: nosniff.
 
 
     ---
 
-    _**Note:** FedRAMP JSON schemas are designed to be lightweight and flexible to establish a minimum set of structured information while allowing providers to improve on the format and structure of the information as needed to meet their needs and the needs of their customers._
+    _**Notes:**_
 
+    - _FedRAMP JSON schemas are designed to be lightweight and flexible to establish a minimum set of structured information while allowing providers to improve on the format and structure of the information as needed to meet their needs and the needs of their customers._
+    - _Public JSON data is intended to be consumed by FedRAMP, agency GRC tools, and more - it should be available in a way that enables standard web-application use following standard web frameworks. Generally, if you can't write a web app to parse this data without configuring a browser to bypass security defaults then there has likely been a problem._
+    - _The Schema Validator available at fedramp.gov will not work properly if Cross-Origin Resource Sharing is not properly configured._
     ---
-    **Terms:** [Machine-Readable](../../../definitions/#machine-readable){ data-preview }
+    **Terms:** [Likely](../../../definitions/#likely){ data-preview }, [Machine-Readable](../../../definitions/#machine-readable){ data-preview }
 ### Maintain Responsibility and Accountability
 
 ??? abstract "FRC-CSO-MRA"
@@ -876,13 +885,16 @@ These rules apply to providers for FedRAMP Rev5 Certifications.
     **Changelog:**
 
 
+    - **2026-10-05:** Adding a missing ing (follow -> following).
+
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
 
 
 !!! quote ""
-    Providers with FedRAMP Rev5 Ready status [MUST](../../../definitions/#must){ data-preview } convert to a FedRAMP Certification by whichever of the follow dates is later: the expiration of their annual assessment or November 17, 2026 (the legacy FedRAMP Ready status will be entirely removed on December 31, 2027).
+    Providers with FedRAMP Rev5 Ready status [MUST](../../../definitions/#must){ data-preview } convert to a FedRAMP Certification by whichever of the following dates is later: the expiration of their annual assessment or November 17, 2026 (the legacy FedRAMP Ready status will be entirely removed on December 31, 2027).
 
 
     ---
