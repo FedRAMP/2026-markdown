@@ -65,7 +65,7 @@ These rules apply to providers for FedRAMP Certifications.
     **Changelog:**
 
 
-    - **2026-10-10:** Added a note clarifying that new algorithms in update streams of modules are not included in the scope of updates to  validated cryptographic modules.
+    - **2026-10-05:** Added a note clarifying that new algorithms in update streams of modules are not included in the scope of updates to  validated cryptographic modules.
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.

@@ -129,6 +129,9 @@ These rules apply to providers for FedRAMP 20x Certifications.
     **Changelog:**
 
 
+    - **2026-10-08:** Changed MUST to SHOULD for Class B, added note, clarified persistent validation status should be included.
+
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
@@ -141,7 +144,7 @@ These rules apply to providers for FedRAMP 20x Certifications.
         Providers with 20x Class A Certifications [MAY](../../../definitions/#may){ data-preview } also include historical metrics in their Security Decision Record.
 
     === "Class B"
-        Providers with 20x Class B Certifications [MUST](../../../definitions/#must){ data-preview } also include historical metrics in their Security Decision Record, supplying at least the following information for each applicable Key Security Indicator:
+        Providers with 20x Class B Certifications [SHOULD](../../../definitions/#should){ data-preview } also include historical metrics in their Security Decision Record, supplying at least the following information for each applicable Key Security Indicator:
 
         1. Summary of each metric over the past 30 days
         1. Summary of metric up to the past year (where available)
@@ -151,11 +154,15 @@ These rules apply to providers for FedRAMP 20x Certifications.
 
         1. Summary of each metric over the past 30 days
         1. Summary of metric up to the past year (where available)
-        1. All daily metric data up to the past year (where available)
+        1. All daily metric data (including status of persistent validation) up to the past year (where available)
 
     === "Class D"
         Providers with 20x Class D Certifications [MUST](../../../definitions/#must){ data-preview } significantly supersede the minimum requirements for lower Classes, with specifics to be set during the 20x Phase 4 Pilot.
 
 
     ---
-    **Terms:** [Security Decision Record (SDR)](../../../definitions/#security-decision-record-sdr){ data-preview }
+
+    _**Note:** For initial FedRAMP Certification, providers will need to have mechanisms in place and agree to meet this requirement in the event the cloud service has not been operating with related metrics available for the required period prior to applying for initial certification._
+
+    ---
+    **Terms:** [Initial Certification](../../../definitions/#initial-certification){ data-preview }, [Security Decision Record (SDR)](../../../definitions/#security-decision-record-sdr){ data-preview }

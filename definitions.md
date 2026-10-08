@@ -987,10 +987,11 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
 
 ??? abstract "**ID:** FRD-SNT"
     **Changelog:**
+    - **2026-10-08:** Fixed a typo - understood instead of understand.
     - **2026-09-13:** Added force to FedRAMP Definitions for clarity.
 
 !!! quote ""
-    There may exist valid reasons in particular circumstances when the particular action is acceptable or even useful, but the full implications must be understand and carefully weighed. Parties MUST address such rules in their security documentation by explaining their decisions about how they handle such rules.
+    There may exist valid reasons in particular circumstances when the particular action is acceptable or even useful, but the full implications must be understood and carefully weighed. Parties MUST address such rules in their security documentation by explaining their decisions about how they handle such rules.
 
     ---
 

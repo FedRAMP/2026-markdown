@@ -307,28 +307,6 @@ These rules apply to providers for FedRAMP 20x Certifications.
 
     ---
     **Terms:** [Persistently](../../../definitions/#persistently){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
-### Metrics Over Time for Key Security Indicators
-
-??? abstract "FRC-CSX-MOT"
-    **Changelog:**
-
-
-    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
-
-
-
-
-!!! quote ""
-    === "Class C"
-        Providers seeking 20x Class C Certification [MUST](../../../definitions/#must){ data-preview } supply historical metrics including status from persistent validation over at least the past 6 months for all Key Security Indicators.
-
-
-    ---
-
-    _**Note:** For initial FedRAMP Certification, providers will need to have mechanisms in place and agree to meet this requirement in the event the cloud service has not been operating with related metrics available for the required period prior to applying for initial certification._
-
-    ---
-    **Terms:** [Initial Certification](../../../definitions/#initial-certification){ data-preview }, [Persistently](../../../definitions/#persistently){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }
 ### Automated Verification and Validation of FedRAMP Rules
 
 ??? abstract "FRC-CSX-VVR"

@@ -170,7 +170,7 @@ These rules apply to independent assessment services seeking a listing in the Fe
     **Changelog:**
 
 
-    - **2026-10-10:** Updated form name and URL.
+    - **2026-10-05:** Updated form name and URL.
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.

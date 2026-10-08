@@ -725,7 +725,7 @@ The Cryptographic Module Use rules clarify how providers should select and use c
     **Changelog:**
 
 
-    - **2026-10-10:** Added a note clarifying that new algorithms in update streams of modules are not included in the scope of updates to  validated cryptographic modules.
+    - **2026-10-05:** Added a note clarifying that new algorithms in update streams of modules are not included in the scope of updates to  validated cryptographic modules.
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
@@ -786,6 +786,9 @@ The Security Decision Record replaced a traditional System Security Plan with a 
     **Changelog:**
 
 
+    - **2026-10-08:** Changed MUST to SHOULD for Class B, added note, clarified persistent validation status should be included.
+
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
@@ -799,7 +802,11 @@ The Security Decision Record replaced a traditional System Security Plan with a 
 
 
     ---
-    **Terms:** [Security Decision Record (SDR)](../../../definitions/#security-decision-record-sdr){ data-preview }
+
+    _**Note:** For initial FedRAMP Certification, providers will need to have mechanisms in place and agree to meet this requirement in the event the cloud service has not been operating with related metrics available for the required period prior to applying for initial certification._
+
+    ---
+    **Terms:** [Initial Certification](../../../definitions/#initial-certification){ data-preview }, [Security Decision Record (SDR)](../../../definitions/#security-decision-record-sdr){ data-preview }
 ## Optional Class A Rules: Vulnerability Evaluation and Reporting (VER) {#optional-class-a-rules-vulnerability-evaluation-and-reporting-ver}
 
 The Vulnerability Evaluation and Reporting rules require cloud service providers to determine when vulnerabilities are likely to impact federal customers and report the status of such vulnerabilities to all necessary parties.
