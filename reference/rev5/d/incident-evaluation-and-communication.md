@@ -113,6 +113,9 @@ These rules apply to providers with FedRAMP Certifications of any type.
     **Changelog:**
 
 
+    - **2026-10-13:** Updated control mappings: added au-5.2, ir-4.11.
+
+
     - **2026-07-02:** Update terminology from "Response" to "Communication" in FedRAMP Incident Evaluation rules.
 
 
@@ -124,6 +127,9 @@ These rules apply to providers with FedRAMP Certifications of any type.
 !!! quote ""
     Providers [MUST](../../../definitions/#must){ data-preview } promptly evaluate incidents to determine if they affect confidentiality or integrity of federal customer data or are likely to affect confidentiality or integrity of federal customer data; such incidents are FedRAMP Reportable Incidents and must be reported following the FedRAMP Incident Evaluation and Communication rules.
 
+
+
+    **Related SP 800-53 Controls:** [AU-05 (02)](../../controls/audit-and-accountability.md#au-05-02){ data-preview }, [IR-04 (11)](../../controls/incident-response.md#ir-04-11){ data-preview }
 
     ---
     **Terms:** [FedRAMP Reportable Incident](../../../definitions/#fedramp-reportable-incident){ data-preview }, [Federal Customer Data](../../../definitions/#federal-customer-data){ data-preview }, [Incident](../../../definitions/#incident){ data-preview }, [Likely](../../../definitions/#likely){ data-preview }, [Promptly](../../../definitions/#promptly){ data-preview }
@@ -148,6 +154,9 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 ??? abstract "IEC-CSO-IIR"
     **Changelog:**
+
+
+    - **2026-10-13:** Updated control mappings: added au-5.2, ir-5.
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
@@ -188,12 +197,18 @@ These rules apply to providers with FedRAMP Certifications of any type.
         | PAIN-1 | 1 hour |
 
 
+
+    **Related SP 800-53 Controls:** [AU-05 (02)](../../controls/audit-and-accountability.md#au-05-02){ data-preview }, [IR-05](../../controls/incident-response.md#ir-05){ data-preview }
+
     ---
     **Terms:** [All Affected Parties](../../../definitions/#all-affected-parties){ data-preview }, [FedRAMP Reportable Incident](../../../definitions/#fedramp-reportable-incident){ data-preview }, [Incident](../../../definitions/#incident){ data-preview }, [Initial Incident Report (IIR)](../../../definitions/#initial-incident-report-iir){ data-preview }, [Responsibly](../../../definitions/#responsibly){ data-preview }
 ### Ongoing Incident Reports
 
 ??? abstract "IEC-CSO-OIR"
     **Changelog:**
+
+
+    - **2026-10-13:** Updated control mappings: added ir-5.
 
 
     - **2026-09-13:** Removed the extra the in all statements.
@@ -234,12 +249,18 @@ These rules apply to providers with FedRAMP Certifications of any type.
         | PAIN-1 | 24 hours |
 
 
+
+    **Related SP 800-53 Controls:** [IR-05](../../controls/incident-response.md#ir-05){ data-preview }
+
     ---
     **Terms:** [All Affected Parties](../../../definitions/#all-affected-parties){ data-preview }, [FedRAMP Reportable Incident](../../../definitions/#fedramp-reportable-incident){ data-preview }, [Incident](../../../definitions/#incident){ data-preview }, [Responsibly](../../../definitions/#responsibly){ data-preview }, [Vulnerability Response](../../../definitions/#vulnerability-response){ data-preview }
 ### Final Incident Report
 
 ??? abstract "IEC-CSO-FIR"
     **Changelog:**
+
+
+    - **2026-10-13:** Updated control mappings: added ir-5.
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
@@ -270,6 +291,9 @@ These rules apply to providers with FedRAMP Certifications of any type.
         | PAIN-2 | 6 hours |
         | PAIN-1 | 24 hours |
 
+
+
+    **Related SP 800-53 Controls:** [IR-05](../../controls/incident-response.md#ir-05){ data-preview }
 
     ---
     **Terms:** [All Affected Parties](../../../definitions/#all-affected-parties){ data-preview }, [Final Incident Report (FIR)](../../../definitions/#final-incident-report-fir){ data-preview }, [Incident](../../../definitions/#incident){ data-preview }, [Responsibly](../../../definitions/#responsibly){ data-preview }

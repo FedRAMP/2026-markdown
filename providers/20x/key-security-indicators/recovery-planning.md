@@ -20,6 +20,9 @@ tags:
     **Changelog:**
 
 
+    - **2026-10-13:** Updated control mappings: removed si-12.
+
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
@@ -30,7 +33,7 @@ tags:
 
 
 
-    **Related SP 800-53 Controls:** [CM-02 (03)](../../../reference/controls/configuration-management.md#cm-02-03){ data-preview }, [CP-06](../../../reference/controls/contingency-planning.md#cp-06){ data-preview }, [CP-09](../../../reference/controls/contingency-planning.md#cp-09){ data-preview }, [CP-10](../../../reference/controls/contingency-planning.md#cp-10){ data-preview }, [CP-10 (02)](../../../reference/controls/contingency-planning.md#cp-10-02){ data-preview }, [SI-12](../../../reference/controls/system-and-information-integrity.md#si-12){ data-preview }
+    **Related SP 800-53 Controls:** [CM-02 (03)](../../../reference/controls/configuration-management.md#cm-02-03){ data-preview }, [CP-06](../../../reference/controls/contingency-planning.md#cp-06){ data-preview }, [CP-09](../../../reference/controls/contingency-planning.md#cp-09){ data-preview }, [CP-10](../../../reference/controls/contingency-planning.md#cp-10){ data-preview }, [CP-10 (02)](../../../reference/controls/contingency-planning.md#cp-10-02){ data-preview }
 
     ---
     **Terms:** [Information Resource](../../../definitions/#information-resource){ data-preview }, [Machine-Based (Information Resources)](../../../definitions/#machine-based-information-resources){ data-preview }, [Persistently](../../../definitions/#persistently){ data-preview }
@@ -80,6 +83,9 @@ tags:
     **Changelog:**
 
 
+    - **2026-10-13:** Updated control mappings: added ir-9.3, sc-12.1.
+
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
@@ -90,7 +96,7 @@ tags:
 
 
 
-    **Related SP 800-53 Controls:** [CP-02 (01)](../../../reference/controls/contingency-planning.md#cp-02-01){ data-preview }, [CP-02 (03)](../../../reference/controls/contingency-planning.md#cp-02-03){ data-preview }, [CP-04](../../../reference/controls/contingency-planning.md#cp-04){ data-preview }, [CP-04 (01)](../../../reference/controls/contingency-planning.md#cp-04-01){ data-preview }, [CP-06](../../../reference/controls/contingency-planning.md#cp-06){ data-preview }, [CP-06 (01)](../../../reference/controls/contingency-planning.md#cp-06-01){ data-preview }, [CP-09 (01)](../../../reference/controls/contingency-planning.md#cp-09-01){ data-preview }, [CP-10](../../../reference/controls/contingency-planning.md#cp-10){ data-preview }, [IR-03](../../../reference/controls/incident-response.md#ir-03){ data-preview }, [IR-03 (02)](../../../reference/controls/incident-response.md#ir-03-02){ data-preview }
+    **Related SP 800-53 Controls:** [CP-10](../../../reference/controls/contingency-planning.md#cp-10){ data-preview }, [CP-02 (01)](../../../reference/controls/contingency-planning.md#cp-02-01){ data-preview }, [CP-02 (03)](../../../reference/controls/contingency-planning.md#cp-02-03){ data-preview }, [CP-04](../../../reference/controls/contingency-planning.md#cp-04){ data-preview }, [CP-04 (01)](../../../reference/controls/contingency-planning.md#cp-04-01){ data-preview }, [CP-06](../../../reference/controls/contingency-planning.md#cp-06){ data-preview }, [CP-06 (01)](../../../reference/controls/contingency-planning.md#cp-06-01){ data-preview }, [CP-09 (01)](../../../reference/controls/contingency-planning.md#cp-09-01){ data-preview }, [IR-03](../../../reference/controls/incident-response.md#ir-03){ data-preview }, [IR-03 (02)](../../../reference/controls/incident-response.md#ir-03-02){ data-preview }, [IR-09 (03)](../../../reference/controls/incident-response.md#ir-09-03){ data-preview }, [SC-12 (01)](../../../reference/controls/system-and-communications-protection.md#sc-12-01){ data-preview }
 
     ---
     **Terms:** [Incident](../../../definitions/#incident){ data-preview }, [Persistently](../../../definitions/#persistently){ data-preview }

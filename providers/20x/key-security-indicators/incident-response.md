@@ -20,6 +20,9 @@ tags:
     **Changelog:**
 
 
+    - **2026-10-13:** Updated control mappings: added ir-5.1, ir-9.3.
+
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
@@ -30,7 +33,7 @@ tags:
 
 
 
-    **Related SP 800-53 Controls:** [IR-03](../../../reference/controls/incident-response.md#ir-03){ data-preview }, [IR-04](../../../reference/controls/incident-response.md#ir-04){ data-preview }, [IR-04 (01)](../../../reference/controls/incident-response.md#ir-04-01){ data-preview }, [IR-08](../../../reference/controls/incident-response.md#ir-08){ data-preview }
+    **Related SP 800-53 Controls:** [IR-03](../../../reference/controls/incident-response.md#ir-03){ data-preview }, [IR-04](../../../reference/controls/incident-response.md#ir-04){ data-preview }, [IR-04 (01)](../../../reference/controls/incident-response.md#ir-04-01){ data-preview }, [IR-05 (01)](../../../reference/controls/incident-response.md#ir-05-01){ data-preview }, [IR-08](../../../reference/controls/incident-response.md#ir-08){ data-preview }, [IR-09 (03)](../../../reference/controls/incident-response.md#ir-09-03){ data-preview }
 
     ---
     **Terms:** [Incident](../../../definitions/#incident){ data-preview }, [Persistently](../../../definitions/#persistently){ data-preview }
@@ -38,6 +41,9 @@ tags:
 
 ??? abstract "KSI-INR-RIR"
     **Changelog:**
+
+
+    - **2026-10-13:** Updated control mappings: added ir-4.11, ir-9.3.
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
@@ -50,7 +56,7 @@ tags:
 
 
 
-    **Related SP 800-53 Controls:** [IR-04](../../../reference/controls/incident-response.md#ir-04){ data-preview }, [IR-04 (01)](../../../reference/controls/incident-response.md#ir-04-01){ data-preview }, [IR-06](../../../reference/controls/incident-response.md#ir-06){ data-preview }, [IR-06 (01)](../../../reference/controls/incident-response.md#ir-06-01){ data-preview }, [IR-06 (03)](../../../reference/controls/incident-response.md#ir-06-03){ data-preview }, [IR-07](../../../reference/controls/incident-response.md#ir-07){ data-preview }, [IR-07 (01)](../../../reference/controls/incident-response.md#ir-07-01){ data-preview }, [IR-08](../../../reference/controls/incident-response.md#ir-08){ data-preview }, [IR-08 (01)](../../../reference/controls/incident-response.md#ir-08-01){ data-preview }, [SI-04 (05)](../../../reference/controls/system-and-information-integrity.md#si-04-05){ data-preview }
+    **Related SP 800-53 Controls:** [IR-04](../../../reference/controls/incident-response.md#ir-04){ data-preview }, [IR-04 (01)](../../../reference/controls/incident-response.md#ir-04-01){ data-preview }, [IR-04 (11)](../../../reference/controls/incident-response.md#ir-04-11){ data-preview }, [IR-06](../../../reference/controls/incident-response.md#ir-06){ data-preview }, [IR-06 (01)](../../../reference/controls/incident-response.md#ir-06-01){ data-preview }, [IR-06 (03)](../../../reference/controls/incident-response.md#ir-06-03){ data-preview }, [IR-07](../../../reference/controls/incident-response.md#ir-07){ data-preview }, [IR-07 (01)](../../../reference/controls/incident-response.md#ir-07-01){ data-preview }, [IR-08](../../../reference/controls/incident-response.md#ir-08){ data-preview }, [IR-08 (01)](../../../reference/controls/incident-response.md#ir-08-01){ data-preview }, [IR-09 (03)](../../../reference/controls/incident-response.md#ir-09-03){ data-preview }, [SI-04 (05)](../../../reference/controls/system-and-information-integrity.md#si-04-05){ data-preview }
 
     ---
     **Terms:** [Incident](../../../definitions/#incident){ data-preview }, [Persistently](../../../definitions/#persistently){ data-preview }, [Vulnerability Response](../../../definitions/#vulnerability-response){ data-preview }
@@ -58,6 +64,9 @@ tags:
 
 ??? abstract "KSI-INR-RPI"
     **Changelog:**
+
+
+    - **2026-10-13:** Updated control mappings: added ir-4.11, ir-4.4, ir-5.1, ra-5.8.
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
@@ -70,7 +79,7 @@ tags:
 
 
 
-    **Related SP 800-53 Controls:** [IR-03](../../../reference/controls/incident-response.md#ir-03){ data-preview }, [IR-04](../../../reference/controls/incident-response.md#ir-04){ data-preview }, [IR-04 (01)](../../../reference/controls/incident-response.md#ir-04-01){ data-preview }, [IR-05](../../../reference/controls/incident-response.md#ir-05){ data-preview }, [IR-08](../../../reference/controls/incident-response.md#ir-08){ data-preview }
+    **Related SP 800-53 Controls:** [IR-03](../../../reference/controls/incident-response.md#ir-03){ data-preview }, [IR-04](../../../reference/controls/incident-response.md#ir-04){ data-preview }, [IR-04 (01)](../../../reference/controls/incident-response.md#ir-04-01){ data-preview }, [IR-04 (11)](../../../reference/controls/incident-response.md#ir-04-11){ data-preview }, [IR-04 (04)](../../../reference/controls/incident-response.md#ir-04-04){ data-preview }, [IR-05](../../../reference/controls/incident-response.md#ir-05){ data-preview }, [IR-05 (01)](../../../reference/controls/incident-response.md#ir-05-01){ data-preview }, [IR-08](../../../reference/controls/incident-response.md#ir-08){ data-preview }, [RA-05 (08)](../../../reference/controls/risk-assessment.md#ra-05-08){ data-preview }
 
     ---
     **Terms:** [Incident](../../../definitions/#incident){ data-preview }, [Persistently](../../../definitions/#persistently){ data-preview }, [Vulnerability](../../../definitions/#vulnerability){ data-preview }

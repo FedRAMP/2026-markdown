@@ -45,6 +45,9 @@ These rules for Ongoing Certification Reports apply to providers with any type o
     **Changelog:**
 
 
+    - **2026-10-13:** Updated control mappings: added ca-7.
+
+
     - **2026-09-13:** Added (if applicable) to clarify that some of these items are not always required depending on the FedRAMP Certification Type or Class.
 
 
@@ -69,6 +72,9 @@ These rules for Ongoing Certification Reports apply to providers with any type o
     1. FedRAMP Reportable Incidents or an attestation that no such incidents occurred
     1. Lessons learned and changes planned or made as a result of FedRAMP Reportable Incidents (if such occurred)
 
+
+
+    **Related SP 800-53 Controls:** [CA-07](../../../reference/controls/assessment-authorization-and-monitoring.md#ca-07){ data-preview }
 
     ---
     **Terms:** [Accepted Vulnerability](../../../definitions/#accepted-vulnerability){ data-preview }, [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Certification Data](../../../definitions/#certification-data){ data-preview }, [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [FedRAMP Certification Report](../../../definitions/#fedramp-certification-report){ data-preview }, [FedRAMP Reportable Incident](../../../definitions/#fedramp-reportable-incident){ data-preview }, [Incident](../../../definitions/#incident){ data-preview }, [Ongoing Certification](../../../definitions/#ongoing-certification){ data-preview }, [Ongoing Certification Report (OCR)](../../../definitions/#ongoing-certification-report-ocr){ data-preview }, [Transformative Change](../../../definitions/#transformative-change){ data-preview }, [Vulnerability](../../../definitions/#vulnerability){ data-preview }
@@ -203,6 +209,9 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
     **Changelog:**
 
 
+    - **2026-10-13:** Updated control mappings: added ca-7.
+
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
@@ -229,6 +238,9 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
 
         **Timeframe:** 3 months
 
+
+
+    **Related SP 800-53 Controls:** [CA-07](../../../reference/controls/assessment-authorization-and-monitoring.md#ca-07){ data-preview }
 
     ---
     **Terms:** [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Ongoing Certification](../../../definitions/#ongoing-certification){ data-preview }, [Quarterly Review](../../../definitions/#quarterly-review){ data-preview }
@@ -306,6 +318,9 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
     **Changelog:**
 
 
+    - **2026-10-13:** Updated control mappings: added ca-7.
+
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
@@ -314,6 +329,9 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
 !!! quote ""
     Providers [SHOULD](../../../definitions/#should){ data-preview } supply additional information in Quarterly Reviews that the provider determines is of interest, use, or otherwise relevant to agencies.
 
+
+
+    **Related SP 800-53 Controls:** [CA-07](../../../reference/controls/assessment-authorization-and-monitoring.md#ca-07){ data-preview }
 
     ---
     **Terms:** [Quarterly Review](../../../definitions/#quarterly-review){ data-preview }

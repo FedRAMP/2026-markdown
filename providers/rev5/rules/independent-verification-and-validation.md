@@ -45,6 +45,9 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
     **Changelog:**
 
 
+    - **2026-10-13:** Updated control mappings: added ca-2, ca-2.1, ca-2.2, ca-7.1, ca-7.4.
+
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
@@ -80,6 +83,9 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
     - _The specific requirements for independent verification and validation assessments are documented by the FedRAMP Certification Class and Type._
     - _The option for assessment by FedRAMP directly is limited to cloud services that are explicitly prioritized by FedRAMP, in consultation with the FedRAMP Board and the federal Chief Information Officers Council; this is _extremely_ rare._
     - _FedRAMP Recognized independent assessment services are listed on the FedRAMP Marketplace._
+
+    **Related SP 800-53 Controls:** [CA-02](../../../reference/controls/assessment-authorization-and-monitoring.md#ca-02){ data-preview }, [CA-02 (01)](../../../reference/controls/assessment-authorization-and-monitoring.md#ca-02-01){ data-preview }, [CA-02 (02)](../../../reference/controls/assessment-authorization-and-monitoring.md#ca-02-02){ data-preview }, [CA-07 (01)](../../../reference/controls/assessment-authorization-and-monitoring.md#ca-07-01){ data-preview }, [CA-07 (04)](../../../reference/controls/assessment-authorization-and-monitoring.md#ca-07-04){ data-preview }
+
     ---
     **Terms:** [Certification Class](../../../definitions/#certification-class){ data-preview }, [FedRAMP Independent Assessment](../../../definitions/#fedramp-independent-assessment){ data-preview }, [FedRAMP Recognized](../../../definitions/#fedramp-recognized){ data-preview }, [Persistently](../../../definitions/#persistently){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
 ### Supply Evidence of Implementation

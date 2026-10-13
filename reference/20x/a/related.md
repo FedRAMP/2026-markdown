@@ -47,6 +47,9 @@ The Addressing FedRAMP Communication rules (formerly FedRAMP Security Inbox) ens
     **Changelog:**
 
 
+    - **2026-10-13:** Updated control mappings: added si-5.
+
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
@@ -65,6 +68,9 @@ The Addressing FedRAMP Communication rules (formerly FedRAMP Security Inbox) ens
 
     - _Unless otherwise notified, FedRAMP will use the listed Security Email on the Marketplace for these notifications._
     - _If a provider establishes a new inbox in reaction to this guidance that is different from the Security Email then they must follow the [AFC-CSO-NOC (Notification of Changes)](../../../providers/20x/rules/addressing-fedramp-communication.md#notification-of-changes){ data-preview } rules to notify FedRAMP._
+
+    **Related SP 800-53 Controls:** [SI-05](../../controls/system-and-information-integrity.md#si-05){ data-preview }
+
     ---
     **Terms:** [FedRAMP Security Inbox](../../../definitions/#fedramp-security-inbox){ data-preview }
 ### Receive Email Without Disruption
@@ -189,6 +195,9 @@ The Collaborative Continuous Monitoring rules help agencies use shared, current 
     **Changelog:**
 
 
+    - **2026-10-13:** Updated control mappings: added ca-7.
+
+
     - **2026-09-13:** Added (if applicable) to clarify that some of these items are not always required depending on the FedRAMP Certification Type or Class.
 
 
@@ -213,6 +222,9 @@ The Collaborative Continuous Monitoring rules help agencies use shared, current 
     1. FedRAMP Reportable Incidents or an attestation that no such incidents occurred
     1. Lessons learned and changes planned or made as a result of FedRAMP Reportable Incidents (if such occurred)
 
+
+
+    **Related SP 800-53 Controls:** [CA-07](../../controls/assessment-authorization-and-monitoring.md#ca-07){ data-preview }
 
     ---
     **Terms:** [Accepted Vulnerability](../../../definitions/#accepted-vulnerability){ data-preview }, [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Certification Data](../../../definitions/#certification-data){ data-preview }, [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [FedRAMP Certification Report](../../../definitions/#fedramp-certification-report){ data-preview }, [FedRAMP Reportable Incident](../../../definitions/#fedramp-reportable-incident){ data-preview }, [Incident](../../../definitions/#incident){ data-preview }, [Ongoing Certification](../../../definitions/#ongoing-certification){ data-preview }, [Ongoing Certification Report (OCR)](../../../definitions/#ongoing-certification-report-ocr){ data-preview }, [Transformative Change](../../../definitions/#transformative-change){ data-preview }, [Vulnerability](../../../definitions/#vulnerability){ data-preview }
@@ -243,6 +255,9 @@ The Incident Evaluation and Communication rules explain how providers must commu
     **Changelog:**
 
 
+    - **2026-10-13:** Updated control mappings: added au-5.2, ir-4.11.
+
+
     - **2026-07-02:** Update terminology from "Response" to "Communication" in FedRAMP Incident Evaluation rules.
 
 
@@ -255,12 +270,18 @@ The Incident Evaluation and Communication rules explain how providers must commu
     Providers [MUST](../../../definitions/#must){ data-preview } promptly evaluate incidents to determine if they affect confidentiality or integrity of federal customer data or are likely to affect confidentiality or integrity of federal customer data; such incidents are FedRAMP Reportable Incidents and must be reported following the FedRAMP Incident Evaluation and Communication rules.
 
 
+
+    **Related SP 800-53 Controls:** [AU-05 (02)](../../controls/audit-and-accountability.md#au-05-02){ data-preview }, [IR-04 (11)](../../controls/incident-response.md#ir-04-11){ data-preview }
+
     ---
     **Terms:** [FedRAMP Reportable Incident](../../../definitions/#fedramp-reportable-incident){ data-preview }, [Federal Customer Data](../../../definitions/#federal-customer-data){ data-preview }, [Incident](../../../definitions/#incident){ data-preview }, [Likely](../../../definitions/#likely){ data-preview }, [Promptly](../../../definitions/#promptly){ data-preview }
 ### Final Incident Report
 
 ??? abstract "IEC-CSO-FIR"
     **Changelog:**
+
+
+    - **2026-10-13:** Updated control mappings: added ir-5.
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
@@ -291,6 +312,9 @@ The Incident Evaluation and Communication rules explain how providers must commu
         | PAIN-2 | 3 business days |
         | PAIN-1 | 3 business days |
 
+
+
+    **Related SP 800-53 Controls:** [IR-05](../../controls/incident-response.md#ir-05){ data-preview }
 
     ---
     **Terms:** [All Affected Parties](../../../definitions/#all-affected-parties){ data-preview }, [Final Incident Report (FIR)](../../../definitions/#final-incident-report-fir){ data-preview }, [Incident](../../../definitions/#incident){ data-preview }, [Responsibly](../../../definitions/#responsibly){ data-preview }
@@ -326,6 +350,9 @@ The Minimum Assessment Scope rules help providers define assessment boundaries n
     **Changelog:**
 
 
+    - **2026-10-13:** Updated control mappings: added cm-8.4, ra-3, si-4.19.
+
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
@@ -342,6 +369,9 @@ The Minimum Assessment Scope rules help providers define assessment boundaries n
     - _Certain categories of cloud computing products and services are specified as entirely outside the scope of FedRAMP by the Director of the Office of Management and Budget. All such products and services are therefore not included in the cloud service offering for FedRAMP. For more, see https://fedramp.gov/scope._
     - _Software produced by cloud service providers that is delivered separately for installation on agency systems and not operated in a shared responsibility model (typically including agents, application clients, mobile applications, etc. that are not fully managed by the cloud service provider) is not a cloud computing product or service and is entirely outside the scope of FedRAMP under the FedRAMP Certification Act. All such software is therefore not included in the cloud service offering for FedRAMP. For more, see https://fedramp.gov/scope._
     - _All aspects of the cloud service offering are determined and maintained by the cloud service provider in accordance with related FedRAMP Certification rules and documented by the cloud service provider in their FedRAMP Certification Package._
+
+    **Related SP 800-53 Controls:** [CM-08 (04)](../../controls/configuration-management.md#cm-08-04){ data-preview }, [RA-03](../../controls/risk-assessment.md#ra-03){ data-preview }, [SI-04 (19)](../../controls/system-and-information-integrity.md#si-04-19){ data-preview }
+
     ---
     **Terms:** [Certification Package](../../../definitions/#certification-package){ data-preview }, [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Federal Customer Data](../../../definitions/#federal-customer-data){ data-preview }, [Handle](../../../definitions/#handle){ data-preview }, [Information Resource](../../../definitions/#information-resource){ data-preview }, [Likely](../../../definitions/#likely){ data-preview }
 ## Mandatory Class A Rules: Vulnerability Detection and Response (VDR) {#mandatory-class-a-rules-vulnerability-detection-and-response-vdr}
@@ -352,6 +382,9 @@ The Vulnerability Detection and Response rules require providers to continuously
 
 ??? abstract "VDR-CSO-DET"
     **Changelog:**
+
+
+    - **2026-10-13:** Updated control mappings: added au-5.2, au-6, ca-8, ca-8.1, ca-8.2, ra-5, ra-5.2, ra-5.3, ra-5.4, si-2, si-3, si-4.1, si-4.12, si-4.18, si-4.22, si-5.1.
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
@@ -372,6 +405,9 @@ The Vulnerability Detection and Response rules require providers to continuously
 
     - _FedRAMP's vulnerability detection (and response) rules are intended to set modern expectations for maintaining the security of a cloud service. Historical FedRAMP guidance on vulnerability scanning or continuous monitoring generally focused only on CVE-type vulnerabilities while leaving other types of vulnerabilities and exposures unaddressed._
     - _Providers are encouraged to leverage their existing holistic security review, architecture review, and similar processes to meet these requirements. FedRAMP strongly discourages providers from implementing separate vulnerability detection and response processes for FedRAMP reporting that are operated by independent compliance branches unless these processes are consuming data directly from the areas of the cloud service that actively maintain it._
+
+    **Related SP 800-53 Controls:** [AU-05 (02)](../../controls/audit-and-accountability.md#au-05-02){ data-preview }, [AU-06](../../controls/audit-and-accountability.md#au-06){ data-preview }, [CA-08](../../controls/assessment-authorization-and-monitoring.md#ca-08){ data-preview }, [CA-08 (01)](../../controls/assessment-authorization-and-monitoring.md#ca-08-01){ data-preview }, [CA-08 (02)](../../controls/assessment-authorization-and-monitoring.md#ca-08-02){ data-preview }, [RA-05](../../controls/risk-assessment.md#ra-05){ data-preview }, [RA-05 (02)](../../controls/risk-assessment.md#ra-05-02){ data-preview }, [RA-05 (03)](../../controls/risk-assessment.md#ra-05-03){ data-preview }, [RA-05 (04)](../../controls/risk-assessment.md#ra-05-04){ data-preview }, [SI-02](../../controls/system-and-information-integrity.md#si-02){ data-preview }, [SI-03](../../controls/system-and-information-integrity.md#si-03){ data-preview }, [SI-04 (01)](../../controls/system-and-information-integrity.md#si-04-01){ data-preview }, [SI-04 (12)](../../controls/system-and-information-integrity.md#si-04-12){ data-preview }, [SI-04 (18)](../../controls/system-and-information-integrity.md#si-04-18){ data-preview }, [SI-04 (22)](../../controls/system-and-information-integrity.md#si-04-22){ data-preview }, [SI-05 (01)](../../controls/system-and-information-integrity.md#si-05-01){ data-preview }
+
     ---
     **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [FedRAMP Practices](../../../definitions/#fedramp-practices){ data-preview }, [Incident](../../../definitions/#incident){ data-preview }, [Information Resource](../../../definitions/#information-resource){ data-preview }, [Persistently](../../../definitions/#persistently){ data-preview }, [Promptly](../../../definitions/#promptly){ data-preview }, [Vulnerability](../../../definitions/#vulnerability){ data-preview }, [Vulnerability Detection](../../../definitions/#vulnerability-detection){ data-preview }, [Vulnerability Response](../../../definitions/#vulnerability-response){ data-preview }
 ## Recommended Class A Rules: Certification Data Sharing (CDS) {#recommended-class-a-rules-certification-data-sharing-cds}
@@ -438,6 +474,9 @@ The Incident Evaluation and Communication rules explain how providers must commu
     **Changelog:**
 
 
+    - **2026-10-13:** Updated control mappings: added au-5.2, ir-5.
+
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
@@ -476,12 +515,18 @@ The Incident Evaluation and Communication rules explain how providers must commu
         | PAIN-1 | 1 business day |
 
 
+
+    **Related SP 800-53 Controls:** [AU-05 (02)](../../controls/audit-and-accountability.md#au-05-02){ data-preview }, [IR-05](../../controls/incident-response.md#ir-05){ data-preview }
+
     ---
     **Terms:** [All Affected Parties](../../../definitions/#all-affected-parties){ data-preview }, [FedRAMP Reportable Incident](../../../definitions/#fedramp-reportable-incident){ data-preview }, [Incident](../../../definitions/#incident){ data-preview }, [Initial Incident Report (IIR)](../../../definitions/#initial-incident-report-iir){ data-preview }, [Responsibly](../../../definitions/#responsibly){ data-preview }
 ### Ongoing Incident Reports
 
 ??? abstract "IEC-CSO-OIR"
     **Changelog:**
+
+
+    - **2026-10-13:** Updated control mappings: added ir-5.
 
 
     - **2026-09-13:** Removed the extra the in all statements.
@@ -521,6 +566,9 @@ The Incident Evaluation and Communication rules explain how providers must commu
         | PAIN-2 | 1 business day |
         | PAIN-1 | 1 business day |
 
+
+
+    **Related SP 800-53 Controls:** [IR-05](../../controls/incident-response.md#ir-05){ data-preview }
 
     ---
     **Terms:** [All Affected Parties](../../../definitions/#all-affected-parties){ data-preview }, [FedRAMP Reportable Incident](../../../definitions/#fedramp-reportable-incident){ data-preview }, [Incident](../../../definitions/#incident){ data-preview }, [Responsibly](../../../definitions/#responsibly){ data-preview }, [Vulnerability Response](../../../definitions/#vulnerability-response){ data-preview }
@@ -574,6 +622,9 @@ The Vulnerability Detection and Response rules require providers to continuously
     **Changelog:**
 
 
+    - **2026-10-13:** Updated control mappings: added si-4.22, si-7, si-7.1.
+
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
@@ -585,6 +636,9 @@ The Vulnerability Detection and Response rules require providers to continuously
 
         **Timeframe:** 3 months
 
+
+
+    **Related SP 800-53 Controls:** [SI-04 (22)](../../controls/system-and-information-integrity.md#si-04-22){ data-preview }, [SI-07](../../controls/system-and-information-integrity.md#si-07){ data-preview }, [SI-07 (01)](../../controls/system-and-information-integrity.md#si-07-01){ data-preview }
 
     ---
     **Terms:** [Drift](../../../definitions/#drift){ data-preview }, [Information Resource](../../../definitions/#information-resource){ data-preview }, [Likely](../../../definitions/#likely){ data-preview }, [Persistently](../../../definitions/#persistently){ data-preview }, [Vulnerability](../../../definitions/#vulnerability){ data-preview }, [Vulnerability Detection](../../../definitions/#vulnerability-detection){ data-preview }
@@ -614,6 +668,9 @@ The Vulnerability Detection and Response rules require providers to continuously
     **Changelog:**
 
 
+    - **2026-10-13:** Updated control mappings: added si-2.3.
+
+
     - **2026-07-01:** Added relevent terms and related controls. No change to the requirement.
 
 
@@ -638,6 +695,9 @@ The Vulnerability Detection and Response rules require providers to continuously
         | PAIN-3 | 32 days | 64 days | 192 days |
         | PAIN-2 | 96 days | 160 days | 192 days |
 
+
+
+    **Related SP 800-53 Controls:** [SI-02 (03)](../../controls/system-and-information-integrity.md#si-02-03){ data-preview }
 
     ---
     **Terms:** [Fully Mitigated Vulnerability](../../../definitions/#fully-mitigated-vulnerability){ data-preview }, [Likely](../../../definitions/#likely){ data-preview }, [Partially Mitigated Vulnerability](../../../definitions/#partially-mitigated-vulnerability){ data-preview }, [Potential Agency Impact](../../../definitions/#potential-agency-impact){ data-preview }, [Remediated Vulnerability](../../../definitions/#remediated-vulnerability){ data-preview }, [Vulnerability](../../../definitions/#vulnerability){ data-preview }
@@ -701,6 +761,9 @@ The Collaborative Continuous Monitoring rules help agencies use shared, current 
     **Changelog:**
 
 
+    - **2026-10-13:** Updated control mappings: added ca-7.
+
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
@@ -713,6 +776,9 @@ The Collaborative Continuous Monitoring rules help agencies use shared, current 
         **Timeframe:** 3 months
 
 
+
+    **Related SP 800-53 Controls:** [CA-07](../../controls/assessment-authorization-and-monitoring.md#ca-07){ data-preview }
+
     ---
     **Terms:** [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Ongoing Certification](../../../definitions/#ongoing-certification){ data-preview }, [Quarterly Review](../../../definitions/#quarterly-review){ data-preview }
 ## Optional Class A Rules: Cryptographic Module Use (CMU) {#optional-class-a-rules-cryptographic-module-use-cmu}
@@ -723,6 +789,9 @@ The Cryptographic Module Use rules clarify how providers should select and use c
 
 ??? abstract "CMU-CSO-UVM"
     **Changelog:**
+
+
+    - **2026-10-13:** Updated control mappings: added ac-18, au-9.3, ia-7, sc-28.1, sc-8.1.
 
 
     - **2026-10-05:** Added a note clarifying that new algorithms in update streams of modules are not included in the scope of updates to  validated cryptographic modules.
@@ -742,6 +811,9 @@ The Cryptographic Module Use rules clarify how providers should select and use c
 
     _**Note:** Cryptographic modules include specific algorithms by definition; if an update stream of a cryptographic module adds new algorithms that were not previously validated then those algorithms can not be considered within the scope of update stream usage under these rules as they are new algorithms within the module that have never been validated._
 
+
+    **Related SP 800-53 Controls:** [AC-18](../../controls/access-control.md#ac-18){ data-preview }, [AU-09 (03)](../../controls/audit-and-accountability.md#au-09-03){ data-preview }, [IA-07](../../controls/identification-and-authentication.md#ia-07){ data-preview }, [SC-28 (01)](../../controls/system-and-communications-protection.md#sc-28-01){ data-preview }, [SC-08 (01)](../../controls/system-and-communications-protection.md#sc-08-01){ data-preview }
+
     ---
     **Terms:** [Federal Customer Data](../../../definitions/#federal-customer-data){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }
 ## Optional Class A Rules: Independent Verification and Validation (IVV) {#optional-class-a-rules-independent-verification-and-validation-ivv}
@@ -752,6 +824,9 @@ This ruleset explains the expectations for independent verification and validati
 
 ??? abstract "IVV-CSO-FIA"
     **Changelog:**
+
+
+    - **2026-10-13:** Updated control mappings: added ca-2, ca-2.1, ca-2.2, ca-7.1, ca-7.4.
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
@@ -774,6 +849,9 @@ This ruleset explains the expectations for independent verification and validati
     - _The specific requirements for independent verification and validation assessments are documented by the FedRAMP Certification Class and Type._
     - _The option for assessment by FedRAMP directly is limited to cloud services that are explicitly prioritized by FedRAMP, in consultation with the FedRAMP Board and the federal Chief Information Officers Council; this is _extremely_ rare._
     - _FedRAMP Recognized independent assessment services are listed on the FedRAMP Marketplace._
+
+    **Related SP 800-53 Controls:** [CA-02](../../controls/assessment-authorization-and-monitoring.md#ca-02){ data-preview }, [CA-02 (01)](../../controls/assessment-authorization-and-monitoring.md#ca-02-01){ data-preview }, [CA-02 (02)](../../controls/assessment-authorization-and-monitoring.md#ca-02-02){ data-preview }, [CA-07 (01)](../../controls/assessment-authorization-and-monitoring.md#ca-07-01){ data-preview }, [CA-07 (04)](../../controls/assessment-authorization-and-monitoring.md#ca-07-04){ data-preview }
+
     ---
     **Terms:** [Certification Class](../../../definitions/#certification-class){ data-preview }, [FedRAMP Independent Assessment](../../../definitions/#fedramp-independent-assessment){ data-preview }, [FedRAMP Recognized](../../../definitions/#fedramp-recognized){ data-preview }, [Persistently](../../../definitions/#persistently){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
 ## Optional Class A Rules: Security Decision Record (SDR) {#optional-class-a-rules-security-decision-record-sdr}

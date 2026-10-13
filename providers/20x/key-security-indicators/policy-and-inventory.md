@@ -20,6 +20,9 @@ tags:
     **Changelog:**
 
 
+    - **2026-10-13:** Updated control mappings: added cm-8.2, cm-8.4.
+
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
@@ -30,7 +33,7 @@ tags:
 
 
 
-    **Related SP 800-53 Controls:** [CM-02 (02)](../../../reference/controls/configuration-management.md#cm-02-02){ data-preview }, [CM-07 (05)](../../../reference/controls/configuration-management.md#cm-07-05){ data-preview }, [CM-08](../../../reference/controls/configuration-management.md#cm-08){ data-preview }, [CM-08 (01)](../../../reference/controls/configuration-management.md#cm-08-01){ data-preview }, [CM-12](../../../reference/controls/configuration-management.md#cm-12){ data-preview }, [CM-12 (01)](../../../reference/controls/configuration-management.md#cm-12-01){ data-preview }, [CP-02 (08)](../../../reference/controls/contingency-planning.md#cp-02-08){ data-preview }
+    **Related SP 800-53 Controls:** [CM-12](../../../reference/controls/configuration-management.md#cm-12){ data-preview }, [CM-12 (01)](../../../reference/controls/configuration-management.md#cm-12-01){ data-preview }, [CM-02 (02)](../../../reference/controls/configuration-management.md#cm-02-02){ data-preview }, [CM-07 (05)](../../../reference/controls/configuration-management.md#cm-07-05){ data-preview }, [CM-08](../../../reference/controls/configuration-management.md#cm-08){ data-preview }, [CM-08 (01)](../../../reference/controls/configuration-management.md#cm-08-01){ data-preview }, [CM-08 (02)](../../../reference/controls/configuration-management.md#cm-08-02){ data-preview }, [CM-08 (04)](../../../reference/controls/configuration-management.md#cm-08-04){ data-preview }, [CP-02 (08)](../../../reference/controls/contingency-planning.md#cp-02-08){ data-preview }
 
     ---
     **Terms:** [Information Resource](../../../definitions/#information-resource){ data-preview }
@@ -57,6 +60,9 @@ tags:
     **Changelog:**
 
 
+    - **2026-10-13:** Updated control mappings: added ca-2.2, ir-4.11.
+
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
@@ -67,7 +73,7 @@ tags:
 
 
 
-    **Related SP 800-53 Controls:** [AC-05](../../../reference/controls/access-control.md#ac-05){ data-preview }, [CA-02](../../../reference/controls/assessment-authorization-and-monitoring.md#ca-02){ data-preview }, [CP-02 (01)](../../../reference/controls/contingency-planning.md#cp-02-01){ data-preview }, [CP-04 (01)](../../../reference/controls/contingency-planning.md#cp-04-01){ data-preview }, [IR-03 (02)](../../../reference/controls/incident-response.md#ir-03-02){ data-preview }, [PM-03](../../../reference/controls/program-management.md#pm-03){ data-preview }, [SA-02](../../../reference/controls/system-and-services-acquisition.md#sa-02){ data-preview }, [SA-03](../../../reference/controls/system-and-services-acquisition.md#sa-03){ data-preview }, [SR-02 (01)](../../../reference/controls/supply-chain-risk-management.md#sr-02-01){ data-preview }
+    **Related SP 800-53 Controls:** [AC-05](../../../reference/controls/access-control.md#ac-05){ data-preview }, [CA-02](../../../reference/controls/assessment-authorization-and-monitoring.md#ca-02){ data-preview }, [CA-02 (02)](../../../reference/controls/assessment-authorization-and-monitoring.md#ca-02-02){ data-preview }, [CP-02 (01)](../../../reference/controls/contingency-planning.md#cp-02-01){ data-preview }, [CP-04 (01)](../../../reference/controls/contingency-planning.md#cp-04-01){ data-preview }, [IR-03 (02)](../../../reference/controls/incident-response.md#ir-03-02){ data-preview }, [IR-04 (11)](../../../reference/controls/incident-response.md#ir-04-11){ data-preview }, [PM-03](../../../reference/controls/program-management.md#pm-03){ data-preview }, [SA-02](../../../reference/controls/system-and-services-acquisition.md#sa-02){ data-preview }, [SA-03](../../../reference/controls/system-and-services-acquisition.md#sa-03){ data-preview }, [SR-02 (01)](../../../reference/controls/supply-chain-risk-management.md#sr-02-01){ data-preview }
 
     ---
     **Terms:** [Persistently](../../../definitions/#persistently){ data-preview }
@@ -75,6 +81,9 @@ tags:
 
 ??? abstract "KSI-PIY-RSD"
     **Changelog:**
+
+
+    - **2026-10-13:** Updated control mappings: added ia-5.7, ra-9.
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
@@ -87,7 +96,7 @@ tags:
 
 
 
-    **Related SP 800-53 Controls:** [AC-05](../../../reference/controls/access-control.md#ac-05){ data-preview }, [AU-03 (03)](../../../reference/controls/audit-and-accountability.md#au-03-03){ data-preview }, [CM-03 (04)](../../../reference/controls/configuration-management.md#cm-03-04){ data-preview }, [PL-08](../../../reference/controls/planning.md#pl-08){ data-preview }, [PM-07](../../../reference/controls/program-management.md#pm-07){ data-preview }, [SA-03](../../../reference/controls/system-and-services-acquisition.md#sa-03){ data-preview }, [SA-08](../../../reference/controls/system-and-services-acquisition.md#sa-08){ data-preview }, [SC-04](../../../reference/controls/system-and-communications-protection.md#sc-04){ data-preview }, [SC-18](../../../reference/controls/system-and-communications-protection.md#sc-18){ data-preview }, [SI-10](../../../reference/controls/system-and-information-integrity.md#si-10){ data-preview }, [SI-11](../../../reference/controls/system-and-information-integrity.md#si-11){ data-preview }, [SI-16](../../../reference/controls/system-and-information-integrity.md#si-16){ data-preview }
+    **Related SP 800-53 Controls:** [AC-05](../../../reference/controls/access-control.md#ac-05){ data-preview }, [AU-03 (03)](../../../reference/controls/audit-and-accountability.md#au-03-03){ data-preview }, [CM-03 (04)](../../../reference/controls/configuration-management.md#cm-03-04){ data-preview }, [IA-05 (07)](../../../reference/controls/identification-and-authentication.md#ia-05-07){ data-preview }, [PL-08](../../../reference/controls/planning.md#pl-08){ data-preview }, [PM-07](../../../reference/controls/program-management.md#pm-07){ data-preview }, [RA-09](../../../reference/controls/risk-assessment.md#ra-09){ data-preview }, [SA-03](../../../reference/controls/system-and-services-acquisition.md#sa-03){ data-preview }, [SA-08](../../../reference/controls/system-and-services-acquisition.md#sa-08){ data-preview }, [SC-18](../../../reference/controls/system-and-communications-protection.md#sc-18){ data-preview }, [SC-04](../../../reference/controls/system-and-communications-protection.md#sc-04){ data-preview }, [SI-10](../../../reference/controls/system-and-information-integrity.md#si-10){ data-preview }, [SI-11](../../../reference/controls/system-and-information-integrity.md#si-11){ data-preview }, [SI-16](../../../reference/controls/system-and-information-integrity.md#si-16){ data-preview }
 
     ---
     **Terms:** [Persistently](../../../definitions/#persistently){ data-preview }

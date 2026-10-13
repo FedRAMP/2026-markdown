@@ -102,6 +102,9 @@ These rules apply to providers for FedRAMP Certifications of any type.
     **Changelog:**
 
 
+    - **2026-10-13:** Updated control mappings: added ca-2, ca-2.1, ca-2.2, ca-7.1.
+
+
     - **2026-06-25:** Added after official launch to clarify that the provider is required to supply this artifact.
 
 
@@ -111,6 +114,9 @@ These rules apply to providers for FedRAMP Certifications of any type.
     === "Class B"
         Providers seeking Class B Certification [MUST](../../../definitions/#must){ data-preview } also include the overall summary of their FedRAMP independent assessment, supplied by the assessor per [IVV-IAS-OSA (Overall Summary of Assessment)](independent-verification-and-validation.md#overall-summary-of-assessment){ data-preview }, in their Certification Package Overview.
 
+
+
+    **Related SP 800-53 Controls:** [CA-02](../../controls/assessment-authorization-and-monitoring.md#ca-02){ data-preview }, [CA-02 (01)](../../controls/assessment-authorization-and-monitoring.md#ca-02-01){ data-preview }, [CA-02 (02)](../../controls/assessment-authorization-and-monitoring.md#ca-02-02){ data-preview }, [CA-07 (01)](../../controls/assessment-authorization-and-monitoring.md#ca-07-01){ data-preview }
 
     ---
     **Terms:** [Certification Package](../../../definitions/#certification-package){ data-preview }, [FedRAMP Independent Assessment](../../../definitions/#fedramp-independent-assessment){ data-preview }

@@ -491,6 +491,9 @@ These rules apply to providers for FedRAMP 20x Certifications.
     **Changelog:**
 
 
+    - **2026-10-13:** Updated control mappings: added cm-2.2, si-6.
+
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
@@ -510,12 +513,18 @@ These rules apply to providers for FedRAMP 20x Certifications.
         Providers seeking 20x Class D Certification [MUST](../../../definitions/#must){ data-preview } implement automated methods to persistently verify and validate the accuracy and completeness of Key Security Indicators with at least 4 automated methods for each Key Security Indicator.
 
 
+
+    **Related SP 800-53 Controls:** [CM-02 (02)](../../../reference/controls/configuration-management.md#cm-02-02){ data-preview }, [SI-06](../../../reference/controls/system-and-information-integrity.md#si-06){ data-preview }
+
     ---
     **Terms:** [Persistently](../../../definitions/#persistently){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
 ### Automated Verification and Validation of FedRAMP Rules
 
 ??? abstract "FRC-CSX-VVR"
     **Changelog:**
+
+
+    - **2026-10-13:** Updated control mappings: added si-6.
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
@@ -540,6 +549,9 @@ These rules apply to providers for FedRAMP 20x Certifications.
     ---
 
     _**Note:** Different rules will be easy to automate for different providers, depending on the implementation, so FedRAMP generally leaves this implementation up to providers based on what makes the most sense for their own business and approach._
+
+
+    **Related SP 800-53 Controls:** [SI-06](../../../reference/controls/system-and-information-integrity.md#si-06){ data-preview }
 
     ---
     **Terms:** [Persistently](../../../definitions/#persistently){ data-preview }, [Security Decision Record (SDR)](../../../definitions/#security-decision-record-sdr){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }

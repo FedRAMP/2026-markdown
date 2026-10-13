@@ -213,6 +213,9 @@ These rules apply to providers with any type of FedRAMP Certification.
     **Changelog:**
 
 
+    - **2026-10-13:** Updated control mappings: added si-5.
+
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
@@ -231,6 +234,9 @@ These rules apply to providers with any type of FedRAMP Certification.
 
     - _Unless otherwise notified, FedRAMP will use the listed Security Email on the Marketplace for these notifications._
     - _If a provider establishes a new inbox in reaction to this guidance that is different from the Security Email then they must follow the [AFC-CSO-NOC (Notification of Changes)](#notification-of-changes){ data-preview } rules to notify FedRAMP._
+
+    **Related SP 800-53 Controls:** [SI-05](../../controls/system-and-information-integrity.md#si-05){ data-preview }
+
     ---
     **Terms:** [FedRAMP Security Inbox](../../../definitions/#fedramp-security-inbox){ data-preview }
 ### Notification of Changes

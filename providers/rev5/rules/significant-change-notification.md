@@ -47,6 +47,9 @@ These rules apply to providers with FedRAMP Certifications of any type.
     **Changelog:**
 
 
+    - **2026-10-13:** Updated control mappings: added cm-4.
+
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
@@ -63,6 +66,9 @@ These rules apply to providers with FedRAMP Certifications of any type.
     1. If it is not, is it a transformative change? --> Follow the Transformative Change rules (SCN-TRF Transformative Changes).
     1. If it is not, then it is an adaptive change --> Follow the Adaptive Change rules (SCN-ADP Adaptive Changes).
 
+
+
+    **Related SP 800-53 Controls:** [CM-04](../../../reference/controls/configuration-management.md#cm-04){ data-preview }
 
     ---
     **Terms:** [Adaptive Change](../../../definitions/#adaptive-change){ data-preview }, [Certification Class](../../../definitions/#certification-class){ data-preview }, [Certification Class Change](../../../definitions/#certification-class-change){ data-preview }, [Routine Recurring Change](../../../definitions/#routine-recurring-change){ data-preview }, [Significant Change](../../../definitions/#significant-change){ data-preview }, [Transformative Change](../../../definitions/#transformative-change){ data-preview }
@@ -207,6 +213,9 @@ These rules apply to providers with FedRAMP Certifications of any type.
     **Changelog:**
 
 
+    - **2026-10-13:** Updated control mappings: added ir-4.2.
+
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
@@ -219,6 +228,9 @@ These rules apply to providers with FedRAMP Certifications of any type.
     ---
 
     _**Note:** Procedures for emergency changes should be documented in the FedRAMP Certification Package._
+
+
+    **Related SP 800-53 Controls:** [IR-04 (02)](../../../reference/controls/incident-response.md#ir-04-02){ data-preview }
 
     ---
     **Terms:** [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Certification Package](../../../definitions/#certification-package){ data-preview }, [Incident](../../../definitions/#incident){ data-preview }, [Significant Change](../../../definitions/#significant-change){ data-preview }, [Transformative Change](../../../definitions/#transformative-change){ data-preview }

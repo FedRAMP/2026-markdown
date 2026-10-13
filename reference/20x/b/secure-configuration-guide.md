@@ -44,6 +44,9 @@ These rules apply to providers with FedRAMP Certifications of any type.
     **Changelog:**
 
 
+    - **2026-10-13:** Updated control mappings: added cm-7.
+
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
@@ -65,6 +68,9 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
     - _These rules refer to this guidance as a Secure Configuration Guide but cloud service providers may make this guidance available in various appropriate forms that provide the best customer experience._
     - _This guidance should explain how top-level administrative accounts and privileged accounts are named and referred to in the cloud service offering._
+
+    **Related SP 800-53 Controls:** [CM-07](../../controls/configuration-management.md#cm-07){ data-preview }
+
     ---
     **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Privileged Account](../../../definitions/#privileged-account){ data-preview }, [Top-Level Administrative Account](../../../definitions/#top-level-administrative-account){ data-preview }
 ### Use Instructions

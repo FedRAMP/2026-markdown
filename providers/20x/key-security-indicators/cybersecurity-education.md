@@ -20,6 +20,9 @@ tags:
     **Changelog:**
 
 
+    - **2026-10-13:** Updated control mappings: added cm-11, cp-3.1, ir-2.1, ir-2.2, ir-9.2, ir-9.4, pl-4, pl-4.1.
+
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
@@ -30,7 +33,7 @@ tags:
 
 
 
-    **Related SP 800-53 Controls:** [CP-03](../../../reference/controls/contingency-planning.md#cp-03){ data-preview }, [IR-02](../../../reference/controls/incident-response.md#ir-02){ data-preview }, [PS-06](../../../reference/controls/personnel-security.md#ps-06){ data-preview }, [AT-02](../../../reference/controls/awareness-and-training.md#at-02){ data-preview }, [AT-02 (02)](../../../reference/controls/awareness-and-training.md#at-02-02){ data-preview }, [AT-02 (03)](../../../reference/controls/awareness-and-training.md#at-02-03){ data-preview }, [AT-03 (05)](../../../reference/controls/awareness-and-training.md#at-03-05){ data-preview }, [AT-04](../../../reference/controls/awareness-and-training.md#at-04){ data-preview }, [IR-02 (03)](../../../reference/controls/incident-response.md#ir-02-03){ data-preview }, [AT-03](../../../reference/controls/awareness-and-training.md#at-03){ data-preview }, [SR-11 (01)](../../../reference/controls/supply-chain-risk-management.md#sr-11-01){ data-preview }
+    **Related SP 800-53 Controls:** [AT-02](../../../reference/controls/awareness-and-training.md#at-02){ data-preview }, [AT-02 (02)](../../../reference/controls/awareness-and-training.md#at-02-02){ data-preview }, [AT-02 (03)](../../../reference/controls/awareness-and-training.md#at-02-03){ data-preview }, [AT-03](../../../reference/controls/awareness-and-training.md#at-03){ data-preview }, [AT-03 (05)](../../../reference/controls/awareness-and-training.md#at-03-05){ data-preview }, [AT-04](../../../reference/controls/awareness-and-training.md#at-04){ data-preview }, [CM-11](../../../reference/controls/configuration-management.md#cm-11){ data-preview }, [CP-03](../../../reference/controls/contingency-planning.md#cp-03){ data-preview }, [CP-03 (01)](../../../reference/controls/contingency-planning.md#cp-03-01){ data-preview }, [IR-02](../../../reference/controls/incident-response.md#ir-02){ data-preview }, [IR-02 (01)](../../../reference/controls/incident-response.md#ir-02-01){ data-preview }, [IR-02 (02)](../../../reference/controls/incident-response.md#ir-02-02){ data-preview }, [IR-02 (03)](../../../reference/controls/incident-response.md#ir-02-03){ data-preview }, [IR-09 (02)](../../../reference/controls/incident-response.md#ir-09-02){ data-preview }, [IR-09 (04)](../../../reference/controls/incident-response.md#ir-09-04){ data-preview }, [PL-04](../../../reference/controls/planning.md#pl-04){ data-preview }, [PL-04 (01)](../../../reference/controls/planning.md#pl-04-01){ data-preview }, [PS-06](../../../reference/controls/personnel-security.md#ps-06){ data-preview }, [SR-11 (01)](../../../reference/controls/supply-chain-risk-management.md#sr-11-01){ data-preview }
 
     ---
     **Terms:** [Incident](../../../definitions/#incident){ data-preview }, [Persistently](../../../definitions/#persistently){ data-preview }, [Vulnerability Response](../../../definitions/#vulnerability-response){ data-preview }

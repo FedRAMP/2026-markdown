@@ -20,6 +20,9 @@ tags:
     **Changelog:**
 
 
+    - **2026-10-13:** Updated control mappings: added ca-7.4, cm-3.1, cm-3.6; removed ma-2.
+
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
@@ -30,7 +33,7 @@ tags:
 
 
 
-    **Related SP 800-53 Controls:** [AU-02](../../../reference/controls/audit-and-accountability.md#au-02){ data-preview }, [CM-03](../../../reference/controls/configuration-management.md#cm-03){ data-preview }, [CM-03 (02)](../../../reference/controls/configuration-management.md#cm-03-02){ data-preview }, [CM-04 (02)](../../../reference/controls/configuration-management.md#cm-04-02){ data-preview }, [CM-06](../../../reference/controls/configuration-management.md#cm-06){ data-preview }, [CM-08 (03)](../../../reference/controls/configuration-management.md#cm-08-03){ data-preview }, [MA-02](../../../reference/controls/maintenance.md#ma-02){ data-preview }
+    **Related SP 800-53 Controls:** [AU-02](../../../reference/controls/audit-and-accountability.md#au-02){ data-preview }, [CA-07 (04)](../../../reference/controls/assessment-authorization-and-monitoring.md#ca-07-04){ data-preview }, [CM-03](../../../reference/controls/configuration-management.md#cm-03){ data-preview }, [CM-03 (01)](../../../reference/controls/configuration-management.md#cm-03-01){ data-preview }, [CM-03 (02)](../../../reference/controls/configuration-management.md#cm-03-02){ data-preview }, [CM-03 (06)](../../../reference/controls/configuration-management.md#cm-03-06){ data-preview }, [CM-04 (02)](../../../reference/controls/configuration-management.md#cm-04-02){ data-preview }, [CM-06](../../../reference/controls/configuration-management.md#cm-06){ data-preview }, [CM-08 (03)](../../../reference/controls/configuration-management.md#cm-08-03){ data-preview }
 
     ---
     **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }
@@ -80,6 +83,9 @@ tags:
     **Changelog:**
 
 
+    - **2026-10-13:** Updated control mappings: added cm-6.2, ir-9.4.
+
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
@@ -90,7 +96,7 @@ tags:
 
 
 
-    **Related SP 800-53 Controls:** [CM-03](../../../reference/controls/configuration-management.md#cm-03){ data-preview }, [CM-03 (02)](../../../reference/controls/configuration-management.md#cm-03-02){ data-preview }, [CM-04 (02)](../../../reference/controls/configuration-management.md#cm-04-02){ data-preview }, [SI-02](../../../reference/controls/system-and-information-integrity.md#si-02){ data-preview }
+    **Related SP 800-53 Controls:** [CM-03](../../../reference/controls/configuration-management.md#cm-03){ data-preview }, [CM-03 (02)](../../../reference/controls/configuration-management.md#cm-03-02){ data-preview }, [CM-04 (02)](../../../reference/controls/configuration-management.md#cm-04-02){ data-preview }, [CM-06 (02)](../../../reference/controls/configuration-management.md#cm-06-02){ data-preview }, [IR-09 (04)](../../../reference/controls/incident-response.md#ir-09-04){ data-preview }, [SI-02](../../../reference/controls/system-and-information-integrity.md#si-02){ data-preview }
 
     ---
     **Terms:** [Persistently](../../../definitions/#persistently){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }

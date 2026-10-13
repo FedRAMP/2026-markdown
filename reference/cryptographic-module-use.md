@@ -48,6 +48,9 @@ These rules apply to providers for FedRAMP Certifications.
     **Changelog:**
 
 
+    - **2026-10-13:** Updated control mappings: added au-9.3, cm-3.6, ia-7, sc-28.1, sc-8.1.
+
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
@@ -57,12 +60,18 @@ These rules apply to providers for FedRAMP Certifications.
     Providers [MUST](../definitions/#must){ data-preview } document the cryptographic modules used in each service (or groups of services that use the same modules) where cryptographic services are used to protect federal customer data, including whether these modules are validated under the NIST Cryptographic Module Validation Program or are update streams of such modules.
 
 
+
+    **Related SP 800-53 Controls:** [AU-09 (03)](controls/audit-and-accountability.md#au-09-03){ data-preview }, [CM-03 (06)](controls/configuration-management.md#cm-03-06){ data-preview }, [IA-07](controls/identification-and-authentication.md#ia-07){ data-preview }, [SC-28 (01)](controls/system-and-communications-protection.md#sc-28-01){ data-preview }, [SC-08 (01)](controls/system-and-communications-protection.md#sc-08-01){ data-preview }
+
     ---
     **Terms:** [Federal Customer Data](../definitions/#federal-customer-data){ data-preview }, [Validation](../definitions/#validation){ data-preview }
 ### Using Validated Cryptographic Modules
 
 ??? abstract "CMU-CSO-UVM"
     **Changelog:**
+
+
+    - **2026-10-13:** Updated control mappings: added ac-18, au-9.3, ia-7, sc-28.1, sc-8.1.
 
 
     - **2026-10-05:** Added a note clarifying that new algorithms in update streams of modules are not included in the scope of updates to  validated cryptographic modules.
@@ -90,6 +99,9 @@ These rules apply to providers for FedRAMP Certifications.
     ---
 
     _**Note:** Cryptographic modules include specific algorithms by definition; if an update stream of a cryptographic module adds new algorithms that were not previously validated then those algorithms can not be considered within the scope of update stream usage under these rules as they are new algorithms within the module that have never been validated._
+
+
+    **Related SP 800-53 Controls:** [AC-18](controls/access-control.md#ac-18){ data-preview }, [AU-09 (03)](controls/audit-and-accountability.md#au-09-03){ data-preview }, [IA-07](controls/identification-and-authentication.md#ia-07){ data-preview }, [SC-28 (01)](controls/system-and-communications-protection.md#sc-28-01){ data-preview }, [SC-08 (01)](controls/system-and-communications-protection.md#sc-08-01){ data-preview }
 
     ---
     **Terms:** [Federal Customer Data](../definitions/#federal-customer-data){ data-preview }, [Validation](../definitions/#validation){ data-preview }

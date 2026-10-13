@@ -48,6 +48,9 @@ These rules apply to providers for any type of FedRAMP Certification.
     **Changelog:**
 
 
+    - **2026-10-13:** Updated control mappings: added cm-8.4, ra-3, si-4.19.
+
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
@@ -64,12 +67,18 @@ These rules apply to providers for any type of FedRAMP Certification.
     - _Certain categories of cloud computing products and services are specified as entirely outside the scope of FedRAMP by the Director of the Office of Management and Budget. All such products and services are therefore not included in the cloud service offering for FedRAMP. For more, see https://fedramp.gov/scope._
     - _Software produced by cloud service providers that is delivered separately for installation on agency systems and not operated in a shared responsibility model (typically including agents, application clients, mobile applications, etc. that are not fully managed by the cloud service provider) is not a cloud computing product or service and is entirely outside the scope of FedRAMP under the FedRAMP Certification Act. All such software is therefore not included in the cloud service offering for FedRAMP. For more, see https://fedramp.gov/scope._
     - _All aspects of the cloud service offering are determined and maintained by the cloud service provider in accordance with related FedRAMP Certification rules and documented by the cloud service provider in their FedRAMP Certification Package._
+
+    **Related SP 800-53 Controls:** [CM-08 (04)](controls/configuration-management.md#cm-08-04){ data-preview }, [RA-03](controls/risk-assessment.md#ra-03){ data-preview }, [SI-04 (19)](controls/system-and-information-integrity.md#si-04-19){ data-preview }
+
     ---
     **Terms:** [Certification Package](../definitions/#certification-package){ data-preview }, [Cloud Service Offering](../definitions/#cloud-service-offering){ data-preview }, [Federal Customer Data](../definitions/#federal-customer-data){ data-preview }, [Handle](../definitions/#handle){ data-preview }, [Information Resource](../definitions/#information-resource){ data-preview }, [Likely](../definitions/#likely){ data-preview }
 ### Information Flows and Security Categories
 
 ??? abstract "MAS-CSO-FLO"
     **Changelog:**
+
+
+    - **2026-10-13:** Updated control mappings: added ac-4, cm-12, cm-12.1, ra-3, si-4.19.
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
@@ -85,12 +94,18 @@ These rules apply to providers for any type of FedRAMP Certification.
 
     _**Note:** Information resources (including third-party information resources) MAY vary by security category as appropriate to the type of information handled by or impacted by the information resource._
 
+
+    **Related SP 800-53 Controls:** [AC-04](controls/access-control.md#ac-04){ data-preview }, [CM-12](controls/configuration-management.md#cm-12){ data-preview }, [CM-12 (01)](controls/configuration-management.md#cm-12-01){ data-preview }, [RA-03](controls/risk-assessment.md#ra-03){ data-preview }, [SI-04 (19)](controls/system-and-information-integrity.md#si-04-19){ data-preview }
+
     ---
     **Terms:** [Cloud Service Offering](../definitions/#cloud-service-offering){ data-preview }, [Handle](../definitions/#handle){ data-preview }, [Information Resource](../definitions/#information-resource){ data-preview }, [Security Category](../definitions/#security-category){ data-preview }, [Third-Party Information Resource](../definitions/#third-party-information-resource){ data-preview }
 ### Third-Party Information Resources
 
 ??? abstract "MAS-CSO-TPR"
     **Changelog:**
+
+
+    - **2026-10-13:** Updated control mappings: added ra-3.
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
@@ -108,6 +123,9 @@ These rules apply to providers for any type of FedRAMP Certification.
     1. Mitigation measures in place to reduce the potential impact to federal customer data
     1. Compensating controls in place to reduce the potential impact to federal customer data
 
+
+
+    **Related SP 800-53 Controls:** [RA-03](controls/risk-assessment.md#ra-03){ data-preview }
 
     ---
     **Terms:** [Cloud Service Offering](../definitions/#cloud-service-offering){ data-preview }, [Federal Customer Data](../definitions/#federal-customer-data){ data-preview }, [Information Resource](../definitions/#information-resource){ data-preview }, [Initial Incident Report (IIR)](../definitions/#initial-incident-report-iir){ data-preview }, [Third-Party Information Resource](../definitions/#third-party-information-resource){ data-preview }

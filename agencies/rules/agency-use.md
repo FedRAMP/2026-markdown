@@ -278,6 +278,9 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
     **Changelog:**
 
 
+    - **2026-10-13:** Updated control mappings: added cm-10, cm-5, cm-6, ia-11.
+
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
 
 
@@ -286,6 +289,9 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
 !!! quote ""
     Agencies [MUST](../../definitions/#must){ data-preview } review the Secure Configuration Guides supplied by Providers and configure relevant security settings.
 
+
+
+    **Related SP 800-53 Controls:** [CM-10](../../reference/controls/configuration-management.md#cm-10){ data-preview }, [CM-05](../../reference/controls/configuration-management.md#cm-05){ data-preview }, [CM-06](../../reference/controls/configuration-management.md#cm-06){ data-preview }, [IA-11](../../reference/controls/identification-and-authentication.md#ia-11){ data-preview }
 
 ### Accept FedRAMP Rules
 
