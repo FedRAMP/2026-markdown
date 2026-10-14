@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 tags:
   - 20x
   - Cloud Service Providers
@@ -18,12 +20,15 @@ tags:
 
 ??? abstract "KSI-SCR-MIT"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-10-13:** Updated control mappings: added ac-19, ra-3, sa-11.1, sa-11.2, sa-15, sa-16, sa-17, sa-21, sa-4, sa-4.1, sa-4.2, sa-4.5, sa-4.9, sa-9.1, sa-9.2, sa-9.5, si-7.15, sr-2, sr-3.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -41,12 +46,15 @@ tags:
 
 ??? abstract "KSI-SCR-MON"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-10-13:** Updated control mappings: added ac-19, ca-2.3, ra-3, sr-3.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 

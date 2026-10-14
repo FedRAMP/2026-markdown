@@ -43,12 +43,15 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 ??? abstract "SCG-CSO-RSC"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-10-13:** Updated control mappings: added cm-7.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -78,9 +81,11 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 ??? abstract "SCG-CSO-AUP"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -99,9 +104,11 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 ??? abstract "SCG-CSO-PUB"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -114,9 +121,11 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 ??? abstract "SCG-CSO-SDF"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -142,9 +151,11 @@ These recommendations apply to providers with FedRAMP Certifications of any type
 
 ??? abstract "SCG-ENH-CMP"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -159,9 +170,11 @@ These recommendations apply to providers with FedRAMP Certifications of any type
 
 ??? abstract "SCG-ENH-EXP"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -176,9 +189,11 @@ These recommendations apply to providers with FedRAMP Certifications of any type
 
 ??? abstract "SCG-ENH-API"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -191,9 +206,11 @@ These recommendations apply to providers with FedRAMP Certifications of any type
 
 ??? abstract "SCG-ENH-MRG"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -208,9 +225,11 @@ These recommendations apply to providers with FedRAMP Certifications of any type
 
 ??? abstract "SCG-ENH-VRH"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 

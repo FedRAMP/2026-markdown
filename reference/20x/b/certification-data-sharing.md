@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 tags:
   - 20x
   - Cloud Service Providers
@@ -44,12 +46,15 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 ??? abstract "CDS-CSO-PUB"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-10-05:** Clarified that logo link must be a viewable web image. Added note recommending the involvement of web-based application engineers.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -89,9 +94,11 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 ??? abstract "CDS-CSO-SVC"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -108,9 +115,11 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 ??? abstract "CDS-CSO-FID"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -131,9 +140,11 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 ??? abstract "CDS-CSO-FRC"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -154,9 +165,11 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 ??? abstract "CDS-CSO-AVR"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -176,9 +189,11 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 ??? abstract "CDS-CSO-UTC"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -199,9 +214,11 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 ??? abstract "CDS-CSO-CBF"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -216,9 +233,11 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 ??? abstract "CDS-CSO-RIS"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -271,9 +290,11 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 ??? abstract "CDS-CSO-IRP"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -296,9 +317,11 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 ??? abstract "CDS-CSO-HAD"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -317,9 +340,11 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 ??? abstract "CDS-CSO-PSM"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -339,9 +364,11 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 ??? abstract "CDS-CSO-RPS"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -367,9 +394,11 @@ These rules apply to trust centers that are FedRAMP-compatible.
 
 ??? abstract "CDS-TRC-USH"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -388,9 +417,11 @@ These rules apply to trust centers that are FedRAMP-compatible.
 
 ??? abstract "CDS-TRC-PAC"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -405,9 +436,11 @@ These rules apply to trust centers that are FedRAMP-compatible.
 
 ??? abstract "CDS-TRC-AAI"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -422,9 +455,11 @@ These rules apply to trust centers that are FedRAMP-compatible.
 
 ??? abstract "CDS-TRC-ACL"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -439,9 +474,11 @@ These rules apply to trust centers that are FedRAMP-compatible.
 
 ??? abstract "CDS-TRC-HMR"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -456,9 +493,11 @@ These rules apply to trust centers that are FedRAMP-compatible.
 
 ??? abstract "CDS-TRC-SSM"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -484,9 +523,11 @@ These rules apply to providers that are using a FedRAMP-compatible trust center 
 
 ??? abstract "CDS-UTC-AAD"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -505,9 +546,11 @@ These rules apply to providers that are using a FedRAMP-compatible trust center 
 
 ??? abstract "CDS-UTC-AGA"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 

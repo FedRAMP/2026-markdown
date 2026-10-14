@@ -42,9 +42,11 @@ These rules apply to FedRAMP when evaluating independent assessment services for
 
 ??? abstract "REC-FRP-FOC"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -59,9 +61,11 @@ These rules apply to FedRAMP when evaluating independent assessment services for
 
 ??? abstract "REC-FRP-RAO"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -76,9 +80,11 @@ These rules apply to FedRAMP when evaluating independent assessment services for
 
 ??? abstract "REC-FRP-DRD"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -101,9 +107,11 @@ These rules apply to independent assessment services seeking to obtain or mainta
 
 ??? abstract "REC-IAS-ACC"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -122,9 +130,11 @@ These rules apply to independent assessment services seeking to obtain or mainta
 
 ??? abstract "REC-IAS-ADA"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -149,9 +159,11 @@ These rules apply to independent assessment services seeking to obtain or mainta
 
 ??? abstract "REC-IAS-PSC"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -169,9 +181,11 @@ These rules apply to independent assessment services seeking to obtain or mainta
 
 ??? abstract "REC-IAS-ANR"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -191,9 +205,11 @@ These rules apply to independent assessment services seeking to obtain or mainta
 
 ??? abstract "REC-IAS-RAS"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -213,9 +229,11 @@ These rules apply to independent assessment services seeking to obtain or mainta
 
 ??? abstract "REC-IAS-RAR"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -234,9 +252,11 @@ These rules apply to independent assessment services seeking to obtain or mainta
 
 ??? abstract "REC-IAS-RQU"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -252,9 +272,11 @@ These rules apply to independent assessment services seeking to obtain or mainta
 
 ??? abstract "REC-IAS-AFI"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -271,9 +293,11 @@ These rules apply to independent assessment services seeking to obtain or mainta
 
 ??? abstract "REC-IAS-CFI"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -290,9 +314,11 @@ These rules apply to independent assessment services seeking to obtain or mainta
 
 ??? abstract "REC-IAS-PST"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -315,9 +341,11 @@ These rules apply to independent assessment services seeking to obtain or mainta
 
 ??? abstract "REC-IAS-CAP"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -330,9 +358,11 @@ These rules apply to independent assessment services seeking to obtain or mainta
 
 ??? abstract "REC-IAS-INV"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -345,9 +375,11 @@ These rules apply to independent assessment services seeking to obtain or mainta
 
 ??? abstract "REC-IAS-SEP"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 

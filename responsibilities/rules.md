@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 tags:
   - 20x
   - Rev5
@@ -32,9 +34,11 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 ??? abstract "AFC-FRP-VRE"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -51,9 +55,11 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 ??? abstract "AFC-FRP-CDS"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -76,9 +82,11 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 ??? abstract "AFC-FRP-UFS"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -91,9 +99,11 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 ??? abstract "AFC-FRP-PNT"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -118,9 +128,11 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 ??? abstract "AFC-FRP-RQA"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -133,9 +145,11 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 ??? abstract "AFC-FRP-ERT"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -159,9 +173,11 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 ??? abstract "AFC-FRP-COR"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -174,9 +190,11 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 ??? abstract "AFC-FRP-RPM"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -202,12 +220,15 @@ These rules apply to FedRAMP.
 
 ??? abstract "IEC-FRP-ORV"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-07-02:** Update terminology from "Response" to "Communication" in FedRAMP Incident Evaluation rules.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -239,9 +260,11 @@ These rules apply to FedRAMP activities related to the FedRAMP Marketplace.
 
 ??? abstract "MKT-FRP-SOF"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -269,9 +292,11 @@ These rules apply to FedRAMP when evaluating independent assessment services for
 
 ??? abstract "REC-FRP-FOC"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -286,9 +311,11 @@ These rules apply to FedRAMP when evaluating independent assessment services for
 
 ??? abstract "REC-FRP-RAO"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -303,9 +330,11 @@ These rules apply to FedRAMP when evaluating independent assessment services for
 
 ??? abstract "REC-FRP-DRD"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -333,9 +362,11 @@ These rules apply to FedRAMP.
 
 ??? abstract "SCN-FRP-CAP"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -367,9 +398,11 @@ These rules apply to FedRAMP when setting expectations for specific cloud servic
 
 ??? abstract "VER-FRP-ARP"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -384,9 +417,11 @@ These rules apply to FedRAMP when setting expectations for specific cloud servic
 
 ??? abstract "VER-FRP-ADV"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 

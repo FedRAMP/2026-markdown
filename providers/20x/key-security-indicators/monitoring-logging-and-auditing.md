@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 tags:
   - 20x
   - Cloud Service Providers
@@ -18,12 +20,15 @@ tags:
 
 ??? abstract "KSI-MLA-ALA"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-10-13:** Updated control mappings: added au-12.3, au-6.7.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -45,12 +50,15 @@ tags:
 
 ??? abstract "KSI-MLA-EVC"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-10-13:** Updated control mappings: added ac-19, cm-6.1, ra-3.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -68,12 +76,15 @@ tags:
 
 ??? abstract "KSI-MLA-LET"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-10-13:** Updated control mappings: added au-10, au-7, cm-5.1, ir-9.4, si-4.19, si-4.20.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -91,12 +102,15 @@ tags:
 
 ??? abstract "KSI-MLA-OSM"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-10-13:** Updated control mappings: added au-12.1, au-5.1, au-6.4, au-6.5, si-4.16; removed si-7.7.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -114,12 +128,15 @@ tags:
 
 ??? abstract "KSI-MLA-RVL"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-10-13:** Updated control mappings: added au-7, ra-5.8, si-4.19.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 

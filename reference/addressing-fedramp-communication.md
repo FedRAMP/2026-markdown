@@ -44,9 +44,11 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 ??? abstract "AFC-FRP-VRE"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -63,9 +65,11 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 ??? abstract "AFC-FRP-CDS"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -88,9 +92,11 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 ??? abstract "AFC-FRP-UFS"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -103,9 +109,11 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 ??? abstract "AFC-FRP-PNT"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -130,9 +138,11 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 ??? abstract "AFC-FRP-RQA"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -145,9 +155,11 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 ??? abstract "AFC-FRP-ERT"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -171,9 +183,11 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 ??? abstract "AFC-FRP-COR"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -186,9 +200,11 @@ These rules apply to FedRAMP when communicating with cloud service providers.
 
 ??? abstract "AFC-FRP-RPM"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -212,12 +228,15 @@ These rules apply to providers with any type of FedRAMP Certification.
 
 ??? abstract "AFC-CSO-INB"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-10-13:** Updated control mappings: added si-5.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -244,9 +263,11 @@ These rules apply to providers with any type of FedRAMP Certification.
 
 ??? abstract "AFC-CSO-NOC"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -263,9 +284,11 @@ These rules apply to providers with any type of FedRAMP Certification.
 
 ??? abstract "AFC-CSO-TFG"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -280,9 +303,11 @@ These rules apply to providers with any type of FedRAMP Certification.
 
 ??? abstract "AFC-CSO-RCV"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -299,9 +324,11 @@ These rules apply to providers with any type of FedRAMP Certification.
 
 ??? abstract "AFC-CSO-CRA"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -320,9 +347,11 @@ These rules apply to providers with any type of FedRAMP Certification.
 
 ??? abstract "AFC-CSO-EMR"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -339,9 +368,11 @@ These rules apply to providers with any type of FedRAMP Certification.
 
 ??? abstract "AFC-CSO-IMA"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -360,9 +391,11 @@ These rules apply to providers with any type of FedRAMP Certification.
 
 ??? abstract "AFC-CSO-ACK"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 

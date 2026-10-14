@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 tags:
   - 20x
   - Rev5
@@ -46,9 +48,11 @@ These rules for agencies apply to all agencies using a FedRAMP Certification.
 
 ??? abstract "CCM-AGM-ROR"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -67,9 +71,11 @@ These rules for agencies apply to all agencies using a FedRAMP Certification.
 
 ??? abstract "CCM-AGM-CSC"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 

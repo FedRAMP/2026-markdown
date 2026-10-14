@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 tags:
   - Rev5
   - FedRAMP
@@ -47,9 +49,11 @@ These rules apply to FedRAMP.
 
 ??? abstract "SCN-FRP-CAP"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -79,12 +83,15 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 ??? abstract "SCN-CSO-EVA"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-10-13:** Updated control mappings: added cm-4.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -110,9 +117,11 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 ??? abstract "SCN-CSO-MAR"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -131,9 +140,11 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 ??? abstract "SCN-CSO-INF"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -165,9 +176,11 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 ??? abstract "SCN-CSO-HIS"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -182,9 +195,11 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 ??? abstract "SCN-CSO-HRM"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -201,9 +216,11 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 ??? abstract "SCN-CSO-ARI"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -222,9 +239,11 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 ??? abstract "SCN-CSO-NOM"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -245,12 +264,15 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 ??? abstract "SCN-CSO-EMG"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-10-13:** Updated control mappings: added ir-4.2.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -283,9 +305,11 @@ These rules apply to all adaptive significant changes.
 
 ??? abstract "SCN-ADP-NTF"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -354,9 +378,11 @@ These rules apply to all routine recurring significant changes.
 
 ??? abstract "SCN-RTR-NNR"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -445,9 +471,11 @@ These rules apply to all transformative significant changes.
 
 ??? abstract "SCN-TRF-NIP"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -466,9 +494,11 @@ These rules apply to all transformative significant changes.
 
 ??? abstract "SCN-TRF-NFP"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -487,9 +517,11 @@ These rules apply to all transformative significant changes.
 
 ??? abstract "SCN-TRF-NAF"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -508,9 +540,11 @@ These rules apply to all transformative significant changes.
 
 ??? abstract "SCN-TRF-NAV"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -533,9 +567,11 @@ These rules apply to all transformative significant changes.
 
 ??? abstract "SCN-TRF-UPD"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -556,9 +592,11 @@ These rules apply to all transformative significant changes.
 
 ??? abstract "SCN-TRF-TPR"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 

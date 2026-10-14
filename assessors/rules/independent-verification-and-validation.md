@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 tags:
   - 20x
   - Rev5
@@ -46,9 +48,11 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 ??? abstract "IVV-IAS-VIM"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -67,9 +71,11 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 ??? abstract "IVV-IAS-VEF"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -88,9 +94,11 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 ??? abstract "IVV-IAS-SUM"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -109,9 +117,11 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 ??? abstract "IVV-IAS-OSA"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -130,9 +140,11 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 ??? abstract "IVV-IAS-VIP"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -151,9 +163,11 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 ??? abstract "IVV-IAS-EPX"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -166,9 +180,11 @@ These rules apply to independent assessment services supporting all FedRAMP Cert
 
 ??? abstract "IVV-IAS-SHA"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 

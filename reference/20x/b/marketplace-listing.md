@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 tags:
   - 20x
   - FedRAMP
@@ -49,9 +51,11 @@ These rules apply to FedRAMP activities related to the FedRAMP Marketplace.
 
 ??? abstract "MKT-FRP-SOF"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -80,9 +84,11 @@ These rules apply to providers seeking a listing in the FedRAMP Marketplace.
 
 ??? abstract "MKT-CSO-MLR"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -99,9 +105,11 @@ These rules apply to providers seeking a listing in the FedRAMP Marketplace.
 
 ??? abstract "MKT-CSO-PML"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -128,9 +136,11 @@ These rules apply to independent assessment services seeking a listing in the Fe
 
 ??? abstract "MKT-IAS-OFR"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -145,9 +155,11 @@ These rules apply to independent assessment services seeking a listing in the Fe
 
 ??? abstract "MKT-IAS-WEB"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -167,12 +179,15 @@ These rules apply to independent assessment services seeking a listing in the Fe
 
 ??? abstract "MKT-IAS-LRQ"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-10-05:** Updated form name and URL.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -195,9 +210,11 @@ These rules apply to consulting and advisory services seeking a listing in the F
 
 ??? abstract "MKT-CAS-WEB"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -219,12 +236,15 @@ These rules apply to consulting and advisory services seeking a listing in the F
 
 ??? abstract "MKT-CAS-LRQ"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-10-05:** Updated form name.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -239,9 +259,11 @@ These rules apply to consulting and advisory services seeking a listing in the F
 
 ??? abstract "MKT-CAS-RFR"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -271,9 +293,11 @@ FedRAMP allows cloud service providers that are actively preparing to obtain a F
 
 ??? abstract "MKT-IIP-AGU"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -297,9 +321,11 @@ FedRAMP allows cloud service providers that are actively preparing to obtain a F
 
 ??? abstract "MKT-IIP-DCP"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -318,9 +344,11 @@ FedRAMP allows cloud service providers that are actively preparing to obtain a F
 
 ??? abstract "MKT-IIP-DLA"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 

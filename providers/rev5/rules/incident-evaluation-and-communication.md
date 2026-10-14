@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 tags:
   - Rev5
   - Cloud Service Providers
@@ -70,15 +72,19 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 ??? abstract "IEC-CSO-EFR"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-10-13:** Updated control mappings: added au-5.2, ir-4.11.
+    { data-search-exclude }
 
 
     - **2026-07-02:** Update terminology from "Response" to "Communication" in FedRAMP Incident Evaluation rules.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -96,9 +102,11 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 ??? abstract "IEC-CSO-DPR"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -113,12 +121,15 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 ??? abstract "IEC-CSO-IIR"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-10-13:** Updated control mappings: added au-5.2, ir-5.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -240,15 +251,19 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 ??? abstract "IEC-CSO-OIR"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-10-13:** Updated control mappings: added ir-5.
+    { data-search-exclude }
 
 
     - **2026-09-13:** Removed the extra the in all statements.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -358,12 +373,15 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 ??? abstract "IEC-CSO-FIR"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-10-13:** Updated control mappings: added ir-5.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -449,9 +467,11 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 ??? abstract "IEC-CSO-EFI"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -478,9 +498,11 @@ These rules apply to providers with FedRAMP Certifications of any type.
 
 ??? abstract "IEC-CSO-AIR"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 

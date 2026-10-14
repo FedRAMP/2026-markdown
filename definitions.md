@@ -39,9 +39,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
 
 ## Accepted Vulnerability
 
-??? abstract "**ID:** FRD-ACV"
+??? abstract "FRD-ACV"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     A vulnerability that the provider does not intend to fully mitigate or remediate, OR that has not or will not be fully mitigated or remediated within the maximum overdue period in FedRAMP Vulnerability Detection and Response rules.
@@ -52,9 +56,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** accepted vulnerability, accepted vulnerabilities
 ## Adaptive Change
 
-??? abstract "**ID:** FRD-ADP"
+??? abstract "FRD-ADP"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     A type of significant change that does not routinely recur and does not introduce substantive potential security risks that need to be assessed in depth.
@@ -68,9 +76,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** adaptive, adaptive change, adaptive changes
 ## Advisor
 
-??? abstract "**ID:** FRD-ADV"
+??? abstract "FRD-ADV"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     An entity that helps a provider understand, prepare for, or maintain FedRAMP Certification without replacing the provider's responsibility or the assessor's independence.
@@ -81,9 +93,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** advisor, advisors
 ## Agency
 
-??? abstract "**ID:** FRD-AGY"
+??? abstract "FRD-AGY"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     Has the meaning given in 44 U.S. Code § 3502 (1), which is "any executive department, military department, Government corporation, Government controlled corporation, or other establishment in the executive branch of the Government (including the Executive Office of the President), or any independent regulatory agency, but does not include—(A) the Government Accountability Office; (B) Federal Election Commission; (C) the governments of the District of Columbia and of the territories and possessions of the United States, and their various subdivisions; or (D) Government-owned contractor-operated facilities, including laboratories engaged in national defense research and production activities."
@@ -96,9 +112,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** agency, agencies
 ## All Affected Parties
 
-??? abstract "**ID:** FRD-AAP"
+??? abstract "FRD-AAP"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     All federal entities whose interests are affected directly or are likely to be affected directly in the event of a vulnerability or incident related to federal customer data. This always includes FedRAMP and directly impacted federal customer agencies.
@@ -109,9 +129,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** all affected parties
 ## All Necessary Assessors
 
-??? abstract "**ID:** FRD-ANA"
+??? abstract "FRD-ANA"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     All entities who participate in the FedRAMP assessment of a cloud service offering in the context of a FedRAMP Certification. This always includes FedRAMP and any FedRAMP Recognized independent assessor contracted by a provider to perform a FedRAMP assessment.
@@ -122,9 +146,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** all necessary assessors
 ## All Necessary Parties
 
-??? abstract "**ID:** FRD-ANP"
+??? abstract "FRD-ANP"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     All entities whose interests are affected directly by activity related to a specific cloud service offering in the context of FedRAMP Certifications. This always includes FedRAMP and any agency customer who is using the cloud service offering, but may include additional parties depending on agreements made by the cloud service provider (such as consultants or independent assessors). Potential agency customers or third-party cloud service providers should also be included in most cases but this is not a mandatory requirement under FedRAMP because the cloud service provider may choose who they wish to do business with.
@@ -135,9 +163,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** all necessary parties
 ## Artifacts
 
-??? abstract "**ID:** FRD-ART"
+??? abstract "FRD-ART"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     Security-related materials that supply information regarding or evidence of functions, policies, decisions, procedures, operations, or other such activities, for the purposes of obtaining and maintaining a FedRAMP Certification. All such artifacts are considered FedRAMP Certification Data and are included in the FedRAMP Certification Package.
@@ -148,9 +180,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** artifact, artifacts
 ## Assessor
 
-??? abstract "**ID:** FRD-ASR"
+??? abstract "FRD-ASR"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     An assessor that performs assessment, verification, or validation activities for a cloud service offering seeking to obtain or maintain FedRAMP Certification; FedRAMP is the final assessor for FedRAMP Certification, but FedRAMP Recognized independent assessment services are typically also utilized.
@@ -164,9 +200,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** assessor, assessors
 ## Certification Class
 
-??? abstract "**ID:** FRD-CCL"
+??? abstract "FRD-CCL"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     The category of assurance that a cloud service offering supplies to federal government customers following FedRAMP Practices, increasing from minimal assurance at Class A to significant assurance at Class D; currently available categories are Class A, B, C, or D.
@@ -177,9 +217,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** Certification Class, Certification Classes
 ## Certification Class Change
 
-??? abstract "**ID:** FRD-CCC"
+??? abstract "FRD-CCC"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     A type of significant change that is likely to change the FedRAMP Certification class for the entire cloud service offering (e.g. from Class B to Class C or from Class D to Class C).
@@ -190,9 +234,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** certification class change, certification class changes
 ## Certification Data
 
-??? abstract "**ID:** FRD-CRD"
+??? abstract "FRD-CRD"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     The collective information required by FedRAMP for initial and ongoing FedRAMP Certification of a cloud service offering, including the FedRAMP Certification Package.
@@ -206,9 +254,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** certification data
 ## Certification Package
 
-??? abstract "**ID:** FRD-CRP"
+??? abstract "FRD-CRP"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     Has meaning from 44 USC § 3607 (b)(8) given to "authorization package", which is "the essential information that can be used by an agency to determine whether to authorize the operation of an information system or the use of a designated set of common controls for all cloud computing products and services [certified] by FedRAMP."
@@ -224,9 +276,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** certification package, certification packages
 ## Certification Path
 
-??? abstract "**ID:** FRD-CPH"
+??? abstract "FRD-CPH"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     The underlying source of the FedRAMP Certification, either from a federal agency sponsored authorization to operate or directly from FedRAMP itself. The agency path is a legacy path that is only available for FedRAMP Rev5 and still requires review and approval from FedRAMP.
@@ -237,9 +293,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** Certification Path, Certification Paths
 ## Certification Profile
 
-??? abstract "**ID:** FRD-CPF"
+??? abstract "FRD-CPF"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     The combination of a FedRAMP Certification Type (Rev5 or 20x), FedRAMP Certification Path (Program or Agency), and FedRAMP Certification Class (A, B, C, or D) for a cloud service offering.
@@ -250,9 +310,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** Certification Profile, Certification Profiles
 ## Certification Type
 
-??? abstract "**ID:** FRD-CTY"
+??? abstract "FRD-CTY"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     The form of assurance that a cloud service offering supplies to federal government customers following FedRAMP Practices, either Rev5 or 20x. Rev5 follows a legacy approach based primarily on documented plans while 20x follows a modern approach based primarily on measured outcomes.
@@ -263,9 +327,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** Certification Type, Certification Types
 ## Cloud Service Offering
 
-??? abstract "**ID:** FRD-CSO"
+??? abstract "FRD-CSO"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     A specific, packaged cloud computing product or service supplied by a cloud service provider for use by customers, that is the subject of a FedRAMP Certification.
@@ -277,9 +345,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** cloud service offering, cloud service offerings
 ## Debilitating Customer Effect
 
-??? abstract "**ID:** FRD-DCE"
+??? abstract "FRD-DCE"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     An unwanted customer effect that interrupts use of the cloud service for most users or compromises the integrity or confidentiality of most federal customer data. If the adverse customer effect is unknown then it should be treated as if it is debilitating until proven otherwise.
@@ -290,9 +362,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** debilitating customer effect, debilitating customer effects
 ## Deterministic Telemetry
 
-??? abstract "**ID:** FRD-DTM"
+??? abstract "FRD-DTM"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     Verifiable data collected directly from an authoritative source that represents a factual and reproducible observation of the attributes of a system such as the system's state, configuration, or behavior.
@@ -304,9 +380,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** deterministic telemetry
 ## Disruptive Customer Effect
 
-??? abstract "**ID:** FRD-DCF"
+??? abstract "FRD-DCF"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     An unwanted customer effect that interrupts use of the cloud service for many users for less than 24 hours, or that compromises the integrity or confidentiality of large amounts or many types of federal customer data.
@@ -317,9 +397,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** disruptive customer effect, disruptive customer effects
 ## Drift
 
-??? abstract "**ID:** FRD-DFT"
+??? abstract "FRD-DFT"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     Changes to information resources that cause deviations from the intended and assessed state; common forms of drift include changes to configurations, deployed software, privileges, running processes, and availability.
@@ -328,9 +412,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** drift, drifts, drifting
 ## False Positive Vulnerability
 
-??? abstract "**ID:** FRD-FPV"
+??? abstract "FRD-FPV"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     A detected vulnerability that is not actually present in an exploitable state in the information resource
@@ -346,9 +434,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** false positive vulnerability, false positive vulnerabilities
 ## Federal Customer Data
 
-??? abstract "**ID:** FRD-FCD"
+??? abstract "FRD-FCD"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     All electronic information, content, and materials that an agency or its authorized users upload, store, or otherwise supply to a cloud service for processing or storage. This does NOT include account information, service metadata, analytics, telemetry, or other similar metadata generated by the cloud service provider.
@@ -360,9 +452,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** federal customer data
 ## FedRAMP Certification Report
 
-??? abstract "**ID:** FRD-FCR"
+??? abstract "FRD-FCR"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     A report that is produced by FedRAMP documenting the results of a FedRAMP Certification assessment. This report is typically produced after the initial FedRAMP Certification assessment on the Program Certification Path and updated as necessary during ongoing FedRAMP Certification, but may be produced at any time by FedRAMP as part of ongoing FedRAMP Certification activities for any cloud service offering (such as corrective action). Cloud service offerings must include these reports in their FedRAMP Certification Package.
@@ -375,9 +471,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** FedRAMP Certification Report, FedRAMP certification report, certification report
 ## FedRAMP Certified
 
-??? abstract "**ID:** FRD-FCT"
+??? abstract "FRD-FCT"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     The status of a cloud service offering that has received FedRAMP Certification and meets the legal requirement to be FedRAMP authorized.
@@ -393,9 +493,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** FedRAMP Certified, FedRAMP certified, certified, FedRAMP authorized, FedRAMP Authorized, authorized
 ## FedRAMP Independent Assessment
 
-??? abstract "**ID:** FRD-FIN"
+??? abstract "FRD-FIN"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     An independent verification and validation assessment, performed by a FedRAMP Recognized independent assessment service or FedRAMP following FedRAMP rules. These assessments are typically first performed to obtain an initial FedRAMP Certification then repeated on an annual basis to maintain FedRAMP Certification.
@@ -404,9 +508,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** FedRAMP independent assessment, FedRAMP independent assessments
 ## FedRAMP Practices
 
-??? abstract "**ID:** FRD-FPR"
+??? abstract "FRD-FPR"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     The security measures, safeguards, precautions, procedures, activities, policies, capabilities, mechanisms, etc. that are expected to be in place by FedRAMP to demonstrate that information resources are properly protected, expressed in FedRAMP 20x Key Security Indicators or FedRAMP Rev5 Controls and supplemented by FedRAMP rules.
@@ -415,9 +523,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** FedRAMP Practice, FedRAMP Practices
 ## FedRAMP Recognized
 
-??? abstract "**ID:** FRD-FRA"
+??? abstract "FRD-FRA"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     The status of independent assessment services that are recognized by FedRAMP to perform assessment activities on behalf of FedRAMP for cloud service offerings seeking to obtain or maintain FedRAMP Certification.
@@ -426,9 +538,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** FedRAMP Recognized, FedRAMP Recognition
 ## FedRAMP Reportable Incident
 
-??? abstract "**ID:** FRD-FRI"
+??? abstract "FRD-FRI"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     An incident that affects the confidentiality or integrity of federal customer data or is likely to affect the confidentiality or integrity of federal customer data.
@@ -439,9 +555,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** FedRAMP Reportable Incident, FedRAMP Reportable Incidents
 ## FedRAMP Security Inbox
 
-??? abstract "**ID:** FRD-FSI"
+??? abstract "FRD-FSI"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     An email address that follows the FedRAMP Security Inbox rules.
@@ -450,10 +570,16 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** security inbox, security inboxes, FSI
 ## Final Incident Report (FIR)
 
-??? abstract "**ID:** FRD-FIR"
+??? abstract "FRD-FIR"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-07-02:** Update terminology from "Response" to "Communication" in FedRAMP Incident Evaluation rules.
+        { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     A final report after recovery from an incident that is supplied by FedRAMP Certified cloud service providers to FedRAMP and agency customers, following FedRAMP Incident Evaluation and Communication rules.
@@ -464,9 +590,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** final incident report, final incident reports, FIR, FIRs
 ## Fully Mitigated Vulnerability
 
-??? abstract "**ID:** FRD-FMV"
+??? abstract "FRD-FMV"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     A vulnerability where the likelihood of exploitation or Potential Agency Impact N-rating has been reduced from the original evaluation until either are negligible, but the vulnerability is still detected.
@@ -477,9 +607,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** fully mitigated vulnerability, fully mitigated vulnerabilities, fully mitigate vulnerabilities
 ## Handle
 
-??? abstract "**ID:** FRD-HAN"
+??? abstract "FRD-HAN"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     Has the plain language meaning inclusive of any possible action taken with information, such as access, collect, control, create, display, disclose, disseminate, dispose, maintain, manipulate, process, receive, review, store, transmit, use... etc.
@@ -488,9 +622,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** handle, handles, handled, handling
 ## Incident
 
-??? abstract "**ID:** FRD-INT"
+??? abstract "FRD-INT"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     Has the meaning given in 44 USC § 3552 (b)(2) which is "an occurrence that (A) actually or imminently jeopardizes, without lawful authority, the integrity, confidentiality, or availability of information or an information system; or (B) constitutes a violation or imminent threat of violation of law, security policies, security procedures, or acceptable use policies."
@@ -503,9 +641,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** incident, incidents
 ## Information Resource
 
-??? abstract "**ID:** FRD-IRS"
+??? abstract "FRD-IRS"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     Has the meaning from 44 USC § 3502 (6): "information and related resources, such as personnel, equipment, funds, and information technology." This includes any aspect of the cloud service offering, both technical and managerial, including everything that makes up the business of the offering from non-machine-based information resources like organizational policies, procedures, employees, etc. to machine-based information resources like hardware, software, cloud services, code, etc.
@@ -521,9 +663,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** information resource, information resources
 ## Initial Certification
 
-??? abstract "**ID:** FRD-INC"
+??? abstract "FRD-INC"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     The first FedRAMP Certification of a cloud service offering based on the applicable FedRAMP Practices.
@@ -534,9 +680,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** initial certification, initial certifications
 ## Initial FedRAMP Assessment
 
-??? abstract "**ID:** FRD-IFA"
+??? abstract "FRD-IFA"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     The first full assessment of a cloud service offering obtaining FedRAMP Certification, coordinated by the provider with all necessary assessors, that results in a FedRAMP Certification.
@@ -547,10 +697,16 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** initial FedRAMP assessment, IFRA
 ## Initial Incident Report (IIR)
 
-??? abstract "**ID:** FRD-IIR"
+??? abstract "FRD-IIR"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-07-02:** Update terminology from "Response" to "Communication" in FedRAMP Incident Evaluation rules.
+        { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     An initial report about an incident that is supplied by FedRAMP Certified cloud service providers to FedRAMP and agency customers, following FedRAMP FedRAMP Incident Evaluation and Communication rules.
@@ -561,9 +717,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** initial incident report, initial incident reports, IIR, IIRs
 ## Internet-Reachable Vulnerability (IRV)
 
-??? abstract "**ID:** FRD-IRV"
+??? abstract "FRD-IRV"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     A vulnerability in a machine-based information resource that might be exploited or otherwise triggered by a payload originating from a source on the public internet.
@@ -580,9 +740,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** internet-reachable vulnerability, internet-reachable vulnerabilities, IRV, IRVs, NIRV, NIRVs
 ## Known Exploited Vulnerability (KEV)
 
-??? abstract "**ID:** FRD-KEV"
+??? abstract "FRD-KEV"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     Has the meaning given in CISA Binding Operational Directive 26-04, which is any vulnerability identified in CISA's Known Exploited Vulnerabilities catalog.
@@ -595,9 +759,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** known exploited vulnerability, known exploited vulnerabilities, KEV, KEVs
 ## Likely
 
-??? abstract "**ID:** FRD-LKY"
+??? abstract "FRD-LKY"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     A reasonable degree of probability based on context.
@@ -606,9 +774,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** likely, likelihood
 ## Likely Exploitable Vulnerability (LEV)
 
-??? abstract "**ID:** FRD-LEV"
+??? abstract "FRD-LEV"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     A vulnerability that is not fully mitigated AND is reachable by a likely threat actor; AND a likely threat actor with knowledge of the vulnerability would likely gain unauthorized access, cause harm, disrupt operations, or otherwise have an undesired adverse impact within the cloud service offering by exploiting the vulnerability.
@@ -624,9 +796,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** likely exploitable vulnerability, likely exploitable vulnerabilities, LEV, LEVs, NLEV, NLEVs
 ## Machine-Based (Information Resources)
 
-??? abstract "**ID:** FRD-MBI"
+??? abstract "FRD-MBI"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     Any information technology information resource—including systems, processes, software, hardware, services, cloud-native capabilities, and any other such capability, component, or resource—that relies primarily on mechanical or electronic devices (i.e. computers) for operation.
@@ -640,9 +816,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** machine-based, machine based
 ## Machine-Generated
 
-??? abstract "**ID:** FRD-MGN"
+??? abstract "FRD-MGN"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     Automatically produced by a computer process, application, or other mechanism without the intervention or manipulation of a human during production.
@@ -651,9 +831,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** machine-generated
 ## Machine-Readable
 
-??? abstract "**ID:** FRD-MRD"
+??? abstract "FRD-MRD"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     Has the meaning from 44 U.S. Code § 3502 (18) which is "the term "machine-readable", when used with respect to data, means data in a format that can be easily processed by a computer without human intervention while ensuring no semantic meaning is lost"
@@ -664,9 +848,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** machine-readable
 ## MAY
 
-??? abstract "**ID:** FRD-MAY"
+??? abstract "FRD-MAY"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-09-13:** Added force to FedRAMP Definitions for clarity.
+        { data-search-exclude }
+
 
 !!! quote ""
     The rule is truly optional. Parties SHOULD address such rules in their security documentation by explaining their decisions about how they handle such rules.
@@ -678,9 +866,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Related Terms Group:** [Force of the Rule](#related-terms-group-force-of-the-rule)
 ## Minimal Customer Effect
 
-??? abstract "**ID:** FRD-MCE"
+??? abstract "FRD-MCE"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     An unwanted customer effect that is only noticeable by some users. This includes minor inconveniences such as reduced performance.
@@ -691,9 +883,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** minimal customer effect, minimal customer effects
 ## MUST
 
-??? abstract "**ID:** FRD-MST"
+??? abstract "FRD-MST"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-09-13:** Added force to FedRAMP Definitions for clarity.
+        { data-search-exclude }
+
 
 !!! quote ""
     The rule is an absolute requirement. Parties MUST meet such rules and address them in their security documentation. Failure to follow the rule is a vulnerability likely requiring corrective action and/or the denial of initial or ongoing FedRAMP Certification.
@@ -705,9 +901,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Related Terms Group:** [Force of the Rule](#related-terms-group-force-of-the-rule)
 ## MUST NOT
 
-??? abstract "**ID:** FRD-MNT"
+??? abstract "FRD-MNT"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-09-13:** Added force to FedRAMP Definitions for clarity.
+        { data-search-exclude }
+
 
 !!! quote ""
     The rule is an absolute prohibition. Parties MUST meet such rules and address them in their security documentation. Failure to follow the rule is a vulnerability likely requiring corrective action and/or the denial of initial or ongoing FedRAMP Certification.
@@ -719,9 +919,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Related Terms Group:** [Force of the Rule](#related-terms-group-force-of-the-rule)
 ## Narrow Customer Effect
 
-??? abstract "**ID:** FRD-NCE"
+??? abstract "FRD-NCE"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     An unwanted customer effect that interrupts use of the cloud service for some users for less than 12 hours, or that compromises the integrity or confidentiality of an extremely limited amount and type of federal customer data.
@@ -732,9 +936,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** narrow customer effect, narrow customer effects
 ## Ongoing Certification
 
-??? abstract "**ID:** FRD-ONC"
+??? abstract "FRD-ONC"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     The continued FedRAMP Certification of a cloud service offering based on the applicable FedRAMP Practices.
@@ -745,9 +953,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** ongoing certification, ongoing certifications
 ## Ongoing Certification Report (OCR)
 
-??? abstract "**ID:** FRD-OCR"
+??? abstract "FRD-OCR"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     A regular report that is supplied by FedRAMP Certified cloud service providers to agency customers, following FedRAMP Collaborative Continuous Monitoring rules.
@@ -756,10 +968,16 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** ongoing certification report, OCR, OCRs
 ## Ongoing Incident Report (OIR)
 
-??? abstract "**ID:** FRD-OIR"
+??? abstract "FRD-OIR"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-07-02:** Update terminology from "Response" to "Communication" in FedRAMP Incident Evaluation rules.
+        { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     A recurring report about an ongoing incident that is supplied by FedRAMP Certified cloud service providers to FedRAMP and agency customers, following the FedRAMP Incident Evaluation and Communication rules.
@@ -770,9 +988,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** ongoing incident report, ongoing incident reports, OIR, OIRs
 ## Overdue Vulnerability
 
-??? abstract "**ID:** FRD-ODV"
+??? abstract "FRD-ODV"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     A vulnerability that the provider intends to fully mitigate or remediate but has not or will not do so within the time frames recommended or required by FedRAMP.
@@ -783,9 +1005,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** overdue vulnerability, overdue vulnerabilities
 ## Partially Mitigated Vulnerability
 
-??? abstract "**ID:** FRD-PMV"
+??? abstract "FRD-PMV"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     A vulnerability where the likelihood or Potential Agency Impact N-rating has been reduced from the original evaluation but the risk of exploitation still exists and the vulnerability is still detected.
@@ -796,9 +1022,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** partially mitigated vulnerability, partially mitigated vulnerabilities, partially mitigate vulnerabilities
 ## Persistent FedRAMP Assessment
 
-??? abstract "**ID:** FRD-PFA"
+??? abstract "FRD-PFA"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     Follow-on assessments of a cloud service offering focused on Key Security Indicators, coordinated by the provider with all necessary assessors, to maintain FedRAMP Certification or change its FedRAMP Certification class.
@@ -809,9 +1039,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** persistent FedRAMP assessment, PFRA
 ## Persistently
 
-??? abstract "**ID:** FRD-PER"
+??? abstract "FRD-PER"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     Occurring in a firm, steady way that is repeated over a long period of time in spite of obstacles or difficulties. Persistent activities may vary between actors, may occur irregularly, and may include interruptions or waiting periods between cycles. These attributes of persistent activities should be intentional, understood, and documented; the status of persistent activities will always be known.
@@ -823,9 +1057,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** persistently, persistent
 ## Potential Agency Impact
 
-??? abstract "**ID:** FRD-PAI"
+??? abstract "FRD-PAI"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     The estimated cumulative effect of unauthorized access, disruption, harm, or other adverse impacts to all agencies using the cloud service that are likely to result from security incidents or the exploitation of vulnerabilities in the cloud service offering; as estimated following appropriate FedRAMP rules to calculate the Potential Agency Impact N-rating (PAIN).
@@ -837,9 +1075,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** potential agency impact, potential agency impacts, PAIN, Potential Agency Impact N-rating
 ## Privileged Account
 
-??? abstract "**ID:** FRD-PAC"
+??? abstract "FRD-PAC"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     An account with elevated privileges that enables administrative functions over some aspect of the cloud service offering that may affect the confidentiality, integrity, or availability of information beyond those given to normal users; levels of privilege may vary wildly.
@@ -853,9 +1095,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** privileged account, privileged accounts
 ## Promptly
 
-??? abstract "**ID:** FRD-PRO"
+??? abstract "FRD-PRO"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     Without unnecessary delay.
@@ -867,9 +1113,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** promptly, prompt
 ## Provider
 
-??? abstract "**ID:** FRD-PRV"
+??? abstract "FRD-PRV"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     The cloud service provider responsible for a cloud service offering in the context of FedRAMP Certification.
@@ -883,9 +1133,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** provider, providers, cloud service provider, cloud service providers
 ## Quarterly Review
 
-??? abstract "**ID:** FRD-QTR"
+??? abstract "FRD-QTR"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     A regular synchronous meeting hosted by a FedRAMP Certified cloud service provider for agency customers, following FedRAMP Collaborative Continuous Monitoring rules.
@@ -896,9 +1150,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** quarterly review, quarterly reviews
 ## Regularly
 
-??? abstract "**ID:** FRD-RGL"
+??? abstract "FRD-RGL"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     Performing the activity on a consistent, predictable, and repeated basis, at set intervals, automatically if possible, following a documented plan. These intervals may vary as appropriate between different activities.
@@ -907,9 +1165,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** regularly, regular
 ## Remediated Vulnerability
 
-??? abstract "**ID:** FRD-RMV"
+??? abstract "FRD-RMV"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     A vulnerability that has been neutralized or eliminated and is no longer detected.
@@ -920,9 +1182,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** remediated vulnerability, remediated vulnerabilities, remediate vulnerabilities
 ## Responsibly
 
-??? abstract "**ID:** FRD-RSP"
+??? abstract "FRD-RSP"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     In a way that shows that you have good judgment and the ability to act correctly and make decisions on your own.
@@ -934,9 +1200,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** responsibly
 ## Routine Recurring Change
 
-??? abstract "**ID:** FRD-RTR"
+??? abstract "FRD-RTR"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     The type of significant change that regularly and routinely recurs as part of ongoing operations, vulnerability mitigation, or vulnerability remediation.
@@ -947,9 +1217,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** routine recurring, routine recurring change, routine recurring changes
 ## Security Category
 
-??? abstract "**ID:** FRD-SCT"
+??? abstract "FRD-SCT"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     Has the meaning from NIST FIPS 199, which is "The characterization of information or an information system based on an assessment of the potential impact that a loss of confidentiality, integrity, or availability of such information or information system would have on organizational operations, organizational assets, or individuals." Security categories are often referred to as "impact levels" and include Low, Moderate, and High.
@@ -960,9 +1234,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** security category, security categories, impact level, impact levels
 ## Security Decision Record (SDR)
 
-??? abstract "**ID:** FRD-SDR"
+??? abstract "FRD-SDR"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     A persistently maintained, verified, and validated record of the security decisions made by a provider over the lifecycle of a cloud service offering. The Security Decision Record replaces the traditional System Security Plan and documents how applicable FedRAMP Practices are addressed, including implementation rationale, resulting customer risk, assessment findings, and supporting artifacts.
@@ -971,9 +1249,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** security decision record, security decision records, SDR
 ## SHOULD
 
-??? abstract "**ID:** FRD-SHD"
+??? abstract "FRD-SHD"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-09-13:** Added force to FedRAMP Definitions for clarity.
+        { data-search-exclude }
+
 
 !!! quote ""
     There may exist valid reasons in particular circumstances to ignore this rule, but the full implications must be understood and carefully weighed. Parties MUST address such rules in their security documentation by explaining their decisions about how they handle such rules.
@@ -985,10 +1267,16 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Related Terms Group:** [Force of the Rule](#related-terms-group-force-of-the-rule)
 ## SHOULD NOT
 
-??? abstract "**ID:** FRD-SNT"
+??? abstract "FRD-SNT"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-10-08:** Fixed a typo - understood instead of understand.
+        { data-search-exclude }
+
     - **2026-09-13:** Added force to FedRAMP Definitions for clarity.
+        { data-search-exclude }
+
 
 !!! quote ""
     There may exist valid reasons in particular circumstances when the particular action is acceptable or even useful, but the full implications must be understood and carefully weighed. Parties MUST address such rules in their security documentation by explaining their decisions about how they handle such rules.
@@ -1000,9 +1288,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Related Terms Group:** [Force of the Rule](#related-terms-group-force-of-the-rule)
 ## Significant Change
 
-??? abstract "**ID:** FRD-SGC"
+??? abstract "FRD-SGC"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     Has the meaning given in NIST SP 800-37 Rev. 2 which is "a change that is likely to substantively affect the security or privacy posture of a system."
@@ -1015,9 +1307,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** significant change, significant changes
 ## Third-Party Information Resource
 
-??? abstract "**ID:** FRD-TPR"
+??? abstract "FRD-TPR"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     Any information resource that is not entirely included in the Minimum Assessment Scope for the cloud service offering obtaining FedRAMP Certification.
@@ -1028,9 +1324,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** third-party information resource, third-party information resources
 ## Top-Level Administrative Account
 
-??? abstract "**ID:** FRD-TLA"
+??? abstract "FRD-TLA"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     The most privileged account with the highest level of access within a cloud service offering for a customer organization, typically with complete control over all aspects of the cloud service offering, including managing resources, users, access, privileges, and the account itself.
@@ -1044,9 +1344,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** top-level administrative account, top-level administrative accounts
 ## Transformative Change
 
-??? abstract "**ID:** FRD-TRF"
+??? abstract "FRD-TRF"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     The type of significant change that introduces substantive potential security risks that are likely to affect existing risk determinations and must be assessed in depth.
@@ -1060,9 +1364,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** transformative, transformative change, transformative changes
 ## Trust Center
 
-??? abstract "**ID:** FRD-TRC"
+??? abstract "FRD-TRC"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     A secure repository or service used by cloud service providers to store and share FedRAMP Certification Data. Trust centers are the complete and definitive source for FedRAMP Certification Data and must follow the FedRAMP Certification Data Sharing rules to be FedRAMP-compatible.
@@ -1074,9 +1382,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** trust center, trust centers
 ## Validation
 
-??? abstract "**ID:** FRD-VLN"
+??? abstract "FRD-VLN"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     Confirmation through objective evidence that implemented security capabilities and related certification data are suitable for their intended FedRAMP Certification use and support the expected security outcomes for a cloud service offering.
@@ -1090,9 +1402,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** validation, validate, validated
 ## Verification
 
-??? abstract "**ID:** FRD-VRF"
+??? abstract "FRD-VRF"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     Confirmation through objective evidence that specified FedRAMP Practices have been fulfilled for a cloud service offering.
@@ -1106,9 +1422,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** verification, verify, verified
 ## Vulnerability
 
-??? abstract "**ID:** FRD-VUL"
+??? abstract "FRD-VUL"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     Has the meaning given to "security vulnerability" in 6 USC § 650 (25), which is "any attribute of hardware, software, process, or procedure that could enable or facilitate the defeat of [...] management, operational, and technical controls used to protect against an unauthorized effort to adversely affect the confidentiality, integrity, and availability of an information system or its information." This includes gaps in Rev5 Controls and 20x Key Security Indicators, software vulnerabilities, misconfigurations, exposures, weak credentials, insecure services, and all other such potential weaknesses in protection (intentional or unintentional).
@@ -1121,9 +1441,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** vulnerability, vulnerabilities
 ## Vulnerability Detection
 
-??? abstract "**ID:** FRD-VLD"
+??? abstract "FRD-VLD"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     The systematic process of discovering and identifying security vulnerabilities in information resources through assessment, scanning, threat intelligence, vulnerability disclosure mechanisms, bug bounties, supply chain monitoring, and other capabilities. This process includes the initial discovery of a vulnerability's existence and the determination of affected information resources within a cloud service offering.
@@ -1137,9 +1461,13 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Also:** vulnerability detection, detect vulnerabilities, detect, detection, detected
 ## Vulnerability Response
 
-??? abstract "**ID:** FRD-VLR"
+??? abstract "FRD-VLR"
     **Changelog:**
+    { data-search-exclude }
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+        { data-search-exclude }
+
 
 !!! quote ""
     The systematic process of tracking, evaluating, mitigating, monitoring, remediating, assessing exploitation, reporting, and otherwise managing detected vulnerabilities.

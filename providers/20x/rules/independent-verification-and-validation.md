@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 tags:
   - 20x
   - Cloud Service Providers
@@ -43,12 +45,15 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 
 ??? abstract "IVV-CSO-FIA"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-10-13:** Updated control mappings: added ca-2, ca-2.1, ca-2.2, ca-7.1, ca-7.4.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -92,9 +97,11 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 
 ??? abstract "IVV-CSO-SEI"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -113,9 +120,11 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 
 ??? abstract "IVV-CSO-SEE"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -134,9 +143,11 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 
 ??? abstract "IVV-CSO-ICP"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -157,9 +168,11 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 
 ??? abstract "IVV-CSO-DUS"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -174,9 +187,11 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 
 ??? abstract "IVV-CSO-STE"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -191,9 +206,11 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 
 ??? abstract "IVV-CSO-USR"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -212,9 +229,11 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 
 ??? abstract "IVV-CSO-RAA"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -240,9 +259,11 @@ These rules apply to providers for FedRAMP 20x Certifications.
 
 ??? abstract "IVV-CSX-AIA"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 

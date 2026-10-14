@@ -46,12 +46,15 @@ These rules apply to providers for FedRAMP Certifications.
 
 ??? abstract "CMU-CSO-CMD"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-10-13:** Updated control mappings: added au-9.3, cm-3.6, ia-7, sc-28.1, sc-8.1.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -69,15 +72,19 @@ These rules apply to providers for FedRAMP Certifications.
 
 ??? abstract "CMU-CSO-UVM"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-10-13:** Updated control mappings: added ac-18, au-9.3, ia-7, sc-28.1, sc-8.1.
+    { data-search-exclude }
 
 
     - **2026-10-05:** Added a note clarifying that new algorithms in update streams of modules are not included in the scope of updates to  validated cryptographic modules.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -109,9 +116,11 @@ These rules apply to providers for FedRAMP Certifications.
 
 ??? abstract "CMU-CSO-CAT"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 

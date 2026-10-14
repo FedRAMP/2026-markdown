@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 tags:
   - Rev5
   - Cloud Service Providers
@@ -43,9 +45,11 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 ??? abstract "SDR-CSO-FRR"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -70,9 +74,11 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 ??? abstract "SDR-CSO-MTD"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -102,9 +108,11 @@ These rules apply to providers for FedRAMP Rev5 Certifications.
 
 ??? abstract "SDR-CSF-CTF"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 

@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 tags:
   - 20x
   - Rev5
@@ -45,9 +47,11 @@ These rules apply to agencies based on the FedRAMP Authorization Act, OMB M-24-1
 
 ??? abstract "AGU-AGC-AIP"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -60,9 +64,11 @@ These rules apply to agencies based on the FedRAMP Authorization Act, OMB M-24-1
 
 ??? abstract "AGU-AGC-NAA"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -80,9 +86,11 @@ These rules apply to agencies based on the FedRAMP Authorization Act, OMB M-24-1
 
 ??? abstract "AGU-AGC-GRC"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -100,9 +108,11 @@ These rules apply to agencies based on the FedRAMP Authorization Act, OMB M-24-1
 
 ??? abstract "AGU-AGC-NAI"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -123,9 +133,11 @@ These rules apply to agencies based on the FedRAMP Authorization Act, OMB M-24-1
 
 ??? abstract "AGU-AGC-NAR"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -146,9 +158,11 @@ These rules apply to agencies based on the FedRAMP Authorization Act, OMB M-24-1
 
 ??? abstract "AGU-AGC-TPP"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -169,9 +183,11 @@ These rules apply to agencies based on the FedRAMP Authorization Act, OMB M-24-1
 
 ??? abstract "AGU-AGC-WKG"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -184,12 +200,15 @@ These rules apply to agencies based on the FedRAMP Authorization Act, OMB M-24-1
 
 ??? abstract "AGU-AGC-LIA"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-09-13:** Fixed broken reference URL for the Agency Liaison Program.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -205,9 +224,11 @@ These rules apply to agencies based on the FedRAMP Authorization Act, OMB M-24-1
 
 ??? abstract "AGU-AGC-SIN"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -235,9 +256,11 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
 
 ??? abstract "AGU-USE-ABU"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -259,9 +282,11 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
 
 ??? abstract "AGU-USE-RCF"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -276,12 +301,15 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
 
 ??? abstract "AGU-USE-RSG"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-10-13:** Updated control mappings: added cm-10, cm-5, cm-6, ia-11.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -297,9 +325,11 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
 
 ??? abstract "AGU-USE-AFR"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -314,9 +344,11 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
 
 ??? abstract "AGU-USE-NFC"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -337,9 +369,11 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
 
 ??? abstract "AGU-USE-ROR"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -358,9 +392,11 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
 
 ??? abstract "AGU-USE-DSO"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -375,9 +411,11 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
 
 ??? abstract "AGU-USE-NPC"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -394,9 +432,11 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
 
 ??? abstract "AGU-USE-RIR"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -411,9 +451,11 @@ These rules apply when agencies use FedRAMP Certifications to make agency author
 
 ??? abstract "AGU-USE-CLA"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -439,9 +481,11 @@ These rules apply when an agency sponsors a FedRAMP Rev5 Certification after com
 
 ??? abstract "AGU-SPN-MRC"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 

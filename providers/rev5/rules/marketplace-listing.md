@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 tags:
   - Rev5
   - Cloud Service Providers
@@ -43,9 +45,11 @@ These rules apply to providers seeking a listing in the FedRAMP Marketplace.
 
 ??? abstract "MKT-CSO-MLR"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -62,9 +66,11 @@ These rules apply to providers seeking a listing in the FedRAMP Marketplace.
 
 ??? abstract "MKT-CSO-PML"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -93,9 +99,11 @@ FedRAMP allows cloud service providers that are actively preparing to obtain a F
 
 ??? abstract "MKT-IIP-AGU"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -119,9 +127,11 @@ FedRAMP allows cloud service providers that are actively preparing to obtain a F
 
 ??? abstract "MKT-IIP-DCP"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -140,9 +150,11 @@ FedRAMP allows cloud service providers that are actively preparing to obtain a F
 
 ??? abstract "MKT-IIP-DLA"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 

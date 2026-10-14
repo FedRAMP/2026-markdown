@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 tags:
   - Rev5
   - Cloud Service Providers

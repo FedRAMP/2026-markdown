@@ -46,12 +46,15 @@ These rules apply to providers for any type of FedRAMP Certification.
 
 ??? abstract "MAS-CSO-IIR"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-10-13:** Updated control mappings: added cm-8.4, ra-3, si-4.19.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -76,12 +79,15 @@ These rules apply to providers for any type of FedRAMP Certification.
 
 ??? abstract "MAS-CSO-FLO"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-10-13:** Updated control mappings: added ac-4, cm-12, cm-12.1, ra-3, si-4.19.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -103,12 +109,15 @@ These rules apply to providers for any type of FedRAMP Certification.
 
 ??? abstract "MAS-CSO-TPR"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-10-13:** Updated control mappings: added ra-3.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -133,9 +142,11 @@ These rules apply to providers for any type of FedRAMP Certification.
 
 ??? abstract "MAS-CSO-MDI"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -150,9 +161,11 @@ These rules apply to providers for any type of FedRAMP Certification.
 
 ??? abstract "MAS-CSO-SUP"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 

@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 tags:
   - 20x
   - Rev5
@@ -36,9 +38,11 @@ These rules apply to consulting and advisory services seeking a listing in the F
 
 ??? abstract "MKT-CAS-WEB"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -60,12 +64,15 @@ These rules apply to consulting and advisory services seeking a listing in the F
 
 ??? abstract "MKT-CAS-LRQ"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-10-05:** Updated form name.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -80,9 +87,11 @@ These rules apply to consulting and advisory services seeking a listing in the F
 
 ??? abstract "MKT-CAS-RFR"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 

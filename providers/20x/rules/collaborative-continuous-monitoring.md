@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 tags:
   - 20x
   - Cloud Service Providers
@@ -43,15 +45,19 @@ These rules for Ongoing Certification Reports apply to providers with any type o
 
 ??? abstract "CCM-OCR-AVL"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-10-13:** Updated control mappings: added ca-7.
+    { data-search-exclude }
 
 
     - **2026-09-13:** Added (if applicable) to clarify that some of these items are not always required depending on the FedRAMP Certification Type or Class.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -82,9 +88,11 @@ These rules for Ongoing Certification Reports apply to providers with any type o
 
 ??? abstract "CCM-OCR-NRD"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -99,9 +107,11 @@ These rules for Ongoing Certification Reports apply to providers with any type o
 
 ??? abstract "CCM-OCR-FBM"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -120,9 +130,11 @@ These rules for Ongoing Certification Reports apply to providers with any type o
 
 ??? abstract "CCM-OCR-AFS"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -141,9 +153,11 @@ These rules for Ongoing Certification Reports apply to providers with any type o
 
 ??? abstract "CCM-OCR-LSI"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -158,9 +172,11 @@ These rules for Ongoing Certification Reports apply to providers with any type o
 
 ??? abstract "CCM-OCR-SOR"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -179,9 +195,11 @@ These rules for Ongoing Certification Reports apply to providers with any type o
 
 ??? abstract "CCM-OCR-RPS"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -207,12 +225,15 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
 
 ??? abstract "CCM-QTR-MTG"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-10-13:** Updated control mappings: added ca-7.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -248,9 +269,11 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
 
 ??? abstract "CCM-QTR-REG"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -265,9 +288,11 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
 
 ??? abstract "CCM-QTR-NRD"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -282,9 +307,11 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
 
 ??? abstract "CCM-QTR-NID"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -299,9 +326,11 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
 
 ??? abstract "CCM-QTR-SAR"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -316,12 +345,15 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
 
 ??? abstract "CCM-QTR-ACT"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-10-13:** Updated control mappings: added ca-7.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -339,9 +371,11 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
 
 ??? abstract "CCM-QTR-RTR"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -356,9 +390,11 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
 
 ??? abstract "CCM-QTR-RTP"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -377,9 +413,11 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
 
 ??? abstract "CCM-QTR-SRR"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -394,9 +432,11 @@ These rules for Quarterly Reviews apply to providers with any type of FedRAMP Ce
 
 ??? abstract "CCM-QTR-SCR"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 

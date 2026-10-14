@@ -52,9 +52,11 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 ??? abstract "CPO-CSO-OVR"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -87,9 +89,11 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 ??? abstract "CPO-CSO-MTD"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -109,12 +113,15 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 ??? abstract "CPO-CSO-OSA"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-10-13:** Updated control mappings: added ca-2, ca-2.1, ca-2.2, ca-7.1.
+    { data-search-exclude }
 
 
     - **2026-06-25:** Added after official launch to clarify that the provider is required to supply this artifact.
+    { data-search-exclude }
 
 
 
@@ -153,9 +160,11 @@ These rules apply to providers for FedRAMP 20x Certifications.
 
 ??? abstract "CPO-CSX-CPM"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -205,12 +214,15 @@ These rules apply to providers for FedRAMP Rev5 Certifications.
 
 ??? abstract "CPO-CSF-CPM"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-07-14:** Removed reference to class A. All class A certifications are 20x.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 

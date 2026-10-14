@@ -56,9 +56,11 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 
 ??? abstract "FRC-CSO-FCP"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -77,12 +79,15 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 
 ??? abstract "FRC-CSO-PKG"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-25:** Removed dangling mention of Class B from a last-minute merger of rules; apologies for confusion, this rule applies to all classes.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -103,12 +108,15 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 
 ??? abstract "FRC-CSO-JSN"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-10-05:** Clarified expectations for public JSON data to be compatible with standard web frameworks.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -133,9 +141,11 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 
 ??? abstract "FRC-CSO-MRA"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -150,9 +160,11 @@ These rules apply to cloud service providers obtaining and maintaining any FedRA
 
 ??? abstract "FRC-CSO-POP"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -182,9 +194,11 @@ These are specific rules that apply to providers seeking FedRAMP Class A Certifi
 
 ??? abstract "FRC-CLA-ASF"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -203,9 +217,11 @@ These are specific rules that apply to providers seeking FedRAMP Class A Certifi
 
 ??? abstract "FRC-CLA-EAM"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -224,15 +240,19 @@ These are specific rules that apply to providers seeking FedRAMP Class A Certifi
 
 ??? abstract "FRC-CLA-MFR"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-07-14:** Clarified that providers MUST address the Key Security Indicators even if they intend to pursue a Rev 5 Program Certification path in the future.
+    { data-search-exclude }
 
 
     - **2026-07-01:** Removed reference to Independent Verification and Validation: IVV-CSF-AIA (Annual Independent Assessments for Rev5); Removed CDS-CSO-AVR (Availability Reporting) since this rule is defined as SHOULD and included in FRC-CLA-RFR (Recommended FedRAMP Rules for Class A)
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -278,9 +298,11 @@ These are specific rules that apply to providers seeking FedRAMP Class A Certifi
 
 ??? abstract "FRC-CLA-RFR"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -307,9 +329,11 @@ These are specific rules that apply to providers seeking FedRAMP Class A Certifi
 
 ??? abstract "FRC-CLA-OFR"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -334,9 +358,11 @@ These are specific rules that apply to providers seeking FedRAMP Class A Certifi
 
 ??? abstract "FRC-CLA-IVV"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -362,9 +388,11 @@ These rules apply to cloud service providers who have met all other relevant rul
 
 ??? abstract "FRC-APP-MLF"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -382,9 +410,11 @@ These rules apply to cloud service providers who have met all other relevant rul
 
 ??? abstract "FRC-APP-AFC"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -399,9 +429,11 @@ These rules apply to cloud service providers who have met all other relevant rul
 
 ??? abstract "FRC-APP-FCP"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -416,9 +448,11 @@ These rules apply to cloud service providers who have met all other relevant rul
 
 ??? abstract "FRC-APP-FIA"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -451,9 +485,11 @@ These rules apply to cloud service providers who have met all other relevant rul
 
 ??? abstract "FRC-APP-NTP"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -472,9 +508,11 @@ These rules apply to cloud service providers who have met all other relevant rul
 
 ??? abstract "FRC-APP-USA"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -500,9 +538,11 @@ These rules apply to cloud service providers with an Agency Sponsor who have met
 
 ??? abstract "FRC-APS-ATO"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -528,9 +568,11 @@ These rules apply to cloud service providers when changing their FedRAMP Certifi
 
 ??? abstract "FRC-CCL-UCC"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -551,9 +593,11 @@ These rules apply to cloud service providers when changing their FedRAMP Certifi
 
 ??? abstract "FRC-CCL-DCC"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -574,9 +618,11 @@ These rules apply to cloud service providers when changing their FedRAMP Certifi
 
 ??? abstract "FRC-CCL-DNP"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -606,12 +652,15 @@ These rules apply to providers for FedRAMP 20x Certifications.
 
 ??? abstract "FRC-CSX-VVK"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-10-13:** Updated control mappings: added cm-2.2, si-6.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -639,12 +688,15 @@ These rules apply to providers for FedRAMP 20x Certifications.
 
 ??? abstract "FRC-CSX-VVR"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-10-13:** Updated control mappings: added si-6.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -676,9 +728,11 @@ These rules apply to providers for FedRAMP 20x Certifications.
 
 ??? abstract "FRC-CSX-MAS"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -704,9 +758,11 @@ These rules apply to providers for FedRAMP Rev5 Certifications.
 
 ??? abstract "FRC-CSF-BSL"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -1677,9 +1733,11 @@ These rules apply to providers for FedRAMP Rev5 Certifications.
 
 ??? abstract "FRC-CSF-ACP"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -1694,9 +1752,11 @@ These rules apply to providers for FedRAMP Rev5 Certifications.
 
 ??? abstract "FRC-CSF-FFG"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -1709,12 +1769,15 @@ These rules apply to providers for FedRAMP Rev5 Certifications.
 
 ??? abstract "FRC-CSF-RDY"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-10-05:** Adding a missing ing (follow -> following).
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 

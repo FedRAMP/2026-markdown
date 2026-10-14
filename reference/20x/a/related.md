@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 tags:
   - 20x
   - Cloud Service Providers
@@ -24,9 +26,11 @@ The Addressing FedRAMP Communication rules (formerly FedRAMP Security Inbox) ens
 
 ??? abstract "AFC-CSO-CRA"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -45,12 +49,15 @@ The Addressing FedRAMP Communication rules (formerly FedRAMP Security Inbox) ens
 
 ??? abstract "AFC-CSO-INB"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-10-13:** Updated control mappings: added si-5.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -77,9 +84,11 @@ The Addressing FedRAMP Communication rules (formerly FedRAMP Security Inbox) ens
 
 ??? abstract "AFC-CSO-RCV"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -100,12 +109,15 @@ The Certification Data Sharing rules allow providers to store and share FedRAMP 
 
 ??? abstract "CDS-CSO-PUB"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-10-05:** Clarified that logo link must be a viewable web image. Added note recommending the involvement of web-based application engineers.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -145,9 +157,11 @@ The Certification Data Sharing rules allow providers to store and share FedRAMP 
 
 ??? abstract "CDS-CSO-UTC"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -168,9 +182,11 @@ The Certification Data Sharing rules allow providers to store and share FedRAMP 
 
 ??? abstract "CDS-UTC-AAD"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -193,15 +209,19 @@ The Collaborative Continuous Monitoring rules help agencies use shared, current 
 
 ??? abstract "CCM-OCR-AVL"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-10-13:** Updated control mappings: added ca-7.
+    { data-search-exclude }
 
 
     - **2026-09-13:** Added (if applicable) to clarify that some of these items are not always required depending on the FedRAMP Certification Type or Class.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -232,9 +252,11 @@ The Collaborative Continuous Monitoring rules help agencies use shared, current 
 
 ??? abstract "CCM-OCR-NRD"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -253,15 +275,19 @@ The Incident Evaluation and Communication rules explain how providers must commu
 
 ??? abstract "IEC-CSO-EFR"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-10-13:** Updated control mappings: added au-5.2, ir-4.11.
+    { data-search-exclude }
 
 
     - **2026-07-02:** Update terminology from "Response" to "Communication" in FedRAMP Incident Evaluation rules.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -279,12 +305,15 @@ The Incident Evaluation and Communication rules explain how providers must commu
 
 ??? abstract "IEC-CSO-FIR"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-10-13:** Updated control mappings: added ir-5.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -326,9 +355,11 @@ This ruleset explains the expectations for independent verification and validati
 
 ??? abstract "IVV-CSX-AIA"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -348,12 +379,15 @@ The Minimum Assessment Scope rules help providers define assessment boundaries n
 
 ??? abstract "MAS-CSO-IIR"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-10-13:** Updated control mappings: added cm-8.4, ra-3, si-4.19.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -382,12 +416,15 @@ The Vulnerability Detection and Response rules require providers to continuously
 
 ??? abstract "VDR-CSO-DET"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-10-13:** Updated control mappings: added au-5.2, au-6, ca-8, ca-8.1, ca-8.2, ra-5, ra-5.2, ra-5.3, ra-5.4, si-2, si-3, si-4.1, si-4.12, si-4.18, si-4.22, si-5.1.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -418,9 +455,11 @@ The Certification Data Sharing rules allow providers to store and share FedRAMP 
 
 ??? abstract "CDS-CSO-AVR"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -444,12 +483,15 @@ The Certification Package Overview rules outline the expectations for a simple o
 
 ??? abstract "CPO-CSF-CPM"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-07-14:** Removed reference to class A. All class A certifications are 20x.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -472,12 +514,15 @@ The Incident Evaluation and Communication rules explain how providers must commu
 
 ??? abstract "IEC-CSO-IIR"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-10-13:** Updated control mappings: added au-5.2, ir-5.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -524,15 +569,19 @@ The Incident Evaluation and Communication rules explain how providers must commu
 
 ??? abstract "IEC-CSO-OIR"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-10-13:** Updated control mappings: added ir-5.
+    { data-search-exclude }
 
 
     - **2026-09-13:** Removed the extra the in all statements.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 !!! warning "This FRR includes a notification requirement!"
@@ -580,9 +629,11 @@ The Vulnerability Detection and Response rules require providers to continuously
 
 ??? abstract "VDR-TFR-MVX"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -600,9 +651,11 @@ The Vulnerability Detection and Response rules require providers to continuously
 
 ??? abstract "VDR-TFR-PCD"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -620,12 +673,15 @@ The Vulnerability Detection and Response rules require providers to continuously
 
 ??? abstract "VDR-TFR-PDD"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-10-13:** Updated control mappings: added si-4.22, si-7, si-7.1.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -646,9 +702,11 @@ The Vulnerability Detection and Response rules require providers to continuously
 
 ??? abstract "VDR-TFR-PSD"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -666,15 +724,19 @@ The Vulnerability Detection and Response rules require providers to continuously
 
 ??? abstract "VDR-TFR-PVR"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-10-13:** Updated control mappings: added si-2.3.
+    { data-search-exclude }
 
 
     - **2026-07-01:** Added relevent terms and related controls. No change to the requirement.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -709,9 +771,11 @@ The Vulnerability Evaluation and Reporting rules require cloud service providers
 
 ??? abstract "VER-TFR-EVU"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -733,9 +797,11 @@ The Certification Data Sharing rules allow providers to store and share FedRAMP 
 
 ??? abstract "CDS-CSO-PSM"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -759,12 +825,15 @@ The Collaborative Continuous Monitoring rules help agencies use shared, current 
 
 ??? abstract "CCM-QTR-MTG"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-10-13:** Updated control mappings: added ca-7.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -789,15 +858,19 @@ The Cryptographic Module Use rules clarify how providers should select and use c
 
 ??? abstract "CMU-CSO-UVM"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-10-13:** Updated control mappings: added ac-18, au-9.3, ia-7, sc-28.1, sc-8.1.
+    { data-search-exclude }
 
 
     - **2026-10-05:** Added a note clarifying that new algorithms in update streams of modules are not included in the scope of updates to  validated cryptographic modules.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -824,12 +897,15 @@ This ruleset explains the expectations for independent verification and validati
 
 ??? abstract "IVV-CSO-FIA"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-10-13:** Updated control mappings: added ca-2, ca-2.1, ca-2.2, ca-7.1, ca-7.4.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -862,12 +938,15 @@ The Security Decision Record replaced a traditional System Security Plan with a 
 
 ??? abstract "SDR-CSX-KMT"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-10-08:** Changed MUST to SHOULD for Class B, added note, clarified persistent validation status should be included.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -893,9 +972,11 @@ The Vulnerability Evaluation and Reporting rules require cloud service providers
 
 ??? abstract "VER-TFR-IRI"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -911,9 +992,11 @@ The Vulnerability Evaluation and Reporting rules require cloud service providers
 
 ??? abstract "VER-TFR-MRH"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -933,9 +1016,11 @@ The Vulnerability Evaluation and Reporting rules require cloud service providers
 
 ??? abstract "VER-TFR-NRI"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -955,9 +1040,11 @@ The Certification Package Overview rules outline the expectations for a simple o
 
 ??? abstract "CPO-CSO-OVR"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -994,9 +1081,11 @@ The Security Decision Record replaced a traditional System Security Plan with a 
 
 ??? abstract "SDR-CSO-FRR"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 

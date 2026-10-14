@@ -52,9 +52,11 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 ??? abstract "SDR-CSO-FRR"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -79,9 +81,11 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 ??? abstract "SDR-CSO-MTD"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -111,9 +115,11 @@ These rules apply to providers for FedRAMP 20x Certifications.
 
 ??? abstract "SDR-CSX-KSI"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -136,12 +142,15 @@ These rules apply to providers for FedRAMP 20x Certifications.
 
 ??? abstract "SDR-CSX-KMT"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-10-08:** Changed MUST to SHOULD for Class B, added note, clarified persistent validation status should be included.
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
@@ -190,9 +199,11 @@ These rules apply to providers for FedRAMP Rev5 Certifications.
 
 ??? abstract "SDR-CSF-CTF"
     **Changelog:**
+    { data-search-exclude }
 
 
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
 
 
 
