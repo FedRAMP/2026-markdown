@@ -28,11 +28,11 @@ This section of the Consolidated Rules for 2026 contains each complete FedRAMP R
 | CDS | [Certification Data Sharing](../certification-data-sharing.md) | Stable | Subsets: 4<br>Rules: 21 | 2026-10-05 |
 | CMU | [Cryptographic Module Use](../cryptographic-module-use.md) | Stable | Subsets: 1<br>Rules: 3 | 2026-10-13 |
 | CPO | [Certification Package Overview](../certification-package-overview.md) | Stable | Subsets: 3<br>Rules: 5 | 2026-10-13 |
-| FRC | [FedRAMP Certification](../fedramp-certification.md) | Stable | Subsets: 7<br>Rules: 28 | 2026-10-13 |
+| FRC | [FedRAMP Certification](../fedramp-certification.md) | Stable | Subsets: 7<br>Rules: 28 | 2026-11-02 |
 | IEC | [Incident Evaluation and Communication](../incident-evaluation-and-communication.md) | Stable | Subsets: 2<br>Rules: 8 | 2026-10-13 |
 | IVV | [Independent Verification and Validation](../independent-verification-and-validation.md) | Stable | Subsets: 4<br>Rules: 20 | 2026-10-13 |
 | MAS | [Minimum Assessment Scope](../minimum-assessment-scope.md) | Stable | Subsets: 1<br>Rules: 5 | 2026-10-13 |
-| MKT | [Marketplace Listing](../marketplace-listing.md) | Stable | Subsets: 5<br>Rules: 12 | 2026-10-05 |
+| MKT | [Marketplace Listing](../marketplace-listing.md) | Stable | Subsets: 5<br>Rules: 12 | 2026-10-31 |
 | REC | [FedRAMP Recognition of Independent Assessment Services](../fedramp-recognition.md) | Stable | Subsets: 2<br>Rules: 16 | 2026-06-24 |
 | SCG | [Secure Configuration Guide](../secure-configuration-guide.md) | Stable | Subsets: 2<br>Rules: 9 | 2026-10-13 |
 | SCN | [Significant Change Notification](../significant-change-notification.md) | Stable | Subsets: 5<br>Rules: 17 | 2026-10-13 |

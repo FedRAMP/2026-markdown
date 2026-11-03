@@ -69,6 +69,10 @@ These rules apply to providers seeking a listing in the FedRAMP Marketplace.
     { data-search-exclude }
 
 
+    - **2026-10-31:** Corrected the name of the form.
+    { data-search-exclude }
+
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
     { data-search-exclude }
 
@@ -78,7 +82,7 @@ These rules apply to providers seeking a listing in the FedRAMP Marketplace.
 
 
 !!! quote ""
-    Providers [MUST](../../../definitions/#must){ data-preview } notify FedRAMP using the FedRAMP Marketplace Providing Listing Request Form to request a listing in the FedRAMP Marketplace.
+    Providers [MUST](../../../definitions/#must){ data-preview } notify FedRAMP using the FedRAMP Marketplace Provider Listing Request Form to request a listing in the FedRAMP Marketplace.
 
 
     ---

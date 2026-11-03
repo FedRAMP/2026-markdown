@@ -28,11 +28,11 @@ This section contains the FedRAMP Rev5 rulesets with content that applies to Rev
 | CDS | [Certification Data Sharing](certification-data-sharing.md) | Stable | Subsets: 4<br>Rules: 21 | 2026-10-05 |
 | CMU | [Cryptographic Module Use](cryptographic-module-use.md) | Stable | Subsets: 1<br>Rules: 3 | 2026-10-13 |
 | CPO | [Certification Package Overview](certification-package-overview.md) | Stable | Subsets: 2<br>Rules: 4 | 2026-10-13 |
-| FRC | [FedRAMP Certification](fedramp-certification.md) | Stable | Subsets: 5<br>Rules: 19 | 2026-10-05 |
+| FRC | [FedRAMP Certification](fedramp-certification.md) | Stable | Subsets: 5<br>Rules: 19 | 2026-11-02 |
 | IEC | [Incident Evaluation and Communication](incident-evaluation-and-communication.md) | Stable | Subsets: 2<br>Rules: 8 | 2026-10-13 |
 | IVV | [Independent Verification and Validation](independent-verification-and-validation.md) | Stable | Subsets: 3<br>Rules: 19 | 2026-10-13 |
 | MAS | [Minimum Assessment Scope](minimum-assessment-scope.md) | Stable | Subsets: 1<br>Rules: 5 | 2026-10-13 |
-| MKT | [Marketplace Listing](marketplace-listing.md) | Stable | Subsets: 5<br>Rules: 12 | 2026-10-05 |
+| MKT | [Marketplace Listing](marketplace-listing.md) | Stable | Subsets: 5<br>Rules: 12 | 2026-10-31 |
 | SCG | [Secure Configuration Guide](secure-configuration-guide.md) | Stable | Subsets: 2<br>Rules: 9 | 2026-10-13 |
 | SCN | [Significant Change Notification](significant-change-notification.md) | Stable | Subsets: 5<br>Rules: 17 | 2026-10-13 |
 | SDR | [Security Decision Record](security-decision-record.md) | Stable | Subsets: 2<br>Rules: 3 | 2026-06-24 |

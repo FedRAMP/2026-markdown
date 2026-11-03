@@ -369,6 +369,10 @@ These rules apply to cloud service providers when changing their FedRAMP Certifi
     { data-search-exclude }
 
 
+    - **2026-10-31:** Updated wording and added a note to more explicitly clarify that upgrading is obtaining a new FedRAMP Certification.
+    { data-search-exclude }
+
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
     { data-search-exclude }
 
@@ -376,7 +380,7 @@ These rules apply to cloud service providers when changing their FedRAMP Certifi
 
 
 !!! quote ""
-    Providers [MUST](../../../definitions/#must){ data-preview } apply for a new FedRAMP Certification to upgrade their Certification Class; all applicable requirements [MUST](../../../definitions/#must){ data-preview } be met in advance.
+    Providers [MUST](../../../definitions/#must){ data-preview } apply for a new FedRAMP Certification to upgrade their Certification Class; all applicable requirements to obtain the new FedRAMP Certification [MUST](../../../definitions/#must){ data-preview } be met in advance.
 
 
     ---
@@ -385,12 +389,17 @@ These rules apply to cloud service providers when changing their FedRAMP Certifi
 
     - _Upgrade paths include moving from A to B, C, or D; B to C or D; and C to D._
     - _The preferred path is to incrementally update the implementation and assurance commitments within the current Certification Class until the provider has met all requirements for the target Certification Class, then apply for the new Certification Class._
+    - _All applicable CR26 requirements are based on the obtain deadlines in each CR26 ruleset when applying to obtain a new FedRAMP Certification, even if it is an upgrade. FedRAMP may make case-by-case exceptions based on individual circumstances and critical government need, however, so please contact FedRAMP for guidance when planning an upgrade in 2027._
     ---
     **Terms:** [Certification Class](../../../definitions/#certification-class){ data-preview }
 ### Downgrading Certification Class
 
 ??? abstract "FRC-CCL-DCC"
     **Changelog:**
+    { data-search-exclude }
+
+
+    - **2026-11-02:** Fixed a typo in the note to clarify that downgrade should not happen WITHOUT providing advance notification.
     { data-search-exclude }
 
 
@@ -409,7 +418,7 @@ These rules apply to cloud service providers when changing their FedRAMP Certifi
     _**Notes:**_
 
     - _Downgrade paths include moving from D to C, B, or A; C to B or A; or B to A._
-    - _[FRC-CCL-DNP (Downgrade Notification Period)](#downgrade-notification-period){ data-preview } applies - please DO NOT downgrade Certification Class with providing advance notification to all necessary parties!_
+    - _[FRC-CCL-DNP (Downgrade Notification Period)](#downgrade-notification-period){ data-preview } applies - please DO NOT downgrade Certification Class without providing advance notification to all necessary parties!_
     ---
     **Terms:** [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Certification Class](../../../definitions/#certification-class){ data-preview }
 ### Downgrade Notification Period

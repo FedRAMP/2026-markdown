@@ -243,6 +243,10 @@ These are specific rules that apply to providers seeking FedRAMP Class A Certifi
     { data-search-exclude }
 
 
+    - **2026-10-31:** Added SDR-CSX-KSI to list of requirements because folks need a rule that explains how to document the key security indicators!
+    { data-search-exclude }
+
+
     - **2026-07-14:** Clarified that providers MUST address the Key Security Indicators even if they intend to pursue a Rev 5 Program Certification path in the future.
     { data-search-exclude }
 
@@ -276,6 +280,7 @@ These are specific rules that apply to providers seeking FedRAMP Class A Certifi
     1. Collaborative Continuous Monitoring: [CCM-OCR-AVL (Report Availability)](collaborative-continuous-monitoring.md#report-availability){ data-preview }
     1. Collaborative Continuous Monitoring: [CCM-OCR-NRD (Next Report Date)](collaborative-continuous-monitoring.md#next-report-date){ data-preview }
     1. Independent Verification and Validation: [IVV-CSX-AIA (Annual Independent Assessments for 20x)](independent-verification-and-validation.md#annual-independent-assessments-for-20x){ data-preview }
+    1. Security Decision Record: [SDR-CSX-KSI (Key Security Indicators)](security-decision-record.md#key-security-indicators){ data-preview }
     1. Key Security Indicators: [KSI-CMT-LMC (Logging Changes)](key-security-indicators.md#logging-changes){ data-preview }
     1. Key Security Indicators: [KSI-CNA-RNT (Restricting Network Traffic)](key-security-indicators.md#restricting-network-traffic){ data-preview }
     1. Key Security Indicators: [KSI-CED-RAT (Reviewing All Training)](key-security-indicators.md#reviewing-all-training){ data-preview }
@@ -293,11 +298,15 @@ These are specific rules that apply to providers seeking FedRAMP Class A Certifi
     - _In general, for each of these FedRAMP requirements, providers should include a sufficiently detailed summary that reviewers will not need to dig into the related security framework materials to understand the related decisions - just saying "see SOC 2 report" is not particularly helpful._
     - _Information about how the provider addresses the included Key Security Indicators are required to receive a class A certification even if the provider intends to pursue a Rev 5 Program Certification path in the future._
     ---
-    **Terms:** [Artifacts](../definitions/#artifacts){ data-preview }, [Certification Data](../definitions/#certification-data){ data-preview }, [Certification Package](../definitions/#certification-package){ data-preview }, [Certification Path](../definitions/#certification-path){ data-preview }, [Certification Type](../definitions/#certification-type){ data-preview }, [FedRAMP Security Inbox](../definitions/#fedramp-security-inbox){ data-preview }, [Final Incident Report (FIR)](../definitions/#final-incident-report-fir){ data-preview }, [Incident](../definitions/#incident){ data-preview }, [Information Resource](../definitions/#information-resource){ data-preview }, [Initial Incident Report (IIR)](../definitions/#initial-incident-report-iir){ data-preview }, [Ongoing Certification Report (OCR)](../definitions/#ongoing-certification-report-ocr){ data-preview }, [Trust Center](../definitions/#trust-center){ data-preview }, [Validation](../definitions/#validation){ data-preview }, [Verification](../definitions/#verification){ data-preview }, [Vulnerability](../definitions/#vulnerability){ data-preview }, [Vulnerability Detection](../definitions/#vulnerability-detection){ data-preview }, [Vulnerability Response](../definitions/#vulnerability-response){ data-preview }
+    **Terms:** [Artifacts](../definitions/#artifacts){ data-preview }, [Certification Data](../definitions/#certification-data){ data-preview }, [Certification Package](../definitions/#certification-package){ data-preview }, [Certification Path](../definitions/#certification-path){ data-preview }, [Certification Type](../definitions/#certification-type){ data-preview }, [FedRAMP Security Inbox](../definitions/#fedramp-security-inbox){ data-preview }, [Final Incident Report (FIR)](../definitions/#final-incident-report-fir){ data-preview }, [Incident](../definitions/#incident){ data-preview }, [Information Resource](../definitions/#information-resource){ data-preview }, [Initial Incident Report (IIR)](../definitions/#initial-incident-report-iir){ data-preview }, [Minimum Assessment Scope](../definitions/#minimum-assessment-scope){ data-preview }, [Ongoing Certification Report (OCR)](../definitions/#ongoing-certification-report-ocr){ data-preview }, [Security Decision Record (SDR)](../definitions/#security-decision-record-sdr){ data-preview }, [Trust Center](../definitions/#trust-center){ data-preview }, [Validation](../definitions/#validation){ data-preview }, [Verification](../definitions/#verification){ data-preview }, [Vulnerability](../definitions/#vulnerability){ data-preview }, [Vulnerability Detection](../definitions/#vulnerability-detection){ data-preview }, [Vulnerability Response](../definitions/#vulnerability-response){ data-preview }
 ### Recommended FedRAMP Rules for Class A
 
 ??? abstract "FRC-CLA-RFR"
     **Changelog:**
+    { data-search-exclude }
+
+
+    - **2026-10-31:** CPO-CSF-CPM (Certification Package Maintenance for Rev5) was removed.
     { data-search-exclude }
 
 
@@ -311,7 +320,6 @@ These are specific rules that apply to providers seeking FedRAMP Class A Certifi
     Providers seeking a Class A FedRAMP Certification [SHOULD](../definitions/#should){ data-preview } address the following additional recommended FedRAMP Class A rules (if applicable):
 
     1. Certification Data Sharing: [CDS-CSO-AVR (Availability Reporting)](certification-data-sharing.md#availability-reporting){ data-preview }
-    1. Certification Package Overview: [CPO-CSF-CPM (Certification Package Maintenance for Rev5)](certification-package-overview.md#certification-package-maintenance-for-rev5){ data-preview }
     1. Certification Package Overview: [CPO-CSX-CPM (Certification Package Maintenance for 20x)](certification-package-overview.md#certification-package-maintenance-for-20x){ data-preview }
     1. Incident Evaluation and Communication: [IEC-CSO-IIR (Initial Incident Report)](incident-evaluation-and-communication.md#initial-incident-report){ data-preview }
     1. Incident Evaluation and Communication: [IEC-CSO-OIR (Ongoing Incident Reports)](incident-evaluation-and-communication.md#ongoing-incident-reports){ data-preview }
@@ -571,6 +579,10 @@ These rules apply to cloud service providers when changing their FedRAMP Certifi
     { data-search-exclude }
 
 
+    - **2026-10-31:** Updated wording and added a note to more explicitly clarify that upgrading is obtaining a new FedRAMP Certification.
+    { data-search-exclude }
+
+
     - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
     { data-search-exclude }
 
@@ -578,7 +590,7 @@ These rules apply to cloud service providers when changing their FedRAMP Certifi
 
 
 !!! quote ""
-    Providers [MUST](../definitions/#must){ data-preview } apply for a new FedRAMP Certification to upgrade their Certification Class; all applicable requirements [MUST](../definitions/#must){ data-preview } be met in advance.
+    Providers [MUST](../definitions/#must){ data-preview } apply for a new FedRAMP Certification to upgrade their Certification Class; all applicable requirements to obtain the new FedRAMP Certification [MUST](../definitions/#must){ data-preview } be met in advance.
 
 
     ---
@@ -587,12 +599,17 @@ These rules apply to cloud service providers when changing their FedRAMP Certifi
 
     - _Upgrade paths include moving from A to B, C, or D; B to C or D; and C to D._
     - _The preferred path is to incrementally update the implementation and assurance commitments within the current Certification Class until the provider has met all requirements for the target Certification Class, then apply for the new Certification Class._
+    - _All applicable CR26 requirements are based on the obtain deadlines in each CR26 ruleset when applying to obtain a new FedRAMP Certification, even if it is an upgrade. FedRAMP may make case-by-case exceptions based on individual circumstances and critical government need, however, so please contact FedRAMP for guidance when planning an upgrade in 2027._
     ---
     **Terms:** [Certification Class](../definitions/#certification-class){ data-preview }
 ### Downgrading Certification Class
 
 ??? abstract "FRC-CCL-DCC"
     **Changelog:**
+    { data-search-exclude }
+
+
+    - **2026-11-02:** Fixed a typo in the note to clarify that downgrade should not happen WITHOUT providing advance notification.
     { data-search-exclude }
 
 
@@ -611,7 +628,7 @@ These rules apply to cloud service providers when changing their FedRAMP Certifi
     _**Notes:**_
 
     - _Downgrade paths include moving from D to C, B, or A; C to B or A; or B to A._
-    - _[FRC-CCL-DNP (Downgrade Notification Period)](#downgrade-notification-period){ data-preview } applies - please DO NOT downgrade Certification Class with providing advance notification to all necessary parties!_
+    - _[FRC-CCL-DNP (Downgrade Notification Period)](#downgrade-notification-period){ data-preview } applies - please DO NOT downgrade Certification Class without providing advance notification to all necessary parties!_
     ---
     **Terms:** [All Necessary Parties](../definitions/#all-necessary-parties){ data-preview }, [Certification Class](../definitions/#certification-class){ data-preview }
 ### Downgrade Notification Period
@@ -742,7 +759,7 @@ These rules apply to providers for FedRAMP 20x Certifications.
 
 
     ---
-    **Terms:** [Cloud Service Offering](../definitions/#cloud-service-offering){ data-preview }
+    **Terms:** [Cloud Service Offering](../definitions/#cloud-service-offering){ data-preview }, [Minimum Assessment Scope](../definitions/#minimum-assessment-scope){ data-preview }
 ## Rev5-Specific Provider Responsibilities {#rev5-specific-provider-responsibilities}
 
 These rules apply to providers for FedRAMP Rev5 Certifications.

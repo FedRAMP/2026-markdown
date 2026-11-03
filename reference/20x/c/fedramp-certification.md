@@ -391,4 +391,4 @@ These rules apply to providers for FedRAMP 20x Certifications.
 
 
     ---
-    **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }
+    **Terms:** [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Minimum Assessment Scope](../../../definitions/#minimum-assessment-scope){ data-preview }

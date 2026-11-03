@@ -137,7 +137,7 @@ These rules apply to providers for any type of FedRAMP Certification.
     **Related SP 800-53 Controls:** [RA-03](controls/risk-assessment.md#ra-03){ data-preview }
 
     ---
-    **Terms:** [Cloud Service Offering](../definitions/#cloud-service-offering){ data-preview }, [Federal Customer Data](../definitions/#federal-customer-data){ data-preview }, [Information Resource](../definitions/#information-resource){ data-preview }, [Initial Incident Report (IIR)](../definitions/#initial-incident-report-iir){ data-preview }, [Third-Party Information Resource](../definitions/#third-party-information-resource){ data-preview }
+    **Terms:** [Cloud Service Offering](../definitions/#cloud-service-offering){ data-preview }, [Federal Customer Data](../definitions/#federal-customer-data){ data-preview }, [Information Resource](../definitions/#information-resource){ data-preview }, [Initial Incident Report (IIR)](../definitions/#initial-incident-report-iir){ data-preview }, [Minimum Assessment Scope](../definitions/#minimum-assessment-scope){ data-preview }, [Third-Party Information Resource](../definitions/#third-party-information-resource){ data-preview }
 ### Metadata Inclusion
 
 ??? abstract "MAS-CSO-MDI"
@@ -156,7 +156,7 @@ These rules apply to providers for any type of FedRAMP Certification.
 
 
     ---
-    **Terms:** [Federal Customer Data](../definitions/#federal-customer-data){ data-preview }, [Information Resource](../definitions/#information-resource){ data-preview }, [Initial Incident Report (IIR)](../definitions/#initial-incident-report-iir){ data-preview }
+    **Terms:** [Federal Customer Data](../definitions/#federal-customer-data){ data-preview }, [Information Resource](../definitions/#information-resource){ data-preview }, [Initial Incident Report (IIR)](../definitions/#initial-incident-report-iir){ data-preview }, [Minimum Assessment Scope](../definitions/#minimum-assessment-scope){ data-preview }
 ### Supplemental Information
 
 ??? abstract "MAS-CSO-SUP"

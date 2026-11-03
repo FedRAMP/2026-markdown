@@ -408,6 +408,37 @@ The Minimum Assessment Scope rules help providers define assessment boundaries n
 
     ---
     **Terms:** [Certification Package](../../../definitions/#certification-package){ data-preview }, [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Federal Customer Data](../../../definitions/#federal-customer-data){ data-preview }, [Handle](../../../definitions/#handle){ data-preview }, [Information Resource](../../../definitions/#information-resource){ data-preview }, [Likely](../../../definitions/#likely){ data-preview }
+## Mandatory Class A Rules: Security Decision Record (SDR) {#mandatory-class-a-rules-security-decision-record-sdr}
+
+The Security Decision Record replaced a traditional System Security Plan with a persistently maintained, verified, and validated record of the security decisions made by the cloud service provider over the lifecycle of their cloud service offering.
+
+### Key Security Indicators
+
+??? abstract "SDR-CSX-KSI"
+    **Changelog:**
+    { data-search-exclude }
+
+
+    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
+    { data-search-exclude }
+
+
+
+!!! schema "Related JSON Schema: [FedRAMP Security Decision Record Schema](https://fedramp.gov/schemas/fedramp-security-decision-record-schema-2026-06-24.json)"
+
+
+!!! quote ""
+    Providers [MUST](../../../definitions/#must){ data-preview } also include short and simple high-level summaries of at least the following for each applicable Key Security Indicator:
+
+    1. Explanation of measures (and their objectives) that demonstrate the Key Security Indicator, or an explanation of the reason and resulting risk to customers for not having measures available for that Key Security Indicator.
+    1. Explanation of the cycle for any measures that are implemented persistently (if applicable).
+    1. Verification that the measures demonstrate the Key Security Indicator, or that the reason for not having them is accepted.
+    1. Verification that the automation in place is accurate and sufficient to demonstrate appropriate measures for the Key Security Indicator, or that automation is not necessary for each measure.
+    1. Validation that the measures are accurately produced and are in place and working as intended, or that the reason for not having them is valid.
+
+
+    ---
+    **Terms:** [Persistently](../../../definitions/#persistently){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
 ## Mandatory Class A Rules: Vulnerability Detection and Response (VDR) {#mandatory-class-a-rules-vulnerability-detection-and-response-vdr}
 
 The Vulnerability Detection and Response rules require providers to continuously identify, analyze, prioritize, mitigate, and remediate vulnerabilities and related exposures through automated systems. These rules give providers flexibility in implementation while ensuring agencies receive the information needed to support ongoing authorization decisions.
@@ -475,37 +506,6 @@ The Certification Data Sharing rules allow providers to store and share FedRAMP 
 
     ---
     **Terms:** [All Necessary Parties](../../../definitions/#all-necessary-parties){ data-preview }, [Cloud Service Offering](../../../definitions/#cloud-service-offering){ data-preview }, [Incident](../../../definitions/#incident){ data-preview }, [Machine-Readable](../../../definitions/#machine-readable){ data-preview }
-## Recommended Class A Rules: Certification Package Overview (CPO) {#recommended-class-a-rules-certification-package-overview-cpo}
-
-The Certification Package Overview rules outline the expectations for a simple overview of the cloud service offering that must be included within a FedRAMP Certification Package. This overview replaces the historically required base System Security Plan for FedRAMP Rev5 and is intended to provide a clear, concise, and consistent summary of the offering and the information included in the package to help customers understand the offering at a high level.
-
-### Certification Package Maintenance for Rev5
-
-??? abstract "CPO-CSF-CPM"
-    **Changelog:**
-    { data-search-exclude }
-
-
-    - **2026-07-14:** Removed reference to class A. All class A certifications are 20x.
-    { data-search-exclude }
-
-
-    - **2026-06-24:** Official launch of the FedRAMP Consolidated Rules for 2026.
-    { data-search-exclude }
-
-
-
-
-!!! quote ""
-
-    ---
-
-    _**Notes:**_
-
-    - _This maximum timeframe for Rev5 is the absolutely poorest worst case for horrible customer experience and is based on legacy FedRAMP Rev5 allowing providers to leave their packages unmaintained for up to a year. Rev5 providers should maintain their packages far more frequently than this requirement to ensure potential customers have access to up-to-date information, updating it at least after every transformative significant change._
-    - _FedRAMP 20x Certifications expect providers to maintain their FedRAMP Certification Packages as changes occur to ensure they are never out of date._
-    ---
-    **Terms:** [Certification Package](../../../definitions/#certification-package){ data-preview }, [Persistently](../../../definitions/#persistently){ data-preview }, [Significant Change](../../../definitions/#significant-change){ data-preview }, [Transformative Change](../../../definitions/#transformative-change){ data-preview }
 ## Recommended Class A Rules: Incident Evaluation and Communication (IEC) {#recommended-class-a-rules-incident-evaluation-and-communication-iec}
 
 The Incident Evaluation and Communication rules explain how providers must communicate incident information to FedRAMP and government customers when they are affected by an incident or likely to be affected by an incident.
@@ -1072,7 +1072,7 @@ The Certification Package Overview rules outline the expectations for a simple o
     - _For FedRAMP Rev5, the Certification Package Overview replaces the historically required System Security Plan (not including appendices)._
     - _This list of rules may not apply to all FedRAMP Certification Classes or Types - if a rule does not apply then the information is not required._
     ---
-    **Terms:** [Certification Class](../../../definitions/#certification-class){ data-preview }, [Certification Data](../../../definitions/#certification-data){ data-preview }, [Certification Package](../../../definitions/#certification-package){ data-preview }, [Information Resource](../../../definitions/#information-resource){ data-preview }, [Initial Incident Report (IIR)](../../../definitions/#initial-incident-report-iir){ data-preview }, [Security Category](../../../definitions/#security-category){ data-preview }, [Third-Party Information Resource](../../../definitions/#third-party-information-resource){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
+    **Terms:** [Certification Class](../../../definitions/#certification-class){ data-preview }, [Certification Data](../../../definitions/#certification-data){ data-preview }, [Certification Package](../../../definitions/#certification-package){ data-preview }, [Information Resource](../../../definitions/#information-resource){ data-preview }, [Initial Incident Report (IIR)](../../../definitions/#initial-incident-report-iir){ data-preview }, [Minimum Assessment Scope](../../../definitions/#minimum-assessment-scope){ data-preview }, [Security Category](../../../definitions/#security-category){ data-preview }, [Third-Party Information Resource](../../../definitions/#third-party-information-resource){ data-preview }, [Validation](../../../definitions/#validation){ data-preview }, [Verification](../../../definitions/#verification){ data-preview }
 ## Other Related Rules: Security Decision Record (SDR) {#other-related-rules-security-decision-record-sdr}
 
 The Security Decision Record replaced a traditional System Security Plan with a persistently maintained, verified, and validated record of the security decisions made by the cloud service provider over the lifecycle of their cloud service offering.

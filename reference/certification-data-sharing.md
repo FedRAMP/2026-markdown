@@ -117,7 +117,7 @@ These rules apply to providers for FedRAMP Certifications of any type.
 
 
     ---
-    **Terms:** [Certification Data](../definitions/#certification-data){ data-preview }, [Cloud Service Offering](../definitions/#cloud-service-offering){ data-preview }, [Security Category](../definitions/#security-category){ data-preview }
+    **Terms:** [Certification Data](../definitions/#certification-data){ data-preview }, [Cloud Service Offering](../definitions/#cloud-service-offering){ data-preview }, [Minimum Assessment Scope](../definitions/#minimum-assessment-scope){ data-preview }, [Security Category](../definitions/#security-category){ data-preview }
 ### Always Include FedRAMP ID
 
 ??? abstract "CDS-CSO-FID"

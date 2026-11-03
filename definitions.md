@@ -269,7 +269,7 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
 
     _**Note:** In FedRAMP documentation, certification package always refers to a FedRAMP Certification Package unless otherwise specified._
 
-    **Reference:** [44 USC § 3607 (b)(8)](https://fedramp.gov/docs/authority/law/#b-additional-definitions)
+    **Reference:** [44 USC § 3607 (b)(8)](https://fedramp.gov/2026/authority/law/#b-additional-definitions)
 
     **Related Terms Group:** [Certification](#related-terms-group-certification)
 
@@ -464,8 +464,6 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     A report that is produced by FedRAMP documenting the results of a FedRAMP Certification assessment. This report is typically produced after the initial FedRAMP Certification assessment on the Program Certification Path and updated as necessary during ongoing FedRAMP Certification, but may be produced at any time by FedRAMP as part of ongoing FedRAMP Certification activities for any cloud service offering (such as corrective action). Cloud service offerings must include these reports in their FedRAMP Certification Package.
 
 
-    **Reference:** [FedRAMP Certification Act (44 USC § 3608)](https://www.fedramp.gov/docs/authority/law/#sec-3608-federal-risk-and-authorization-management-program)
-
     **Related Terms Group:** [Certification](#related-terms-group-certification)
 
     **Also:** FedRAMP Certification Report, FedRAMP certification report, certification report
@@ -485,8 +483,6 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     ---
 
     _**Note:** FedRAMP uses "FedRAMP Certified" as the current program term for cloud service offerings that satisfy the statutory concept of FedRAMP authorization._
-
-    **Reference:** [FedRAMP Certification Act (44 USC § 3608)](https://www.fedramp.gov/docs/authority/law/#sec-3608-federal-risk-and-authorization-management-program)
 
     **Related Terms Group:** [Certification](#related-terms-group-certification)
 
@@ -881,6 +877,24 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     **Related Terms Group:** [Customer Effect](#related-terms-group-customer-effect)
 
     **Also:** minimal customer effect, minimal customer effects
+## Minimum Assessment Scope
+
+??? abstract "FRD-MAS"
+    **Changelog:**
+    { data-search-exclude }
+
+    - **2026-10-31:** Added to support the explanation in the rule.
+        { data-search-exclude }
+
+
+!!! quote ""
+    The boundary of the assessment and FedRAMP Certification for the cloud service offering, which effectively defines the cloud service offering itself for the purposes of a FedRAMP Certification Package; anything that is not entirely included in the Minimum Assessment Scope is a third-party information resource.
+
+    ---
+
+    _**Note:** The Minimum Assessment Scope ruleset explains how to determine the Minimum Assessment Scope for a cloud service offering._
+
+    **Also:** minimum assessment scope, MAS
 ## MUST
 
 ??? abstract "FRD-MST"
@@ -1397,8 +1411,6 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
 
     _**Note:** This adapts the ISO conformity assessment concept of validation to the FedRAMP Certification context._
 
-    **Reference:** [ISO/IEC 27001:2022](https://www.iso.org/standard/27001)
-
     **Also:** validation, validate, validated
 ## Verification
 
@@ -1416,8 +1428,6 @@ FedRAMP Definitions establish a shared understanding for terms when the plain-la
     ---
 
     _**Note:** This adapts the ISO conformity assessment concept of verification to the FedRAMP Certification context._
-
-    **Reference:** [ISO/IEC 27001:2022](https://www.iso.org/standard/27001)
 
     **Also:** verification, verify, verified
 ## Vulnerability
